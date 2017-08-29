@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( HttpServletRequest org.springframework.web.servlet.theme.HttpServletRequest ) { return getDefaultThemeName ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( HttpServletRequest org.springframework.web.servlet.theme.HttpServletRequest , HttpServletResponse org.springframework.web.servlet.theme.HttpServletResponse , java.lang.String java.lang.String ) { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>

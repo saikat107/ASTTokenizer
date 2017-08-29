@@ -1,0 +1,3 @@
+<METHOD_START> @ Test public void void ( ) { new MapReduceOptions ( ) . finalizeFunction ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { MapReduceOptions org.springframework.data.mongodb.core.mapreduce.MapReduceOptions = new MapReduceOptions ( ) ; org.springframework.data.mongodb.core.mapreduce.MapReduceOptions . limit ( NUMBER ) ; assertThat ( org.springframework.data.mongodb.core.mapreduce.MapReduceOptions . getOptionsObject ( ) , isBsonObject ( ) . containing ( STRING , NUMBER ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( new MapReduceOptions ( ) . getOptionsObject ( ) , isBsonObject ( ) . notContaining ( STRING ) ) ; }  <METHOD_END>

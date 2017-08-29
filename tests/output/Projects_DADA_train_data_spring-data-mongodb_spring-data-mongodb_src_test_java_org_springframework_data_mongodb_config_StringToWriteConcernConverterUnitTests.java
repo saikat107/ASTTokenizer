@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( org.springframework.data.mongodb.config.StringToWriteConcernConverter . convert ( STRING ) , is ( WriteConcern . SAFE ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( org.springframework.data.mongodb.config.StringToWriteConcernConverter . convert ( STRING ) , is ( new WriteConcern ( STRING ) ) ) ; }  <METHOD_END>

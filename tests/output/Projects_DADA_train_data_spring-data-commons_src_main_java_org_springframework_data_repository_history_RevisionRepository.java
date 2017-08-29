@@ -1,0 +1,4 @@
+<METHOD_START> java.util.Optional<org.springframework.data.repository.history.Revision<N,T>> < Revision < N , T > > java.util.Optional<org.springframework.data.repository.history.Revision<N,T>> ( ID ID );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.history.Revisions<N,T> < N , T > org.springframework.data.repository.history.Revisions<N,T> ( ID ID );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.history.Page<org.springframework.data.repository.history.Revision<N,T>> < Revision < N , T > > org.springframework.data.repository.history.Page<org.springframework.data.repository.history.Revision<N,T>> ( ID ID , Pageable org.springframework.data.repository.history.Pageable );  <METHOD_END>
+<METHOD_START> java.util.Optional<org.springframework.data.repository.history.Revision<N,T>> < Revision < N , T > > java.util.Optional<org.springframework.data.repository.history.Revision<N,T>> ( ID ID , N N );  <METHOD_END>

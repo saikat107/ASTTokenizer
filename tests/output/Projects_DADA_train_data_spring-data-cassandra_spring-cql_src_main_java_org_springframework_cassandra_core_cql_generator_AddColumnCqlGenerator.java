@@ -1,0 +1,2 @@
+<METHOD_START> public void ( AddColumnSpecification org.springframework.cassandra.core.cql.generator.AddColumnSpecification ) { super( org.springframework.cassandra.core.cql.generator.AddColumnSpecification ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.StringBuilder java.lang.StringBuilder ( java.lang.StringBuilder java.lang.StringBuilder ) { return noNull ( java.lang.StringBuilder ) . append ( STRING ) . append ( spec ( ) . getName ( ) ) . append ( ' ' ) . append ( spec ( ) . getType ( ) . asFunctionParameterString ( ) ) ; }  <METHOD_END>

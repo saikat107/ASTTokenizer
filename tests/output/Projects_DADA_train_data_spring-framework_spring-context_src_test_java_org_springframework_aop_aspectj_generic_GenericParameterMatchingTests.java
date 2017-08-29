@@ -1,0 +1,15 @@
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) @ org . org.junit . org.junit public void void ( ) { ClassPathXmlApplicationContext org.springframework.aop.aspectj.generic.ClassPathXmlApplicationContext = new ClassPathXmlApplicationContext ( java.lang.Class<? extends org.springframework.aop.aspectj.generic.GenericParameterMatchingTests> ( ) . java.lang.String ( ) + STRING , java.lang.Class<? extends org.springframework.aop.aspectj.generic.GenericParameterMatchingTests> ( ) ) ; org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.CounterAspect = ( org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.CounterAspect ) org.springframework.aop.aspectj.generic.ClassPathXmlApplicationContext . getBean ( STRING ) ; org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.CounterAspect . void ( ) ; org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.GenericInterface<java.lang.String> = ( org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.GenericInterface<java.lang.String> < java.lang.String > ) org.springframework.aop.aspectj.generic.ClassPathXmlApplicationContext . getBean ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.GenericInterface<java.lang.String> . void ( STRING ) ; assertEquals ( NUMBER , org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.CounterAspect . int ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.GenericInterface<java.lang.String> . void ( null ) ; assertEquals ( NUMBER , org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.CounterAspect . int ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.GenericInterface<java.lang.String> . void ( null ) ; assertEquals ( NUMBER , org.springframework.aop.aspectj.generic.GenericParameterMatchingTests.CounterAspect . int ) ; }  <METHOD_END>
+<METHOD_START> public void void ( T T );  <METHOD_END>
+<METHOD_START> public void void ( java.util.Collection<T> < T > java.util.Collection<T> );  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( T T ) {		}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.util.Collection<T> < T > java.util.Collection<T> ) {		}  <METHOD_END>
+<METHOD_START> public void void ( ) { int = NUMBER ; int = NUMBER ; int = NUMBER ; }  <METHOD_END>
+<METHOD_START> @ Pointcut ( STRING ) public void void ( ) {}  <METHOD_END>
+<METHOD_START> @ Pointcut ( STRING ) public void void ( ) {}  <METHOD_END>
+<METHOD_START> @ Pointcut ( STRING ) public void void ( ) {}  <METHOD_END>
+<METHOD_START> @ Before ( STRING ) public void void ( ) { int ++ ; }  <METHOD_END>
+<METHOD_START> @ Before ( STRING ) public void void ( ) { int ++ ; }  <METHOD_END>
+<METHOD_START> @ Before ( STRING ) public void void ( ) { int ++ ; }  <METHOD_END>

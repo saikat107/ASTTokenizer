@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected org.springframework.integration.json.JsonMessageParser<?> < ? > org.springframework.integration.json.JsonMessageParser<?> ( ) { return new Jackson2JsonMessageParser ( ) ; }  <METHOD_END>

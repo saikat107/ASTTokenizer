@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . org.springframework.boot.test.autoconfigure.properties.Environment . getProperty ( STRING ) ) . isEqualTo ( STRING ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> public void void ( java.lang.reflect.Method java.lang.reflect.Method , java.lang.Object [] java.lang.Object[] , java.lang.Object java.lang.Object , java.io.IOException java.io.IOException ) { count ( STRING ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.rmi.RemoteException java.rmi.RemoteException ) throws java.lang.Throwable { count ( STRING ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.reflect.Method java.lang.reflect.Method , java.lang.Exception java.lang.Exception ) throws java.lang.Throwable { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>

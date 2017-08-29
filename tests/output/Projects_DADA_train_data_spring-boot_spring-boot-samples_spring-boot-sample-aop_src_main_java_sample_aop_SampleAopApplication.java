@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String ... java.lang.String[] ) { java.lang.System . java.io.PrintStream . void ( this . sample.aop.HelloWorldService . getHelloMessage ( ) ) ; }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) throws java.lang.Exception { SpringApplication . run ( sample.aop.SampleAopApplication .class , java.lang.String[] ) ; }  <METHOD_END>

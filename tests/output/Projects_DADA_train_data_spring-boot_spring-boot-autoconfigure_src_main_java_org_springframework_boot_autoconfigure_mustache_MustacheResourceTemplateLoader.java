@@ -1,0 +1,5 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { super(); this . java.lang.String = java.lang.String ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ResourceLoader org.springframework.boot.autoconfigure.mustache.ResourceLoader ) { this . org.springframework.boot.autoconfigure.mustache.ResourceLoader = org.springframework.boot.autoconfigure.mustache.ResourceLoader ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.io.Reader java.io.Reader ( java.lang.String java.lang.String ) throws java.lang.Exception { return new java.io.InputStreamReader ( this . org.springframework.boot.autoconfigure.mustache.ResourceLoader . getResource ( this . java.lang.String + java.lang.String + this . java.lang.String ) . getInputStream ( ) , this . java.lang.String ) ; }  <METHOD_END>

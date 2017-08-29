@@ -1,0 +1,6 @@
+<METHOD_START> public void ( HikariDataSource org.springframework.boot.autoconfigure.jdbc.metadata.HikariDataSource ) { super( org.springframework.boot.autoconfigure.jdbc.metadata.HikariDataSource ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Integer java.lang.Integer ( ) { try { return org.springframework.boot.autoconfigure.jdbc.metadata.HikariPool ( ) . getActiveConnections ( ) ; } catch ( java.lang.Exception java.lang.Exception ) { return null ; } }  <METHOD_END>
+<METHOD_START> private org.springframework.boot.autoconfigure.jdbc.metadata.HikariPool org.springframework.boot.autoconfigure.jdbc.metadata.HikariPool ( ) { return ( HikariPool ) new DirectFieldAccessor ( getDataSource ( ) ) . getPropertyValue ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Integer java.lang.Integer ( ) { return getDataSource ( ) . getMaximumPoolSize ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Integer java.lang.Integer ( ) { return getDataSource ( ) . getMinimumIdle ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return getDataSource ( ) . getConnectionTestQuery ( ) ; }  <METHOD_END>

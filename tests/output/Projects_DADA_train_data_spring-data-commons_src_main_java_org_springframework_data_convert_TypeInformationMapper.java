@@ -1,0 +1,2 @@
+<METHOD_START> java.util.Optional<org.springframework.data.convert.TypeInformation<?>> < TypeInformation < ? > > java.util.Optional<org.springframework.data.convert.TypeInformation<?>> ( Alias org.springframework.data.convert.Alias );  <METHOD_END>
+<METHOD_START> org.springframework.data.convert.Alias org.springframework.data.convert.Alias ( TypeInformation < ? > org.springframework.data.convert.TypeInformation<?> );  <METHOD_END>

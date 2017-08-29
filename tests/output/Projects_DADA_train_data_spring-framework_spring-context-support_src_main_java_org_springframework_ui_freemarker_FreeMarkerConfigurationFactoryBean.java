@@ -1,0 +1,4 @@
+<METHOD_START> @ java.lang.Override public void void ( ) java.io.IOException , org.springframework.ui.freemarker.TemplateException { this . org.springframework.ui.freemarker.Configuration = createConfiguration ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.ui.freemarker.Configuration org.springframework.ui.freemarker.Configuration ( ) { return this . org.springframework.ui.freemarker.Configuration ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<? extends org.springframework.ui.freemarker.Configuration> < ? extends Configuration > java.lang.Class<? extends org.springframework.ui.freemarker.Configuration> ( ) { return Configuration .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public synchronized java.lang.Object java.lang.Object ( ) org.springframework.aop.target.BeansException { if ( this . java.lang.Object == null ) { this . java.lang.Object = getBeanFactory ( ) . getBean ( getTargetBeanName ( ) ) ; void ( this . java.lang.Object ) ; } return this . java.lang.Object ; }  <METHOD_END>
+<METHOD_START> protected void void ( java.lang.Object java.lang.Object ) {	}  <METHOD_END>

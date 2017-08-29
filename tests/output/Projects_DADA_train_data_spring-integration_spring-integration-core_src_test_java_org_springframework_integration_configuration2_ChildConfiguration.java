@@ -1,0 +1,3 @@
+<METHOD_START> @ Bean public org.springframework.integration.configuration2.MessageChannel org.springframework.integration.configuration2.MessageChannel ( ) { return new DirectChannel ( ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.integration.configuration2.MessageChannel org.springframework.integration.configuration2.MessageChannel ( ) { return new DirectChannel ( ) ; }  <METHOD_END>
+<METHOD_START> @ Bean @ GlobalChannelInterceptor ( patterns = STRING ) public org.springframework.integration.configuration2.WireTap org.springframework.integration.configuration2.WireTap ( ) { return new WireTap ( this . org.springframework.integration.configuration2.MessageChannel ( ) ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> public void ( MongoTemplate org.springframework.boot.test.autoconfigure.data.mongo.MongoTemplate ) { this . org.springframework.boot.test.autoconfigure.data.mongo.MongoTemplate = org.springframework.boot.test.autoconfigure.data.mongo.MongoTemplate ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( java.lang.String java.lang.String ) { return this . org.springframework.boot.test.autoconfigure.data.mongo.MongoTemplate . collectionExists ( java.lang.String ) ; }  <METHOD_END>

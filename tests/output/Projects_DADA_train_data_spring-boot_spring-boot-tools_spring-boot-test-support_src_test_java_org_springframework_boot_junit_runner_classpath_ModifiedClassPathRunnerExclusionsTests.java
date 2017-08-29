@@ -1,0 +1,3 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( java.lang.Class<? extends org.springframework.boot.junit.runner.classpath.ModifiedClassPathRunnerExclusionsTests> ( ) . java.lang.ClassLoader ( ) . java.net.URL ( java.lang.String ) ) . isNull ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( java.lang.Thread . java.lang.Thread ( ) . java.lang.ClassLoader ( ) . java.net.URL ( java.lang.String ) ) . isNull ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { this . org.springframework.boot.junit.runner.classpath.ExpectedException . expect ( isA ( java.lang.IllegalStateException .class ) ) ; throw new java.lang.IllegalStateException ( ) ; }  <METHOD_END>

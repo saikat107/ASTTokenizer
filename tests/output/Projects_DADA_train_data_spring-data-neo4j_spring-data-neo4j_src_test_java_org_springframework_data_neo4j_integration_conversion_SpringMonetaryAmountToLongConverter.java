@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.lang.Long java.lang.Long ( MonetaryAmount org.springframework.data.neo4j.integration.conversion.MonetaryAmount ) { return org.springframework.data.neo4j.integration.conversion.MonetaryAmount != null ? ( long ) org.springframework.data.neo4j.integration.conversion.MonetaryAmount . getAmountAsSubUnits ( ) : null ; }  <METHOD_END>

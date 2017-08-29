@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { java.lang.Object java.lang.Object = org.springframework.integration.channel.config.ApplicationContext . getBean ( STRING ) ; assertNotNull ( java.lang.Object ) ; assertEquals ( DirectChannel .class , java.lang.Object . java.lang.Class<? extends java.lang.Object> ( ) ) ; }  <METHOD_END>

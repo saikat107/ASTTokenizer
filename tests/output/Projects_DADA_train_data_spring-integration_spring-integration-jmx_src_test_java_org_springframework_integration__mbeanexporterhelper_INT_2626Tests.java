@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { new ClassPathXmlApplicationContext ( STRING , this . java.lang.Class<? extends org.springframework.integration_.mbeanexporterhelper.INT_2626Tests> ( ) ) . close ( ) ; }  <METHOD_END>

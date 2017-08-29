@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public java.sql.Connection java.sql.Connection ( ) java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.sql.Connection java.sql.Connection ( java.lang.String java.lang.String , java.lang.String java.lang.String ) throws java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( ) ; }  <METHOD_END>

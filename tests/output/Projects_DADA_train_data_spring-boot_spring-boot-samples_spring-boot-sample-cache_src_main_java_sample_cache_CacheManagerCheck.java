@@ -1,0 +1,2 @@
+<METHOD_START> public void ( CacheManager sample.cache.CacheManager ) { this . sample.cache.CacheManager = sample.cache.CacheManager ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String ... java.lang.String[] ) throws java.lang.Exception { sample.cache.Logger . info ( STRING + STRING + STRING + this . sample.cache.CacheManager . getClass ( ) . getName ( ) + STRING + STRING ) ; }  <METHOD_END>

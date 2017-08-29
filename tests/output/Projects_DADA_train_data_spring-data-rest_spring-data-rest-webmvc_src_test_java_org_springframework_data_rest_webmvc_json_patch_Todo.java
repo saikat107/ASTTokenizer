@@ -1,0 +1,1 @@
+<METHOD_START> public void ( java.lang.Long java.lang.Long , java.lang.String java.lang.String , boolean boolean ) { this . java.lang.Long = java.lang.Long ; this . java.lang.String = java.lang.String ; this . boolean = boolean ; }  <METHOD_END>

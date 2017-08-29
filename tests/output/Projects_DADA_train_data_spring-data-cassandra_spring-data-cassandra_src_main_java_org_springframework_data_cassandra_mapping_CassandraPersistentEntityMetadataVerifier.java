@@ -1,0 +1,1 @@
+<METHOD_START> void void ( CassandraPersistentEntity < ? > org.springframework.data.cassandra.mapping.CassandraPersistentEntity<?> ) throws org.springframework.data.cassandra.mapping.MappingException ;  <METHOD_END>

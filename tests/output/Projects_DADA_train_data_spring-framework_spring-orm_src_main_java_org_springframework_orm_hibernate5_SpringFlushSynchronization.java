@@ -1,0 +1,4 @@
+<METHOD_START> public void ( Session org.springframework.orm.hibernate5.Session ) { this . org.springframework.orm.hibernate5.Session = org.springframework.orm.hibernate5.Session ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { SessionFactoryUtils . flush ( this . org.springframework.orm.hibernate5.Session , false ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { return ( java.lang.Object instanceof org.springframework.orm.hibernate5.SpringFlushSynchronization && this . org.springframework.orm.hibernate5.Session == ( ( org.springframework.orm.hibernate5.SpringFlushSynchronization ) java.lang.Object ) . org.springframework.orm.hibernate5.Session ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return this . org.springframework.orm.hibernate5.Session . hashCode ( ) ; }  <METHOD_END>

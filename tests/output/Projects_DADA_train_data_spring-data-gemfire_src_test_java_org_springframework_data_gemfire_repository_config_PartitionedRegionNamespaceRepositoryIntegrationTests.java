@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected org.springframework.data.gemfire.repository.config.PersonRepository org.springframework.data.gemfire.repository.config.PersonRepository ( Regions org.springframework.data.gemfire.repository.config.Regions ) { return org.springframework.data.gemfire.repository.config.PersonRepository ; }  <METHOD_END>

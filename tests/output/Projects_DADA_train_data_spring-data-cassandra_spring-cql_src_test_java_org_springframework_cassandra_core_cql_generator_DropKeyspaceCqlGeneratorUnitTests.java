@@ -1,0 +1,4 @@
+<METHOD_START> public static void void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { assertThat ( java.lang.String . boolean ( STRING + java.lang.String + STRING ) ) . isTrue ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.cassandra.core.cql.generator.DropKeyspaceSpecification org.springframework.cassandra.core.cql.generator.DropKeyspaceSpecification ( ) { return DropKeyspaceSpecification . dropKeyspace ( ) . name ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.cassandra.core.cql.generator.DropKeyspaceCqlGenerator org.springframework.cassandra.core.cql.generator.DropKeyspaceCqlGenerator ( ) { return new DropKeyspaceCqlGenerator ( specification ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { prepare ( ) ; void ( java.lang.String , cql ) ; }  <METHOD_END>

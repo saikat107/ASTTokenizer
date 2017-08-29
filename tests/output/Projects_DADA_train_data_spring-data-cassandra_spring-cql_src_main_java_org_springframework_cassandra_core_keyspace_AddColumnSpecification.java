@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , DataType org.springframework.cassandra.core.keyspace.DataType ) { super( java.lang.String , org.springframework.cassandra.core.keyspace.DataType ); }  <METHOD_END>
+<METHOD_START> public void ( CqlIdentifier org.springframework.cassandra.core.keyspace.CqlIdentifier , DataType org.springframework.cassandra.core.keyspace.DataType ) { super( org.springframework.cassandra.core.keyspace.CqlIdentifier , org.springframework.cassandra.core.keyspace.DataType ); }  <METHOD_END>

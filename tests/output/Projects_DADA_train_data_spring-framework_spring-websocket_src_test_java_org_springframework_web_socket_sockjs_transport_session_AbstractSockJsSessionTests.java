@@ -1,0 +1,6 @@
+<METHOD_START> @ Before public void void ( ) { this . org.springframework.web.socket.sockjs.transport.session.WebSocketHandler = mock ( WebSocketHandler .class ) ; this . org.springframework.web.socket.sockjs.transport.session.TaskScheduler = mock ( TaskScheduler .class ) ; this . org.springframework.web.socket.sockjs.transport.session.StubSockJsServiceConfig = new StubSockJsServiceConfig ( ) ; this . org.springframework.web.socket.sockjs.transport.session.StubSockJsServiceConfig . setTaskScheduler ( this . org.springframework.web.socket.sockjs.transport.session.TaskScheduler ) ; this . S = S ( ) ; }  <METHOD_END>
+<METHOD_START> protected abstract S S ( )  <METHOD_END>
+<METHOD_START> protected void void ( ) { void ( true , false , false ) ; }  <METHOD_END>
+<METHOD_START> protected void void ( ) { void ( false , true , false ) ; }  <METHOD_END>
+<METHOD_START> protected void void ( ) { void ( false , false , true ) ; }  <METHOD_END>
+<METHOD_START> private void void ( boolean boolean , boolean boolean , boolean boolean ) { assertEquals ( boolean , this . S . isNew ( ) ) ; assertEquals ( boolean , this . S . isOpen ( ) ) ; assertEquals ( boolean , this . S . isClosed ( ) ) ; }  <METHOD_END>

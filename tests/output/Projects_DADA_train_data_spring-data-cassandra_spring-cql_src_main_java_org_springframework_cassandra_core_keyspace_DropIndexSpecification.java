@@ -1,0 +1,1 @@
+<METHOD_START> public static org.springframework.cassandra.core.keyspace.DropIndexSpecification org.springframework.cassandra.core.keyspace.DropIndexSpecification ( ) { return new org.springframework.cassandra.core.keyspace.DropIndexSpecification ( ) ; }  <METHOD_END>

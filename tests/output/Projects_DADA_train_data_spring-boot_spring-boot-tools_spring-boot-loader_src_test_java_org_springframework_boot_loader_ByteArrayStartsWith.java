@@ -1,0 +1,3 @@
+<METHOD_START> public void ( byte [] byte[] ) { this . byte[] = byte[] ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Description org.springframework.boot.loader.Description ) { org.springframework.boot.loader.Description . appendText ( STRING ) . appendValue ( this . byte[] ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected boolean boolean ( byte [] byte[] ) { if ( byte[] . int < this . byte[] . int ) { return false ; } for ( int int = NUMBER ; int < this . byte[] . int ; int ++ ) { if ( byte[] [ int ] != this . byte[] [ int ] ) { return false ; } } return true ; }  <METHOD_END>

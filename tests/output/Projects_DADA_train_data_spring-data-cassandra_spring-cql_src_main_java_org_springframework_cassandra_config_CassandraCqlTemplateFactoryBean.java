@@ -1,0 +1,5 @@
+<METHOD_START> @ java.lang.Override public org.springframework.cassandra.config.CqlTemplate org.springframework.cassandra.config.CqlTemplate ( ) { return org.springframework.cassandra.config.CqlTemplate ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<org.springframework.cassandra.config.CqlTemplate> < CqlTemplate > java.lang.Class<org.springframework.cassandra.config.CqlTemplate> ( ) { return CqlTemplate .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) java.lang.Exception { Assert . notNull ( org.springframework.cassandra.config.Session , STRING ) ; this . org.springframework.cassandra.config.CqlTemplate = new CqlTemplate ( org.springframework.cassandra.config.Session ) ; }  <METHOD_END>
+<METHOD_START> public void void ( Session org.springframework.cassandra.config.Session ) { Assert . notNull ( org.springframework.cassandra.config.Session , STRING ) ; this . org.springframework.cassandra.config.Session = org.springframework.cassandra.config.Session ; }  <METHOD_END>

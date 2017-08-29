@@ -1,0 +1,16 @@
+<METHOD_START> < S extends T > org.springframework.data.repository.reactive.Mono<S> < S > org.springframework.data.repository.reactive.Mono<S> ( S S );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.repository.reactive.Flux<S> < S > org.springframework.data.repository.reactive.Flux<S> ( java.lang.Iterable<S> < S > java.lang.Iterable<S> );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.repository.reactive.Flux<S> < S > org.springframework.data.repository.reactive.Flux<S> ( Publisher < S > org.springframework.data.repository.reactive.Publisher<S> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<T> < T > org.springframework.data.repository.reactive.Mono<T> ( ID ID );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<T> < T > org.springframework.data.repository.reactive.Mono<T> ( Mono < ID > org.springframework.data.repository.reactive.Mono<ID> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<java.lang.Boolean> < java.lang.Boolean > org.springframework.data.repository.reactive.Mono<java.lang.Boolean> ( ID ID );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<java.lang.Boolean> < java.lang.Boolean > org.springframework.data.repository.reactive.Mono<java.lang.Boolean> ( Mono < ID > org.springframework.data.repository.reactive.Mono<ID> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Flux<T> < T > org.springframework.data.repository.reactive.Flux<T> ( )  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Flux<T> < T > org.springframework.data.repository.reactive.Flux<T> ( java.lang.Iterable<ID> < ID > java.lang.Iterable<ID> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Flux<T> < T > org.springframework.data.repository.reactive.Flux<T> ( Publisher < ID > org.springframework.data.repository.reactive.Publisher<ID> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<java.lang.Long> < java.lang.Long > org.springframework.data.repository.reactive.Mono<java.lang.Long> ( )  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<java.lang.Void> < java.lang.Void > org.springframework.data.repository.reactive.Mono<java.lang.Void> ( ID ID );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<java.lang.Void> < java.lang.Void > org.springframework.data.repository.reactive.Mono<java.lang.Void> ( T T );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<java.lang.Void> < java.lang.Void > org.springframework.data.repository.reactive.Mono<java.lang.Void> ( java.lang.Iterable<? extends T> < ? extends T > java.lang.Iterable<? extends T> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<java.lang.Void> < java.lang.Void > org.springframework.data.repository.reactive.Mono<java.lang.Void> ( Publisher < ? extends T > org.springframework.data.repository.reactive.Publisher<? extends T> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Mono<java.lang.Void> < java.lang.Void > org.springframework.data.repository.reactive.Mono<java.lang.Void> ( )  <METHOD_END>

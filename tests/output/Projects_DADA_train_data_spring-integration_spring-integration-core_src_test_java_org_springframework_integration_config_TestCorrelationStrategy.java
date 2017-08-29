@@ -1,0 +1,1 @@
+<METHOD_START> public java.lang.Object java.lang.Object ( Message < ? > org.springframework.integration.config.Message<?> ) { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> public void ( Resource org.springframework.web.servlet.resource.Resource , byte [] byte[] ) { super( byte[] ); this . java.lang.String = org.springframework.web.servlet.resource.Resource . getFilename ( ) ; try { this . long = org.springframework.web.servlet.resource.Resource . lastModified ( ) ; } catch ( java.io.IOException java.io.IOException ) { throw new java.lang.IllegalArgumentException ( java.io.IOException ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public long long ( ) java.io.IOException { return this . long ; }  <METHOD_END>

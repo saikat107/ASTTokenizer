@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.boot.test.autoconfigure.web.servlet.mockmvc.MockMvc . perform ( get ( STRING ) ) . andExpect ( content ( ) . string ( STRING ) ) . andExpect ( status ( ) . isOk ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.boot.test.autoconfigure.web.servlet.mockmvc.MockMvc . perform ( get ( STRING ) ) . andExpect ( content ( ) . string ( STRING ) ) . andExpect ( status ( ) . isOk ( ) ) ; }  <METHOD_END>

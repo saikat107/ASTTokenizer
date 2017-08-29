@@ -1,0 +1,4 @@
+<METHOD_START> public void ( MongoClient org.springframework.data.mongodb.monitor.MongoClient ) { super( org.springframework.data.mongodb.monitor.MongoClient ); }  <METHOD_END>
+<METHOD_START> @ ManagedMetric ( metricType = MetricType . GAUGE , displayName = STRING ) public int int ( ) { return java.lang.Integer ( STRING , java . lang . java.lang.Integer .class ) ; }  <METHOD_END>
+<METHOD_START> @ ManagedMetric ( metricType = MetricType . GAUGE , displayName = STRING ) public int int ( ) { return java.lang.Integer ( STRING , java . lang . java.lang.Integer .class ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) private < T > T T ( java.lang.String java.lang.String , java.lang.Class<T> < T > java.lang.Class<T> ) { Document org.springframework.data.mongodb.monitor.Document = ( Document ) getServerStatus ( ) . get ( STRING ) ; return ( T ) org.springframework.data.mongodb.monitor.Document . get ( java.lang.String ) ; }  <METHOD_END>

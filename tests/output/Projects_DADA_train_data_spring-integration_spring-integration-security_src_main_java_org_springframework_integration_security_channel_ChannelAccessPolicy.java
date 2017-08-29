@@ -1,0 +1,2 @@
+<METHOD_START> java.util.Collection<org.springframework.integration.security.channel.ConfigAttribute> < ConfigAttribute > java.util.Collection<org.springframework.integration.security.channel.ConfigAttribute> ( )  <METHOD_END>
+<METHOD_START> java.util.Collection<org.springframework.integration.security.channel.ConfigAttribute> < ConfigAttribute > java.util.Collection<org.springframework.integration.security.channel.ConfigAttribute> ( )  <METHOD_END>

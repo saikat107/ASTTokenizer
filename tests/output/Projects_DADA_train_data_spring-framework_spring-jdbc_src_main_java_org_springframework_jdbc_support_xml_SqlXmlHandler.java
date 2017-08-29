@@ -1,0 +1,13 @@
+<METHOD_START> java.lang.String java.lang.String ( java.sql.ResultSet java.sql.ResultSet , java.lang.String java.lang.String ) throws java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> java.lang.String java.lang.String ( java.sql.ResultSet java.sql.ResultSet , int int ) throws java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> java.io.InputStream java.io.InputStream ( java.sql.ResultSet java.sql.ResultSet , java.lang.String java.lang.String ) throws java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> java.io.InputStream java.io.InputStream ( java.sql.ResultSet java.sql.ResultSet , int int ) throws java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> java.io.Reader java.io.Reader ( java.sql.ResultSet java.sql.ResultSet , java.lang.String java.lang.String ) throws java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> java.io.Reader java.io.Reader ( java.sql.ResultSet java.sql.ResultSet , int int ) throws java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> javax.xml.transform.Source javax.xml.transform.Source ( java.sql.ResultSet java.sql.ResultSet , java.lang.String java.lang.String , java.lang.Class<? extends javax.xml.transform.Source> < ? extends javax.xml.transform.Source > java.lang.Class<? extends javax.xml.transform.Source> ) throws java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> javax.xml.transform.Source javax.xml.transform.Source ( java.sql.ResultSet java.sql.ResultSet , int int , java.lang.Class<? extends javax.xml.transform.Source> < ? extends javax.xml.transform.Source > java.lang.Class<? extends javax.xml.transform.Source> ) throws java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> org.springframework.jdbc.support.xml.SqlXmlValue org.springframework.jdbc.support.xml.SqlXmlValue ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> org.springframework.jdbc.support.xml.SqlXmlValue org.springframework.jdbc.support.xml.SqlXmlValue ( XmlBinaryStreamProvider org.springframework.jdbc.support.xml.XmlBinaryStreamProvider );  <METHOD_END>
+<METHOD_START> org.springframework.jdbc.support.xml.SqlXmlValue org.springframework.jdbc.support.xml.SqlXmlValue ( XmlCharacterStreamProvider org.springframework.jdbc.support.xml.XmlCharacterStreamProvider );  <METHOD_END>
+<METHOD_START> org.springframework.jdbc.support.xml.SqlXmlValue org.springframework.jdbc.support.xml.SqlXmlValue ( java.lang.Class<? extends javax.xml.transform.Result> < ? extends javax.xml.transform.Result > java.lang.Class<? extends javax.xml.transform.Result> , XmlResultProvider org.springframework.jdbc.support.xml.XmlResultProvider );  <METHOD_END>
+<METHOD_START> org.springframework.jdbc.support.xml.SqlXmlValue org.springframework.jdbc.support.xml.SqlXmlValue ( org.w3c.dom.Document org.w3c.dom.Document );  <METHOD_END>

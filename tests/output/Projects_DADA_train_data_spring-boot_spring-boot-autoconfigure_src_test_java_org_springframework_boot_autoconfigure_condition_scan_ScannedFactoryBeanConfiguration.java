@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean public org.springframework.boot.autoconfigure.condition.scan.FactoryBean<org.springframework.boot.autoconfigure.condition.scan.ExampleBean> < ExampleBean > org.springframework.boot.autoconfigure.condition.scan.FactoryBean<org.springframework.boot.autoconfigure.condition.scan.ExampleBean> ( ) { return new ExampleFactoryBean ( STRING ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ Test ( expected = java.lang.IllegalArgumentException .class ) public void void ( ) { new DefaultJpaContext ( null ) ; }  <METHOD_END>
+<METHOD_START> @ Test ( expected = java.lang.IllegalArgumentException .class ) public void void ( ) { new DefaultJpaContext ( java.util.Collections .< EntityManager > java.util.Set<org.springframework.data.jpa.repository.support.EntityManager> ( ) ) ; }  <METHOD_END>

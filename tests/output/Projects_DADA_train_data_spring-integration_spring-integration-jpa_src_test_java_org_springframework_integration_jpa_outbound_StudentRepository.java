@@ -1,0 +1,1 @@
+<METHOD_START> java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> < StudentDomain > java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> ( java.lang.String java.lang.String );  <METHOD_END>

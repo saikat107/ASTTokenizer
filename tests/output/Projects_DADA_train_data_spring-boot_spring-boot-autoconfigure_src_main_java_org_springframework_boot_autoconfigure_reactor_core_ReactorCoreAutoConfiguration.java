@@ -1,0 +1,1 @@
+<METHOD_START> @ Autowired protected void void ( ReactorCoreProperties org.springframework.boot.autoconfigure.reactor.core.ReactorCoreProperties ) { if ( org.springframework.boot.autoconfigure.reactor.core.ReactorCoreProperties . getStacktraceMode ( ) . isEnabled ( ) ) { Hooks . onOperator ( h -> h . operatorStacktrace ( ) ) ; } }  <METHOD_END>

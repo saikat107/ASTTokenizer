@@ -1,0 +1,4 @@
+<METHOD_START> public void ( HelloWorldProperties sample.metrics.redis.HelloWorldProperties ) { this . sample.metrics.redis.HelloWorldProperties = sample.metrics.redis.HelloWorldProperties ; }  <METHOD_END>
+<METHOD_START> @ GetMapping ( STRING ) @ ResponseBody public java.util.Map<java.lang.String,java.lang.String> < java.lang.String , java.lang.String > java.util.Map<java.lang.String,java.lang.String> ( ) { return java.util.Collections . java.util.Map ( STRING , STRING + this . sample.metrics.redis.HelloWorldProperties . getName ( ) ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>

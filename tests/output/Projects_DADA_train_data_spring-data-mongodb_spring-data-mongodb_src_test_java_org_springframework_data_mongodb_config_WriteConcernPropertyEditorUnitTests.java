@@ -1,0 +1,3 @@
+<METHOD_START> @ Before public void void ( ) { org.springframework.data.mongodb.config.WriteConcernPropertyEditor = new WriteConcernPropertyEditor ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { org.springframework.data.mongodb.config.WriteConcernPropertyEditor . setAsText ( STRING ) ; assertThat ( org.springframework.data.mongodb.config.WriteConcernPropertyEditor . getValue ( ) , is ( ( java.lang.Object ) WriteConcern . SAFE ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { org.springframework.data.mongodb.config.WriteConcernPropertyEditor . setAsText ( STRING ) ; assertThat ( org.springframework.data.mongodb.config.WriteConcernPropertyEditor . getValue ( ) , is ( ( java.lang.Object ) new WriteConcern ( STRING ) ) ) ; }  <METHOD_END>

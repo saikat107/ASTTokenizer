@@ -1,0 +1,17 @@
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( int int );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( int int , long long );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( int int , long long );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( int int , long long );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( int int , long long );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( java.lang.String java.lang.String , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( java.lang.String java.lang.String , int int );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( int int , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( java.lang.String java.lang.String , java.lang.String java.lang.String , int int );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( int int , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> < Rating > java.util.List<org.springframework.data.neo4j.examples.movies.repo.Rating> ( java.lang.String java.lang.String , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> java.lang.Long java.lang.Long ( int int );  <METHOD_END>
+<METHOD_START> java.lang.Long java.lang.Long ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> java.util.List<java.lang.Long> < java.lang.Long > java.util.List<java.lang.Long> ( int int , long long );  <METHOD_END>
+<METHOD_START> @ Query ( STRING ) org.springframework.data.neo4j.examples.movies.repo.Rating org.springframework.data.neo4j.examples.movies.repo.Rating ( long long , long long );  <METHOD_END>

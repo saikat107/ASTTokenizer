@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . sample.simple.ApplicationContext ) . isNotNull ( ) ; assertThat ( this . sample.simple.ApplicationContext . containsBean ( STRING ) ) . isTrue ( ) ; assertThat ( this . sample.simple.ApplicationContext . containsBean ( STRING ) ) . isTrue ( ) ; }  <METHOD_END>

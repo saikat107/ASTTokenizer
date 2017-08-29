@@ -1,0 +1,3 @@
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( org.w3c.dom.Element org.w3c.dom.Element , AbstractBeanDefinition org.springframework.web.servlet.config.AbstractBeanDefinition , ParserContext org.springframework.web.servlet.config.ParserContext ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( org.w3c.dom.Element org.w3c.dom.Element ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected boolean boolean ( java.lang.String java.lang.String ) { return ( java.lang.String . boolean ( STRING ) || java.lang.String . boolean ( STRING ) || java.lang.String . boolean ( STRING ) ) ; }  <METHOD_END>

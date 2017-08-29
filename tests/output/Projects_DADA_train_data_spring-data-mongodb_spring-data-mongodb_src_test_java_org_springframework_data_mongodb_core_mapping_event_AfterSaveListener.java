@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( AfterSaveEvent < java.lang.Object > org.springframework.data.mongodb.core.mapping.event.AfterSaveEvent<java.lang.Object> ) { this . java.util.ArrayList<org.springframework.data.mongodb.core.mapping.event.ApplicationEvent> . add ( org.springframework.data.mongodb.core.mapping.event.AfterSaveEvent<java.lang.Object> ) ; }  <METHOD_END>

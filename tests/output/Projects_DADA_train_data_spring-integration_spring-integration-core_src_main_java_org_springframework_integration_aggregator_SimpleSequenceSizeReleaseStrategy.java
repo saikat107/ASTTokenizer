@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public boolean boolean ( MessageGroup org.springframework.integration.aggregator.MessageGroup ) { return org.springframework.integration.aggregator.MessageGroup . getSequenceSize ( ) == org.springframework.integration.aggregator.MessageGroup . size ( ) ; }  <METHOD_END>

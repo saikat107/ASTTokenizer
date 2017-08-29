@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . org.springframework.boot.test.context.ImportsContextCustomizerFactoryIntegrationTests.ImportedBean ) . isNotNull ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test ( expected = NoSuchBeanDefinitionException .class ) public void void ( ) java.lang.Exception { this . org.springframework.boot.test.context.ApplicationContext . getBean ( java.lang.Class<? extends org.springframework.boot.test.context.ImportsContextCustomizerFactoryIntegrationTests> ( ) ) ; }  <METHOD_END>

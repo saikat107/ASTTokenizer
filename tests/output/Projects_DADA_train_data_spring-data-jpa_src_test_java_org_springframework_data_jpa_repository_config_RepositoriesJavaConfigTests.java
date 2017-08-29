@@ -1,0 +1,2 @@
+<METHOD_START> @ Bean public org.springframework.data.jpa.repository.config.Repositories org.springframework.data.jpa.repository.config.Repositories ( ) { return new Repositories ( org.springframework.data.jpa.repository.config.ApplicationContext ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( org.springframework.data.jpa.repository.config.Repositories . hasRepositoryFor ( User .class ) , is ( true ) ) ; }  <METHOD_END>

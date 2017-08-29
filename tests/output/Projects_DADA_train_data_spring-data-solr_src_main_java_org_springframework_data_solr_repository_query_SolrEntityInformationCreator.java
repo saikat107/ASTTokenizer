@@ -1,0 +1,1 @@
+<METHOD_START> < T , ID extends java.io.Serializable > org.springframework.data.solr.repository.query.SolrEntityInformation<T,ID> < T , ID > org.springframework.data.solr.repository.query.SolrEntityInformation<T,ID> ( java.lang.Class<T> < T > java.lang.Class<T> );  <METHOD_END>

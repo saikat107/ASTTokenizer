@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.reflect.Method java.lang.reflect.Method ) { Assert . notNull ( java.lang.reflect.Method , STRING ) ; this . java.beans.PropertyDescriptor = BeanUtils . findPropertyForMethod ( java.lang.reflect.Method ) ; this . java.lang.reflect.Method = java.lang.reflect.Method ; Assert . notNull ( java.beans.PropertyDescriptor , ( ) String . format ( STRING , method ) ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return java.lang.reflect.Method . boolean ( java.beans.PropertyDescriptor . java.lang.reflect.Method ( ) ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return java.lang.reflect.Method . boolean ( java.beans.PropertyDescriptor . java.lang.reflect.Method ( ) ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.beans.PropertyDescriptor . java.lang.String ( ) ; }  <METHOD_END>

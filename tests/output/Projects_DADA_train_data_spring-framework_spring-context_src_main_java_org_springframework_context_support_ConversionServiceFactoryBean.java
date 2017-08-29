@@ -1,0 +1,6 @@
+<METHOD_START> public void void ( java.util.Set<?> < ? > java.util.Set<?> ) { this . java.util.Set<?> = java.util.Set<> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { this . org.springframework.context.support.GenericConversionService = org.springframework.context.support.GenericConversionService ( ) ; ConversionServiceFactory . registerConverters ( this . java.util.Set<> , this . org.springframework.context.support.GenericConversionService ) ; }  <METHOD_END>
+<METHOD_START> protected org.springframework.context.support.GenericConversionService org.springframework.context.support.GenericConversionService ( ) { return new DefaultConversionService ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.context.support.ConversionService org.springframework.context.support.ConversionService ( ) { return this . org.springframework.context.support.GenericConversionService ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<? extends org.springframework.context.support.ConversionService> < ? extends ConversionService > java.lang.Class<? extends org.springframework.context.support.ConversionService> ( ) { return GenericConversionService .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

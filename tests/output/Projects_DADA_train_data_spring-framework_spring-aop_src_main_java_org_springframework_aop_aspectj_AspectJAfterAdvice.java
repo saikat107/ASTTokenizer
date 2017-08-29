@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.reflect.Method java.lang.reflect.Method , AspectJExpressionPointcut org.springframework.aop.aspectj.AspectJExpressionPointcut , AspectInstanceFactory org.springframework.aop.aspectj.AspectInstanceFactory ) { super( java.lang.reflect.Method , org.springframework.aop.aspectj.AspectJExpressionPointcut , org.springframework.aop.aspectj.AspectInstanceFactory ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( MethodInvocation org.springframework.aop.aspectj.MethodInvocation ) throws java.lang.Throwable { try { return org.springframework.aop.aspectj.MethodInvocation . proceed ( ) ; } finally { invokeAdviceMethod ( getJoinPointMatch ( ) , null , null ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return false ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

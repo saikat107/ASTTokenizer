@@ -1,0 +1,2 @@
+<METHOD_START> public void ( ServletContext org.springframework.web.context.support.ServletContext ) { this . org.springframework.web.context.support.ServletContext = org.springframework.web.context.support.ServletContext ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.web.context.support.Resource org.springframework.web.context.support.Resource ( java.lang.String java.lang.String ) { return new ServletContextResource ( this . org.springframework.web.context.support.ServletContext , java.lang.String ) ; }  <METHOD_END>

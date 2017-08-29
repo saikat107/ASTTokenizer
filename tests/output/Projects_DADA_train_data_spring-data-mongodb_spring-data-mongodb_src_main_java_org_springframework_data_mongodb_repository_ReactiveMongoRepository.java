@@ -1,0 +1,5 @@
+<METHOD_START> < S extends T > org.springframework.data.mongodb.repository.Mono<S> < S > org.springframework.data.mongodb.repository.Mono<S> ( S S );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.mongodb.repository.Flux<S> < S > org.springframework.data.mongodb.repository.Flux<S> ( java.lang.Iterable<S> < S > java.lang.Iterable<S> );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.mongodb.repository.Flux<S> < S > org.springframework.data.mongodb.repository.Flux<S> ( Publisher < S > org.springframework.data.mongodb.repository.Publisher<S> );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.mongodb.repository.Flux<S> < S > org.springframework.data.mongodb.repository.Flux<S> ( Example < S > org.springframework.data.mongodb.repository.Example<S> );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.mongodb.repository.Flux<S> < S > org.springframework.data.mongodb.repository.Flux<S> ( Example < S > org.springframework.data.mongodb.repository.Example<S> , Sort org.springframework.data.mongodb.repository.Sort );  <METHOD_END>

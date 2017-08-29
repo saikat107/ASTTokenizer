@@ -1,0 +1,1 @@
+<METHOD_START> @ Query ( STRING ) org.springframework.data.neo4j.examples.friends.repo.Friendship org.springframework.data.neo4j.examples.friends.repo.Friendship ( Person org.springframework.data.neo4j.examples.friends.repo.Person , Person org.springframework.data.neo4j.examples.friends.repo.Person );  <METHOD_END>

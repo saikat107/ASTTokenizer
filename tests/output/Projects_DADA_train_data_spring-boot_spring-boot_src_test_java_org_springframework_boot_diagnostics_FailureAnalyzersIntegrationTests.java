@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { try { new SpringApplicationBuilder ( org.springframework.boot.diagnostics.FailureAnalyzersIntegrationTests.TestConfiguration .class ) . web ( WebApplicationType . NONE ) . run ( ) ; fail ( STRING ) ; } catch ( java.lang.Exception java.lang.Exception ) { assertThat ( this . org.springframework.boot.diagnostics.InternalOutputCapture . toString ( ) ) . contains ( STRING ) ; } }  <METHOD_END>
+<METHOD_START> @ javax.annotation.PostConstruct public void void ( ) { throw new PortInUseException ( NUMBER ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.Object java.lang.Object , ETag org.springframework.data.rest.webmvc.support.ETag ) { Assert . notNull ( java.lang.Object , STRING ) ; Assert . notNull ( org.springframework.data.rest.webmvc.support.ETag , STRING ) ; this . org.springframework.data.rest.webmvc.support.ETag = org.springframework.data.rest.webmvc.support.ETag ; this . java.lang.Object = java.lang.Object ; }  <METHOD_END>
+<METHOD_START> public java.lang.Object java.lang.Object ( ) { return java.lang.Object ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.rest.webmvc.support.ETag org.springframework.data.rest.webmvc.support.ETag ( ) { return org.springframework.data.rest.webmvc.support.ETag ; }  <METHOD_END>

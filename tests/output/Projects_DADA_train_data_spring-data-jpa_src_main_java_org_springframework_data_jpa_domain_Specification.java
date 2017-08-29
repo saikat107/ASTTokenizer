@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.data.jpa.domain.Predicate org.springframework.data.jpa.domain.Predicate ( Root < T > org.springframework.data.jpa.domain.Root<T> , CriteriaQuery < ? > org.springframework.data.jpa.domain.CriteriaQuery<?> , CriteriaBuilder org.springframework.data.jpa.domain.CriteriaBuilder );  <METHOD_END>

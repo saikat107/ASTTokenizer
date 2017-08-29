@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . org.springframework.boot.test.context.ApplicationContext . getEnvironment ( ) . getActiveProfiles ( ) ) . containsExactly ( STRING ) ; }  <METHOD_END>

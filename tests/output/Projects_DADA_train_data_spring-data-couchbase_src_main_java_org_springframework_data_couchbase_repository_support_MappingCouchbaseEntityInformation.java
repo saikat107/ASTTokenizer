@@ -1,0 +1,1 @@
+<METHOD_START> public void ( final CouchbasePersistentEntity < T > org.springframework.data.couchbase.repository.support.CouchbasePersistentEntity<T> ) { super( org.springframework.data.couchbase.repository.support.CouchbasePersistentEntity<T> ); }  <METHOD_END>

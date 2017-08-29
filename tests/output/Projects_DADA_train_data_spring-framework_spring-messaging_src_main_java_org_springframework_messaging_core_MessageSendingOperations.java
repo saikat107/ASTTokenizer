@@ -1,0 +1,8 @@
+<METHOD_START> void void ( Message < ? > org.springframework.messaging.core.Message<?> ) throws org.springframework.messaging.core.MessagingException ;  <METHOD_END>
+<METHOD_START> void void ( D D , Message < ? > org.springframework.messaging.core.Message<?> ) throws org.springframework.messaging.core.MessagingException ;  <METHOD_END>
+<METHOD_START> void void ( java.lang.Object java.lang.Object ) throws org.springframework.messaging.core.MessagingException ;  <METHOD_END>
+<METHOD_START> void void ( D D , java.lang.Object java.lang.Object ) throws org.springframework.messaging.core.MessagingException ;  <METHOD_END>
+<METHOD_START> void void ( D D , java.lang.Object java.lang.Object , java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> ) throws org.springframework.messaging.core.MessagingException ;  <METHOD_END>
+<METHOD_START> void void ( java.lang.Object java.lang.Object , MessagePostProcessor org.springframework.messaging.core.MessagePostProcessor ) throws org.springframework.messaging.core.MessagingException ;  <METHOD_END>
+<METHOD_START> void void ( D D , java.lang.Object java.lang.Object , MessagePostProcessor org.springframework.messaging.core.MessagePostProcessor ) throws org.springframework.messaging.core.MessagingException ;  <METHOD_END>
+<METHOD_START> void void ( D D , java.lang.Object java.lang.Object , java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> , MessagePostProcessor org.springframework.messaging.core.MessagePostProcessor )			throws org.springframework.messaging.core.MessagingException ;  <METHOD_END>

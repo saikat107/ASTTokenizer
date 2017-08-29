@@ -1,0 +1,5 @@
+<METHOD_START> @ java.lang.Override public void void ( ) java.lang.Exception { org.springframework.data.gemfire.RegionAttributes = super. create ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.RegionAttributes org.springframework.data.gemfire.RegionAttributes ( ) java.lang.Exception { return org.springframework.data.gemfire.RegionAttributes ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return ( org.springframework.data.gemfire.RegionAttributes != null ? org.springframework.data.gemfire.RegionAttributes . getClass ( ) : RegionAttributes .class ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>
+<METHOD_START> public void void ( final IndexMaintenancePolicyType org.springframework.data.gemfire.IndexMaintenancePolicyType ) { org.springframework.data.gemfire.IndexMaintenancePolicyType . setIndexMaintenance ( this ) ; }  <METHOD_END>

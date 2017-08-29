@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , Resource org.springframework.boot.context.config.Resource ) { super( java.lang.String . java.lang.String ( STRING , org.springframework.boot.context.config.Resource , java.lang.String ) ); this . java.lang.String = java.lang.String ; this . org.springframework.boot.context.config.Resource = org.springframework.boot.context.config.Resource ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.context.config.Resource org.springframework.boot.context.config.Resource ( ) { return this . org.springframework.boot.context.config.Resource ; }  <METHOD_END>

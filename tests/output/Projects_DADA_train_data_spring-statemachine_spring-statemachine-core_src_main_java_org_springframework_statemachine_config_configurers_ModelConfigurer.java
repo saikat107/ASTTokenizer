@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.statemachine.config.configurers.ModelConfigurer<S,E> < S , E > org.springframework.statemachine.config.configurers.ModelConfigurer<S,E> ( StateMachineModelFactory < S , E > org.springframework.statemachine.config.configurers.StateMachineModelFactory<S,E> );  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.Object java.lang.Object , StateMachine < ? , ? > org.springframework.statemachine.event.StateMachine<?,?> ) { super( java.lang.Object ); this . org.springframework.statemachine.event.StateMachine<?,?> = org.springframework.statemachine.event.StateMachine<,> ; }  <METHOD_END>
+<METHOD_START> public org.springframework.statemachine.event.StateMachine<?,?> < ? , ? > org.springframework.statemachine.event.StateMachine<?,?> ( ) { return org.springframework.statemachine.event.StateMachine<,> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING + org.springframework.statemachine.event.StateMachine<,> + STRING ; }  <METHOD_END>

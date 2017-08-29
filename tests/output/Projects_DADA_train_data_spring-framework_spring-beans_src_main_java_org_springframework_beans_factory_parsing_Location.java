@@ -1,0 +1,4 @@
+<METHOD_START> public void ( Resource org.springframework.beans.factory.parsing.Resource ) { this( org.springframework.beans.factory.parsing.Resource , null ); }  <METHOD_END>
+<METHOD_START> public void ( Resource org.springframework.beans.factory.parsing.Resource , java.lang.Object java.lang.Object ) { Assert . notNull ( org.springframework.beans.factory.parsing.Resource , STRING ) ; this . org.springframework.beans.factory.parsing.Resource = org.springframework.beans.factory.parsing.Resource ; this . java.lang.Object = java.lang.Object ; }  <METHOD_END>
+<METHOD_START> public org.springframework.beans.factory.parsing.Resource org.springframework.beans.factory.parsing.Resource ( ) { return this . org.springframework.beans.factory.parsing.Resource ; }  <METHOD_END>
+<METHOD_START> public java.lang.Object java.lang.Object ( ) { return this . java.lang.Object ; }  <METHOD_END>

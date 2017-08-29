@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean public org.springframework.data.couchbase.repository.auditing.AuditedAuditorAware org.springframework.data.couchbase.repository.auditing.AuditedAuditorAware ( ) { return new AuditedAuditorAware ( ) ; }  <METHOD_END>

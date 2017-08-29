@@ -1,0 +1,3 @@
+<METHOD_START> public void ( ) { super( org.springframework.boot.actuate.endpoint.BeansEndpointTests.Config .class , BeansEndpoint .class , STRING , true , STRING ); }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { java.util.List<java.lang.Object> < java.lang.Object > java.util.List<java.lang.Object> = getEndpointBean ( ) . invoke ( ) ; assertThat ( java.util.List<java.lang.Object> ) . hasSize ( NUMBER ) ; assertThat ( java.util.List<java.lang.Object> . java.lang.Object ( NUMBER ) ) . isInstanceOf ( java.util.Map .class ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.boot.actuate.endpoint.BeansEndpoint org.springframework.boot.actuate.endpoint.BeansEndpoint ( ) { return new BeansEndpoint ( ) ; }  <METHOD_END>

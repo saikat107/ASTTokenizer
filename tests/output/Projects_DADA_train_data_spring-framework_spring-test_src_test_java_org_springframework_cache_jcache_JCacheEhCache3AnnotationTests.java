@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected org.springframework.cache.jcache.CachingProvider org.springframework.cache.jcache.CachingProvider ( ) { return Caching . getCachingProvider ( STRING ) ; }  <METHOD_END>

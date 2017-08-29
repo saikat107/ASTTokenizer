@@ -1,0 +1,7 @@
+<METHOD_START> public void ( java.io.File java.io.File , LibraryScope org.springframework.boot.loader.tools.LibraryScope ) { this( java.io.File , org.springframework.boot.loader.tools.LibraryScope , false ); }  <METHOD_END>
+<METHOD_START> public void ( java.io.File java.io.File , LibraryScope org.springframework.boot.loader.tools.LibraryScope , boolean boolean ) { this( null , java.io.File , org.springframework.boot.loader.tools.LibraryScope , boolean ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.io.File java.io.File , LibraryScope org.springframework.boot.loader.tools.LibraryScope , boolean boolean ) { this . java.lang.String = ( java.lang.String == null ? java.io.File . java.lang.String ( ) : java.lang.String ) ; this . java.io.File = java.io.File ; this . org.springframework.boot.loader.tools.LibraryScope = org.springframework.boot.loader.tools.LibraryScope ; this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.io.File java.io.File ( ) { return this . java.io.File ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.loader.tools.LibraryScope org.springframework.boot.loader.tools.LibraryScope ( ) { return this . org.springframework.boot.loader.tools.LibraryScope ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>

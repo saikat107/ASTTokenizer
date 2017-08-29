@@ -1,0 +1,1 @@
+<METHOD_START> java.util.Optional<org.springframework.data.solr.repository.cdi.ProductBean> < ProductBean > java.util.Optional<org.springframework.data.solr.repository.cdi.ProductBean> ( java.lang.String java.lang.String );  <METHOD_END>

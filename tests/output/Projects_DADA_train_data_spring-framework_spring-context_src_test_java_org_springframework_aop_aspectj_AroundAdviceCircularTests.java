@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { java.lang.Object java.lang.Object = ctx . getBean ( STRING ) ; assertTrue ( AopUtils . isAopProxy ( java.lang.Object ) ) ; java.lang.Object java.lang.Object = ctx . getBean ( STRING ) ; assertTrue ( AopUtils . isAopProxy ( java.lang.Object ) ) ; }  <METHOD_END>

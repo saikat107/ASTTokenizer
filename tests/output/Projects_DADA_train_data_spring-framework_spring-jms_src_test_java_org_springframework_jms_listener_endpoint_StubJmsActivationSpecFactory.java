@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.jms.listener.endpoint.ActivationSpec org.springframework.jms.listener.endpoint.ActivationSpec ( ResourceAdapter org.springframework.jms.listener.endpoint.ResourceAdapter , JmsActivationSpecConfig org.springframework.jms.listener.endpoint.JmsActivationSpecConfig ) { return new StubActivationSpec ( ) ; }  <METHOD_END>

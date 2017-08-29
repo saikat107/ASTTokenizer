@@ -1,0 +1,4 @@
+<METHOD_START> @ Bean public org.springframework.data.rest.webmvc.jpa.BookIdConverter org.springframework.data.rest.webmvc.jpa.BookIdConverter ( ) { return new BookIdConverter ( ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.data.rest.webmvc.jpa.TestDataPopulator org.springframework.data.rest.webmvc.jpa.TestDataPopulator ( ) { return new TestDataPopulator ( ) ; }  <METHOD_END>
+<METHOD_START> @ RequestMapping ( value = STRING , method = RequestMethod . GET , produces = MediaType . TEXT_HTML_VALUE ) void void ( @ PathVariable java.lang.String java.lang.String ) {}  <METHOD_END>
+<METHOD_START> @ RequestMapping ( value = STRING , method = RequestMethod . POST , produces = STRING ) void void ( Sort org.springframework.data.rest.webmvc.jpa.Sort , Pageable org.springframework.data.rest.webmvc.jpa.Pageable , DefaultedPageable org.springframework.data.rest.webmvc.jpa.DefaultedPageable ) {}  <METHOD_END>

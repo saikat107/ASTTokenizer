@@ -1,0 +1,1 @@
+<METHOD_START> javax.management.modelmbean.ModelMBeanInfo javax.management.modelmbean.ModelMBeanInfo ( java.lang.Object java.lang.Object , java.lang.String java.lang.String ) throws javax.management.JMException ;  <METHOD_END>

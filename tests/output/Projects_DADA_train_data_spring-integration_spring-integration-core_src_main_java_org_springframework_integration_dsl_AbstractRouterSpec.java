@@ -1,0 +1,8 @@
+<METHOD_START> void ( R R ) { super( R ); }  <METHOD_END>
+<METHOD_START> public S S ( boolean boolean ) { this . handler . setIgnoreSendFailures ( boolean ) ; return _this ( ) ; }  <METHOD_END>
+<METHOD_START> public S S ( boolean boolean ) { this . handler . setApplySequence ( boolean ) ; return _this ( ) ; }  <METHOD_END>
+<METHOD_START> public S S ( java.lang.String java.lang.String ) { this . handler . setDefaultOutputChannelName ( java.lang.String ) ; return _this ( ) ; }  <METHOD_END>
+<METHOD_START> public S S ( MessageChannel org.springframework.integration.dsl.MessageChannel ) { this . handler . setDefaultOutputChannel ( org.springframework.integration.dsl.MessageChannel ) ; return _this ( ) ; }  <METHOD_END>
+<METHOD_START> public S S ( IntegrationFlow org.springframework.integration.dsl.IntegrationFlow ) { Assert . notNull ( org.springframework.integration.dsl.IntegrationFlow , STRING ) ; DirectChannel org.springframework.integration.dsl.DirectChannel = new DirectChannel ( ) ; IntegrationFlowBuilder org.springframework.integration.dsl.IntegrationFlowBuilder = IntegrationFlows . from ( org.springframework.integration.dsl.DirectChannel ) ; org.springframework.integration.dsl.IntegrationFlow . configure ( org.springframework.integration.dsl.IntegrationFlowBuilder ) ; this . componentsToRegister . add ( org.springframework.integration.dsl.IntegrationFlowBuilder ) ; return S ( org.springframework.integration.dsl.DirectChannel ) ; }  <METHOD_END>
+<METHOD_START> public S S ( ) { this . boolean = true ; return _this ( ) ; }  <METHOD_END>
+<METHOD_START> boolean boolean ( ) { return this . boolean ; }  <METHOD_END>

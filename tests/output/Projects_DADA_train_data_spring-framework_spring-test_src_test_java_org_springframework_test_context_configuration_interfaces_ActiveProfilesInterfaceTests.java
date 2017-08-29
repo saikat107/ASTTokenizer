@@ -1,0 +1,3 @@
+<METHOD_START> @ Test public void void ( ) { assertNotNull ( org.springframework.test.context.configuration.interfaces.Employee ) ; assertEquals ( STRING , org.springframework.test.context.configuration.interfaces.Employee . getName ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Bean @ Profile ( STRING ) org.springframework.test.context.configuration.interfaces.Employee org.springframework.test.context.configuration.interfaces.Employee ( ) { return new Employee ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Bean @ Profile ( STRING ) org.springframework.test.context.configuration.interfaces.Employee org.springframework.test.context.configuration.interfaces.Employee ( ) { return new Employee ( STRING ) ; }  <METHOD_END>

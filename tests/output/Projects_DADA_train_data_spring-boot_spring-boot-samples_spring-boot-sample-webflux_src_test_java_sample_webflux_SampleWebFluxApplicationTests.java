@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . sample.webflux.WebTestClient . get ( ) . uri ( STRING ) . accept ( MediaType . TEXT_PLAIN ) . exchange ( ) . expectBody ( java.lang.String .class ) . value ( ) . isEqualTo ( STRING ) ; }  <METHOD_END>

@@ -1,0 +1,4 @@
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.autoconfigure.web.ErrorProperties.IncludeStacktrace org.springframework.boot.autoconfigure.web.ErrorProperties.IncludeStacktrace ( ) { return this . org.springframework.boot.autoconfigure.web.ErrorProperties.IncludeStacktrace ; }  <METHOD_END>
+<METHOD_START> public void void ( org.springframework.boot.autoconfigure.web.ErrorProperties.IncludeStacktrace org.springframework.boot.autoconfigure.web.ErrorProperties.IncludeStacktrace ) { this . org.springframework.boot.autoconfigure.web.ErrorProperties.IncludeStacktrace = org.springframework.boot.autoconfigure.web.ErrorProperties.IncludeStacktrace ; }  <METHOD_END>

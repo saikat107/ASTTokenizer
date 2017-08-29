@@ -1,0 +1,14 @@
+<METHOD_START> java.lang.Object java.lang.Object ( )  <METHOD_END>
+<METHOD_START> java.lang.Double java.lang.Double ( )  <METHOD_END>
+<METHOD_START> java.util.Date java.util.Date ( )  <METHOD_END>
+<METHOD_START> java.lang.String java.lang.String ( )  <METHOD_END>
+<METHOD_START> java.lang.Object java.lang.Object ( )  <METHOD_END>
+<METHOD_START> java.lang.Double java.lang.Double ( )  <METHOD_END>
+<METHOD_START> java.util.Date java.util.Date ( )  <METHOD_END>
+<METHOD_START> java.lang.String java.lang.String ( )  <METHOD_END>
+<METHOD_START> java.lang.Object java.lang.Object ( )  <METHOD_END>
+<METHOD_START> java.lang.Object java.lang.Object ( )  <METHOD_END>
+<METHOD_START> java.lang.Long java.lang.Long ( )  <METHOD_END>
+<METHOD_START> java.lang.Long java.lang.Long ( )  <METHOD_END>
+<METHOD_START> java.lang.Double java.lang.Double ( )  <METHOD_END>
+<METHOD_START> java.lang.Double java.lang.Double ( )  <METHOD_END>

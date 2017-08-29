@@ -1,0 +1,5 @@
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) public static < T > java.util.Comparator<T> < T > java.util.Comparator<T> ( ) { return ComparableComparator . INSTANCE ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) public static < T > java.util.Comparator<T> < T > java.util.Comparator<T> ( ) { return NullSafeComparator . NULLS_LOW ; }  <METHOD_END>
+<METHOD_START> public static < T > java.util.Comparator<T> < T > java.util.Comparator<T> ( java.util.Comparator<T> < T > java.util.Comparator<T> ) { return new NullSafeComparator < T > ( java.util.Comparator<T> , false ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) public static < T > java.util.Comparator<T> < T > java.util.Comparator<T> ( ) { return NullSafeComparator . NULLS_HIGH ; }  <METHOD_END>
+<METHOD_START> public static < T > java.util.Comparator<T> < T > java.util.Comparator<T> ( java.util.Comparator<T> < T > java.util.Comparator<T> ) { return new NullSafeComparator < T > ( java.util.Comparator<T> , false ) ; }  <METHOD_END>

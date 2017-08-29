@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected java.lang.Class<? extends org.springframework.test.context.support.ContextLoader> < ? extends ContextLoader > java.lang.Class<? extends org.springframework.test.context.support.ContextLoader> ( java.lang.Class<?> < ? > java.lang.Class<?> ) { return DelegatingSmartContextLoader .class ; }  <METHOD_END>

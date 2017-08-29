@@ -1,0 +1,2 @@
+<METHOD_START> public void ( SampleMessageGateway sample.integration.SampleMessageGateway ) { this . sample.integration.SampleMessageGateway = sample.integration.SampleMessageGateway ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String ... java.lang.String[] ) throws java.lang.Exception { for ( java.lang.String java.lang.String : java.lang.String[] ) { this . sample.integration.SampleMessageGateway . echo ( java.lang.String ) ; } }  <METHOD_END>

@@ -1,0 +1,6 @@
+<METHOD_START> public java.util.concurrent.ScheduledFuture<?> < ? > java.util.concurrent.ScheduledFuture<?> ( java.lang.Runnable java.lang.Runnable , Trigger org.springframework.integration.config.Trigger ) { return null ; }  <METHOD_END>
+<METHOD_START> public java.util.concurrent.ScheduledFuture<?> < ? > java.util.concurrent.ScheduledFuture<?> ( java.lang.Runnable java.lang.Runnable , java.util.Date java.util.Date ) { return null ; }  <METHOD_END>
+<METHOD_START> public java.util.concurrent.ScheduledFuture<?> < ? > java.util.concurrent.ScheduledFuture<?> ( java.lang.Runnable java.lang.Runnable , long long ) { return null ; }  <METHOD_END>
+<METHOD_START> public java.util.concurrent.ScheduledFuture<?> < ? > java.util.concurrent.ScheduledFuture<?> ( java.lang.Runnable java.lang.Runnable , java.util.Date java.util.Date , long long ) { return null ; }  <METHOD_END>
+<METHOD_START> public java.util.concurrent.ScheduledFuture<?> < ? > java.util.concurrent.ScheduledFuture<?> ( java.lang.Runnable java.lang.Runnable , long long ) { return null ; }  <METHOD_END>
+<METHOD_START> public java.util.concurrent.ScheduledFuture<?> < ? > java.util.concurrent.ScheduledFuture<?> ( java.lang.Runnable java.lang.Runnable , java.util.Date java.util.Date , long long ) { return null ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> public static java.lang.String java.lang.String ( ) { return java.lang.ThreadLocal<java.lang.String> . java.lang.String ( ) ; }  <METHOD_END>
+<METHOD_START> static void void ( java.lang.String java.lang.String ) { if ( java.lang.String != null ) { java.lang.ThreadLocal<java.lang.String> . void ( java.lang.String ) ; } else { java.lang.ThreadLocal<java.lang.String> . void ( ) ; } }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> @ java.lang.Override public < T extends java.lang.Enum > org.springframework.core.convert.support.Converter<java.lang.Integer,T> < java.lang.Integer , T > org.springframework.core.convert.support.Converter<java.lang.Integer,T> ( java.lang.Class<T> < T > java.lang.Class<T> ) { return new org.springframework.core.convert.support.IntegerToEnumConverterFactory.IntegerToEnum ( ConversionUtils . getEnumType ( java.lang.Class<T> ) ) ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.Class<T> < T > java.lang.Class<T> ) { this . java.lang.Class<T> = java.lang.Class<T> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public T T ( java.lang.Integer java.lang.Integer ) { return this . java.lang.Class<T> . T[] ( ) [ java.lang.Integer ] ; }  <METHOD_END>

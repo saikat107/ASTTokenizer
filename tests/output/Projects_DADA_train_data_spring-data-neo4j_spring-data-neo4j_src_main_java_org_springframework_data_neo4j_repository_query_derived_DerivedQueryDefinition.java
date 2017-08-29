@@ -1,0 +1,3 @@
+<METHOD_START> void void ( Part org.springframework.data.neo4j.repository.query.derived.Part , BooleanOperator org.springframework.data.neo4j.repository.query.derived.BooleanOperator );  <METHOD_END>
+<METHOD_START> org.springframework.data.neo4j.repository.query.derived.Part org.springframework.data.neo4j.repository.query.derived.Part ( )  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.neo4j.repository.query.derived.Filter> < Filter > java.util.List<org.springframework.data.neo4j.repository.query.derived.Filter> ( java.util.Map<java.lang.Integer,java.lang.Object> < java.lang.Integer , java.lang.Object > java.util.Map<java.lang.Integer,java.lang.Object> );  <METHOD_END>

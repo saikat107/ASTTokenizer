@@ -1,0 +1,4 @@
+<METHOD_START> public boolean boolean ( MessageContext org.springframework.integration.ws.config.MessageContext ) throws org.springframework.integration.ws.config.WebServiceClientException { return true ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( MessageContext org.springframework.integration.ws.config.MessageContext ) throws org.springframework.integration.ws.config.WebServiceClientException { return true ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( MessageContext org.springframework.integration.ws.config.MessageContext ) throws org.springframework.integration.ws.config.WebServiceClientException { return false ; }  <METHOD_END>
+<METHOD_START> public void void ( MessageContext org.springframework.integration.ws.config.MessageContext , java.lang.Exception java.lang.Exception ) throws org.springframework.integration.ws.config.WebServiceClientException {	}  <METHOD_END>

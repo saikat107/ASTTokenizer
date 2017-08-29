@@ -1,0 +1,6 @@
+<METHOD_START> public void ( ) { setUpdatableResults ( true ) ; }  <METHOD_END>
+<METHOD_START> public void ( javax.sql.DataSource javax.sql.DataSource , java.lang.String java.lang.String ) { super( javax.sql.DataSource , java.lang.String ); setUpdatableResults ( true ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.jdbc.object.RowMapper<T> < T > org.springframework.jdbc.object.RowMapper<T> ( java.lang.Object [] java.lang.Object[] , java.util.Map<?,?> < ? , ? > java.util.Map<?,?> ) { return new org.springframework.jdbc.object.UpdatableSqlQuery<T>.RowMapperImpl ( java.util.Map<,> ) ; }  <METHOD_END>
+<METHOD_START> protected abstract T T ( java.sql.ResultSet java.sql.ResultSet , int int , java.util.Map<?,?> < ? , ? > java.util.Map<?,?> ) throws java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> public void ( java.util.Map<?,?> < ? , ? > java.util.Map<?,?> ) { this . java.util.Map<?,?> = java.util.Map<,> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public T T ( java.sql.ResultSet java.sql.ResultSet , int int ) throws java.sql.SQLException { T T = T ( java.sql.ResultSet , int , this . java.util.Map<,> ) ; java.sql.ResultSet . void ( ) ; return T ; }  <METHOD_END>

@@ -1,0 +1,7 @@
+<METHOD_START> @ Before public void void ( ) { this . org.springframework.test.web.servlet.samples.standalone.resultmatchers.MockMvc = standaloneSetup ( new org.springframework.test.web.servlet.samples.standalone.resultmatchers.UrlAssertionTests.SimpleController ( ) ) . build ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.test.web.servlet.samples.standalone.resultmatchers.MockMvc . perform ( get ( STRING ) ) . andExpect ( redirectedUrl ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.test.web.servlet.samples.standalone.resultmatchers.MockMvc . perform ( get ( STRING ) ) . andExpect ( redirectedUrlPattern ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.test.web.servlet.samples.standalone.resultmatchers.MockMvc . perform ( get ( STRING ) ) . andExpect ( forwardedUrl ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.test.web.servlet.samples.standalone.resultmatchers.MockMvc . perform ( get ( STRING ) ) . andExpect ( forwardedUrlPattern ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ RequestMapping ( STRING ) public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ RequestMapping ( STRING ) public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>

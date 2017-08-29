@@ -1,0 +1,1 @@
+<METHOD_START> java.util.Optional<org.springframework.data.querydsl.binding.Predicate> < Predicate > java.util.Optional<org.springframework.data.querydsl.binding.Predicate> ( T T , java.util.Optional<? extends S> < ? extends S > java.util.Optional<? extends S> );  <METHOD_END>

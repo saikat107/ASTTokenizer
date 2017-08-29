@@ -1,0 +1,1 @@
+<METHOD_START> T T ( Interaction org.springframework.jca.cci.core.Interaction , ConnectionFactory org.springframework.jca.cci.core.ConnectionFactory )			throws org.springframework.jca.cci.core.ResourceException , java.sql.SQLException , org.springframework.jca.cci.core.DataAccessException ;  <METHOD_END>

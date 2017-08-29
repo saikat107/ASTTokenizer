@@ -1,0 +1,6 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String ) { void ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { Assert . notNull ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; this . org.springframework.aop.aspectj.TypePatternMatcher = PointcutParser . getPointcutParserSupportingAllPrimitivesAndUsingContextClassloaderForResolution ( ) . parseTypePattern ( java.lang.String ( java.lang.String ) ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> ) { Assert . state ( this . org.springframework.aop.aspectj.TypePatternMatcher != null , STRING ) ; return this . org.springframework.aop.aspectj.TypePatternMatcher . matches ( java.lang.Class<> ) ; }  <METHOD_END>
+<METHOD_START> private java.lang.String java.lang.String ( java.lang.String java.lang.String ) { java.lang.String java.lang.String = StringUtils . replace ( java.lang.String , STRING , STRING ) ; java.lang.String = StringUtils . replace ( java.lang.String , STRING , STRING ) ; return StringUtils . replace ( java.lang.String , STRING , STRING ) ; }  <METHOD_END>

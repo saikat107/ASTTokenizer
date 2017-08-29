@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.Class<?> < ? > java.lang.Class<?> ) { super( java.lang.Class<> ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.gemfire.function.execution.OnRegionMethodMetadata org.springframework.data.gemfire.function.execution.OnRegionMethodMetadata ( java.lang.reflect.Method java.lang.reflect.Method ) { return new org.springframework.data.gemfire.function.execution.OnRegionMethodMetadata ( java.lang.reflect.Method ) ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.reflect.Method java.lang.reflect.Method ) { super( java.lang.reflect.Method ); this . int = GemfireFunctionUtils . getAnnotationParameterPosition ( java.lang.reflect.Method , Filter .class , new java.lang.Class<?> < ? > [] { java.util.Set .class } ) ; }  <METHOD_END>
+<METHOD_START> public int int ( ) { return this . int ; }  <METHOD_END>

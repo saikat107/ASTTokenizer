@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.cassandra.core.Mono<org.springframework.cassandra.core.PreparedStatement> < PreparedStatement > org.springframework.cassandra.core.Mono<org.springframework.cassandra.core.PreparedStatement> ( ReactiveSession org.springframework.cassandra.core.ReactiveSession ) throws org.springframework.cassandra.core.DriverException ;  <METHOD_END>

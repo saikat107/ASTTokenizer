@@ -1,0 +1,4 @@
+<METHOD_START> org.springframework.integration.mqtt.core.IMqttClient org.springframework.integration.mqtt.core.IMqttClient ( java.lang.String java.lang.String , java.lang.String java.lang.String ) throws org.springframework.integration.mqtt.core.MqttException ;  <METHOD_END>
+<METHOD_START> org.springframework.integration.mqtt.core.IMqttAsyncClient org.springframework.integration.mqtt.core.IMqttAsyncClient ( java.lang.String java.lang.String , java.lang.String java.lang.String ) throws org.springframework.integration.mqtt.core.MqttException ;  <METHOD_END>
+<METHOD_START> org.springframework.integration.mqtt.core.MqttConnectOptions org.springframework.integration.mqtt.core.MqttConnectOptions ( )  <METHOD_END>
+<METHOD_START> org.springframework.integration.mqtt.core.ConsumerStopAction org.springframework.integration.mqtt.core.ConsumerStopAction ( )  <METHOD_END>

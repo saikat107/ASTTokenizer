@@ -1,0 +1,1 @@
+<METHOD_START> @ GetMapping ( STRING ) public org.springframework.boot.test.autoconfigure.web.reactive.webclient.Mono<java.lang.String> < java.lang.String > org.springframework.boot.test.autoconfigure.web.reactive.webclient.Mono<java.lang.String> ( ) { return Mono . just ( STRING ) ; }  <METHOD_END>

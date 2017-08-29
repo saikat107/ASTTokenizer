@@ -1,0 +1,1 @@
+<METHOD_START> boolean boolean ( MetadataReader org.springframework.core.type.filter.MetadataReader , MetadataReaderFactory org.springframework.core.type.filter.MetadataReaderFactory )			throws java.io.IOException ;  <METHOD_END>

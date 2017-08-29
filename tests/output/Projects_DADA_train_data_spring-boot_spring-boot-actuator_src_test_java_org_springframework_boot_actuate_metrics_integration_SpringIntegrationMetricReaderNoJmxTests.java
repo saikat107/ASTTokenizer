@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.actuate.metrics.integration.MetricReaderPublicMetrics . metrics ( ) . size ( ) > NUMBER ) . isTrue ( ) ; }  <METHOD_END>

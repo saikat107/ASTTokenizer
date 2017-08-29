@@ -1,0 +1,1 @@
+<METHOD_START> @ Query ( STRING ) java.util.List<org.springframework.data.gemfire.repository.sample.Customer> < Customer > java.util.List<org.springframework.data.gemfire.repository.sample.Customer> ( )  <METHOD_END>

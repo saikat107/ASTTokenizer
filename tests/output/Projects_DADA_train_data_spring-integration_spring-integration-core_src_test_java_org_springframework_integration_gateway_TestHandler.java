@@ -1,0 +1,1 @@
+<METHOD_START> public java.lang.String java.lang.String ( Message < ? > org.springframework.integration.gateway.Message<?> ) { return org.springframework.integration.gateway.Message<> . getPayload ( ) + STRING ; }  <METHOD_END>

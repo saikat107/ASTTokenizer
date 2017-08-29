@@ -1,0 +1,3 @@
+<METHOD_START> public void ( Lifecycle org.springframework.integration.support.management.Lifecycle , MessageSourceManagement org.springframework.integration.support.management.MessageSourceManagement ) { super( org.springframework.integration.support.management.Lifecycle , org.springframework.integration.support.management.MessageSourceManagement ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( int int ) { ( ( MessageSourceManagement ) this . delegate ) . setMaxFetchSize ( int ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return ( ( MessageSourceManagement ) this . delegate ) . getMaxFetchSize ( ) ; }  <METHOD_END>

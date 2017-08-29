@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean public org.springframework.boot.web.servlet.support.ErrorPageFilter org.springframework.boot.web.servlet.support.ErrorPageFilter ( ) { return new ErrorPageFilter ( ) ; }  <METHOD_END>

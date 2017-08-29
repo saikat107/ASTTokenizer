@@ -1,0 +1,4 @@
+<METHOD_START> @ java.lang.Override @ java.lang.SuppressWarnings ( STRING ) public void void ( Message < ? > org.springframework.integration.test.support.Message<?> ) throws org.springframework.integration.test.support.MessagingException { this . org.springframework.integration.test.support.Message<?> = org.springframework.integration.test.support.Message<> ; void ( ( T ) ( boolean ( ) ? org.springframework.integration.test.support.Message<> . getPayload ( ) : org.springframework.integration.test.support.Message<> ) ) ; }  <METHOD_END>
+<METHOD_START> protected abstract void void ( T T );  <METHOD_END>
+<METHOD_START> protected abstract boolean boolean ( )  <METHOD_END>
+<METHOD_START> public org.springframework.integration.test.support.Message<?> < ? > org.springframework.integration.test.support.Message<?> ( ) { return org.springframework.integration.test.support.Message<> ; }  <METHOD_END>

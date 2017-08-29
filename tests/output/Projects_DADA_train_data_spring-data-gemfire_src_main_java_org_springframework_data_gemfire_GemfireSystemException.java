@@ -1,0 +1,3 @@
+<METHOD_START> public void ( GemFireCheckedException org.springframework.data.gemfire.GemFireCheckedException ) { super( org.springframework.data.gemfire.GemFireCheckedException . getMessage ( ) , org.springframework.data.gemfire.GemFireCheckedException ); }  <METHOD_END>
+<METHOD_START> public void ( GemFireException org.springframework.data.gemfire.GemFireException ) { super( org.springframework.data.gemfire.GemFireException . getMessage ( ) , org.springframework.data.gemfire.GemFireException ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.RuntimeException java.lang.RuntimeException ) { super( java.lang.RuntimeException . java.lang.String ( ) , java.lang.RuntimeException ); }  <METHOD_END>

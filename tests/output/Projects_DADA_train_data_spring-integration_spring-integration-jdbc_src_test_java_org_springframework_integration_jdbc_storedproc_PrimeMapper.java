@@ -1,0 +1,1 @@
+<METHOD_START> public java.lang.Integer java.lang.Integer ( java.sql.ResultSet java.sql.ResultSet , int int ) throws java.sql.SQLException { return java.sql.ResultSet . int ( STRING ) ; }  <METHOD_END>

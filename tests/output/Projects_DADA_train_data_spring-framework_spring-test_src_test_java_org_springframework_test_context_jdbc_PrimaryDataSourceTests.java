@@ -1,0 +1,4 @@
+<METHOD_START> @ Primary @ Bean public javax.sql.DataSource javax.sql.DataSource ( ) { return new EmbeddedDatabaseBuilder ( ) . generateUniqueName ( true ) . addScript ( STRING ) . build ( ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public javax.sql.DataSource javax.sql.DataSource ( ) { return new EmbeddedDatabaseBuilder ( ) . generateUniqueName ( true ) . build ( ) ; }  <METHOD_END>
+<METHOD_START> @ Autowired public void void ( javax.sql.DataSource javax.sql.DataSource ) { this . org.springframework.test.context.jdbc.JdbcTemplate = new JdbcTemplate ( javax.sql.DataSource ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Sql ( STRING ) public void void ( ) { TransactionTestUtils . assertInTransaction ( false ) ; assertEquals ( STRING , NUMBER , JdbcTestUtils . countRowsInTable ( this . org.springframework.test.context.jdbc.JdbcTemplate , STRING ) ) ; }  <METHOD_END>

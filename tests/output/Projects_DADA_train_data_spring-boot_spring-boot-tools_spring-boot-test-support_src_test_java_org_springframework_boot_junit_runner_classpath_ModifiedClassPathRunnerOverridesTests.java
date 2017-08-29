@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( ApplicationContext .class . java.security.ProtectionDomain ( ) . java.security.CodeSource ( ) . java.net.URL ( ) . java.lang.String ( ) ) . endsWith ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( StringUtils .class . java.security.ProtectionDomain ( ) . java.security.CodeSource ( ) . java.net.URL ( ) . java.lang.String ( ) ) . endsWith ( STRING ) ; }  <METHOD_END>

@@ -1,0 +1,8 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { super( java.lang.String ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , InterestResultPolicy org.springframework.data.gemfire.client.InterestResultPolicy ) { super( java.lang.String , org.springframework.data.gemfire.client.InterestResultPolicy ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , InterestResultPolicy org.springframework.data.gemfire.client.InterestResultPolicy , boolean boolean ) { super( java.lang.String , org.springframework.data.gemfire.client.InterestResultPolicy , boolean ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , InterestResultPolicy org.springframework.data.gemfire.client.InterestResultPolicy , boolean boolean , boolean boolean ) { super( java.lang.String , org.springframework.data.gemfire.client.InterestResultPolicy , boolean , boolean ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { Assert . hasText ( getKey ( ) , STRING ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return getKey ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.client.Type org.springframework.data.gemfire.client.Type ( ) { return Type . REGEX ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Type org.springframework.data.gemfire.client.Type ) { logger . warn ( java.lang.String . java.lang.String ( STRING , org.springframework.data.gemfire.client.Type , java.lang.Class<? extends org.springframework.data.gemfire.client.RegexInterest> ( ) . java.lang.String ( ) ) ) ; }  <METHOD_END>

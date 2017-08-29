@@ -1,0 +1,3 @@
+<METHOD_START> public void ( javax.sql.DataSource javax.sql.DataSource ) { this . javax.sql.DataSource = javax.sql.DataSource ; }  <METHOD_END>
+<METHOD_START> @ Bean @ Primary @ ConditionalOnMissingBean ( JdbcOperations .class ) public org.springframework.boot.autoconfigure.jdbc.JdbcTemplate org.springframework.boot.autoconfigure.jdbc.JdbcTemplate ( ) { return new JdbcTemplate ( this . javax.sql.DataSource ) ; }  <METHOD_END>
+<METHOD_START> @ Bean @ Primary @ ConditionalOnMissingBean ( NamedParameterJdbcOperations .class ) public org.springframework.boot.autoconfigure.jdbc.NamedParameterJdbcTemplate org.springframework.boot.autoconfigure.jdbc.NamedParameterJdbcTemplate ( ) { return new NamedParameterJdbcTemplate ( this . javax.sql.DataSource ) ; }  <METHOD_END>

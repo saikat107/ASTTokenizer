@@ -1,0 +1,16 @@
+<METHOD_START> @ java.lang.Override @ View ( designDocument = STRING , viewName = STRING ) java.lang.Iterable<org.springframework.data.couchbase.repository.User> < User > java.lang.Iterable<org.springframework.data.couchbase.repository.User> ( )  <METHOD_END>
+<METHOD_START> @ java.lang.Override @ View ( designDocument = STRING , viewName = STRING ) long long ( )  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) java.lang.Iterable<org.springframework.data.couchbase.repository.User> < User > java.lang.Iterable<org.springframework.data.couchbase.repository.User> ( )  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) java.lang.Iterable<org.springframework.data.couchbase.repository.User> < User > java.lang.Iterable<org.springframework.data.couchbase.repository.User> ( )  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) long long ( java.lang.String java.lang.String , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) java.util.List<org.springframework.data.couchbase.repository.User> < User > java.util.List<org.springframework.data.couchbase.repository.User> ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) java.util.List<org.springframework.data.couchbase.repository.User> < User > java.util.List<org.springframework.data.couchbase.repository.User> ( java.util.List<java.lang.String> < java.lang.String > java.util.List<java.lang.String> );  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) java.util.List<org.springframework.data.couchbase.repository.User> < User > java.util.List<org.springframework.data.couchbase.repository.User> ( java.lang.String java.lang.String , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) java.util.List<org.springframework.data.couchbase.repository.User> < User > java.util.List<org.springframework.data.couchbase.repository.User> ( java.lang.String java.lang.String , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) java.util.List<org.springframework.data.couchbase.repository.User> < User > java.util.List<org.springframework.data.couchbase.repository.User> ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) java.util.List<org.springframework.data.couchbase.repository.User> < User > java.util.List<org.springframework.data.couchbase.repository.User> ( )  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING ) java.util.List<org.springframework.data.couchbase.repository.User> < User > java.util.List<org.springframework.data.couchbase.repository.User> ( java.lang.String java.lang.String , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> @ View java.util.List<org.springframework.data.couchbase.repository.User> < User > java.util.List<org.springframework.data.couchbase.repository.User> ( )  <METHOD_END>
+<METHOD_START> @ View long long ( )  <METHOD_END>
+<METHOD_START> @ View long long ( )  <METHOD_END>
+<METHOD_START> @ View ( viewName = STRING , reduce = true ) org.springframework.data.couchbase.repository.JsonObject org.springframework.data.couchbase.repository.JsonObject ( int int );  <METHOD_END>

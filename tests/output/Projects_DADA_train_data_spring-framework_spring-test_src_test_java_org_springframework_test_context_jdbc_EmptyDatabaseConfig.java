@@ -1,0 +1,2 @@
+<METHOD_START> @ Bean public org.springframework.test.context.jdbc.PlatformTransactionManager org.springframework.test.context.jdbc.PlatformTransactionManager ( ) { return new DataSourceTransactionManager ( javax.sql.DataSource ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public javax.sql.DataSource javax.sql.DataSource ( ) { return new EmbeddedDatabaseBuilder ( ) . setName ( STRING ) . build ( ) ; }  <METHOD_END>

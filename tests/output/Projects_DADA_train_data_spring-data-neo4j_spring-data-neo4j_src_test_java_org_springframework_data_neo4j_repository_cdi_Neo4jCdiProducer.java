@@ -1,0 +1,2 @@
+<METHOD_START> @ Produces @ ApplicationScoped org.springframework.data.neo4j.repository.cdi.Session org.springframework.data.neo4j.repository.cdi.Session ( ) { return null ; }  <METHOD_END>
+<METHOD_START> @ Produces @ ApplicationScoped @ PersonDB @ OtherQualifier org.springframework.data.neo4j.repository.cdi.Session org.springframework.data.neo4j.repository.cdi.Session ( ) { return org.springframework.data.neo4j.repository.cdi.Session ( ) ; }  <METHOD_END>

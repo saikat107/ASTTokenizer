@@ -1,0 +1,2 @@
+<METHOD_START> void ( java.util.function.Function<org.springframework.integration.ip.dsl.Message<?>,?> < Message < ? > , ? > java.util.function.Function<org.springframework.integration.ip.dsl.Message<?>,?> ) { super( java.util.function.Function<org.springframework.integration.ip.dsl.Message<?>,> ); }  <METHOD_END>
+<METHOD_START> void ( java.lang.String java.lang.String ) { super( java.lang.String ); }  <METHOD_END>

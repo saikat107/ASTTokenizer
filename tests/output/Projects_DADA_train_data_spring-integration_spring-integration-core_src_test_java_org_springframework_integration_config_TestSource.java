@@ -1,0 +1,1 @@
+<METHOD_START> public org.springframework.integration.config.Message<java.lang.String> < java.lang.String > org.springframework.integration.config.Message<java.lang.String> ( ) { return new GenericMessage < java.lang.String > ( STRING ) ; }  <METHOD_END>

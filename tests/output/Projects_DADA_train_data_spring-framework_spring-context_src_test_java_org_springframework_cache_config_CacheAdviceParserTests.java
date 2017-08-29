@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { try { new GenericXmlApplicationContext ( STRING ) ; fail ( STRING ) ; } catch ( BeanDefinitionStoreException org.springframework.cache.config.BeanDefinitionStoreException ) { } }  <METHOD_END>

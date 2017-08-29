@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.util.concurrent.CountDownLatch java.util.concurrent.CountDownLatch ) { this . java.util.concurrent.CountDownLatch = java.util.concurrent.CountDownLatch ; }  <METHOD_END>
+<METHOD_START> public long long ( ) { return this . long ; }  <METHOD_END>
+<METHOD_START> public long long ( ) { return this . long ; }  <METHOD_END>
+<METHOD_START> public java.lang.Object java.lang.Object ( MethodInvocation org.springframework.integration.config.MethodInvocation ) throws java.lang.Throwable { try { this . long = this . java.util.concurrent.CountDownLatch . long ( ) ; this . java.util.concurrent.CountDownLatch . void ( ) ; return org.springframework.integration.config.MethodInvocation . proceed ( ) ; } finally { this . long = this . java.util.concurrent.CountDownLatch . long ( ) ; this . java.util.concurrent.CountDownLatch . void ( ) ; } }  <METHOD_END>

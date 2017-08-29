@@ -1,0 +1,4 @@
+<METHOD_START> @ CliCommand ( value = STRING , help = STRING ) public java.lang.String java.lang.String ( ) { return demo.persist.Persist . listDbEntries ( ) ; }  <METHOD_END>
+<METHOD_START> @ CliCommand ( value = STRING , help = STRING ) public void void ( @ CliOption ( key = { STRING , STRING } , help = STRING ) int int ) { demo.persist.Persist . change ( int , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ CliCommand ( value = STRING , help = STRING ) public void void ( @ CliOption ( key = { STRING , STRING } , help = STRING ) int int ) { demo.persist.Persist . change ( int , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ CliCommand ( value = STRING , help = STRING ) public void void ( @ CliOption ( key = { STRING , STRING } , help = STRING ) int int ) { demo.persist.Persist . change ( int , STRING ) ; }  <METHOD_END>

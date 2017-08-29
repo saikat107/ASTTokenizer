@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.InterruptedException , sample.activemq.JMSException { this . sample.activemq.Producer . send ( STRING ) ; java.lang.Thread . void ( NUMBER ) ; assertThat ( this . sample.activemq.OutputCapture . toString ( ) . contains ( STRING ) ) . isTrue ( ) ; }  <METHOD_END>

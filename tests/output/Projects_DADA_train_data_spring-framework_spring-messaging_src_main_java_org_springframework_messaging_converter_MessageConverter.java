@@ -1,0 +1,2 @@
+<METHOD_START> java.lang.Object java.lang.Object ( Message < ? > org.springframework.messaging.converter.Message<?> , java.lang.Class<?> < ? > java.lang.Class<?> );  <METHOD_END>
+<METHOD_START> org.springframework.messaging.converter.Message<?> < ? > org.springframework.messaging.converter.Message<?> ( java.lang.Object java.lang.Object , MessageHeaders org.springframework.messaging.converter.MessageHeaders );  <METHOD_END>

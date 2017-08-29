@@ -1,0 +1,7 @@
+<METHOD_START> @ java.lang.Override protected void void ( ServletContext org.springframework.web.socket.server.support.ServletContext ) { for ( java.lang.Object java.lang.Object : getUrlMap ( ) . values ( ) ) { if ( java.lang.Object instanceof ServletContextAware ) { ( ( ServletContextAware ) java.lang.Object ) . setServletContext ( org.springframework.web.socket.server.support.ServletContext ) ; } } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return java.lang.Integer . int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { if ( ! boolean ( ) ) { this . boolean = true ; for ( java.lang.Object java.lang.Object : getUrlMap ( ) . values ( ) ) { if ( java.lang.Object instanceof Lifecycle ) { ( ( Lifecycle ) java.lang.Object ) . start ( ) ; } } } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { if ( boolean ( ) ) { this . boolean = false ; for ( java.lang.Object java.lang.Object : getUrlMap ( ) . values ( ) ) { if ( java.lang.Object instanceof Lifecycle ) { ( ( Lifecycle ) java.lang.Object ) . stop ( ) ; } } } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.Runnable java.lang.Runnable ) { void ( ) ; java.lang.Runnable . void ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>

@@ -1,0 +1,5 @@
+<METHOD_START> public void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( java.lang.Boolean java.lang.Boolean , java.lang.Boolean java.lang.Boolean ) { return ( java.lang.Boolean ^ java.lang.Boolean ) ? ( ( java.lang.Boolean ^ this . boolean ) ? NUMBER : - NUMBER ) : NUMBER ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { return ( this == java.lang.Object || ( java.lang.Object instanceof org.springframework.util.comparator.BooleanComparator && ( this . boolean == ( ( org.springframework.util.comparator.BooleanComparator ) java.lang.Object ) . boolean ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return java.lang.Class<? extends org.springframework.util.comparator.BooleanComparator> ( ) . int ( ) * ( this . boolean ? - NUMBER : NUMBER ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING + ( this . boolean ? STRING : STRING ) ; }  <METHOD_END>

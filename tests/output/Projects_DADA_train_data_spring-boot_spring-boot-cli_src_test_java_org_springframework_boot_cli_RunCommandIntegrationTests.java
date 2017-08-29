@@ -1,0 +1,4 @@
+<METHOD_START> @ Before public void void ( ) { this . java.util.Properties . void ( java.lang.System . java.util.Properties ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ After public void void ( ) { java.lang.System . void ( this . java.util.Properties ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { java.lang.String java.lang.String = this . org.springframework.boot.cli.CliTester . run ( STRING ) ; assertThat ( java.lang.String ) . contains ( STRING ) ; assertThat ( java.lang.String ) . contains ( STRING ) ; assertThat ( java.lang.String ) . contains ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.boot.cli.CliTester . run ( STRING ) ; java.lang.String java.lang.String = this . org.springframework.boot.cli.CliTester . run ( STRING , STRING ) ; assertThat ( java.lang.String ) . isEqualTo ( STRING ) ; }  <METHOD_END>

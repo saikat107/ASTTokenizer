@@ -1,0 +1,4 @@
+<METHOD_START> public void void ( ) { org.springframework.data.jpa.repository.cdi.PersonRepository . findAll ( ) ; org.springframework.data.jpa.repository.cdi.PersonRepository . findAll ( ) ; }  <METHOD_END>
+<METHOD_START> public void void ( Person org.springframework.data.jpa.repository.cdi.Person ) { org.springframework.data.jpa.repository.cdi.PersonRepository . save ( org.springframework.data.jpa.repository.cdi.Person ) ; org.springframework.data.jpa.repository.cdi.PersonRepository . save ( org.springframework.data.jpa.repository.cdi.Person ) ; }  <METHOD_END>
+<METHOD_START> public int int ( ) { return org.springframework.data.jpa.repository.cdi.SamplePersonRepository . returnOne ( ) ; }  <METHOD_END>
+<METHOD_START> public void void ( ) { org.springframework.data.jpa.repository.cdi.QualifiedCustomizedUserRepository . doSomething ( ) ; }  <METHOD_END>

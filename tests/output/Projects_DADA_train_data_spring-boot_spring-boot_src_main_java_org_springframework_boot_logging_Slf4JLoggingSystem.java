@@ -1,0 +1,7 @@
+<METHOD_START> public void ( java.lang.ClassLoader java.lang.ClassLoader ) { super( java.lang.ClassLoader ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { super. beforeInitialize ( ) ; void ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { void ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected void void ( LoggingInitializationContext org.springframework.boot.logging.LoggingInitializationContext , java.lang.String java.lang.String , LogFile org.springframework.boot.logging.LogFile ) { Assert . notNull ( java.lang.String , STRING ) ; if ( org.springframework.boot.logging.LoggingInitializationContext != null ) { applySystemProperties ( org.springframework.boot.logging.LoggingInitializationContext . getEnvironment ( ) , org.springframework.boot.logging.LogFile ) ; } }  <METHOD_END>
+<METHOD_START> private void void ( ) { try { if ( boolean ( ) ) { void ( ) ; SLF4JBridgeHandler . install ( ) ; } } catch ( java.lang.Throwable java.lang.Throwable ) { } }  <METHOD_END>
+<METHOD_START> protected final boolean boolean ( ) { return ClassUtils . isPresent ( java.lang.String , getClassLoader ( ) ) ; }  <METHOD_END>
+<METHOD_START> private void void ( ) { try { if ( boolean ( ) ) { try { SLF4JBridgeHandler . removeHandlersForRootLogger ( ) ; } catch ( java.lang.NoSuchMethodError java.lang.NoSuchMethodError ) { SLF4JBridgeHandler . uninstall ( ) ; } } } catch ( java.lang.Throwable java.lang.Throwable ) { } }  <METHOD_END>

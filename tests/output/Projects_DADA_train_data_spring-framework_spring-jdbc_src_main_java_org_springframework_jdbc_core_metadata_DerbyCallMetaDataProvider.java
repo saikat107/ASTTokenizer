@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.sql.DatabaseMetaData java.sql.DatabaseMetaData ) throws java.sql.SQLException { super( java.sql.DatabaseMetaData ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( java.lang.String java.lang.String ) { if ( java.lang.String != null ) { return super. metaDataSchemaNameToUse ( java.lang.String ) ; } java.lang.String java.lang.String = getUserName ( ) ; return ( java.lang.String != null ? java.lang.String . java.lang.String ( ) : null ) ; }  <METHOD_END>

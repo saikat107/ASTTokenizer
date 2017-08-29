@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.util.List<org.springframework.data.mongodb.core.geo.Point> < Point > java.util.List<org.springframework.data.mongodb.core.geo.Point> ) { super( java.util.List<org.springframework.data.mongodb.core.geo.Point> ); }  <METHOD_END>
+<METHOD_START> public void ( Point org.springframework.data.mongodb.core.geo.Point , Point org.springframework.data.mongodb.core.geo.Point , Point ... org.springframework.data.mongodb.core.geo.Point[] ) { super( org.springframework.data.mongodb.core.geo.Point , org.springframework.data.mongodb.core.geo.Point , org.springframework.data.mongodb.core.geo.Point[] ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>

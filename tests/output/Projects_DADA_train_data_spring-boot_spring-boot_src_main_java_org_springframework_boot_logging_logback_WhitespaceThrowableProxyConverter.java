@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( IThrowableProxy org.springframework.boot.logging.logback.IThrowableProxy ) { return CoreConstants . LINE_SEPARATOR + super. throwableProxyToString ( org.springframework.boot.logging.logback.IThrowableProxy ) + CoreConstants . LINE_SEPARATOR ; }  <METHOD_END>

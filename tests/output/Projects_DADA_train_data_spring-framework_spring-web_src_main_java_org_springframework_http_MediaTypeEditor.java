@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) { if ( StringUtils . hasText ( java.lang.String ) ) { void ( MediaType . parseMediaType ( java.lang.String ) ) ; } else { void ( null ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { MediaType org.springframework.http.MediaType = ( MediaType ) java.lang.Object ( ) ; return ( org.springframework.http.MediaType != null ? org.springframework.http.MediaType . toString ( ) : STRING ) ; }  <METHOD_END>

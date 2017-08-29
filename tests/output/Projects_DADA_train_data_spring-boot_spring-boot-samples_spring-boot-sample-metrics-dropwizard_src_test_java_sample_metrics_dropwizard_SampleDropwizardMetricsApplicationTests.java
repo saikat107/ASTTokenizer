@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { this . sample.metrics.dropwizard.GaugeService . submit ( STRING , NUMBER ) ; assertThat ( this . sample.metrics.dropwizard.MetricRegistry . getTimers ( ) . get ( STRING ) . getCount ( ) ) . isEqualTo ( NUMBER ) ; }  <METHOD_END>

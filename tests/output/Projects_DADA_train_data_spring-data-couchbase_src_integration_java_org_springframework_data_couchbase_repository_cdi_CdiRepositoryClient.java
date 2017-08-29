@@ -1,0 +1,3 @@
+<METHOD_START> public org.springframework.data.couchbase.repository.cdi.CdiPersonRepository org.springframework.data.couchbase.repository.cdi.CdiPersonRepository ( ) { return org.springframework.data.couchbase.repository.cdi.CdiPersonRepository ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.couchbase.repository.cdi.QualifiedPersonRepository org.springframework.data.couchbase.repository.cdi.QualifiedPersonRepository ( ) { return org.springframework.data.couchbase.repository.cdi.QualifiedPersonRepository ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.couchbase.repository.cdi.Bucket org.springframework.data.couchbase.repository.cdi.Bucket ( ) { return org.springframework.data.couchbase.repository.cdi.Bucket ; }  <METHOD_END>

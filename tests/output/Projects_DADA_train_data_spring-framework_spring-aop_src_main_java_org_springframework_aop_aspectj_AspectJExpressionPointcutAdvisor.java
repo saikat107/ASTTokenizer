@@ -1,0 +1,8 @@
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . org.springframework.aop.aspectj.AspectJExpressionPointcut . setExpression ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . org.springframework.aop.aspectj.AspectJExpressionPointcut . getExpression ( ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . org.springframework.aop.aspectj.AspectJExpressionPointcut . setLocation ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . org.springframework.aop.aspectj.AspectJExpressionPointcut . getLocation ( ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String ... java.lang.String[] ) { this . org.springframework.aop.aspectj.AspectJExpressionPointcut . setParameterNames ( java.lang.String[] ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Class<?> < ? > ... java.lang.Class<?>[] ) { this . org.springframework.aop.aspectj.AspectJExpressionPointcut . setParameterTypes ( java.lang.Class<?>[] ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( BeanFactory org.springframework.aop.aspectj.BeanFactory ) { this . org.springframework.aop.aspectj.AspectJExpressionPointcut . setBeanFactory ( org.springframework.aop.aspectj.BeanFactory ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.aop.aspectj.Pointcut org.springframework.aop.aspectj.Pointcut ( ) { return this . org.springframework.aop.aspectj.AspectJExpressionPointcut ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> public void ( TcpServerConnectionFactory org.springframework.integration.ip.tcp.connection.TcpServerConnectionFactory , int int ) { super( org.springframework.integration.ip.tcp.connection.TcpServerConnectionFactory ); Assert . notNull ( org.springframework.integration.ip.tcp.connection.TcpServerConnectionFactory , STRING ) ; this . int = int ; }  <METHOD_END>
+<METHOD_START> public int int ( ) { return this . int ; }  <METHOD_END>

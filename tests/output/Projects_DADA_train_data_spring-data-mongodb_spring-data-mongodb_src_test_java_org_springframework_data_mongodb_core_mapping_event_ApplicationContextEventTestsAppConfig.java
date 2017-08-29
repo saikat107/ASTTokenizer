@@ -1,0 +1,5 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override @ Bean public org.springframework.data.mongodb.core.mapping.event.MongoClient org.springframework.data.mongodb.core.mapping.event.MongoClient ( ) { return new MongoClient ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.data.mongodb.core.mapping.event.PersonBeforeSaveListener org.springframework.data.mongodb.core.mapping.event.PersonBeforeSaveListener ( ) { return new PersonBeforeSaveListener ( ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.data.mongodb.core.mapping.event.AfterSaveListener org.springframework.data.mongodb.core.mapping.event.AfterSaveListener ( ) { return new AfterSaveListener ( ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.data.mongodb.core.mapping.event.SimpleMappingEventListener org.springframework.data.mongodb.core.mapping.event.SimpleMappingEventListener ( ) { return new SimpleMappingEventListener ( ) ; }  <METHOD_END>

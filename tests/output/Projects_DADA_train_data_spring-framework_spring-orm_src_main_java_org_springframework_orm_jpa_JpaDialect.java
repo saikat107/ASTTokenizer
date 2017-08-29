@@ -1,0 +1,5 @@
+<METHOD_START> java.lang.Object java.lang.Object ( EntityManager org.springframework.orm.jpa.EntityManager , TransactionDefinition org.springframework.orm.jpa.TransactionDefinition )			throws org.springframework.orm.jpa.PersistenceException , java.sql.SQLException , org.springframework.orm.jpa.TransactionException ;  <METHOD_END>
+<METHOD_START> java.lang.Object java.lang.Object ( EntityManager org.springframework.orm.jpa.EntityManager , boolean boolean , java.lang.String java.lang.String )			throws org.springframework.orm.jpa.PersistenceException ;  <METHOD_END>
+<METHOD_START> void void ( java.lang.Object java.lang.Object );  <METHOD_END>
+<METHOD_START> org.springframework.orm.jpa.ConnectionHandle org.springframework.orm.jpa.ConnectionHandle ( EntityManager org.springframework.orm.jpa.EntityManager , boolean boolean )			throws org.springframework.orm.jpa.PersistenceException , java.sql.SQLException ;  <METHOD_END>
+<METHOD_START> void void ( ConnectionHandle org.springframework.orm.jpa.ConnectionHandle , EntityManager org.springframework.orm.jpa.EntityManager )			throws org.springframework.orm.jpa.PersistenceException , java.sql.SQLException ;  <METHOD_END>

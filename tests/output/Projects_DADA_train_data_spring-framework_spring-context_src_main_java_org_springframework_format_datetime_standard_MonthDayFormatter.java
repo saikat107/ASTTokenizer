@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public java.time.MonthDay java.time.MonthDay ( java.lang.String java.lang.String , java.util.Locale java.util.Locale ) throws java.text.ParseException { return java.time.MonthDay . java.time.MonthDay ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( java.time.MonthDay java.time.MonthDay , java.util.Locale java.util.Locale ) { return java.time.MonthDay . java.lang.String ( ) ; }  <METHOD_END>

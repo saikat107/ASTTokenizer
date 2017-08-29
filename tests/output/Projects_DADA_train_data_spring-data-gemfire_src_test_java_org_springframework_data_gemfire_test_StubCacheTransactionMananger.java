@@ -1,0 +1,21 @@
+<METHOD_START> @ java.lang.Override public boolean boolean ( TransactionId org.springframework.data.gemfire.test.TransactionId ) { return false ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) {	}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) org.springframework.data.gemfire.test.CommitConflictException {	}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return false ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( TransactionId org.springframework.data.gemfire.test.TransactionId ) { return false ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( TransactionId org.springframework.data.gemfire.test.TransactionId ) {	}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) {	}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.test.TransactionId org.springframework.data.gemfire.test.TransactionId ( ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( TransactionId org.springframework.data.gemfire.test.TransactionId ) { return false ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( TransactionId org.springframework.data.gemfire.test.TransactionId , long long , java.util.concurrent.TimeUnit java.util.concurrent.TimeUnit ) { return false ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.test.TransactionId org.springframework.data.gemfire.test.TransactionId ( ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override @ java.lang.Deprecated public org.springframework.data.gemfire.test.TransactionListener org.springframework.data.gemfire.test.TransactionListener ( ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.test.TransactionListener [] org.springframework.data.gemfire.test.TransactionListener[] ( ) { return java.util.List<org.springframework.data.gemfire.test.TransactionListener> . toArray ( new TransactionListener [ java.util.List<org.springframework.data.gemfire.test.TransactionListener> . size ( ) ] ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override @ java.lang.Deprecated public org.springframework.data.gemfire.test.TransactionListener org.springframework.data.gemfire.test.TransactionListener ( TransactionListener org.springframework.data.gemfire.test.TransactionListener ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( TransactionListener org.springframework.data.gemfire.test.TransactionListener ) { this . java.util.List<org.springframework.data.gemfire.test.TransactionListener> . add ( org.springframework.data.gemfire.test.TransactionListener ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( TransactionListener org.springframework.data.gemfire.test.TransactionListener ) { this . java.util.List<org.springframework.data.gemfire.test.TransactionListener> . remove ( org.springframework.data.gemfire.test.TransactionListener ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( TransactionListener [] org.springframework.data.gemfire.test.TransactionListener[] ) { this . java.util.List<org.springframework.data.gemfire.test.TransactionListener> = java.util.Arrays . java.util.List ( org.springframework.data.gemfire.test.TransactionListener[] ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( TransactionWriter org.springframework.data.gemfire.test.TransactionWriter ) { this . org.springframework.data.gemfire.test.TransactionWriter = org.springframework.data.gemfire.test.TransactionWriter ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.test.TransactionWriter org.springframework.data.gemfire.test.TransactionWriter ( ) { return this . org.springframework.data.gemfire.test.TransactionWriter ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>

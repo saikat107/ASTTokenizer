@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( ) { return getIdentifier ( ) . orElseThrow ( ( ) new IllegalStateException ( String . format ( STRING , target . get ( ) ) ) ) ; }  <METHOD_END>

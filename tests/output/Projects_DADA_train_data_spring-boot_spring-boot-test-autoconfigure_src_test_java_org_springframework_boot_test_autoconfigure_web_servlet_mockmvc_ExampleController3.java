@@ -1,0 +1,1 @@
+<METHOD_START> @ GetMapping ( STRING ) public java.lang.String java.lang.String ( @ PathVariable @ Size ( max = NUMBER ) java.lang.String java.lang.String ) { return STRING + java.lang.String ; }  <METHOD_END>

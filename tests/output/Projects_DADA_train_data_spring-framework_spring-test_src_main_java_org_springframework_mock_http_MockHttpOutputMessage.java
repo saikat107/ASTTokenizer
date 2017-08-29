@@ -1,0 +1,5 @@
+<METHOD_START> @ java.lang.Override public org.springframework.mock.http.HttpHeaders org.springframework.mock.http.HttpHeaders ( ) { return this . org.springframework.mock.http.HttpHeaders ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.io.OutputStream java.io.OutputStream ( ) java.io.IOException { return this . java.io.ByteArrayOutputStream ; }  <METHOD_END>
+<METHOD_START> public byte [] byte[] ( ) { return this . java.io.ByteArrayOutputStream . byte[] ( ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ( java.nio.charset.Charset ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( java.nio.charset.Charset java.nio.charset.Charset ) { byte [] byte[] = byte[] ( ) ; try { return new java.lang.String ( byte[] , java.nio.charset.Charset . java.lang.String ( ) ) ; } catch ( java.io.UnsupportedEncodingException java.io.UnsupportedEncodingException ) { throw new java.lang.IllegalStateException ( java.io.UnsupportedEncodingException ) ; } }  <METHOD_END>

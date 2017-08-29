@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.Integer java.lang.Integer , java.lang.String java.lang.String , java.lang.String java.lang.String ) { super( java.lang.Integer , java.lang.String , java.lang.String ); }  <METHOD_END>
+<METHOD_START> public java.util.List<org.springframework.data.mapping.Child> < Child > java.util.List<org.springframework.data.mapping.Child> ( ) { return java.util.List<org.springframework.data.mapping.Child> ; }  <METHOD_END>
+<METHOD_START> public void void ( java.util.List<org.springframework.data.mapping.Child> < Child > java.util.List<org.springframework.data.mapping.Child> ) { this . java.util.List<org.springframework.data.mapping.Child> = java.util.List<org.springframework.data.mapping.Child> ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , JMSException org.springframework.jms.connection.JMSException ) { super( java.lang.String , org.springframework.jms.connection.JMSException ); }  <METHOD_END>

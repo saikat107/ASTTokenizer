@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.IndexType org.springframework.data.gemfire.IndexType ( final java.lang.String java.lang.String ) { return assertConverted ( java.lang.String , IndexType . valueOfIgnoreCase ( StringUtils . trimWhitespace ( java.lang.String ) ) , IndexType .class ) ; }  <METHOD_END>

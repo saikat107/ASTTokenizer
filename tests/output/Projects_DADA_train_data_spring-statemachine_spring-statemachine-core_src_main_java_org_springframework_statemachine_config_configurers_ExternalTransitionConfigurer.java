@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.statemachine.config.configurers.ExternalTransitionConfigurer<S,E> < S , E > org.springframework.statemachine.config.configurers.ExternalTransitionConfigurer<S,E> ( S S );  <METHOD_END>

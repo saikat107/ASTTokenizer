@@ -1,0 +1,1 @@
+<METHOD_START> boolean boolean ( ConditionContext org.springframework.context.annotation.ConditionContext , AnnotatedTypeMetadata org.springframework.context.annotation.AnnotatedTypeMetadata );  <METHOD_END>

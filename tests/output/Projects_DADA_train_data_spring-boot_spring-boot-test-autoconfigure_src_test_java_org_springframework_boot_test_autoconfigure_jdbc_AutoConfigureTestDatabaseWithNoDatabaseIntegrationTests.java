@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . org.springframework.boot.test.autoconfigure.jdbc.ApplicationContext ) . isNotNull ( ) ; assertThat ( this . org.springframework.boot.test.autoconfigure.jdbc.ApplicationContext . getBeanNamesForType ( javax.sql.DataSource .class ) ) . isNotEmpty ( ) ; }  <METHOD_END>

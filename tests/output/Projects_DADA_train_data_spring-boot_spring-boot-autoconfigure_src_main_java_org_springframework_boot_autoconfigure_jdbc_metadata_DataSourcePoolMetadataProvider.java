@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadata org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadata ( javax.sql.DataSource javax.sql.DataSource );  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> boolean boolean ( Operation org.springframework.expression.Operation , java.lang.Object java.lang.Object , java.lang.Object java.lang.Object )			throws org.springframework.expression.EvaluationException ;  <METHOD_END>
+<METHOD_START> java.lang.Object java.lang.Object ( Operation org.springframework.expression.Operation , java.lang.Object java.lang.Object , java.lang.Object java.lang.Object )			throws org.springframework.expression.EvaluationException ;  <METHOD_END>

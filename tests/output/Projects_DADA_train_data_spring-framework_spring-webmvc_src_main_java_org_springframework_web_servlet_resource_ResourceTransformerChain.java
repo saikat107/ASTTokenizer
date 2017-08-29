@@ -1,0 +1,2 @@
+<METHOD_START> org.springframework.web.servlet.resource.ResourceResolverChain org.springframework.web.servlet.resource.ResourceResolverChain ( )  <METHOD_END>
+<METHOD_START> org.springframework.web.servlet.resource.Resource org.springframework.web.servlet.resource.Resource ( HttpServletRequest org.springframework.web.servlet.resource.HttpServletRequest , Resource org.springframework.web.servlet.resource.Resource ) throws java.io.IOException ;  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> public void ( ) { getPropertySources ( ) . addLast ( org.springframework.mock.env.MockPropertySource ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { org.springframework.mock.env.MockPropertySource . setProperty ( java.lang.String , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.mock.env.MockEnvironment org.springframework.mock.env.MockEnvironment ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { this . void ( java.lang.String , java.lang.String ) ; return this ; }  <METHOD_END>

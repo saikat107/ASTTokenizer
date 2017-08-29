@@ -1,0 +1,1 @@
+<METHOD_START> @ Test @ org.springframework.test.context.jdbc.ComposedAnnotationSqlScriptsTests.ComposedSql ( java.lang.String[] = { STRING , STRING } , java.lang.String[] = STRING , org.springframework.test.context.jdbc.ExecutionPhase = BEFORE_TEST_METHOD ) public void void ( ) { assertEquals ( STRING , NUMBER , countRowsInTable ( STRING ) ) ; }  <METHOD_END>

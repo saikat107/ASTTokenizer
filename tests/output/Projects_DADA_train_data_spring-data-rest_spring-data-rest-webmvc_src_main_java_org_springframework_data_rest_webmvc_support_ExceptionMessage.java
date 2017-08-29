@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.Throwable java.lang.Throwable ) { this . java.lang.Throwable = java.lang.Throwable ; }  <METHOD_END>
+<METHOD_START> @ JsonProperty ( STRING ) public java.lang.String java.lang.String ( ) { return java.lang.Throwable . java.lang.String ( ) ; }  <METHOD_END>
+<METHOD_START> @ JsonProperty ( STRING ) public org.springframework.data.rest.webmvc.support.ExceptionMessage org.springframework.data.rest.webmvc.support.ExceptionMessage ( ) { return java.lang.Throwable . java.lang.Throwable ( ) != null ? new org.springframework.data.rest.webmvc.support.ExceptionMessage ( java.lang.Throwable . java.lang.Throwable ( ) ) : null ; }  <METHOD_END>

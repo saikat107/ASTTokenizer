@@ -1,0 +1,14 @@
+<METHOD_START> @ java.lang.Override public void void ( int int , boolean boolean , UOWAction org.springframework.transaction.jta.UOWAction ) throws org.springframework.transaction.jta.UOWActionException , org.springframework.transaction.jta.UOWException { this . int = int ; this . boolean = boolean ; try { this . int = UOW_STATUS_ACTIVE ; org.springframework.transaction.jta.UOWAction . run ( ) ; this . int = ( this . boolean ? UOW_STATUS_ROLLEDBACK : UOW_STATUS_COMMITTED ) ; } catch ( java.lang.Error java.lang.Error ) { this . int = UOW_STATUS_ROLLEDBACK ; throw java.lang.Error ; } catch ( java.lang.RuntimeException java.lang.RuntimeException ) { this . int = UOW_STATUS_ROLLEDBACK ; throw java.lang.RuntimeException ; } catch ( java.lang.Exception java.lang.Exception ) { this . int = UOW_STATUS_ROLLEDBACK ; throw new UOWActionException ( java.lang.Exception ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return this . int ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public long long ( ) { return NUMBER ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( int int , int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return this . int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { this . boolean = true ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return this . int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.Object java.lang.Object , java.lang.Object java.lang.Object ) { this . java.util.Map<java.lang.Object,java.lang.Object> . java.lang.Object ( java.lang.Object , java.lang.Object ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( java.lang.Object java.lang.Object ) throws java.lang.NullPointerException { return this . java.util.Map<java.lang.Object,java.lang.Object> . java.lang.Object ( java.lang.Object ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Synchronization org.springframework.transaction.jta.Synchronization ) { this . java.util.List<org.springframework.transaction.jta.Synchronization> . add ( org.springframework.transaction.jta.Synchronization ) ; }  <METHOD_END>
+<METHOD_START> public java.util.List<org.springframework.transaction.jta.Synchronization> < Synchronization > java.util.List<org.springframework.transaction.jta.Synchronization> ( ) { return this . java.util.List<org.springframework.transaction.jta.Synchronization> ; }  <METHOD_END>

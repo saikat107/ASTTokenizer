@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public void void ( java.util.Date java.util.Date , java.util.Date java.util.Date , java.lang.String java.lang.String ) { this . sample.webservices.service.Logger . info ( STRING , java.util.Date , java.util.Date , java.lang.String ) ; }  <METHOD_END>

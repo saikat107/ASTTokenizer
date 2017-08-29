@@ -1,0 +1,1 @@
+<METHOD_START> java.util.Optional<org.springframework.data.rest.tests.shop.LineItemType> < LineItemType > java.util.Optional<org.springframework.data.rest.tests.shop.LineItemType> ( java.lang.String java.lang.String );  <METHOD_END>

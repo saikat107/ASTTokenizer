@@ -1,0 +1,2 @@
+<METHOD_START> void ( PersonDao org.springframework.test.web.servlet.samples.context.PersonDao ) { this . org.springframework.test.web.servlet.samples.context.PersonDao = org.springframework.test.web.servlet.samples.context.PersonDao ; }  <METHOD_END>
+<METHOD_START> @ GetMapping ( STRING ) public org.springframework.test.web.servlet.samples.context.Person org.springframework.test.web.servlet.samples.context.Person ( @ PathVariable long long ) { return this . org.springframework.test.web.servlet.samples.context.PersonDao . getPerson ( long ) ; }  <METHOD_END>

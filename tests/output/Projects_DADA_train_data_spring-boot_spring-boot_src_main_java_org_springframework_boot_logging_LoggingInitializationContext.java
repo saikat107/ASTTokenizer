@@ -1,0 +1,2 @@
+<METHOD_START> public void ( ConfigurableEnvironment org.springframework.boot.logging.ConfigurableEnvironment ) { this . org.springframework.boot.logging.ConfigurableEnvironment = org.springframework.boot.logging.ConfigurableEnvironment ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.logging.Environment org.springframework.boot.logging.Environment ( ) { return this . org.springframework.boot.logging.ConfigurableEnvironment ; }  <METHOD_END>

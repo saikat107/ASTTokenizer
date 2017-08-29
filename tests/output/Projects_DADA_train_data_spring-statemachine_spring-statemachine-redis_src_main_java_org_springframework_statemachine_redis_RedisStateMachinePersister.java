@@ -1,0 +1,1 @@
+<METHOD_START> public void ( StateMachinePersist < S , E , java.lang.String > org.springframework.statemachine.redis.StateMachinePersist<S,E,java.lang.String> ) { super( org.springframework.statemachine.redis.StateMachinePersist<S,E,java.lang.String> ); }  <METHOD_END>

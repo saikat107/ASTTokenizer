@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.util.regex.Pattern java.util.regex.Pattern ) { Assert . notNull ( java.util.regex.Pattern , STRING ) ; this . java.util.regex.Pattern = java.util.regex.Pattern ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected boolean boolean ( ClassMetadata org.springframework.core.type.filter.ClassMetadata ) { return this . java.util.regex.Pattern . java.util.regex.Matcher ( org.springframework.core.type.filter.ClassMetadata . getClassName ( ) ) . matches ( ) ; }  <METHOD_END>

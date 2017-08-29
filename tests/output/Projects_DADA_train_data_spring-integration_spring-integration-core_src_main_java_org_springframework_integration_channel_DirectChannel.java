@@ -1,0 +1,6 @@
+<METHOD_START> public void ( ) { this( new RoundRobinLoadBalancingStrategy ( ) ); }  <METHOD_END>
+<METHOD_START> public void ( LoadBalancingStrategy org.springframework.integration.channel.LoadBalancingStrategy ) { this . org.springframework.integration.channel.UnicastingDispatcher . setLoadBalancingStrategy ( org.springframework.integration.channel.LoadBalancingStrategy ) ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . org.springframework.integration.channel.UnicastingDispatcher . setFailover ( boolean ) ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { this . java.lang.Integer = int ; this . org.springframework.integration.channel.UnicastingDispatcher . setMaxSubscribers ( int ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.integration.channel.UnicastingDispatcher org.springframework.integration.channel.UnicastingDispatcher ( ) { return this . org.springframework.integration.channel.UnicastingDispatcher ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected void void ( ) java.lang.Exception { super. onInit ( ) ; if ( this . java.lang.Integer == null ) { java.lang.Integer java.lang.Integer = this . getIntegrationProperty ( IntegrationProperties . CHANNELS_MAX_UNICAST_SUBSCRIBERS , java.lang.Integer .class ) ; this . void ( java.lang.Integer ) ; } }  <METHOD_END>

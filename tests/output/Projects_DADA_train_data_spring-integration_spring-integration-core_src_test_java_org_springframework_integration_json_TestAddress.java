@@ -1,0 +1,9 @@
+<METHOD_START> void ( ) {	}  <METHOD_END>
+<METHOD_START> void ( int int , java.lang.String java.lang.String ) { this . int = int ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public int int ( ) { return this . int ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( this == java.lang.Object ) { return true ; } if ( java.lang.Object == null || java.lang.Class<? extends org.springframework.integration.json.TestAddress> ( ) != java.lang.Object . java.lang.Class<? extends java.lang.Object> ( ) ) { return false ; } org.springframework.integration.json.TestAddress org.springframework.integration.json.TestAddress = ( org.springframework.integration.json.TestAddress ) java.lang.Object ; if ( int != org.springframework.integration.json.TestAddress . int ) { return false ; } if ( java.lang.String != null ? ! java.lang.String . boolean ( org.springframework.integration.json.TestAddress . java.lang.String ) : org.springframework.integration.json.TestAddress . java.lang.String != null ) { return false ; } return true ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { int int = int ; int = NUMBER * int + ( java.lang.String != null ? java.lang.String . int ( ) : NUMBER ) ; return int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . int + STRING + this . java.lang.String ; }  <METHOD_END>

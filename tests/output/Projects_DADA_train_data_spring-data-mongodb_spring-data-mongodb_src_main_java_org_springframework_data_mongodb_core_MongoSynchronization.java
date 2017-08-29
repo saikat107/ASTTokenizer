@@ -1,0 +1,1 @@
+<METHOD_START> public void ( ResourceHolder org.springframework.data.mongodb.core.ResourceHolder , java.lang.Object java.lang.Object ) { super( org.springframework.data.mongodb.core.ResourceHolder , java.lang.Object ); }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> java.lang.Class<? extends org.springframework.boot.gradle.plugin.Plugin<? extends org.springframework.boot.gradle.plugin.Project>> < ? extends Plugin < ? extends Project > > java.lang.Class<? extends org.springframework.boot.gradle.plugin.Plugin<? extends org.springframework.boot.gradle.plugin.Project>> ( )  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.remoting.support.RemoteInvocation org.springframework.remoting.support.RemoteInvocation ( MethodInvocation org.springframework.remoting.support.MethodInvocation ) { return new RemoteInvocation ( org.springframework.remoting.support.MethodInvocation ) ; }  <METHOD_END>

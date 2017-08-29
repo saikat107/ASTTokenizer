@@ -1,0 +1,1 @@
+<METHOD_START> @ CliCommand ( value = STRING , help = STRING ) public java.lang.String java.lang.String ( @ CliOption ( key = { STRING , STRING } , mandatory = true , help = STRING ) final Events demo.tasks.Events ) { getStateMachine ( ) . sendEvent ( demo.tasks.Events ) ; return STRING + demo.tasks.Events + STRING ; }  <METHOD_END>

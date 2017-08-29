@@ -1,0 +1,7 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.context.SpringBootTestWithTestPropertySourceTests.Config . java.lang.String ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.context.SpringBootTestWithTestPropertySourceTests.Config . java.lang.String ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.context.SpringBootTestWithTestPropertySourceTests.Config . java.lang.String ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.context.SpringBootTestWithTestPropertySourceTests.Config . java.lang.String ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.context.SpringBootTestWithTestPropertySourceTests.Config . java.lang.String ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.context.SpringBootTestWithTestPropertySourceTests.Config . java.lang.String ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public static org.springframework.boot.test.context.PropertySourcesPlaceholderConfigurer org.springframework.boot.test.context.PropertySourcesPlaceholderConfigurer ( ) { return new PropertySourcesPlaceholderConfigurer ( ) ; }  <METHOD_END>

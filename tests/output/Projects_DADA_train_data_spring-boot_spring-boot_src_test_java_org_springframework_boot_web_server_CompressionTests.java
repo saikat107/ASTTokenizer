@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( new Compression ( ) . getMimeTypes ( ) ) . containsExactlyInAnyOrder ( java.lang.String[] ( ) ) ; }  <METHOD_END>
+<METHOD_START> private java.lang.String [] java.lang.String[] ( ) { Http11NioProtocol org.springframework.boot.web.server.Http11NioProtocol = new Http11NioProtocol ( ) ; return org.springframework.boot.web.server.Http11NioProtocol . getCompressibleMimeTypes ( ) ; }  <METHOD_END>

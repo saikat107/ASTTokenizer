@@ -1,0 +1,1 @@
+<METHOD_START> public java.lang.Long java.lang.Long ( java.util.List<java.lang.Long> < java.lang.Long > java.util.List<java.lang.Long> ) { long long = NUMBER ; for ( long long : java.util.List<java.lang.Long> ) { long += long ; } return long ; }  <METHOD_END>

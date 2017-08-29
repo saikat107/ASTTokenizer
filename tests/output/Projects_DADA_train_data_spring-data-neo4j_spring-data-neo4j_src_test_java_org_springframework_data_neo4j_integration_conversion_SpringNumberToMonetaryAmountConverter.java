@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.data.neo4j.integration.conversion.MonetaryAmount org.springframework.data.neo4j.integration.conversion.MonetaryAmount ( java.lang.Number java.lang.Number ) { return java.lang.Number != null ? new MonetaryAmount ( java.lang.Number . int ( ) / NUMBER , java.lang.Number . int ( ) % NUMBER ) : null ; }  <METHOD_END>

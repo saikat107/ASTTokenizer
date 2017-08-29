@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected java.lang.Class<? extends java.lang.annotation.Annotation> < ? extends java.lang.annotation.Annotation > java.lang.Class<? extends java.lang.annotation.Annotation> ( ) { return EnableJpaRepositories .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.jpa.repository.config.RepositoryConfigurationExtension org.springframework.data.jpa.repository.config.RepositoryConfigurationExtension ( ) { return new JpaRepositoryConfigExtension ( ) ; }  <METHOD_END>

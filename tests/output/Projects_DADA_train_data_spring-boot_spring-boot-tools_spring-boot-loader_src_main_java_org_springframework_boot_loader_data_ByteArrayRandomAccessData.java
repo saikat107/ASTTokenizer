@@ -1,0 +1,5 @@
+<METHOD_START> public void ( byte [] byte[] ) { this( byte[] , NUMBER , ( byte[] == null ? NUMBER : byte[] . int ) ); }  <METHOD_END>
+<METHOD_START> public void ( byte [] byte[] , long long , long long ) { this . byte[] = ( byte[] == null ? new byte [ NUMBER ] : byte[] ) ; this . long = long ; this . long = long ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.io.InputStream java.io.InputStream ( ResourceAccess org.springframework.boot.loader.data.ResourceAccess ) { return new java.io.ByteArrayInputStream ( this . byte[] , ( int ) this . long , ( int ) this . long ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.boot.loader.data.RandomAccessData org.springframework.boot.loader.data.RandomAccessData ( long long , long long ) { return new org.springframework.boot.loader.data.ByteArrayRandomAccessData ( this . byte[] , this . long + long , long ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public long long ( ) { return this . long ; }  <METHOD_END>

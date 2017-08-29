@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public int int ( Column org.springframework.data.cassandra.mapping.Column , Column org.springframework.data.cassandra.mapping.Column ) { return org.springframework.data.cassandra.mapping.Column . value ( ) . compareTo ( org.springframework.data.cassandra.mapping.Column . value ( ) ) ; }  <METHOD_END>

@@ -1,0 +1,6 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( CacheManager org.springframework.cache.transaction.CacheManager ) { Assert . notNull ( org.springframework.cache.transaction.CacheManager , STRING ) ; this . org.springframework.cache.transaction.CacheManager = org.springframework.cache.transaction.CacheManager ; }  <METHOD_END>
+<METHOD_START> public void void ( CacheManager org.springframework.cache.transaction.CacheManager ) { this . org.springframework.cache.transaction.CacheManager = org.springframework.cache.transaction.CacheManager ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { if ( this . org.springframework.cache.transaction.CacheManager == null ) { throw new java.lang.IllegalArgumentException ( STRING ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.cache.transaction.Cache org.springframework.cache.transaction.Cache ( java.lang.String java.lang.String ) { return new TransactionAwareCacheDecorator ( this . org.springframework.cache.transaction.CacheManager . getCache ( java.lang.String ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.util.Collection<java.lang.String> < java.lang.String > java.util.Collection<java.lang.String> ( ) { return this . org.springframework.cache.transaction.CacheManager . getCacheNames ( ) ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> public void ( E E , CouchbaseDocument org.springframework.data.couchbase.core.mapping.event.CouchbaseDocument ) { super( E , org.springframework.data.couchbase.core.mapping.event.CouchbaseDocument ); }  <METHOD_END>

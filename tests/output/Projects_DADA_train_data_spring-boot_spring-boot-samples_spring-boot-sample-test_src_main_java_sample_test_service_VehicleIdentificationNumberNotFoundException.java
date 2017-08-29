@@ -1,0 +1,3 @@
+<METHOD_START> public void ( VehicleIdentificationNumber sample.test.service.VehicleIdentificationNumber ) { this( sample.test.service.VehicleIdentificationNumber , null ); }  <METHOD_END>
+<METHOD_START> public void ( VehicleIdentificationNumber sample.test.service.VehicleIdentificationNumber , java.lang.Throwable java.lang.Throwable ) { super( STRING + sample.test.service.VehicleIdentificationNumber , java.lang.Throwable ); this . sample.test.service.VehicleIdentificationNumber = sample.test.service.VehicleIdentificationNumber ; }  <METHOD_END>
+<METHOD_START> public sample.test.service.VehicleIdentificationNumber sample.test.service.VehicleIdentificationNumber ( ) { return this . sample.test.service.VehicleIdentificationNumber ; }  <METHOD_END>

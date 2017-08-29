@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . java.lang.String ) . isNotNull ( ) ; assertThat ( this . org.springframework.boot.test.context.SpringBootTestMixedConfigurationTests.Config ) . isNotNull ( ) ; }  <METHOD_END>

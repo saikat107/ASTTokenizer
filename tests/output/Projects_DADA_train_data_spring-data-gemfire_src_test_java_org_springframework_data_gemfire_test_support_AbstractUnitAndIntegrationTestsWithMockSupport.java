@@ -1,0 +1,3 @@
+<METHOD_START> protected boolean boolean ( ) { java.lang.String java.lang.String = StringUtils . trimWhitespace ( java.lang.String ) ; return ! ( java.lang.Boolean . boolean ( java.lang.String ) || STRING . boolean ( java.lang.String ) || STRING . boolean ( java.lang.String ) ) ; }  <METHOD_END>
+<METHOD_START> protected boolean boolean ( ) { return ! boolean ( ) ; }  <METHOD_END>
+<METHOD_START> protected java.lang.Object java.lang.Object ( ) { java.lang.StackTraceElement java.lang.StackTraceElement = StackTraceUtils . getTestCaller ( ) ; return ( java.lang.StackTraceElement != null ? StackTraceUtils . getCallerSimpleName ( java.lang.StackTraceElement ) : IdentifierSequence . nextId ( ) ) ; }  <METHOD_END>

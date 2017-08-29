@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.Throwable java.lang.Throwable ) { super( java.lang.Throwable ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.Throwable java.lang.Throwable , java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> ) { super( java.lang.Throwable , java.util.Map<java.lang.String,java.lang.Object> ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.Throwable java.lang.Throwable , MessageHeaders org.springframework.messaging.support.MessageHeaders ) { super( java.lang.Throwable , org.springframework.messaging.support.MessageHeaders ); }  <METHOD_END>

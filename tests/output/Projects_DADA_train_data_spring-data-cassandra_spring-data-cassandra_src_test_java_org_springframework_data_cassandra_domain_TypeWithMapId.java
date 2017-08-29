@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.data.cassandra.domain.MapId org.springframework.data.cassandra.domain.MapId ( ) { return BasicMapId . id ( STRING , java.lang.String ) . with ( STRING , java.lang.String ) ; }  <METHOD_END>

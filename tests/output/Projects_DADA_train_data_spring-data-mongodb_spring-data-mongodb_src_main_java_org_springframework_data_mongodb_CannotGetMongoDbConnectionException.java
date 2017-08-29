@@ -1,0 +1,5 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.Throwable java.lang.Throwable ) { super( java.lang.String , java.lang.Throwable ); this . java.lang.String = null ; this . org.springframework.data.mongodb.UserCredentials = UserCredentials . NO_CREDENTIALS ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this( java.lang.String , null , UserCredentials . NO_CREDENTIALS ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String , UserCredentials org.springframework.data.mongodb.UserCredentials ) { super( java.lang.String ); this . java.lang.String = java.lang.String ; this . org.springframework.data.mongodb.UserCredentials = org.springframework.data.mongodb.UserCredentials ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.mongodb.UserCredentials org.springframework.data.mongodb.UserCredentials ( ) { return this . org.springframework.data.mongodb.UserCredentials ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>

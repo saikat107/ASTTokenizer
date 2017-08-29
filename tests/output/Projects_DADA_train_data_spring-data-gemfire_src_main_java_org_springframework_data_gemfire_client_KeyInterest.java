@@ -1,0 +1,6 @@
+<METHOD_START> public void ( K K ) { super( K ); }  <METHOD_END>
+<METHOD_START> public void ( K K , InterestResultPolicy org.springframework.data.gemfire.client.InterestResultPolicy ) { super( K , org.springframework.data.gemfire.client.InterestResultPolicy ); }  <METHOD_END>
+<METHOD_START> public void ( K K , InterestResultPolicy org.springframework.data.gemfire.client.InterestResultPolicy , boolean boolean ) { super( K , org.springframework.data.gemfire.client.InterestResultPolicy , boolean ); }  <METHOD_END>
+<METHOD_START> public void ( K K , InterestResultPolicy org.springframework.data.gemfire.client.InterestResultPolicy , boolean boolean , boolean boolean ) { super( K , org.springframework.data.gemfire.client.InterestResultPolicy , boolean , boolean ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.client.Type org.springframework.data.gemfire.client.Type ( ) { return Type . KEY ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Type org.springframework.data.gemfire.client.Type ) { logger . warn ( java.lang.String . java.lang.String ( STRING , org.springframework.data.gemfire.client.Type , java.lang.Class<? extends org.springframework.data.gemfire.client.KeyInterest> ( ) . java.lang.String ( ) ) ) ; }  <METHOD_END>

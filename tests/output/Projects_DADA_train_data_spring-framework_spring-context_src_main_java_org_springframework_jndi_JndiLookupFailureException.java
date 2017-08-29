@@ -1,0 +1,1 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , javax.naming.NamingException javax.naming.NamingException ) { super( java.lang.String , javax.naming.NamingException ); }  <METHOD_END>

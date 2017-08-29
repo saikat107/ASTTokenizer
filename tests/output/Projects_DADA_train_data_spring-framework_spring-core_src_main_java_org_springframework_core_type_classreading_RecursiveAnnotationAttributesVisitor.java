@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , AnnotationAttributes org.springframework.core.type.classreading.AnnotationAttributes , java.lang.ClassLoader java.lang.ClassLoader ) { super( java.lang.ClassLoader , org.springframework.core.type.classreading.AnnotationAttributes ); this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { AnnotationUtils . registerDefaultValues ( this . attributes ) ; }  <METHOD_END>

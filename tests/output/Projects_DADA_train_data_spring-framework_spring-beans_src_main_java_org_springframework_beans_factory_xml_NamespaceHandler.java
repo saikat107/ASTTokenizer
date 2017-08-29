@@ -1,0 +1,3 @@
+<METHOD_START> void void ( )  <METHOD_END>
+<METHOD_START> org.springframework.beans.factory.xml.BeanDefinition org.springframework.beans.factory.xml.BeanDefinition ( org.w3c.dom.Element org.w3c.dom.Element , ParserContext org.springframework.beans.factory.xml.ParserContext );  <METHOD_END>
+<METHOD_START> org.springframework.beans.factory.xml.BeanDefinitionHolder org.springframework.beans.factory.xml.BeanDefinitionHolder ( org.w3c.dom.Node org.w3c.dom.Node , BeanDefinitionHolder org.springframework.beans.factory.xml.BeanDefinitionHolder , ParserContext org.springframework.beans.factory.xml.ParserContext );  <METHOD_END>

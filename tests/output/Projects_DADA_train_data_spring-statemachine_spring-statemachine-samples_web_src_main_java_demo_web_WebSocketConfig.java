@@ -1,0 +1,3 @@
+<METHOD_START> @ java.lang.Override protected void void ( StompEndpointRegistry demo.web.StompEndpointRegistry ) { demo.web.StompEndpointRegistry . addEndpoint ( STRING ) . withSockJS ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( MessageBrokerRegistry demo.web.MessageBrokerRegistry ) { demo.web.MessageBrokerRegistry . enableSimpleBroker ( STRING , STRING ) ; demo.web.MessageBrokerRegistry . setApplicationDestinationPrefixes ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public demo.web.MapSessionRepository demo.web.MapSessionRepository ( ) { return new MapSessionRepository ( ) ; }  <METHOD_END>

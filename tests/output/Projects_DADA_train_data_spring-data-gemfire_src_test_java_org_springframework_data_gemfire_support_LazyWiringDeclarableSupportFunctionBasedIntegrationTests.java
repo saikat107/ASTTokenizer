@@ -1,0 +1,13 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( org.springframework.data.gemfire.support.HelloFunctionExecution . hello ( null ) ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> void ( java.lang.String java.lang.String ) { Assert . hasText ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return false ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return false ; }  <METHOD_END>
+<METHOD_START> public void ( ) { super( java.lang.String ); }  <METHOD_END>
+<METHOD_START> protected java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> protected java.lang.String java.lang.String ( ) { return ( StringUtils . hasText ( java.lang.String ) ? java.lang.String : java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected void void ( final java.util.Properties java.util.Properties ) { java.lang.String = java.util.Properties . java.lang.String ( java.lang.String , java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( final FunctionContext org.springframework.data.gemfire.support.FunctionContext ) { org.springframework.data.gemfire.support.FunctionContext . getResultSender ( ) . lastResult ( java.lang.String ( java.lang.String ( org.springframework.data.gemfire.support.FunctionContext ) ) ) ; }  <METHOD_END>
+<METHOD_START> protected java.lang.String java.lang.String ( FunctionContext org.springframework.data.gemfire.support.FunctionContext ) { java.lang.Object java.lang.Object = org.springframework.data.gemfire.support.FunctionContext . getArguments ( ) ; java.lang.String java.lang.String = null ; if ( java.lang.Object instanceof java.lang.Object [] ) { java.lang.Object [] java.lang.Object[] = ( java.lang.Object [] ) java.lang.Object ; java.lang.String = ( java.lang.Object[] . int > NUMBER && java.lang.Object[] [ NUMBER ] != null ? java.lang.String . java.lang.String ( java.lang.Object[] [ NUMBER ] ) : null ) ; } else if ( java.lang.Object != null ) { java.lang.String = java.lang.String . java.lang.String ( java.lang.Object ) ; } return ( StringUtils . hasText ( java.lang.String ) ? java.lang.String : java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> protected java.lang.String java.lang.String ( java.lang.String java.lang.String ) { return java.lang.String . java.lang.String ( java.lang.String , java.lang.String ) ; }  <METHOD_END>

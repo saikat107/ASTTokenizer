@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public void void ( ) { registerBeanDefinitionParser ( STRING , new JmsListenerContainerParser ( ) ) ; registerBeanDefinitionParser ( STRING , new JcaListenerContainerParser ( ) ) ; registerBeanDefinitionParser ( STRING , new AnnotationDrivenJmsBeanDefinitionParser ( ) ) ; }  <METHOD_END>

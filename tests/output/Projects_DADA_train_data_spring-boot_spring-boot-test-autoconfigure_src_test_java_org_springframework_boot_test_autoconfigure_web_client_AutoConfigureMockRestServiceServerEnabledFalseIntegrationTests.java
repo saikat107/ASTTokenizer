@@ -1,0 +1,1 @@
+<METHOD_START> @ Test ( expected = NoSuchBeanDefinitionException .class ) public void void ( ) java.lang.Exception { this . org.springframework.boot.test.autoconfigure.web.client.ApplicationContext . getBean ( MockServerRestTemplateCustomizer .class ) ; }  <METHOD_END>

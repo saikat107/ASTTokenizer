@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.Class<? extends T> < ? extends T > java.lang.Class<? extends T> ) { super( java.lang.Class<> ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.jpa.repository.custom.RepositoryFactorySupport org.springframework.data.jpa.repository.custom.RepositoryFactorySupport ( EntityManager org.springframework.data.jpa.repository.custom.EntityManager ) { return new CustomGenericJpaRepositoryFactory ( org.springframework.data.jpa.repository.custom.EntityManager ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> @ java.lang.Override public java.beans.BeanInfo java.beans.BeanInfo ( java.lang.Class<?> < ? > java.lang.Class<?> ) throws java.beans.IntrospectionException { return ( boolean ( java.lang.Class<> ) ? new ExtendedBeanInfo ( java.beans.Introspector . java.beans.BeanInfo ( java.lang.Class<> ) ) : null ) ; }  <METHOD_END>
+<METHOD_START> private boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> ) { for ( java.lang.reflect.Method java.lang.reflect.Method : java.lang.Class<> . java.lang.reflect.Method[] ( ) ) { if ( ExtendedBeanInfo . isCandidateWriteMethod ( java.lang.reflect.Method ) ) { return true ; } } return false ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return Ordered . LOWEST_PRECEDENCE ; }  <METHOD_END>

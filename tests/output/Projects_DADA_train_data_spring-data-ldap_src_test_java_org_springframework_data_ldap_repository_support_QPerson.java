@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { super( UnitTestPerson .class , forVariable ( java.lang.String ) ); }  <METHOD_END>
+<METHOD_START> public void ( Path < ? extends UnitTestPerson > org.springframework.data.ldap.repository.support.Path<? extends org.springframework.data.ldap.repository.support.UnitTestPerson> ) { super( org.springframework.data.ldap.repository.support.Path<> . getType ( ) , org.springframework.data.ldap.repository.support.Path<> . getMetadata ( ) ); }  <METHOD_END>
+<METHOD_START> public void ( PathMetadata org.springframework.data.ldap.repository.support.PathMetadata ) { super( UnitTestPerson .class , org.springframework.data.ldap.repository.support.PathMetadata ); }  <METHOD_END>

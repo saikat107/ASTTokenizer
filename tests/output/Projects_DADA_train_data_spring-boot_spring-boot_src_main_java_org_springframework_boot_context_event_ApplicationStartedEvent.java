@@ -1,0 +1,1 @@
+<METHOD_START> public void ( SpringApplication org.springframework.boot.context.event.SpringApplication , java.lang.String [] java.lang.String[] ) { super( org.springframework.boot.context.event.SpringApplication , java.lang.String[] ); }  <METHOD_END>

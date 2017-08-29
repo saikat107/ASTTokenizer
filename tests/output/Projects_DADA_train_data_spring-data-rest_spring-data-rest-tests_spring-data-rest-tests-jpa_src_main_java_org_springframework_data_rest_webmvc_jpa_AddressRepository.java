@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override @ RestResource ( exported = false ) java.lang.Iterable<org.springframework.data.rest.webmvc.jpa.Address> < Address > java.lang.Iterable<org.springframework.data.rest.webmvc.jpa.Address> ( )  <METHOD_END>
+<METHOD_START> @ java.lang.Override @ RestResource ( exported = false ) < S extends org.springframework.data.rest.webmvc.jpa.Address > S S ( S S );  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> @ Bean public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertEquals ( STRING , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertNotNull ( STRING , org.springframework.test.context.hierarchies.meta.ApplicationContext ) ; assertNotNull ( STRING , org.springframework.test.context.hierarchies.meta.ApplicationContext . getParent ( ) ) ; assertNull ( STRING , org.springframework.test.context.hierarchies.meta.ApplicationContext . getParent ( ) . getParent ( ) ) ; }  <METHOD_END>

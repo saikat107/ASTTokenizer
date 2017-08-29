@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.Object java.lang.Object , StateMachine < ? , ? > org.springframework.statemachine.event.StateMachine<?,?> , java.lang.Exception java.lang.Exception ) { super( java.lang.Object ); this . org.springframework.statemachine.event.StateMachine<?,?> = org.springframework.statemachine.event.StateMachine<,> ; this . java.lang.Exception = java.lang.Exception ; }  <METHOD_END>
+<METHOD_START> public org.springframework.statemachine.event.StateMachine<?,?> < ? , ? > org.springframework.statemachine.event.StateMachine<?,?> ( ) { return org.springframework.statemachine.event.StateMachine<,> ; }  <METHOD_END>
+<METHOD_START> public java.lang.Exception java.lang.Exception ( ) { return java.lang.Exception ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING + org.springframework.statemachine.event.StateMachine<,> + STRING + java.lang.Exception + STRING ; }  <METHOD_END>

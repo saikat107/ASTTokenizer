@@ -1,0 +1,1 @@
+<METHOD_START> T T ( ResultSetFuture org.springframework.cassandra.core.ResultSetFuture ) throws org.springframework.cassandra.core.DriverException , org.springframework.cassandra.core.DataAccessException ;  <METHOD_END>

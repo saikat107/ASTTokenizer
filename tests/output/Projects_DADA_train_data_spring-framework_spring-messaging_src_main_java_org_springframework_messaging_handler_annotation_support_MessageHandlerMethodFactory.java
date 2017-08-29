@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.messaging.handler.annotation.support.InvocableHandlerMethod org.springframework.messaging.handler.annotation.support.InvocableHandlerMethod ( java.lang.Object java.lang.Object , java.lang.reflect.Method java.lang.reflect.Method );  <METHOD_END>

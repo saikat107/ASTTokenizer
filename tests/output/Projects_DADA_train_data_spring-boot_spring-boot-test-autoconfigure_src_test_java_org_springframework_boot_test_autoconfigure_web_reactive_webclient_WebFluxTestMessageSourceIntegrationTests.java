@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.autoconfigure.web.reactive.webclient.ApplicationContext . getMessage ( STRING , null , java.util.Locale . java.util.Locale ) ) . isEqualTo ( STRING ) ; }  <METHOD_END>

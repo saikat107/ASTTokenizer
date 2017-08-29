@@ -1,0 +1,5 @@
+<METHOD_START> @ java.lang.Override public void void ( StompSession org.springframework.messaging.simp.stomp.StompSession , StompHeaders org.springframework.messaging.simp.stomp.StompHeaders ) {	}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.reflect.Type java.lang.reflect.Type ( StompHeaders org.springframework.messaging.simp.stomp.StompHeaders ) { return java.lang.String .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( StompHeaders org.springframework.messaging.simp.stomp.StompHeaders , java.lang.Object java.lang.Object ) {	}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( StompSession org.springframework.messaging.simp.stomp.StompSession , StompCommand org.springframework.messaging.simp.stomp.StompCommand , StompHeaders org.springframework.messaging.simp.stomp.StompHeaders , byte [] byte[] , java.lang.Throwable java.lang.Throwable ) {	}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( StompSession org.springframework.messaging.simp.stomp.StompSession , java.lang.Throwable java.lang.Throwable ) {	}  <METHOD_END>

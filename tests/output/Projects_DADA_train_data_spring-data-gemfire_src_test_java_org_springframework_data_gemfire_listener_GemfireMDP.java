@@ -1,0 +1,3 @@
+<METHOD_START> public void void ( CqEvent org.springframework.data.gemfire.listener.CqEvent ) { java.lang.System . java.io.PrintStream . void ( STRING + org.springframework.data.gemfire.listener.CqEvent ) ; }  <METHOD_END>
+<METHOD_START> public void void ( CqQuery org.springframework.data.gemfire.listener.CqQuery ) { java.lang.System . java.io.PrintStream . void ( STRING + org.springframework.data.gemfire.listener.CqQuery ) ; }  <METHOD_END>
+<METHOD_START> public void void ( Operation org.springframework.data.gemfire.listener.Operation ) { java.lang.System . java.io.PrintStream . void ( STRING + org.springframework.data.gemfire.listener.Operation ) ; }  <METHOD_END>

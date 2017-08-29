@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.sql.DatabaseMetaData java.sql.DatabaseMetaData ) throws java.sql.SQLException { super( java.sql.DatabaseMetaData ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { if ( getDatabaseVersion ( ) . compareTo ( STRING ) >= NUMBER ) { return true ; } else { if ( logger . isWarnEnabled ( ) ) { logger . warn ( STRING + getDatabaseVersion ( ) ) ; } return false ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { return STRING + java.lang.String ; }  <METHOD_END>

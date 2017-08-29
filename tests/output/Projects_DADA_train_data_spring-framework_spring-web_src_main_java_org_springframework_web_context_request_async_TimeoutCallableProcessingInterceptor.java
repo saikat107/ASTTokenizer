@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public < T > java.lang.Object java.lang.Object ( NativeWebRequest org.springframework.web.context.request.async.NativeWebRequest , java.util.concurrent.Callable<T> < T > java.util.concurrent.Callable<T> ) throws java.lang.Exception { return new AsyncRequestTimeoutException ( ) ; }  <METHOD_END>

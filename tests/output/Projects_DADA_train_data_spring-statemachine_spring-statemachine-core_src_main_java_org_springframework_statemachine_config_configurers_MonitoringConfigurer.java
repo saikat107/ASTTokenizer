@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.statemachine.config.configurers.MonitoringConfigurer<S,E> < S , E > org.springframework.statemachine.config.configurers.MonitoringConfigurer<S,E> ( StateMachineMonitor < S , E > org.springframework.statemachine.config.configurers.StateMachineMonitor<S,E> );  <METHOD_END>

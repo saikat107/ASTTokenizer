@@ -1,0 +1,3 @@
+<METHOD_START> void ( PropertySource < ? > org.springframework.boot.bind.PropertySource<?> , java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; this . org.springframework.boot.bind.PropertySource<?> = org.springframework.boot.bind.PropertySource<> ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.bind.PropertySource<?> < ? > org.springframework.boot.bind.PropertySource<?> ( ) { return this . org.springframework.boot.bind.PropertySource<> ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>

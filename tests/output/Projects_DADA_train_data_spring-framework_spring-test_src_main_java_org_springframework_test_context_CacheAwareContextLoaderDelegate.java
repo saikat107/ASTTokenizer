@@ -1,0 +1,2 @@
+<METHOD_START> org.springframework.test.context.ApplicationContext org.springframework.test.context.ApplicationContext ( MergedContextConfiguration org.springframework.test.context.MergedContextConfiguration );  <METHOD_END>
+<METHOD_START> void void ( MergedContextConfiguration org.springframework.test.context.MergedContextConfiguration , HierarchyMode org.springframework.test.context.HierarchyMode );  <METHOD_END>

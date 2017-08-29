@@ -1,0 +1,3 @@
+<METHOD_START> public void ( SpringApplication org.springframework.boot.context.event.SpringApplication , java.lang.String [] java.lang.String[] ) { super( org.springframework.boot.context.event.SpringApplication ); this . java.lang.String[] = java.lang.String[] ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.context.event.SpringApplication org.springframework.boot.context.event.SpringApplication ( ) { return ( SpringApplication ) getSource ( ) ; }  <METHOD_END>
+<METHOD_START> public final java.lang.String [] java.lang.String[] ( ) { return this . java.lang.String[] ; }  <METHOD_END>

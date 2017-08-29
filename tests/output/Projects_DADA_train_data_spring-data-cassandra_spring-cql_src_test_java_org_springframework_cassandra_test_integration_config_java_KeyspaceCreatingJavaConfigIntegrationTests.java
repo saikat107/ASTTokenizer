@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( session ) . isNotNull ( ) ; IntegrationTestUtils . assertKeyspaceExists ( KeyspaceCreatingJavaConfig . KEYSPACE_NAME , session ) ; session . execute ( STRING + KeyspaceCreatingJavaConfig . KEYSPACE_NAME + STRING ) ; }  <METHOD_END>

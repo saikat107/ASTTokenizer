@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( MessageGroup org.springframework.integration.aggregator.MessageGroup ) { return org.springframework.integration.aggregator.MessageGroup . getMessages ( ) ; }  <METHOD_END>

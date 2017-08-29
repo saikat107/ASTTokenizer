@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.boot.loader.tools.Layout org.springframework.boot.loader.tools.Layout ( java.io.File java.io.File ) { return Layouts . forFile ( java.io.File ) ; }  <METHOD_END>

@@ -1,0 +1,5 @@
+<METHOD_START> public void void ( Component com.foo.Component ) { this . com.foo.Component = com.foo.Component ; }  <METHOD_END>
+<METHOD_START> public void void ( java.util.List<com.foo.Component> < Component > java.util.List<com.foo.Component> ) { this . java.util.List<com.foo.Component> = java.util.List<com.foo.Component> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public com.foo.Component com.foo.Component ( ) java.lang.Exception { if ( this . java.util.List<com.foo.Component> != null && this . java.util.List<com.foo.Component> . size ( ) > NUMBER ) { for ( Component com.foo.Component : java.util.List<com.foo.Component> ) { this . com.foo.Component . addComponent ( com.foo.Component ) ; } } return this . com.foo.Component ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<com.foo.Component> < Component > java.lang.Class<com.foo.Component> ( ) { return Component .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

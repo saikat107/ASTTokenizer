@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { SampleSpringXmlApplication . main ( new java.lang.String [ NUMBER ] ) ; java.lang.String java.lang.String = this . sample.xml.OutputCapture . toString ( ) ; assertThat ( java.lang.String ) . contains ( STRING ) ; }  <METHOD_END>

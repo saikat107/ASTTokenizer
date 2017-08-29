@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , Page < T > org.springframework.data.solr.core.query.result.Page<T> ) { super(); this . java.lang.String = java.lang.String ; this . org.springframework.data.solr.core.query.result.Page<T> = org.springframework.data.solr.core.query.result.Page<T> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.solr.core.query.result.Page<T> < T > org.springframework.data.solr.core.query.result.Page<T> ( ) { return org.springframework.data.solr.core.query.result.Page<T> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING + java.lang.String + STRING + org.springframework.data.solr.core.query.result.Page<T> + STRING ; }  <METHOD_END>

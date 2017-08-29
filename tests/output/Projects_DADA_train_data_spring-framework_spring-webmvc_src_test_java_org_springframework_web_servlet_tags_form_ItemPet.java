@@ -1,0 +1,8 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String . java.lang.String ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( this == java.lang.Object ) { return true ; } if ( ! ( java.lang.Object instanceof org.springframework.web.servlet.tags.form.ItemPet ) ) { return false ; } org.springframework.web.servlet.tags.form.ItemPet org.springframework.web.servlet.tags.form.ItemPet = ( org.springframework.web.servlet.tags.form.ItemPet ) java.lang.Object ; return ( this . java.lang.String != null && this . java.lang.String . boolean ( org.springframework.web.servlet.tags.form.ItemPet . java.lang.String ( ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return this . java.lang.String . int ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) throws java.lang.IllegalArgumentException { void ( new org.springframework.web.servlet.tags.form.ItemPet ( java.lang.String ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return ( ( org.springframework.web.servlet.tags.form.ItemPet ) java.lang.Object ( ) ) . java.lang.String ( ) ; }  <METHOD_END>

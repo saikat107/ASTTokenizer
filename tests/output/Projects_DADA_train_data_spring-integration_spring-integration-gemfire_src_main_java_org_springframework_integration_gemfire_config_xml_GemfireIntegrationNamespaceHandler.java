@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( ) { registerBeanDefinitionParser ( STRING , new GemfireInboundChannelAdapterParser ( ) ) ; registerBeanDefinitionParser ( STRING , new GemfireCqInboundChannelAdapterParser ( ) ) ; registerBeanDefinitionParser ( STRING , new GemfireOutboundChannelAdapterParser ( ) ) ; }  <METHOD_END>

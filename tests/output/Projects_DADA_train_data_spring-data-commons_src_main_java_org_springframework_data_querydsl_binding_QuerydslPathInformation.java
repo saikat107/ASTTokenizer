@@ -1,0 +1,6 @@
+<METHOD_START> @ java.lang.Override public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return org.springframework.data.querydsl.binding.Path<> . getType ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return org.springframework.data.querydsl.binding.Path<> . getMetadata ( ) . getParent ( ) . getType ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return org.springframework.data.querydsl.binding.Path<> . getMetadata ( ) . getElement ( ) . toString ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.beans.PropertyDescriptor java.beans.PropertyDescriptor ( ) { return BeanUtils . getPropertyDescriptor ( java.lang.Class<?> ( ) , java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return QuerydslUtils . toDotPath ( org.springframework.data.querydsl.binding.Path<> ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.querydsl.binding.Path<?> < ? > org.springframework.data.querydsl.binding.Path<?> ( EntityPathResolver org.springframework.data.querydsl.binding.EntityPathResolver ) { return org.springframework.data.querydsl.binding.Path<> ; }  <METHOD_END>

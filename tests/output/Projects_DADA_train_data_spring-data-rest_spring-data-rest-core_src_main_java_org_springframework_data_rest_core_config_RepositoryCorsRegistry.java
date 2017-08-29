@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.util.Map<java.lang.String,org.springframework.data.rest.core.config.CorsConfiguration> < java.lang.String , CorsConfiguration > java.util.Map<java.lang.String,org.springframework.data.rest.core.config.CorsConfiguration> ( ) { return super. getCorsConfigurations ( ) ; }  <METHOD_END>

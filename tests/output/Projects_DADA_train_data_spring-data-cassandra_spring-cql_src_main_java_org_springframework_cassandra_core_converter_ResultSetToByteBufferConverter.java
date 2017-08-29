@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected java.nio.ByteBuffer java.nio.ByteBuffer ( java.lang.Object java.lang.Object ) { if ( ! ( java.lang.Object instanceof java.nio.ByteBuffer ) ) { doThrow ( STRING ) ; } return ( java.nio.ByteBuffer ) java.lang.Object ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return java.nio.ByteBuffer .class ; }  <METHOD_END>

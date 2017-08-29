@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( ) { this . registerBeanDefinitionParser ( STRING , new WebServiceOutboundGatewayParser ( ) ) ; this . registerBeanDefinitionParser ( STRING , new WebServiceInboundGatewayParser ( ) ) ; this . registerBeanDefinitionParser ( STRING , new WebServiceHeaderEnricherParser ( ) ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> public void void ( javax.sql.DataSource javax.sql.DataSource ) { this . javax.sql.DataSource = javax.sql.DataSource ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.sql.Connection java.sql.Connection ( ) java.sql.SQLException { return javax.sql.DataSource . java.sql.Connection ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.sql.Connection java.sql.Connection ( java.lang.String java.lang.String , java.lang.String java.lang.String ) throws java.sql.SQLException { return javax.sql.DataSource . java.sql.Connection ( java.lang.String , java.lang.String ) ; }  <METHOD_END>

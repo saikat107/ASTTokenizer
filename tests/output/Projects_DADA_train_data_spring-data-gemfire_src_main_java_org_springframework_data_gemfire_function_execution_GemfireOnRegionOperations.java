@@ -1,0 +1,4 @@
+<METHOD_START> public abstract < T > java.lang.Iterable<T> < T > java.lang.Iterable<T> ( java.lang.String java.lang.String , java.util.Set<?> < ? > java.util.Set<?> , java.lang.Object ... java.lang.Object[] );  <METHOD_END>
+<METHOD_START> public abstract < T > java.lang.Iterable<T> < T > java.lang.Iterable<T> ( Function org.springframework.data.gemfire.function.execution.Function , java.util.Set<?> < ? > java.util.Set<?> , java.lang.Object ... java.lang.Object[] );  <METHOD_END>
+<METHOD_START> public abstract void void ( java.lang.String java.lang.String , java.util.Set<?> < ? > java.util.Set<?> , java.lang.Object ... java.lang.Object[] );  <METHOD_END>
+<METHOD_START> public abstract < T > T T ( java.lang.String java.lang.String , java.util.Set<?> < ? > java.util.Set<?> , java.lang.Object ... java.lang.Object[] );  <METHOD_END>

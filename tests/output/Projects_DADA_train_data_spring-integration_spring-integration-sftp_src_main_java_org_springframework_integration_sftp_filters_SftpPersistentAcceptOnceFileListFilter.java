@@ -1,0 +1,3 @@
+<METHOD_START> public void ( ConcurrentMetadataStore org.springframework.integration.sftp.filters.ConcurrentMetadataStore , java.lang.String java.lang.String ) { super( org.springframework.integration.sftp.filters.ConcurrentMetadataStore , java.lang.String ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected long long ( LsEntry org.springframework.integration.sftp.filters.LsEntry ) { return ( ( long ) org.springframework.integration.sftp.filters.LsEntry . getAttrs ( ) . getMTime ( ) ) * NUMBER ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( LsEntry org.springframework.integration.sftp.filters.LsEntry ) { return org.springframework.integration.sftp.filters.LsEntry . getFilename ( ) ; }  <METHOD_END>

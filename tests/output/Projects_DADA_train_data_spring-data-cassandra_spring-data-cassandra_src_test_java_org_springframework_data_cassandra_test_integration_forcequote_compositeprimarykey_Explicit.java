@@ -1,0 +1,6 @@
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) private void ( ) {}  <METHOD_END>
+<METHOD_START> public void ( ExplicitKey org.springframework.data.cassandra.test.integration.forcequote.compositeprimarykey.ExplicitKey ) { void ( org.springframework.data.cassandra.test.integration.forcequote.compositeprimarykey.ExplicitKey ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.cassandra.test.integration.forcequote.compositeprimarykey.ExplicitKey org.springframework.data.cassandra.test.integration.forcequote.compositeprimarykey.ExplicitKey ( ) { return org.springframework.data.cassandra.test.integration.forcequote.compositeprimarykey.ExplicitKey ; }  <METHOD_END>
+<METHOD_START> public void void ( ExplicitKey org.springframework.data.cassandra.test.integration.forcequote.compositeprimarykey.ExplicitKey ) { this . org.springframework.data.cassandra.test.integration.forcequote.compositeprimarykey.ExplicitKey = org.springframework.data.cassandra.test.integration.forcequote.compositeprimarykey.ExplicitKey ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>

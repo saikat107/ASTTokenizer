@@ -1,0 +1,6 @@
+<METHOD_START> public void ( java.io.InputStream java.io.InputStream , HttpHeaders org.springframework.http.converter.json.HttpHeaders ) { this . java.io.InputStream = java.io.InputStream ; this . org.springframework.http.converter.json.HttpHeaders = org.springframework.http.converter.json.HttpHeaders ; }  <METHOD_END>
+<METHOD_START> public void ( java.io.InputStream java.io.InputStream , HttpHeaders org.springframework.http.converter.json.HttpHeaders , java.lang.Class<?> < ? > java.lang.Class<?> ) { this( java.io.InputStream , org.springframework.http.converter.json.HttpHeaders ); this . java.lang.Class<?> = java.lang.Class<> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.io.InputStream java.io.InputStream ( ) java.io.IOException { return this . java.io.InputStream ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.http.converter.json.HttpHeaders org.springframework.http.converter.json.HttpHeaders ( ) { return this . org.springframework.http.converter.json.HttpHeaders ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Class<?> < ? > java.lang.Class<?> ) { this . java.lang.Class<?> = java.lang.Class<> ; }  <METHOD_END>
+<METHOD_START> public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return this . java.lang.Class<> ; }  <METHOD_END>

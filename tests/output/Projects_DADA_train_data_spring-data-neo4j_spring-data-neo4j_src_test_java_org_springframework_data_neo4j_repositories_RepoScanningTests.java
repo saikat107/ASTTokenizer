@@ -1,0 +1,4 @@
+<METHOD_START> @ Before public void void ( ) { getGraphDatabaseService ( ) . execute ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { User org.springframework.data.neo4j.repositories.User = new User ( STRING ) ; org.springframework.data.neo4j.repositories.UserRepository . save ( org.springframework.data.neo4j.repositories.User ) ; assertSameGraph ( getGraphDatabaseService ( ) , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.data.neo4j.repositories.PlatformTransactionManager org.springframework.data.neo4j.repositories.PlatformTransactionManager ( ) { return new Neo4jTransactionManager ( org.springframework.data.neo4j.repositories.SessionFactory ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.data.neo4j.repositories.SessionFactory org.springframework.data.neo4j.repositories.SessionFactory ( ) { return new SessionFactory ( getBaseConfiguration ( ) . build ( ) , STRING ) ; }  <METHOD_END>

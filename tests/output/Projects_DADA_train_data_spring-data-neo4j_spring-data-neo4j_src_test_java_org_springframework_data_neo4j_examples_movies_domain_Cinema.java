@@ -1,0 +1,14 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , int int ) { this . java.lang.String = java.lang.String ; this . int = int ; }  <METHOD_END>
+<METHOD_START> public void void ( User org.springframework.data.neo4j.examples.movies.domain.User ) { java.util.Set<org.springframework.data.neo4j.examples.movies.domain.User> . add ( org.springframework.data.neo4j.examples.movies.domain.User ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.util.Set<org.springframework.data.neo4j.examples.movies.domain.User> < User > java.util.Set<org.springframework.data.neo4j.examples.movies.domain.User> ( ) { return java.util.Set<org.springframework.data.neo4j.examples.movies.domain.User> ; }  <METHOD_END>
+<METHOD_START> public int int ( ) { return int ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.neo4j.examples.movies.domain.TempMovie org.springframework.data.neo4j.examples.movies.domain.TempMovie ( ) { return org.springframework.data.neo4j.examples.movies.domain.TempMovie ; }  <METHOD_END>
+<METHOD_START> public void void ( TempMovie org.springframework.data.neo4j.examples.movies.domain.TempMovie ) { this . org.springframework.data.neo4j.examples.movies.domain.TempMovie = org.springframework.data.neo4j.examples.movies.domain.TempMovie ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( this == java.lang.Object ) return true ; if ( java.lang.Object == null || java.lang.Class<? extends org.springframework.data.neo4j.examples.movies.domain.Cinema> ( ) != java.lang.Object . java.lang.Class<? extends java.lang.Object> ( ) ) return false ; org.springframework.data.neo4j.examples.movies.domain.Cinema org.springframework.data.neo4j.examples.movies.domain.Cinema = ( org.springframework.data.neo4j.examples.movies.domain.Cinema ) java.lang.Object ; return ! ( java.lang.String != null ? ! java.lang.String . boolean ( org.springframework.data.neo4j.examples.movies.domain.Cinema . java.lang.String ) : org.springframework.data.neo4j.examples.movies.domain.Cinema . java.lang.String != null ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return java.lang.String != null ? java.lang.String . int ( ) : NUMBER ; }  <METHOD_END>

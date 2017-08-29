@@ -1,0 +1,16 @@
+<METHOD_START> < S extends T > org.springframework.data.repository.reactive.Single<S> < S > org.springframework.data.repository.reactive.Single<S> ( S S );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.repository.reactive.Observable<S> < S > org.springframework.data.repository.reactive.Observable<S> ( java.lang.Iterable<S> < S > java.lang.Iterable<S> );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.repository.reactive.Observable<S> < S > org.springframework.data.repository.reactive.Observable<S> ( Observable < S > org.springframework.data.repository.reactive.Observable<S> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Observable<T> < T > org.springframework.data.repository.reactive.Observable<T> ( ID ID );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Observable<T> < T > org.springframework.data.repository.reactive.Observable<T> ( Single < ID > org.springframework.data.repository.reactive.Single<ID> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Single<java.lang.Boolean> < java.lang.Boolean > org.springframework.data.repository.reactive.Single<java.lang.Boolean> ( ID ID );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Single<java.lang.Boolean> < java.lang.Boolean > org.springframework.data.repository.reactive.Single<java.lang.Boolean> ( Single < ID > org.springframework.data.repository.reactive.Single<ID> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Observable<T> < T > org.springframework.data.repository.reactive.Observable<T> ( )  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Observable<T> < T > org.springframework.data.repository.reactive.Observable<T> ( java.lang.Iterable<ID> < ID > java.lang.Iterable<ID> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Observable<T> < T > org.springframework.data.repository.reactive.Observable<T> ( Observable < ID > org.springframework.data.repository.reactive.Observable<ID> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Single<java.lang.Long> < java.lang.Long > org.springframework.data.repository.reactive.Single<java.lang.Long> ( )  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Completable org.springframework.data.repository.reactive.Completable ( ID ID );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Completable org.springframework.data.repository.reactive.Completable ( T T );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Completable org.springframework.data.repository.reactive.Completable ( java.lang.Iterable<? extends T> < ? extends T > java.lang.Iterable<? extends T> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Completable org.springframework.data.repository.reactive.Completable ( Observable < ? extends T > org.springframework.data.repository.reactive.Observable<? extends T> );  <METHOD_END>
+<METHOD_START> org.springframework.data.repository.reactive.Completable org.springframework.data.repository.reactive.Completable ( )  <METHOD_END>

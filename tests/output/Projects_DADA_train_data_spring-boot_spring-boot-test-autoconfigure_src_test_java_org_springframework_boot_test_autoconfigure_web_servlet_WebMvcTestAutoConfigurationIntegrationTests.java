@@ -1,0 +1,4 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.autoconfigure.web.servlet.ApplicationContext ) . has ( importedAutoConfiguration ( FreeMarkerAutoConfiguration .class ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.autoconfigure.web.servlet.ApplicationContext ) . has ( importedAutoConfiguration ( GroovyTemplateAutoConfiguration .class ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.autoconfigure.web.servlet.ApplicationContext ) . has ( importedAutoConfiguration ( MustacheAutoConfiguration .class ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.autoconfigure.web.servlet.ApplicationContext ) . has ( importedAutoConfiguration ( ThymeleafAutoConfiguration .class ) ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) { void ( java.lang.String != null ? java.lang.String . char[] ( ) : null ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { char [] char[] = ( char [] ) java.lang.Object ( ) ; return ( char[] != null ? new java.lang.String ( char[] ) : STRING ) ; }  <METHOD_END>

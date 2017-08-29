@@ -1,0 +1,7 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( T T ) { Assert . notNull ( T , STRING ) ; Assert . isTrue ( boolean ( T ) , STRING ) ; this . T = T ; }  <METHOD_END>
+<METHOD_START> public void void ( T T ) { Assert . notNull ( T , STRING ) ; Assert . isTrue ( boolean ( T ) , STRING ) ; this . T = T ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ServletContext org.springframework.boot.web.servlet.ServletContext ) throws org.springframework.boot.web.servlet.ServletException { if ( ! isEnabled ( ) ) { org.springframework.boot.web.servlet.Log . info ( STRING + this . T + STRING ) ; return; } try { org.springframework.boot.web.servlet.ServletContext . addListener ( this . T ) ; } catch ( java.lang.RuntimeException java.lang.RuntimeException ) { throw new java.lang.IllegalStateException ( STRING + this . T + STRING , java.lang.RuntimeException ) ; } }  <METHOD_END>
+<METHOD_START> public T T ( ) { return this . T ; }  <METHOD_END>
+<METHOD_START> public static boolean boolean ( java.util.EventListener java.util.EventListener ) { for ( java.lang.Class<?> < ? > java.lang.Class<?> : java.util.Set<java.lang.Class<?>> ) { if ( ClassUtils . isAssignableValue ( java.lang.Class<> , java.util.EventListener ) ) { return true ; } } return false ; }  <METHOD_END>
+<METHOD_START> public static java.util.Set<java.lang.Class<?>> < java.lang.Class<?> < ? > > java.util.Set<java.lang.Class<?>> ( ) { return java.util.Set<java.lang.Class<?>> ; }  <METHOD_END>

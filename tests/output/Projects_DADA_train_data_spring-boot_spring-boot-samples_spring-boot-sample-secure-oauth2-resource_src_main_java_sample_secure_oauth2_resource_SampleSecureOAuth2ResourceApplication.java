@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( HttpSecurity sample.secure.oauth2.resource.HttpSecurity ) throws java.lang.Exception { sample.secure.oauth2.resource.HttpSecurity . antMatcher ( STRING ) . authorizeRequests ( ) . anyRequest ( ) . authenticated ( ) ; }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) { SpringApplication . run ( sample.secure.oauth2.resource.SampleSecureOAuth2ResourceApplication .class , java.lang.String[] ) ; }  <METHOD_END>

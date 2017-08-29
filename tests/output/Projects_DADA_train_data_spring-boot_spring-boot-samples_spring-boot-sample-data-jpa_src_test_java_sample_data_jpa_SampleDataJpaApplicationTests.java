@@ -1,0 +1,3 @@
+<METHOD_START> @ Before public void void ( ) { this . sample.data.jpa.MockMvc = MockMvcBuilders . webAppContextSetup ( this . sample.data.jpa.WebApplicationContext ) . build ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . sample.data.jpa.MockMvc . perform ( get ( STRING ) ) . andExpect ( status ( ) . isOk ( ) ) . andExpect ( content ( ) . string ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( java.lang.management.ManagementFactory . javax.management.MBeanServer ( ) . java.util.Set<javax.management.ObjectInstance> ( new javax.management.ObjectName ( STRING ) , null ) ) . hasSize ( NUMBER ) ; }  <METHOD_END>

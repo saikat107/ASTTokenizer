@@ -1,0 +1,2 @@
+<METHOD_START> static void void ( java.lang.Throwable java.lang.Throwable ) { org.springframework.cache.aspectj.AnyThrow .< java.lang.RuntimeException > void ( java.lang.Throwable ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) private static < E extends java.lang.Throwable > void void ( java.lang.Throwable java.lang.Throwable ) throws E { throw ( E ) java.lang.Throwable ; }  <METHOD_END>

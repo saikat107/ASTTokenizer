@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { Assert . notNull ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( SockJsFrame org.springframework.web.socket.sockjs.frame.SockJsFrame ) { return java.lang.String . java.lang.String ( this . java.lang.String , java.lang.String ( org.springframework.web.socket.sockjs.frame.SockJsFrame . getContent ( ) ) ) ; }  <METHOD_END>
+<METHOD_START> protected java.lang.String java.lang.String ( java.lang.String java.lang.String ) { return java.lang.String ; }  <METHOD_END>

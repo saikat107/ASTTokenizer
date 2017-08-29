@@ -1,0 +1,2 @@
+<METHOD_START> public static boolean boolean ( java.lang.CharSequence java.lang.CharSequence ) { Assert . notNull ( java.lang.CharSequence , STRING ) ; return boolean ( java.lang.CharSequence . java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> public static boolean boolean ( java.lang.String java.lang.String ) { if ( ! StringUtils . hasText ( java.lang.String ) ) { return false ; } return java.util.Set<java.lang.String> . boolean ( java.lang.String . java.lang.String ( ) ) ; }  <METHOD_END>

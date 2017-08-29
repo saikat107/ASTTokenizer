@@ -1,0 +1,2 @@
+<METHOD_START> void ( ) { this . channel = new ReactiveChannel ( ) ; }  <METHOD_END>
+<METHOD_START> void ( Processor < Message < ? > , Message < ? > > org.springframework.integration.dsl.channel.Processor<org.springframework.integration.dsl.channel.Message<?>,org.springframework.integration.dsl.channel.Message<?>> ) { this . channel = new ReactiveChannel ( org.springframework.integration.dsl.channel.Processor<org.springframework.integration.dsl.channel.Message<?>,org.springframework.integration.dsl.channel.Message<?>> ) ; }  <METHOD_END>

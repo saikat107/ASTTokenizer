@@ -1,0 +1,18 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> public int int ( ) { return this . int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> public java.net.InetAddress java.net.InetAddress ( ) { return this . java.net.InetAddress ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.net.InetAddress java.net.InetAddress ) { this . java.net.InetAddress = java.net.InetAddress ; }  <METHOD_END>
+<METHOD_START> public java.util.Set<org.springframework.boot.web.server.ErrorPage> < ErrorPage > java.util.Set<org.springframework.boot.web.server.ErrorPage> ( ) { return this . java.util.Set<org.springframework.boot.web.server.ErrorPage> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.util.Set<? extends org.springframework.boot.web.server.ErrorPage> < ? extends ErrorPage > java.util.Set<? extends org.springframework.boot.web.server.ErrorPage> ) { Assert . notNull ( java.util.Set<> , STRING ) ; this . java.util.Set<org.springframework.boot.web.server.ErrorPage> = new java.util.LinkedHashSet <> ( java.util.Set<> ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ErrorPage ... org.springframework.boot.web.server.ErrorPage[] ) { Assert . notNull ( org.springframework.boot.web.server.ErrorPage[] , STRING ) ; this . java.util.Set<org.springframework.boot.web.server.ErrorPage> . addAll ( java.util.Arrays . java.util.List ( org.springframework.boot.web.server.ErrorPage[] ) ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.web.server.Ssl org.springframework.boot.web.server.Ssl ( ) { return this . org.springframework.boot.web.server.Ssl ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Ssl org.springframework.boot.web.server.Ssl ) { this . org.springframework.boot.web.server.Ssl = org.springframework.boot.web.server.Ssl ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.web.server.SslStoreProvider org.springframework.boot.web.server.SslStoreProvider ( ) { return this . org.springframework.boot.web.server.SslStoreProvider ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( SslStoreProvider org.springframework.boot.web.server.SslStoreProvider ) { this . org.springframework.boot.web.server.SslStoreProvider = org.springframework.boot.web.server.SslStoreProvider ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.web.server.Compression org.springframework.boot.web.server.Compression ( ) { return this . org.springframework.boot.web.server.Compression ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Compression org.springframework.boot.web.server.Compression ) { this . org.springframework.boot.web.server.Compression = org.springframework.boot.web.server.Compression ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> protected final java.io.File java.io.File ( java.lang.String java.lang.String ) { try { java.io.File java.io.File = java.io.File . java.io.File ( java.lang.String + STRING , STRING + int ( ) ) ; java.io.File . boolean ( ) ; java.io.File . boolean ( ) ; java.io.File . void ( ) ; return java.io.File ; } catch ( java.io.IOException java.io.IOException ) { throw new WebServerException ( STRING + java.lang.System . java.lang.String ( STRING ) , java.io.IOException ) ; } }  <METHOD_END>

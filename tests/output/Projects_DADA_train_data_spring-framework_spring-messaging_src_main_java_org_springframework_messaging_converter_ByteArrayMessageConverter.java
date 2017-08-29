@@ -1,0 +1,4 @@
+<METHOD_START> public void ( ) { super( MimeTypeUtils . APPLICATION_OCTET_STREAM ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> ) { return ( byte [] .class == java.lang.Class<> ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.Object java.lang.Object ( Message < ? > org.springframework.messaging.converter.Message<?> , java.lang.Class<?> < ? > java.lang.Class<?> , java.lang.Object java.lang.Object ) { return org.springframework.messaging.converter.Message<> . getPayload ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.Object java.lang.Object ( java.lang.Object java.lang.Object , MessageHeaders org.springframework.messaging.converter.MessageHeaders , java.lang.Object java.lang.Object ) { return java.lang.Object ; }  <METHOD_END>

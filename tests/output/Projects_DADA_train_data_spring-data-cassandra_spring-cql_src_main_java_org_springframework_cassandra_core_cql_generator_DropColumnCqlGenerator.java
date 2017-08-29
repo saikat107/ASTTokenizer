@@ -1,0 +1,2 @@
+<METHOD_START> public void ( DropColumnSpecification org.springframework.cassandra.core.cql.generator.DropColumnSpecification ) { super( org.springframework.cassandra.core.cql.generator.DropColumnSpecification ); }  <METHOD_END>
+<METHOD_START> public java.lang.StringBuilder java.lang.StringBuilder ( java.lang.StringBuilder java.lang.StringBuilder ) { return noNull ( java.lang.StringBuilder ) . append ( STRING ) . append ( spec ( ) . getName ( ) ) ; }  <METHOD_END>

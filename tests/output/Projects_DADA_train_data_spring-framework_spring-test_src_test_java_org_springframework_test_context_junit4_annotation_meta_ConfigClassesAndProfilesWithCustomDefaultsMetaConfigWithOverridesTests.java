@@ -1,0 +1,3 @@
+<METHOD_START> @ Test public void void ( ) { assertNotNull ( STRING , this . org.springframework.test.context.junit4.annotation.meta.Employee ) ; assertEquals ( STRING , this . org.springframework.test.context.junit4.annotation.meta.Employee . getName ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertNotNull ( STRING , this . org.springframework.test.context.junit4.annotation.meta.Pet ) ; assertEquals ( STRING , this . org.springframework.test.context.junit4.annotation.meta.Pet . getName ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertEquals ( STRING , this . java.lang.String ) ; }  <METHOD_END>

@@ -1,0 +1,4 @@
+<METHOD_START> public void ( Expression org.springframework.integration.endpoint.Expression , java.lang.Class<T> < T > java.lang.Class<T> ) { Assert . notNull ( org.springframework.integration.endpoint.Expression , STRING ) ; this . org.springframework.integration.endpoint.Expression = org.springframework.integration.endpoint.Expression ; this . java.lang.Class<T> = java.lang.Class<T> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public T T ( ) { return this . evaluateExpression ( this . org.springframework.integration.endpoint.Expression , this . java.lang.Class<T> ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.integration.endpoint.Expression org.springframework.integration.endpoint.Expression ( ) { return this . org.springframework.integration.endpoint.Expression ; }  <METHOD_END>

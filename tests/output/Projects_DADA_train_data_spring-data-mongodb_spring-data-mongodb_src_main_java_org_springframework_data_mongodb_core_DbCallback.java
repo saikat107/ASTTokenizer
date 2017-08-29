@@ -1,0 +1,1 @@
+<METHOD_START> T T ( MongoDatabase org.springframework.data.mongodb.core.MongoDatabase ) throws org.springframework.data.mongodb.core.MongoException , org.springframework.data.mongodb.core.DataAccessException ;  <METHOD_END>

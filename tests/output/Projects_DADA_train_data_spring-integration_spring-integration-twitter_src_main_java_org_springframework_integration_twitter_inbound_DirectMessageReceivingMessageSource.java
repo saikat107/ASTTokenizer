@@ -1,0 +1,3 @@
+<METHOD_START> public void ( Twitter org.springframework.integration.twitter.inbound.Twitter , java.lang.String java.lang.String ) { super( org.springframework.integration.twitter.inbound.Twitter , java.lang.String ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.util.List<org.springframework.integration.twitter.inbound.DirectMessage> < DirectMessage > java.util.List<org.springframework.integration.twitter.inbound.DirectMessage> ( long long ) { return this . getTwitter ( ) . directMessageOperations ( ) . getDirectMessagesReceived ( NUMBER , this . getPageSize ( ) , long , NUMBER ) ; }  <METHOD_END>

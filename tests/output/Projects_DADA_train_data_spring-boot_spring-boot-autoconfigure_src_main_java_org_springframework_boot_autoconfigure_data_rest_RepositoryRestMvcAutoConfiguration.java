@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean public org.springframework.boot.autoconfigure.data.rest.SpringBootRepositoryRestConfigurer org.springframework.boot.autoconfigure.data.rest.SpringBootRepositoryRestConfigurer ( ) { return new SpringBootRepositoryRestConfigurer ( ) ; }  <METHOD_END>

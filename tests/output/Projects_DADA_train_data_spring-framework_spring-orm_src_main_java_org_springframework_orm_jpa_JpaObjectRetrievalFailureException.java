@@ -1,0 +1,1 @@
+<METHOD_START> public void ( EntityNotFoundException org.springframework.orm.jpa.EntityNotFoundException ) { super( org.springframework.orm.jpa.EntityNotFoundException . getMessage ( ) , org.springframework.orm.jpa.EntityNotFoundException ); }  <METHOD_END>

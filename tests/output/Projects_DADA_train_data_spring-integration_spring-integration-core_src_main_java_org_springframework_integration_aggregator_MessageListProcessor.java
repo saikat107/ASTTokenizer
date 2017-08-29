@@ -1,0 +1,1 @@
+<METHOD_START> java.lang.Object java.lang.Object ( java.util.Collection<? extends org.springframework.integration.aggregator.Message<?>> < ? extends Message < ? > > java.util.Collection<? extends org.springframework.integration.aggregator.Message<?>> );  <METHOD_END>

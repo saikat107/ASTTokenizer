@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected sample.jetty.jsp.SpringApplicationBuilder sample.jetty.jsp.SpringApplicationBuilder ( SpringApplicationBuilder sample.jetty.jsp.SpringApplicationBuilder ) { return sample.jetty.jsp.SpringApplicationBuilder . sources ( sample.jetty.jsp.SampleJettyJspApplication .class ) ; }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) throws java.lang.Exception { SpringApplication . run ( sample.jetty.jsp.SampleJettyJspApplication .class , java.lang.String[] ) ; }  <METHOD_END>

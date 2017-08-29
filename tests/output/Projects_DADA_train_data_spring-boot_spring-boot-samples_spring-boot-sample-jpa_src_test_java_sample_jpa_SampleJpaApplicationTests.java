@@ -1,0 +1,2 @@
+<METHOD_START> @ Before public void void ( ) { this . sample.jpa.MockMvc = MockMvcBuilders . webAppContextSetup ( this . sample.jpa.WebApplicationContext ) . build ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . sample.jpa.MockMvc . perform ( get ( STRING ) ) . andExpect ( status ( ) . isOk ( ) ) . andExpect ( xpath ( STRING ) . nodeCount ( NUMBER ) ) ; }  <METHOD_END>

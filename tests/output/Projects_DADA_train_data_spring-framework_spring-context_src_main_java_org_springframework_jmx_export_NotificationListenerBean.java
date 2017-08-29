@@ -1,0 +1,4 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( javax.management.NotificationListener javax.management.NotificationListener ) { Assert . notNull ( javax.management.NotificationListener , STRING ) ; setNotificationListener ( javax.management.NotificationListener ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { if ( getNotificationListener ( ) == null ) { throw new java.lang.IllegalArgumentException ( STRING ) ; } }  <METHOD_END>
+<METHOD_START> void void ( java.lang.Object java.lang.Object , java.lang.Object java.lang.Object ) { if ( this . mappedObjectNames != null && this . mappedObjectNames . contains ( java.lang.Object ) ) { this . mappedObjectNames . remove ( java.lang.Object ) ; this . mappedObjectNames . add ( java.lang.Object ) ; } }  <METHOD_END>

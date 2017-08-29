@@ -1,0 +1,3 @@
+<METHOD_START> public void void ( Unmarshaller org.springframework.data.repository.init.Unmarshaller ) { this . org.springframework.data.repository.init.Unmarshaller = org.springframework.data.repository.init.Unmarshaller ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.repository.init.ResourceReader org.springframework.data.repository.init.ResourceReader ( ) { return new UnmarshallingResourceReader ( org.springframework.data.repository.init.Unmarshaller ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) java.lang.Exception { Assert . notNull ( org.springframework.data.repository.init.Unmarshaller , STRING ) ; super. afterPropertiesSet ( ) ; }  <METHOD_END>

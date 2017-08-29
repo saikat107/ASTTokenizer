@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { java.lang.Object java.lang.Object = org.springframework.integration.config.xml.ApplicationContext . getBean ( STRING ) ; boolean boolean = TestUtils . getPropertyValue ( java.lang.Object , STRING , java.lang.Boolean .class ) ; assertFalse ( STRING , boolean ) ; }  <METHOD_END>

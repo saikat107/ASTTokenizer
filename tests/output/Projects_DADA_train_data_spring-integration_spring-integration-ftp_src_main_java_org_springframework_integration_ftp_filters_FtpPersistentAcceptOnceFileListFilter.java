@@ -1,0 +1,3 @@
+<METHOD_START> public void ( ConcurrentMetadataStore org.springframework.integration.ftp.filters.ConcurrentMetadataStore , java.lang.String java.lang.String ) { super( org.springframework.integration.ftp.filters.ConcurrentMetadataStore , java.lang.String ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected long long ( FTPFile org.springframework.integration.ftp.filters.FTPFile ) { return org.springframework.integration.ftp.filters.FTPFile . getTimestamp ( ) . getTimeInMillis ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( FTPFile org.springframework.integration.ftp.filters.FTPFile ) { return org.springframework.integration.ftp.filters.FTPFile . getName ( ) ; }  <METHOD_END>

@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { super( new ExpressionEvaluatingMessageProcessor < java.lang.Boolean > ( org.springframework.integration.filter.ExpressionParser . parseExpression ( java.lang.String ) , java.lang.Boolean .class ) ); this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void ( Expression org.springframework.integration.filter.Expression ) { super( new ExpressionEvaluatingMessageProcessor < java.lang.Boolean > ( org.springframework.integration.filter.Expression , java.lang.Boolean .class ) ); this . java.lang.String = org.springframework.integration.filter.Expression . getExpressionString ( ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING + this . java.lang.String + STRING ; }  <METHOD_END>

@@ -1,0 +1,6 @@
+<METHOD_START> @ java.lang.Override public final void void ( java.sql.ResultSet java.sql.ResultSet ) throws java.sql.SQLException { if ( this . int == NUMBER ) { java.sql.ResultSetMetaData java.sql.ResultSetMetaData = java.sql.ResultSet . java.sql.ResultSetMetaData ( ) ; this . int = java.sql.ResultSetMetaData . int ( ) ; this . int[] = new int [ this . int ] ; this . java.lang.String[] = new java.lang.String [ this . int ] ; for ( int int = NUMBER ; int < this . int ; int ++ ) { this . int[] [ int ] = java.sql.ResultSetMetaData . int ( int + NUMBER ) ; this . java.lang.String[] [ int ] = JdbcUtils . lookupColumnName ( java.sql.ResultSetMetaData , int + NUMBER ) ; } } void ( java.sql.ResultSet , this . int ++ ) ; }  <METHOD_END>
+<METHOD_START> protected void void ( java.sql.ResultSet java.sql.ResultSet , int int ) throws java.sql.SQLException {	}  <METHOD_END>
+<METHOD_START> public final int [] int[] ( ) { return int[] ; }  <METHOD_END>
+<METHOD_START> public final java.lang.String [] java.lang.String[] ( ) { return java.lang.String[] ; }  <METHOD_END>
+<METHOD_START> public final int int ( ) { return int ; }  <METHOD_END>
+<METHOD_START> public final int int ( ) { return int ; }  <METHOD_END>

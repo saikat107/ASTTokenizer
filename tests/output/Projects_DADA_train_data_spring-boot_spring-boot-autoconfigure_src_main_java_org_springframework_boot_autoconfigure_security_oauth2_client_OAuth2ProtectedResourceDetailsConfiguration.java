@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean @ ConfigurationProperties ( prefix = STRING ) @ Primary public org.springframework.boot.autoconfigure.security.oauth2.client.AuthorizationCodeResourceDetails org.springframework.boot.autoconfigure.security.oauth2.client.AuthorizationCodeResourceDetails ( ) { return new AuthorizationCodeResourceDetails ( ) ; }  <METHOD_END>

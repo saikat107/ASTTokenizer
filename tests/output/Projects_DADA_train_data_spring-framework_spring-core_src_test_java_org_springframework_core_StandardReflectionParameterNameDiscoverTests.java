@@ -1,0 +1,3 @@
+<METHOD_START> @ Before public void void ( ) { org.springframework.core.ParameterNameDiscoverer = new StandardReflectionParameterNameDiscoverer ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { java.lang.reflect.Method java.lang.reflect.Method = ReflectionUtils . findMethod ( org.springframework.core.StandardReflectionParameterNameDiscoverTests.MessageService .class , STRING , java.lang.String .class ) ; java.lang.String [] java.lang.String[] = org.springframework.core.ParameterNameDiscoverer . getParameterNames ( java.lang.reflect.Method ) ; assertThat ( java.lang.String[] , is ( new java.lang.String [] { STRING } ) ) ; }  <METHOD_END>
+<METHOD_START> void void ( java.lang.String java.lang.String );  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> java.lang.Iterable<? extends org.springframework.data.mongodb.core.index.IndexDefinitionHolder> < ? extends IndexDefinitionHolder > java.lang.Iterable<? extends org.springframework.data.mongodb.core.index.IndexDefinitionHolder> ( TypeInformation < ? > org.springframework.data.mongodb.core.index.TypeInformation<?> );  <METHOD_END>

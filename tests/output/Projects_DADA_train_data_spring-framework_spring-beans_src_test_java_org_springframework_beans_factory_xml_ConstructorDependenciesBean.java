@@ -1,0 +1,13 @@
+<METHOD_START> public void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void ( TestBean org.springframework.beans.factory.xml.TestBean ) { this . org.springframework.beans.factory.xml.TestBean = org.springframework.beans.factory.xml.TestBean ; }  <METHOD_END>
+<METHOD_START> public void ( TestBean org.springframework.beans.factory.xml.TestBean , TestBean org.springframework.beans.factory.xml.TestBean ) { this . org.springframework.beans.factory.xml.TestBean = org.springframework.beans.factory.xml.TestBean ; this . org.springframework.beans.factory.xml.TestBean = org.springframework.beans.factory.xml.TestBean ; }  <METHOD_END>
+<METHOD_START> public void ( TestBean org.springframework.beans.factory.xml.TestBean , TestBean org.springframework.beans.factory.xml.TestBean , int int ) { this . org.springframework.beans.factory.xml.TestBean = org.springframework.beans.factory.xml.TestBean ; this . org.springframework.beans.factory.xml.TestBean = org.springframework.beans.factory.xml.TestBean ; this . int = int ; }  <METHOD_END>
+<METHOD_START> public void ( TestBean org.springframework.beans.factory.xml.TestBean , TestBean org.springframework.beans.factory.xml.TestBean , IndexedTestBean org.springframework.beans.factory.xml.IndexedTestBean ) { this . org.springframework.beans.factory.xml.TestBean = org.springframework.beans.factory.xml.TestBean ; this . org.springframework.beans.factory.xml.TestBean = org.springframework.beans.factory.xml.TestBean ; this . org.springframework.beans.factory.xml.IndexedTestBean = org.springframework.beans.factory.xml.IndexedTestBean ; }  <METHOD_END>
+<METHOD_START> public int int ( ) { return int ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.beans.factory.xml.TestBean org.springframework.beans.factory.xml.TestBean ( ) { return org.springframework.beans.factory.xml.TestBean ; }  <METHOD_END>
+<METHOD_START> public org.springframework.beans.factory.xml.TestBean org.springframework.beans.factory.xml.TestBean ( ) { return org.springframework.beans.factory.xml.TestBean ; }  <METHOD_END>
+<METHOD_START> public org.springframework.beans.factory.xml.IndexedTestBean org.springframework.beans.factory.xml.IndexedTestBean ( ) { return org.springframework.beans.factory.xml.IndexedTestBean ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>

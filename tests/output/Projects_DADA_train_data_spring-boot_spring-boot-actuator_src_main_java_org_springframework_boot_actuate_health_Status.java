@@ -1,0 +1,7 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this( java.lang.String , STRING ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { Assert . notNull ( java.lang.String , STRING ) ; Assert . notNull ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ JsonProperty ( STRING ) public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ JsonInclude ( Include . NON_EMPTY ) public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return this . java.lang.String . int ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( java.lang.Object == this ) { return true ; } if ( java.lang.Object != null && java.lang.Object instanceof org.springframework.boot.actuate.health.Status ) { return ObjectUtils . nullSafeEquals ( this . java.lang.String , ( ( org.springframework.boot.actuate.health.Status ) java.lang.Object ) . java.lang.String ) ; } return false ; }  <METHOD_END>

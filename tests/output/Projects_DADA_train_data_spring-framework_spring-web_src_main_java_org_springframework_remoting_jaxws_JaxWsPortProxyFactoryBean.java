@@ -1,0 +1,4 @@
+<METHOD_START> @ java.lang.Override public void void ( ) { super. afterPropertiesSet ( ) ; ProxyFactory org.springframework.remoting.jaxws.ProxyFactory = new ProxyFactory ( ) ; org.springframework.remoting.jaxws.ProxyFactory . addInterface ( getServiceInterface ( ) ) ; org.springframework.remoting.jaxws.ProxyFactory . addInterface ( javax.xml.ws.BindingProvider .class ) ; org.springframework.remoting.jaxws.ProxyFactory . addAdvice ( this ) ; this . java.lang.Object = org.springframework.remoting.jaxws.ProxyFactory . getProxy ( getBeanClassLoader ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( ) { return this . java.lang.Object ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return getServiceInterface ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

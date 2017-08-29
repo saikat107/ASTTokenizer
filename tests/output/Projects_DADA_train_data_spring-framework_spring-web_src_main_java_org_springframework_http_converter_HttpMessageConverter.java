@@ -1,0 +1,5 @@
+<METHOD_START> boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> , MediaType org.springframework.http.converter.MediaType );  <METHOD_END>
+<METHOD_START> boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> , MediaType org.springframework.http.converter.MediaType );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.http.converter.MediaType> < MediaType > java.util.List<org.springframework.http.converter.MediaType> ( )  <METHOD_END>
+<METHOD_START> T T ( java.lang.Class<? extends T> < ? extends T > java.lang.Class<? extends T> , HttpInputMessage org.springframework.http.converter.HttpInputMessage )			throws java.io.IOException , org.springframework.http.converter.HttpMessageNotReadableException ;  <METHOD_END>
+<METHOD_START> void void ( T T , MediaType org.springframework.http.converter.MediaType , HttpOutputMessage org.springframework.http.converter.HttpOutputMessage )			throws java.io.IOException , org.springframework.http.converter.HttpMessageNotWritableException ;  <METHOD_END>

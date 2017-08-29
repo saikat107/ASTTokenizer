@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { new SpringApplicationBuilderExample ( ) . hierarchyWithDisabledBanner ( new java.lang.String [ NUMBER ] ) ; assertThat ( this . org.springframework.boot.builder.OutputCapture . toString ( ) ) . doesNotContain ( STRING ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.integration.channel.config.Message<java.lang.String> < java.lang.String > org.springframework.integration.channel.config.Message<java.lang.String> ( ) { return new GenericMessage < java.lang.String > ( this . java.lang.String ) ; }  <METHOD_END>

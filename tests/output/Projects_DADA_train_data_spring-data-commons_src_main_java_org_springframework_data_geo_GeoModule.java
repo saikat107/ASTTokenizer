@@ -1,0 +1,7 @@
+<METHOD_START> public void ( ) { super( STRING , new Version ( NUMBER , NUMBER , NUMBER , null , STRING , STRING ) ); setMixInAnnotation ( Distance .class , org.springframework.data.geo.GeoModule.DistanceMixin .class ) ; setMixInAnnotation ( Point .class , org.springframework.data.geo.GeoModule.PointMixin .class ) ; setMixInAnnotation ( Box .class , org.springframework.data.geo.GeoModule.BoxMixin .class ) ; setMixInAnnotation ( Circle .class , org.springframework.data.geo.GeoModule.CircleMixin .class ) ; setMixInAnnotation ( Polygon .class , org.springframework.data.geo.GeoModule.PolygonMixin .class ) ; }  <METHOD_END>
+<METHOD_START> void ( @ JsonProperty ( STRING ) double double , @ JsonProperty ( STRING ) @ JsonDeserialize ( as = Metrics .class ) Metric org.springframework.data.geo.Metric ) {}  <METHOD_END>
+<METHOD_START> @ JsonIgnore abstract double double ( )  <METHOD_END>
+<METHOD_START> void ( @ JsonProperty ( STRING ) double double , @ JsonProperty ( STRING ) double double ) {}  <METHOD_END>
+<METHOD_START> void ( @ JsonProperty ( STRING ) Point org.springframework.data.geo.Point , @ JsonProperty ( STRING ) Distance org.springframework.data.geo.Distance ) {}  <METHOD_END>
+<METHOD_START> void ( @ JsonProperty ( STRING ) Point org.springframework.data.geo.Point , @ JsonProperty ( STRING ) Point org.springframework.data.geo.Point ) {}  <METHOD_END>
+<METHOD_START> void ( @ JsonProperty ( STRING ) java.util.List<org.springframework.data.geo.Point> < Point > java.util.List<org.springframework.data.geo.Point> ) {}  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.boot.jta.ConnectionFactory org.springframework.boot.jta.ConnectionFactory ( XAConnectionFactory org.springframework.boot.jta.XAConnectionFactory )			throws java.lang.Exception ;  <METHOD_END>

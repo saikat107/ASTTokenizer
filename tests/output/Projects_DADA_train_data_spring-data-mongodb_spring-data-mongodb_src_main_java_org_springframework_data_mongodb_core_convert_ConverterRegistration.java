@@ -1,0 +1,8 @@
+<METHOD_START> public void ( ConvertiblePair org.springframework.data.mongodb.core.convert.ConvertiblePair , boolean boolean , boolean boolean ) { Assert . notNull ( org.springframework.data.mongodb.core.convert.ConvertiblePair , STRING ) ; this . org.springframework.data.mongodb.core.convert.ConvertiblePair = org.springframework.data.mongodb.core.convert.ConvertiblePair ; this . boolean = boolean ; this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.Class<?> < ? > java.lang.Class<?> , java.lang.Class<?> < ? > java.lang.Class<?> , boolean boolean , boolean boolean ) { this( new ConvertiblePair ( java.lang.Class<> , java.lang.Class<> ) , boolean , boolean ); }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return boolean == true || ( ! boolean && boolean ( ) ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return boolean == true || ( ! boolean && boolean ( ) ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.mongodb.core.convert.ConvertiblePair org.springframework.data.mongodb.core.convert.ConvertiblePair ( ) { return org.springframework.data.mongodb.core.convert.ConvertiblePair ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return boolean ( org.springframework.data.mongodb.core.convert.ConvertiblePair . getSourceType ( ) ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return boolean ( org.springframework.data.mongodb.core.convert.ConvertiblePair . getTargetType ( ) ) ; }  <METHOD_END>
+<METHOD_START> private static boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> ) { return MongoSimpleTypes . HOLDER . isSimpleType ( java.lang.Class<> ) ; }  <METHOD_END>

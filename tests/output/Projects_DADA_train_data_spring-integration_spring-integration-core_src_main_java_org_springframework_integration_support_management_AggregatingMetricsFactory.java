@@ -1,0 +1,3 @@
+<METHOD_START> public void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.integration.support.management.AbstractMessageChannelMetrics org.springframework.integration.support.management.AbstractMessageChannelMetrics ( java.lang.String java.lang.String ) { return new AggregatingMessageChannelMetrics ( java.lang.String , this . int ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.integration.support.management.AbstractMessageHandlerMetrics org.springframework.integration.support.management.AbstractMessageHandlerMetrics ( java.lang.String java.lang.String ) { return new AggregatingMessageHandlerMetrics ( java.lang.String , this . int ) ; }  <METHOD_END>

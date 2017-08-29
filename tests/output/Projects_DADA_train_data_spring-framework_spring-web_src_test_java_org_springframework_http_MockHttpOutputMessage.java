@@ -1,0 +1,6 @@
+<METHOD_START> @ java.lang.Override public org.springframework.http.HttpHeaders org.springframework.http.HttpHeaders ( ) { return ( this . boolean ? HttpHeaders . readOnlyHttpHeaders ( this . org.springframework.http.HttpHeaders ) : this . org.springframework.http.HttpHeaders ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.http.HttpHeaders org.springframework.http.HttpHeaders ( ) { return org.springframework.http.HttpHeaders ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.io.OutputStream java.io.OutputStream ( ) java.io.IOException { void ( ) ; return java.io.ByteArrayOutputStream ; }  <METHOD_END>
+<METHOD_START> public byte [] byte[] ( ) { void ( ) ; return java.io.ByteArrayOutputStream . byte[] ( ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( java.nio.charset.Charset java.nio.charset.Charset ) { byte [] byte[] = byte[] ( ) ; return new java.lang.String ( byte[] , java.nio.charset.Charset ) ; }  <METHOD_END>
+<METHOD_START> private void void ( ) { if ( this . boolean ) { return; } this . boolean = true ; this . org.springframework.http.HttpHeaders . putAll ( this . org.springframework.http.HttpHeaders ) ; }  <METHOD_END>

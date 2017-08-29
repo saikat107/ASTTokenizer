@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.cassandra.core.BoundStatement org.springframework.cassandra.core.BoundStatement ( PreparedStatement org.springframework.cassandra.core.PreparedStatement ) throws org.springframework.cassandra.core.DriverException ;  <METHOD_END>

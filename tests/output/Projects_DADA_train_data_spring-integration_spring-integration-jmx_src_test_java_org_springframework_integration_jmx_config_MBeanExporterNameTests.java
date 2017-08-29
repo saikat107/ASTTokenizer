@@ -1,0 +1,2 @@
+<METHOD_START> @ Test ( expected = BeanDefinitionParsingException .class ) public void void ( ) java.lang.Exception { new ClassPathXmlApplicationContext ( java.lang.Class<? extends org.springframework.integration.jmx.config.MBeanExporterNameTests> ( ) . java.lang.String ( ) + STRING , java.lang.Class<? extends org.springframework.integration.jmx.config.MBeanExporterNameTests> ( ) ) . close ( ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>

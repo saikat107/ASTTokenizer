@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.eviction.EvictionPolicyType org.springframework.data.gemfire.eviction.EvictionPolicyType ( final java.lang.String java.lang.String ) { return assertConverted ( java.lang.String , EvictionPolicyType . valueOfIgnoreCase ( java.lang.String ) , EvictionPolicyType .class ) ; }  <METHOD_END>

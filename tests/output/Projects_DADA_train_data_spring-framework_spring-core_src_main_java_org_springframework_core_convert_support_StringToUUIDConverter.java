@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.util.UUID java.util.UUID ( java.lang.String java.lang.String ) { return ( StringUtils . hasLength ( java.lang.String ) ? java.util.UUID . java.util.UUID ( java.lang.String . java.lang.String ( ) ) : null ) ; }  <METHOD_END>

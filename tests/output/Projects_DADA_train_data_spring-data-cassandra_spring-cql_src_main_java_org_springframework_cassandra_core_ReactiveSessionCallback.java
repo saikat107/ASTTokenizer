@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.cassandra.core.Publisher<T> < T > org.springframework.cassandra.core.Publisher<T> ( ReactiveSession org.springframework.cassandra.core.ReactiveSession ) throws org.springframework.cassandra.core.DriverException , org.springframework.cassandra.core.DataAccessException ;  <METHOD_END>

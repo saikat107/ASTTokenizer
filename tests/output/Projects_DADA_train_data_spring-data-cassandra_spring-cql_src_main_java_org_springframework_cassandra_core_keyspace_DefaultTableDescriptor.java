@@ -1,0 +1,1 @@
+<METHOD_START> public static org.springframework.cassandra.core.keyspace.DefaultTableDescriptor org.springframework.cassandra.core.keyspace.DefaultTableDescriptor ( ) { return new org.springframework.cassandra.core.keyspace.DefaultTableDescriptor ( ) ; }  <METHOD_END>

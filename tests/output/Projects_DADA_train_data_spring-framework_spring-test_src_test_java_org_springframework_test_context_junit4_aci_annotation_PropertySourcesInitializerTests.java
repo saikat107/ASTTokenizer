@@ -1,0 +1,3 @@
+<METHOD_START> @ Bean public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertEquals ( STRING , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ConfigurableApplicationContext org.springframework.test.context.junit4.aci.annotation.ConfigurableApplicationContext ) { org.springframework.test.context.junit4.aci.annotation.ConfigurableApplicationContext . getEnvironment ( ) . getPropertySources ( ) . addFirst ( new MockPropertySource ( ) . withProperty ( STRING , STRING ) ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> org.springframework.test.context.junit4.orm.service.Person org.springframework.test.context.junit4.orm.service.Person ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> org.springframework.test.context.junit4.orm.service.Person org.springframework.test.context.junit4.orm.service.Person ( Person org.springframework.test.context.junit4.orm.service.Person );  <METHOD_END>

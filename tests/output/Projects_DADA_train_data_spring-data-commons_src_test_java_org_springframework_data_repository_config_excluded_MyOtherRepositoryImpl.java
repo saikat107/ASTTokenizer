@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.Class<? extends org.springframework.data.repository.config.excluded.MyOtherRepositoryImpl> ( ) . java.lang.String ( ) ; }  <METHOD_END>

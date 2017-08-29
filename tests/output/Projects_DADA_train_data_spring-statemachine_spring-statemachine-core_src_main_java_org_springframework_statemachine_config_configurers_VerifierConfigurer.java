@@ -1,0 +1,2 @@
+<METHOD_START> org.springframework.statemachine.config.configurers.VerifierConfigurer<S,E> < S , E > org.springframework.statemachine.config.configurers.VerifierConfigurer<S,E> ( boolean boolean );  <METHOD_END>
+<METHOD_START> org.springframework.statemachine.config.configurers.VerifierConfigurer<S,E> < S , E > org.springframework.statemachine.config.configurers.VerifierConfigurer<S,E> ( StateMachineModelVerifier < S , E > org.springframework.statemachine.config.configurers.StateMachineModelVerifier<S,E> );  <METHOD_END>

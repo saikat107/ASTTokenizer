@@ -1,0 +1,3 @@
+<METHOD_START> < S extends T > org.springframework.data.cassandra.repository.Mono<S> < S > org.springframework.data.cassandra.repository.Mono<S> ( S S );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.cassandra.repository.Flux<S> < S > org.springframework.data.cassandra.repository.Flux<S> ( java.lang.Iterable<S> < S > java.lang.Iterable<S> );  <METHOD_END>
+<METHOD_START> < S extends T > org.springframework.data.cassandra.repository.Flux<S> < S > org.springframework.data.cassandra.repository.Flux<S> ( Publisher < S > org.springframework.data.cassandra.repository.Publisher<S> );  <METHOD_END>

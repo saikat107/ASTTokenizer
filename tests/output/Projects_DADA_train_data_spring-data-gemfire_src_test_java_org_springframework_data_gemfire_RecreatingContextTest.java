@@ -1,0 +1,4 @@
+<METHOD_START> protected abstract java.lang.String java.lang.String ( )  <METHOD_END>
+<METHOD_START> protected void void ( ) {	}  <METHOD_END>
+<METHOD_START> @ Before public void void ( ) { org.springframework.data.gemfire.GenericXmlApplicationContext = new GenericXmlApplicationContext ( ) ; void ( ) ; org.springframework.data.gemfire.GenericXmlApplicationContext . load ( java.lang.String ( ) ) ; org.springframework.data.gemfire.GenericXmlApplicationContext . registerShutdownHook ( ) ; org.springframework.data.gemfire.GenericXmlApplicationContext . refresh ( ) ; }  <METHOD_END>
+<METHOD_START> @ After public void void ( ) { if ( org.springframework.data.gemfire.GenericXmlApplicationContext != null ) org.springframework.data.gemfire.GenericXmlApplicationContext . destroy ( ) ; }  <METHOD_END>

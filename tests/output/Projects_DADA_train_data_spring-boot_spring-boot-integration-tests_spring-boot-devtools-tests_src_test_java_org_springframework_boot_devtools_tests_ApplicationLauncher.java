@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.boot.devtools.tests.LaunchedApplication org.springframework.boot.devtools.tests.LaunchedApplication ( JvmLauncher org.springframework.boot.devtools.tests.JvmLauncher ) throws java.lang.Exception ;  <METHOD_END>

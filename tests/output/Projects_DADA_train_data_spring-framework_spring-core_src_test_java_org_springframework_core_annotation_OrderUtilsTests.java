@@ -1,0 +1,6 @@
+<METHOD_START> @ Test public void void ( ) { assertEquals ( java.lang.Integer . java.lang.Integer ( NUMBER ) , OrderUtils . getOrder ( org.springframework.core.annotation.OrderUtilsTests.SimpleOrder .class , null ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertEquals ( java.lang.Integer . java.lang.Integer ( NUMBER ) , OrderUtils . getOrder ( org.springframework.core.annotation.OrderUtilsTests.SimplePriority .class , null ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertEquals ( java.lang.Integer . java.lang.Integer ( NUMBER ) , OrderUtils . getOrder ( org.springframework.core.annotation.OrderUtilsTests.OrderAndPriority .class , null ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertEquals ( java.lang.Integer . java.lang.Integer ( NUMBER ) , OrderUtils . getOrder ( org.springframework.core.annotation.OrderUtilsTests.NoOrder .class , NUMBER ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertNull ( OrderUtils . getPriority ( org.springframework.core.annotation.OrderUtilsTests.SimpleOrder .class ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertEquals ( java.lang.Integer . java.lang.Integer ( NUMBER ) , OrderUtils . getPriority ( org.springframework.core.annotation.OrderUtilsTests.OrderAndPriority .class ) ) ; }  <METHOD_END>

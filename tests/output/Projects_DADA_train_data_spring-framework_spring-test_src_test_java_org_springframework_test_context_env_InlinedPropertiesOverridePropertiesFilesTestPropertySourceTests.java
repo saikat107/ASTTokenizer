@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { assertEquals ( STRING , org.springframework.test.context.env.Environment . getProperty ( STRING ) ) ; assertEquals ( STRING , this . java.lang.String ) ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( org.springframework.data.cassandra.test.integration.minimal.config.CassandraMappingContext ) . isNotNull ( ) ; org.springframework.data.cassandra.test.integration.minimal.config.CassandraMappingContext . getPersistentEntity ( AbsMin .class ) ; }  <METHOD_END>

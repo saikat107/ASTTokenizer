@@ -1,0 +1,3 @@
+<METHOD_START> private void ( ) {	}  <METHOD_END>
+<METHOD_START> public static boolean boolean ( ) { return boolean ( null ) || boolean ( org.springframework.boot.devtools.restart.AgentReloader .class . java.lang.ClassLoader ( ) ) || boolean ( java.lang.ClassLoader . java.lang.ClassLoader ( ) ) ; }  <METHOD_END>
+<METHOD_START> private static boolean boolean ( java.lang.ClassLoader java.lang.ClassLoader ) { for ( java.lang.String java.lang.String : java.util.Set<java.lang.String> ) { if ( ClassUtils . isPresent ( java.lang.String , java.lang.ClassLoader ) ) { return true ; } } return false ; }  <METHOD_END>

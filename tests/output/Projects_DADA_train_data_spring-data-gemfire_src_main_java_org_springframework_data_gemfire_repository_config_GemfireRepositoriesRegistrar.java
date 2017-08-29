@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected java.lang.Class<? extends java.lang.annotation.Annotation> < ? extends java.lang.annotation.Annotation > java.lang.Class<? extends java.lang.annotation.Annotation> ( ) { return EnableGemfireRepositories .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.gemfire.repository.config.RepositoryConfigurationExtension org.springframework.data.gemfire.repository.config.RepositoryConfigurationExtension ( ) { return new GemfireRepositoryConfigurationExtension ( ) ; }  <METHOD_END>

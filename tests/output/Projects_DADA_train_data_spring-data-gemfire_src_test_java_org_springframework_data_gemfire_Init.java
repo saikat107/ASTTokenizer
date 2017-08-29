@@ -1,0 +1,2 @@
+<METHOD_START> public void void ( ) { CacheServer org.springframework.data.gemfire.CacheServer = org.springframework.data.gemfire.BeanFactory . getBean ( CacheServer .class ) ; Assert . isTrue ( ! org.springframework.data.gemfire.CacheServer . isRunning ( ) , STRING ) ; }  <METHOD_END>
+<METHOD_START> public void void ( BeanFactory org.springframework.data.gemfire.BeanFactory ) throws org.springframework.data.gemfire.BeansException { this . org.springframework.data.gemfire.BeanFactory = org.springframework.data.gemfire.BeanFactory ; }  <METHOD_END>

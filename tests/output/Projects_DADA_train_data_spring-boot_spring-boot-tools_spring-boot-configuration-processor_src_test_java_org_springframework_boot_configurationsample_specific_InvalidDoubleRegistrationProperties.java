@@ -1,0 +1,3 @@
+<METHOD_START> @ ConfigurationProperties ( STRING ) public org.springframework.boot.configurationsample.specific.InvalidDoubleRegistrationProperties.Foo org.springframework.boot.configurationsample.specific.InvalidDoubleRegistrationProperties.Foo ( ) { return new org.springframework.boot.configurationsample.specific.InvalidDoubleRegistrationProperties.Foo ( ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>

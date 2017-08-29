@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( ServletConfig org.springframework.web.context.ServletConfig ) { this . org.springframework.web.context.ServletConfig = org.springframework.web.context.ServletConfig ; }  <METHOD_END>
+<METHOD_START> public org.springframework.web.context.ServletConfig org.springframework.web.context.ServletConfig ( ) { return org.springframework.web.context.ServletConfig ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.integration.jpa.support.parametersource.ParameterSource org.springframework.integration.jpa.support.parametersource.ParameterSource ( java.lang.Object java.lang.Object );  <METHOD_END>

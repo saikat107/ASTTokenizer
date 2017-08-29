@@ -1,0 +1,18 @@
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.lang.Boolean .class ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluateAndCheckError ( STRING , SpelMessage . BETWEEN_RIGHT_OPERAND_MUST_BE_TWO_ELEMENT_LIST , NUMBER ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluateAndCheckError ( STRING , SpelMessage . BETWEEN_RIGHT_OPERAND_MUST_BE_TWO_ELEMENT_LIST , NUMBER ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.util.ArrayList .class ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.util.ArrayList .class ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluateAndCheckError ( STRING , SpelMessage . PROJECTION_NOT_SUPPORTED_ON_TYPE ) ; evaluateAndCheckError ( STRING , SpelMessage . PROJECTION_NOT_SUPPORTED_ON_TYPE ) ; evaluate ( STRING , null , null ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { SpelExpression org.springframework.expression.spel.SpelExpression = ( SpelExpression ) parser . parseExpression ( STRING ) ; assertEquals ( STRING , org.springframework.expression.spel.SpelExpression . toStringAST ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.util.ArrayList .class ) ; evaluate ( STRING , STRING , java.lang.Boolean .class ) ; evaluate ( STRING , STRING , java.lang.Integer .class ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluateAndCheckError ( STRING , SpelMessage . RESULT_OF_SELECTION_CRITERIA_IS_NOT_BOOLEAN ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.lang.Integer .class ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluateAndCheckError ( STRING , SpelMessage . RESULT_OF_SELECTION_CRITERIA_IS_NOT_BOOLEAN ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.lang.Integer .class ) ; evaluate ( STRING , null , null ) ; evaluate ( STRING , null , null ) ; evaluate ( STRING , null , null ) ; evaluateAndCheckError ( STRING , SpelMessage . INVALID_TYPE_FOR_SELECTION ) ; evaluateAndCheckError ( STRING , SpelMessage . INVALID_TYPE_FOR_SELECTION ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.lang.Integer .class ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.lang.Integer .class ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.lang.Integer .class ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.util.HashMap .class ) ; evaluate ( STRING , STRING , java.lang.Integer .class ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { SpelExpression org.springframework.expression.spel.SpelExpression = ( SpelExpression ) parser . parseExpression ( STRING ) ; assertEquals ( STRING , org.springframework.expression.spel.SpelExpression . toStringAST ( ) ) ; org.springframework.expression.spel.SpelExpression = ( SpelExpression ) parser . parseExpression ( STRING ) ; assertEquals ( STRING , org.springframework.expression.spel.SpelExpression . toStringAST ( ) ) ; org.springframework.expression.spel.SpelExpression = ( SpelExpression ) parser . parseExpression ( STRING ) ; assertEquals ( STRING , org.springframework.expression.spel.SpelExpression . toStringAST ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { evaluate ( STRING , STRING , java.lang.Boolean .class ) ; }  <METHOD_END>

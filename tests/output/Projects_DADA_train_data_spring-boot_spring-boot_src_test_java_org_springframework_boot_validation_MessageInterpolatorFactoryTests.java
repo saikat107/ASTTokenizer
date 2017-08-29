@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { MessageInterpolator org.springframework.boot.validation.MessageInterpolator = new MessageInterpolatorFactory ( ) . getObject ( ) ; assertThat ( org.springframework.boot.validation.MessageInterpolator ) . isInstanceOf ( ResourceBundleMessageInterpolator .class ) ; }  <METHOD_END>

@@ -1,0 +1,6 @@
+<METHOD_START> void ( javax.xml.stream.XMLStreamReader javax.xml.stream.XMLStreamReader ) { super( new StaxStreamXMLReader ( javax.xml.stream.XMLStreamReader ) , new org.xml.sax.InputSource ( ) ); this . javax.xml.stream.XMLStreamReader = javax.xml.stream.XMLStreamReader ; }  <METHOD_END>
+<METHOD_START> void ( javax.xml.stream.XMLEventReader javax.xml.stream.XMLEventReader ) { super( new StaxEventXMLReader ( javax.xml.stream.XMLEventReader ) , new org.xml.sax.InputSource ( ) ); this . javax.xml.stream.XMLEventReader = javax.xml.stream.XMLEventReader ; }  <METHOD_END>
+<METHOD_START> javax.xml.stream.XMLEventReader javax.xml.stream.XMLEventReader ( ) { return this . javax.xml.stream.XMLEventReader ; }  <METHOD_END>
+<METHOD_START> javax.xml.stream.XMLStreamReader javax.xml.stream.XMLStreamReader ( ) { return this . javax.xml.stream.XMLStreamReader ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( org.xml.sax.InputSource org.xml.sax.InputSource ) { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( org.xml.sax.XMLReader org.xml.sax.XMLReader ) { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>

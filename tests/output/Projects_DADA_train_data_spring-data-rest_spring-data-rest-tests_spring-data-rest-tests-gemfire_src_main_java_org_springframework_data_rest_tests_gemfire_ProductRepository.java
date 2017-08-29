@@ -1,0 +1,3 @@
+<METHOD_START> java.util.List<org.springframework.data.rest.tests.gemfire.Product> < Product > java.util.List<org.springframework.data.rest.tests.gemfire.Product> ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> @ Query ( STRING ) java.util.List<org.springframework.data.rest.tests.gemfire.Product> < Product > java.util.List<org.springframework.data.rest.tests.gemfire.Product> ( java.lang.String java.lang.String , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.rest.tests.gemfire.Product> < Product > java.util.List<org.springframework.data.rest.tests.gemfire.Product> ( java.lang.String java.lang.String );  <METHOD_END>

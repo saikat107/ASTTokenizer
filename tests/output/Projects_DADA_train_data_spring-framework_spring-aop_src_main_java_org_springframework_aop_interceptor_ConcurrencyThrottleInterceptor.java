@@ -1,0 +1,2 @@
+<METHOD_START> public void ( ) { setConcurrencyLimit ( NUMBER ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( MethodInvocation org.springframework.aop.interceptor.MethodInvocation ) throws java.lang.Throwable { beforeAccess ( ) ; try { return org.springframework.aop.interceptor.MethodInvocation . proceed ( ) ; } finally { afterAccess ( ) ; } }  <METHOD_END>

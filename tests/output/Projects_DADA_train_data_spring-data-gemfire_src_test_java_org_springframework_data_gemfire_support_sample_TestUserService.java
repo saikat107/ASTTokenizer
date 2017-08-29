@@ -1,0 +1,1 @@
+<METHOD_START> public org.springframework.data.gemfire.support.sample.UserDao org.springframework.data.gemfire.support.sample.UserDao ( ) { Assert . state ( org.springframework.data.gemfire.support.sample.UserDao != null , STRING ) ; return org.springframework.data.gemfire.support.sample.UserDao ; }  <METHOD_END>

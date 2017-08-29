@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.integration.syslog.Message<?> < ? > org.springframework.integration.syslog.Message<?> ( Message < ? > org.springframework.integration.syslog.Message<?> ) throws java.lang.Exception ;  <METHOD_END>

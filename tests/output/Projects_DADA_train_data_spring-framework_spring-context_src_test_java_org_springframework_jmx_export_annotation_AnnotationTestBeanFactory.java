@@ -1,0 +1,4 @@
+<METHOD_START> public void ( ) { this . org.springframework.jmx.export.annotation.FactoryCreatedAnnotationTestBean . setName ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.jmx.export.annotation.FactoryCreatedAnnotationTestBean org.springframework.jmx.export.annotation.FactoryCreatedAnnotationTestBean ( ) java.lang.Exception { return this . org.springframework.jmx.export.annotation.FactoryCreatedAnnotationTestBean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<? extends org.springframework.jmx.export.annotation.IJmxTestBean> < ? extends IJmxTestBean > java.lang.Class<? extends org.springframework.jmx.export.annotation.IJmxTestBean> ( ) { return FactoryCreatedAnnotationTestBean .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

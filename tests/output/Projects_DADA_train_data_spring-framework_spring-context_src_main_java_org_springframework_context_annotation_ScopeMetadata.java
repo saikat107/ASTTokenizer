@@ -1,0 +1,4 @@
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { Assert . notNull ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( ScopedProxyMode org.springframework.context.annotation.ScopedProxyMode ) { Assert . notNull ( org.springframework.context.annotation.ScopedProxyMode , STRING ) ; this . org.springframework.context.annotation.ScopedProxyMode = org.springframework.context.annotation.ScopedProxyMode ; }  <METHOD_END>
+<METHOD_START> public org.springframework.context.annotation.ScopedProxyMode org.springframework.context.annotation.ScopedProxyMode ( ) { return this . org.springframework.context.annotation.ScopedProxyMode ; }  <METHOD_END>

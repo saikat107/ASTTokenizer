@@ -1,0 +1,5 @@
+<METHOD_START> @ Before public void void ( ) { ClassPathXmlApplicationContext org.springframework.aop.aspectj.ClassPathXmlApplicationContext = new ClassPathXmlApplicationContext ( java.lang.Class<? extends org.springframework.aop.aspectj.SharedPointcutWithArgsMismatchTests> ( ) . java.lang.String ( ) + STRING , java.lang.Class<? extends org.springframework.aop.aspectj.SharedPointcutWithArgsMismatchTests> ( ) ) ; org.springframework.aop.aspectj.ToBeAdvised = ( org.springframework.aop.aspectj.ToBeAdvised ) org.springframework.aop.aspectj.ClassPathXmlApplicationContext . getBean ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { this . org.springframework.aop.aspectj.ToBeAdvised . void ( STRING ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { java.lang.System . java.io.PrintStream . void ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { java.lang.System . java.io.PrintStream . void ( int ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { java.lang.System . java.io.PrintStream . void ( java.lang.String ) ; }  <METHOD_END>

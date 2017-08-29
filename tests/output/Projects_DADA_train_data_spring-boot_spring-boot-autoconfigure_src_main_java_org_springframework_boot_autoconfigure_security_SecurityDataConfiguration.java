@@ -1,0 +1,1 @@
+<METHOD_START> @ ConditionalOnMissingBean ( SecurityEvaluationContextExtension .class ) @ Bean public org.springframework.boot.autoconfigure.security.SecurityEvaluationContextExtension org.springframework.boot.autoconfigure.security.SecurityEvaluationContextExtension ( ) { return new SecurityEvaluationContextExtension ( ) ; }  <METHOD_END>

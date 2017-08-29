@@ -1,0 +1,3 @@
+<METHOD_START> java.lang.Number java.lang.Number ( ) org.springframework.jdbc.support.InvalidDataAccessApiUsageException ;  <METHOD_END>
+<METHOD_START> java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> ( ) org.springframework.jdbc.support.InvalidDataAccessApiUsageException ;  <METHOD_END>
+<METHOD_START> java.util.List<java.util.Map<java.lang.String,java.lang.Object>> < java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > > java.util.List<java.util.Map<java.lang.String,java.lang.Object>> ( )  <METHOD_END>

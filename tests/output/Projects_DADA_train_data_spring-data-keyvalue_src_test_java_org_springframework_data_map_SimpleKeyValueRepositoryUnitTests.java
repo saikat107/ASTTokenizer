@@ -1,0 +1,1 @@
+<METHOD_START> protected org.springframework.data.map.PersonRepository org.springframework.data.map.PersonRepository ( KeyValueRepositoryFactory org.springframework.data.map.KeyValueRepositoryFactory ) { return org.springframework.data.map.KeyValueRepositoryFactory . getRepository ( PersonRepository .class ) ; }  <METHOD_END>

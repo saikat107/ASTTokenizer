@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public void void ( ) { registerBeanDefinitionParser ( STRING , new CassandraCqlClusterParser ( ) ) ; registerBeanDefinitionParser ( STRING , new CassandraCqlSessionParser ( ) ) ; registerBeanDefinitionParser ( STRING , new CassandraCqlTemplateParser ( ) ) ; }  <METHOD_END>

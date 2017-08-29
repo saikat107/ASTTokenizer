@@ -1,0 +1,5 @@
+<METHOD_START> public void void ( boolean boolean ) throws org.springframework.web.servlet.tags.JspException { this . java.lang.Boolean = boolean ; }  <METHOD_END>
+<METHOD_START> protected boolean boolean ( ) { if ( this . java.lang.Boolean != null ) { return this . java.lang.Boolean . boolean ( ) ; } else { return boolean ( ) ; } }  <METHOD_END>
+<METHOD_START> protected boolean boolean ( ) { return getRequestContext ( ) . isDefaultHtmlEscape ( ) ; }  <METHOD_END>
+<METHOD_START> protected boolean boolean ( ) { return getRequestContext ( ) . isResponseEncodedHtmlEscape ( ) ; }  <METHOD_END>
+<METHOD_START> protected java.lang.String java.lang.String ( java.lang.String java.lang.String ) { java.lang.String java.lang.String = java.lang.String ; if ( boolean ( ) ) { if ( boolean ( ) ) { java.lang.String = HtmlUtils . htmlEscape ( java.lang.String , this . pageContext . getResponse ( ) . getCharacterEncoding ( ) ) ; } else { java.lang.String = HtmlUtils . htmlEscape ( java.lang.String ) ; } } return java.lang.String ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> java.util.Optional<org.springframework.data.rest.tests.shop.Product> < Product > java.util.Optional<org.springframework.data.rest.tests.shop.Product> ( java.lang.String java.lang.String );  <METHOD_END>

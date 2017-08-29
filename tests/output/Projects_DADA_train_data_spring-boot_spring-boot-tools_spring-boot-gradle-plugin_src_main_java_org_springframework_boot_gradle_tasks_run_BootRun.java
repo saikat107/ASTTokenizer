@@ -1,0 +1,2 @@
+<METHOD_START> public void void ( SourceSet org.springframework.boot.gradle.tasks.run.SourceSet ) { setClasspath ( getProject ( ) . files ( org.springframework.boot.gradle.tasks.run.SourceSet . getResources ( ) . getSrcDirs ( ) , getClasspath ( ) ) . filter ( file -> ! file . equals ( sourceSet . getOutput ( ) . getResourcesDir ( ) ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { if ( java.lang.System . java.io.Console ( ) != null ) { this . getEnvironment ( ) . put ( STRING , true ) ; } super. exec ( ) ; }  <METHOD_END>

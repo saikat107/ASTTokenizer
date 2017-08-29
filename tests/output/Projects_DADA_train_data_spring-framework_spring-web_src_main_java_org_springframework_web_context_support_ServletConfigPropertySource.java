@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , ServletConfig org.springframework.web.context.support.ServletConfig ) { super( java.lang.String , org.springframework.web.context.support.ServletConfig ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String [] java.lang.String[] ( ) { return StringUtils . toStringArray ( this . source . getInitParameterNames ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( java.lang.String java.lang.String ) { return this . source . getInitParameter ( java.lang.String ) ; }  <METHOD_END>

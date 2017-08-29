@@ -1,0 +1,1 @@
+<METHOD_START> public static java.lang.String java.lang.String ( ) { java.lang.Package java.lang.Package = org.springframework.core.SpringVersion .class . java.lang.Package ( ) ; return ( java.lang.Package != null ? java.lang.Package . java.lang.String ( ) : null ) ; }  <METHOD_END>

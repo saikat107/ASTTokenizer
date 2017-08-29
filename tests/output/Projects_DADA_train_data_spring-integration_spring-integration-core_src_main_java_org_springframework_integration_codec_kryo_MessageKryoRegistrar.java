@@ -1,0 +1,3 @@
+<METHOD_START> public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.util.List<org.springframework.integration.codec.kryo.Registration> < Registration > java.util.List<org.springframework.integration.codec.kryo.Registration> ( ) { return java.util.Arrays . java.util.List<T> ( new Registration ( MessageHeaders .class , new MessageHeadersSerializer ( ) , this . int ) , new Registration ( MutableMessageHeaders .class , new MutableMessageHeadersSerializer ( ) , this . int ) ) ; }  <METHOD_END>

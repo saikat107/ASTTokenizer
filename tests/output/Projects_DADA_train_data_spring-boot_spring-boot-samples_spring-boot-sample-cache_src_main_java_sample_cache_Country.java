@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( this == java.lang.Object ) { return true ; } if ( java.lang.Object == null || java.lang.Class<? extends sample.cache.Country> ( ) != java.lang.Object . java.lang.Class<? extends java.lang.Object> ( ) ) { return false ; } sample.cache.Country sample.cache.Country = ( sample.cache.Country ) java.lang.Object ; return this . java.lang.String . boolean ( sample.cache.Country . java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return this . java.lang.String . int ( ) ; }  <METHOD_END>

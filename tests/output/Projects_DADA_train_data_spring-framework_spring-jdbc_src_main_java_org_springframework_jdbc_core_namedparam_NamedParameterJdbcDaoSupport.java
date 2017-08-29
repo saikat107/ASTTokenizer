@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected void void ( ) { this . org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate = new NamedParameterJdbcTemplate ( getJdbcTemplate ( ) ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate ( ) { return org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate ; }  <METHOD_END>

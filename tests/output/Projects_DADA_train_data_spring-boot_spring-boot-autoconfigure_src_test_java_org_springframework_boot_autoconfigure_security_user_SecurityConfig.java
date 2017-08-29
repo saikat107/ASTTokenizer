@@ -1,0 +1,2 @@
+<METHOD_START> public void ( UserRepository org.springframework.boot.autoconfigure.security.user.UserRepository ) { this . org.springframework.boot.autoconfigure.security.user.UserRepository = org.springframework.boot.autoconfigure.security.user.UserRepository ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( AuthenticationManagerBuilder org.springframework.boot.autoconfigure.security.user.AuthenticationManagerBuilder ) throws java.lang.Exception { java.lang.System . java.io.PrintStream . void ( STRING ) ; }  <METHOD_END>

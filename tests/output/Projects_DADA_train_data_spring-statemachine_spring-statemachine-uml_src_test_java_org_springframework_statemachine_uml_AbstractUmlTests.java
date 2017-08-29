@@ -1,0 +1,3 @@
+<METHOD_START> @ Before public void void ( ) { org.springframework.statemachine.uml.AnnotationConfigApplicationContext = org.springframework.statemachine.uml.AnnotationConfigApplicationContext ( ) ; }  <METHOD_END>
+<METHOD_START> @ After public void void ( ) { if ( org.springframework.statemachine.uml.AnnotationConfigApplicationContext != null ) { org.springframework.statemachine.uml.AnnotationConfigApplicationContext . close ( ) ; } org.springframework.statemachine.uml.AnnotationConfigApplicationContext = null ; }  <METHOD_END>
+<METHOD_START> protected org.springframework.statemachine.uml.AnnotationConfigApplicationContext org.springframework.statemachine.uml.AnnotationConfigApplicationContext ( ) { return null ; }  <METHOD_END>

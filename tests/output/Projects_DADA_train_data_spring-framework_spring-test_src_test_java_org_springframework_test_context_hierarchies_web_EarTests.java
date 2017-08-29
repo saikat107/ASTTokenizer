@@ -1,0 +1,2 @@
+<METHOD_START> @ Bean public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertFalse ( org.springframework.test.context.hierarchies.web.ApplicationContext instanceof WebApplicationContext ) ; assertNull ( org.springframework.test.context.hierarchies.web.ApplicationContext . getParent ( ) ) ; assertEquals ( STRING , java.lang.String ) ; }  <METHOD_END>

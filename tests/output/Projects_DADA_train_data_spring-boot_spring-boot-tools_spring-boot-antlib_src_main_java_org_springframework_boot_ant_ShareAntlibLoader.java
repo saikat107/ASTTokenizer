@@ -1,0 +1,3 @@
+<METHOD_START> public void ( Project org.springframework.boot.ant.Project ) { super(); setProject ( org.springframework.boot.ant.Project ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) org.springframework.boot.ant.BuildException { if ( ! StringUtils . hasText ( this . java.lang.String ) ) { throw new BuildException ( STRING ) ; } getProject ( ) . addReference ( this . java.lang.String , java.lang.Class<? extends org.springframework.boot.ant.ShareAntlibLoader> ( ) . java.lang.ClassLoader ( ) ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>

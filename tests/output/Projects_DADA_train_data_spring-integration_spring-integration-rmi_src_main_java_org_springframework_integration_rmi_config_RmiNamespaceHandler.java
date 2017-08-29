@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( ) { this . registerBeanDefinitionParser ( STRING , new RmiInboundGatewayParser ( ) ) ; this . registerBeanDefinitionParser ( STRING , new RmiOutboundGatewayParser ( ) ) ; }  <METHOD_END>

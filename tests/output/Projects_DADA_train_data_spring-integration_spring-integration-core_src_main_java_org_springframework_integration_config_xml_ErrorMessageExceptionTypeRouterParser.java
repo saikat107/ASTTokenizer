@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.integration.config.xml.BeanDefinition org.springframework.integration.config.xml.BeanDefinition ( org.w3c.dom.Element org.w3c.dom.Element , ParserContext org.springframework.integration.config.xml.ParserContext ) { return new RootBeanDefinition ( ErrorMessageExceptionTypeRouter .class ) ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean @ ConditionalOnMissingBean ( search = SearchStrategy . CURRENT ) public static org.springframework.boot.autoconfigure.context.PropertySourcesPlaceholderConfigurer org.springframework.boot.autoconfigure.context.PropertySourcesPlaceholderConfigurer ( ) { return new PropertySourcesPlaceholderConfigurer ( ) ; }  <METHOD_END>

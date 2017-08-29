@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , ResultSetExtractor < ? > org.springframework.jdbc.core.ResultSetExtractor<?> ) { super( java.lang.String , NUMBER , org.springframework.jdbc.core.ResultSetExtractor<> ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , RowCallbackHandler org.springframework.jdbc.core.RowCallbackHandler ) { super( java.lang.String , NUMBER , org.springframework.jdbc.core.RowCallbackHandler ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , RowMapper < ? > org.springframework.jdbc.core.RowMapper<?> ) { super( java.lang.String , NUMBER , org.springframework.jdbc.core.RowMapper<> ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

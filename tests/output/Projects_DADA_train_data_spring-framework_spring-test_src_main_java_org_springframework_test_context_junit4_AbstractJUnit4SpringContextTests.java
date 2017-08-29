@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public final void void ( final ApplicationContext org.springframework.test.context.junit4.ApplicationContext ) { this . org.springframework.test.context.junit4.ApplicationContext = org.springframework.test.context.junit4.ApplicationContext ; }  <METHOD_END>

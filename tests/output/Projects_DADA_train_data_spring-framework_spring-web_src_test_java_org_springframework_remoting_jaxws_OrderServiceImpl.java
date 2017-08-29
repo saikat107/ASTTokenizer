@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( int int ) throws org.springframework.remoting.jaxws.OrderNotFoundException { Assert . notNull ( this . javax.xml.ws.WebServiceContext , STRING ) ; if ( int == NUMBER ) { throw new OrderNotFoundException ( STRING ) ; } return STRING + int ; }  <METHOD_END>

@@ -1,0 +1,7 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( java.lang.Object java.lang.Object ) throws java.lang.Throwable { if ( java.lang.Object instanceof java.lang.Throwable ) { throw ( java.lang.Throwable ) java.lang.Object ; } return java.lang.Object ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( ! ( java.lang.Object instanceof org.springframework.tests.sample.beans.SerializablePerson ) ) { return false ; } org.springframework.tests.sample.beans.SerializablePerson org.springframework.tests.sample.beans.SerializablePerson = ( org.springframework.tests.sample.beans.SerializablePerson ) java.lang.Object ; return org.springframework.tests.sample.beans.SerializablePerson . int == int && ObjectUtils . nullSafeEquals ( java.lang.String , org.springframework.tests.sample.beans.SerializablePerson . java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return org.springframework.tests.sample.beans.SerializablePerson .class . int ( ) ; }  <METHOD_END>

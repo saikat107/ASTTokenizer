@@ -1,0 +1,4 @@
+<METHOD_START> private void void ( ) { assertInTransaction ( true ) ; assertNotNull ( super. applicationContext , STRING ) ; assertNotNull ( super. jdbcTemplate , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ DirtiesContext public void void ( ) { void ( ) ; this . org.springframework.test.context.testng.ApplicationContext = super. applicationContext ; }  <METHOD_END>
+<METHOD_START> @ Test ( dependsOnMethods = { STRING } ) public void void ( ) { void ( ) ; assertNotSame ( super. applicationContext , this . org.springframework.test.context.testng.ApplicationContext , STRING ) ; this . org.springframework.test.context.testng.ApplicationContext = super. applicationContext ; }  <METHOD_END>
+<METHOD_START> @ Test ( dependsOnMethods = { STRING } ) public void void ( ) { assertSame ( this . applicationContext , this . org.springframework.test.context.testng.ApplicationContext , STRING ) ; }  <METHOD_END>

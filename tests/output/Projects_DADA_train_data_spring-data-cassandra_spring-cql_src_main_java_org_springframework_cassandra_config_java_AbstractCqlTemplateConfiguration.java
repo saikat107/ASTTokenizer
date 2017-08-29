@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean public org.springframework.cassandra.config.java.CqlTemplate org.springframework.cassandra.config.java.CqlTemplate ( ) { return new CqlTemplate ( sessionFactory ( ) ) ; }  <METHOD_END>

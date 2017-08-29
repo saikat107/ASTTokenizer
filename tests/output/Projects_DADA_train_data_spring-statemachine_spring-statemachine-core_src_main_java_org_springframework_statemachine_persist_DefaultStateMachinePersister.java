@@ -1,0 +1,1 @@
+<METHOD_START> public void ( StateMachinePersist < S , E , T > org.springframework.statemachine.persist.StateMachinePersist<S,E,T> ) { super( org.springframework.statemachine.persist.StateMachinePersist<S,E,T> ); }  <METHOD_END>

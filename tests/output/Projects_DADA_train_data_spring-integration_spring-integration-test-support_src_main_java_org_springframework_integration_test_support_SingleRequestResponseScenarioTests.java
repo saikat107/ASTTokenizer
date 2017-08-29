@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected java.util.List<org.springframework.integration.test.support.RequestResponseScenario> < RequestResponseScenario > java.util.List<org.springframework.integration.test.support.RequestResponseScenario> ( ) { return java.util.Collections . java.util.List ( org.springframework.integration.test.support.RequestResponseScenario ( ) ) ; }  <METHOD_END>
+<METHOD_START> protected abstract org.springframework.integration.test.support.RequestResponseScenario org.springframework.integration.test.support.RequestResponseScenario ( )  <METHOD_END>

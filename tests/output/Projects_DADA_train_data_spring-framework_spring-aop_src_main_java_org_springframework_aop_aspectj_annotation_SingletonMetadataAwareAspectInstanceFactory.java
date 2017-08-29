@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.Object java.lang.Object , java.lang.String java.lang.String ) { super( java.lang.Object ); this . org.springframework.aop.aspectj.annotation.AspectMetadata = new AspectMetadata ( java.lang.Object . java.lang.Class<? extends java.lang.Object> ( ) , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public final org.springframework.aop.aspectj.annotation.AspectMetadata org.springframework.aop.aspectj.annotation.AspectMetadata ( ) { return this . org.springframework.aop.aspectj.annotation.AspectMetadata ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( ) { return this ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected int int ( java.lang.Class<?> < ? > java.lang.Class<?> ) { return OrderUtils . getOrder ( java.lang.Class<> , Ordered . LOWEST_PRECEDENCE ) ; }  <METHOD_END>

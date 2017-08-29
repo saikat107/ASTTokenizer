@@ -1,0 +1,6 @@
+<METHOD_START> public void ( ) { super(); }  <METHOD_END>
+<METHOD_START> public void ( Criteria org.springframework.data.solr.core.query.Criteria , Pageable org.springframework.data.solr.core.query.Pageable ) { super( org.springframework.data.solr.core.query.Criteria , org.springframework.data.solr.core.query.Pageable ); }  <METHOD_END>
+<METHOD_START> public void ( Criteria org.springframework.data.solr.core.query.Criteria ) { super( org.springframework.data.solr.core.query.Criteria ); }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) @ java.lang.Override public < T extends org.springframework.data.solr.core.query.SolrDataQuery > T T ( HighlightOptions org.springframework.data.solr.core.query.HighlightOptions ) { this . org.springframework.data.solr.core.query.HighlightOptions = org.springframework.data.solr.core.query.HighlightOptions ; return ( T ) this ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.solr.core.query.HighlightOptions org.springframework.data.solr.core.query.HighlightOptions ( ) { return this . org.springframework.data.solr.core.query.HighlightOptions ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return this . org.springframework.data.solr.core.query.HighlightOptions != null ; }  <METHOD_END>

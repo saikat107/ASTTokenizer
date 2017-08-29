@@ -1,0 +1,10 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { super( STRING + java.lang.String + STRING ); this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { super( STRING + java.lang.String + STRING + java.lang.String ); this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.Class<?> < ? > java.lang.Class<?> ) { this( ResolvableType . forClass ( java.lang.Class<> ) ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.Class<?> < ? > java.lang.Class<?> , java.lang.String java.lang.String ) { this( ResolvableType . forClass ( java.lang.Class<> ) , java.lang.String ); }  <METHOD_END>
+<METHOD_START> public void ( ResolvableType org.springframework.beans.factory.ResolvableType ) { super( STRING + org.springframework.beans.factory.ResolvableType + STRING ); this . org.springframework.beans.factory.ResolvableType = org.springframework.beans.factory.ResolvableType ; }  <METHOD_END>
+<METHOD_START> public void ( ResolvableType org.springframework.beans.factory.ResolvableType , java.lang.String java.lang.String ) { super( STRING + org.springframework.beans.factory.ResolvableType + STRING + java.lang.String ); this . org.springframework.beans.factory.ResolvableType = org.springframework.beans.factory.ResolvableType ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return ( this . org.springframework.beans.factory.ResolvableType != null ? this . org.springframework.beans.factory.ResolvableType . resolve ( ) : null ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.beans.factory.ResolvableType org.springframework.beans.factory.ResolvableType ( ) { return this . org.springframework.beans.factory.ResolvableType ; }  <METHOD_END>
+<METHOD_START> public int int ( ) { return NUMBER ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> @ BeforeClass public static void void ( ) java.lang.Exception { org.springframework.data.repository.cdi.CdiTestContainer = CdiTestContainerLoader . getCdiContainer ( ) ; org.springframework.data.repository.cdi.CdiTestContainer . bootContainer ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected < T > T T ( java.lang.Class<T> < T > java.lang.Class<T> ) { return org.springframework.data.repository.cdi.CdiTestContainer . getInstance ( java.lang.Class<T> ) ; }  <METHOD_END>
+<METHOD_START> @ AfterClass public static void void ( ) java.lang.Exception { org.springframework.data.repository.cdi.CdiTestContainer . shutdownContainer ( ) ; }  <METHOD_END>

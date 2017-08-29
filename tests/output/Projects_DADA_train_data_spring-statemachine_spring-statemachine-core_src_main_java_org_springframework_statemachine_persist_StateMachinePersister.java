@@ -1,0 +1,2 @@
+<METHOD_START> void void ( StateMachine < S , E > org.springframework.statemachine.persist.StateMachine<S,E> , T T ) throws java.lang.Exception ;  <METHOD_END>
+<METHOD_START> org.springframework.statemachine.persist.StateMachine<S,E> < S , E > org.springframework.statemachine.persist.StateMachine<S,E> ( StateMachine < S , E > org.springframework.statemachine.persist.StateMachine<S,E> , T T ) throws java.lang.Exception ;  <METHOD_END>

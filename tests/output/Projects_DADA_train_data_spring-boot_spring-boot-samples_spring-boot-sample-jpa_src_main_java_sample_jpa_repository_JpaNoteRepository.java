@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.util.List<sample.jpa.repository.Note> < Note > java.util.List<sample.jpa.repository.Note> ( ) { return this . sample.jpa.repository.EntityManager . createQuery ( STRING , Note .class ) . getResultList ( ) ; }  <METHOD_END>

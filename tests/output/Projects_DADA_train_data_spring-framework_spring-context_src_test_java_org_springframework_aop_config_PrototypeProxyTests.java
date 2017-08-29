@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { new ClassPathXmlApplicationContext ( java.lang.Class<? extends org.springframework.aop.config.PrototypeProxyTests> ( ) . java.lang.String ( ) + STRING , java.lang.Class<? extends org.springframework.aop.config.PrototypeProxyTests> ( ) ) ; }  <METHOD_END>

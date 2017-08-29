@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.context.annotation.ScopeMetadata org.springframework.context.annotation.ScopeMetadata ( BeanDefinition org.springframework.context.annotation.BeanDefinition );  <METHOD_END>

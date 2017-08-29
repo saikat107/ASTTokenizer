@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.Object java.lang.Object , Transition < ? , ? > org.springframework.statemachine.event.Transition<?,?> ) { super( java.lang.Object ); this . org.springframework.statemachine.event.Transition<?,?> = org.springframework.statemachine.event.Transition<,> ; }  <METHOD_END>
+<METHOD_START> public org.springframework.statemachine.event.Transition<?,?> < ? , ? > org.springframework.statemachine.event.Transition<?,?> ( ) { return org.springframework.statemachine.event.Transition<,> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING + org.springframework.statemachine.event.Transition<,> + STRING ; }  <METHOD_END>

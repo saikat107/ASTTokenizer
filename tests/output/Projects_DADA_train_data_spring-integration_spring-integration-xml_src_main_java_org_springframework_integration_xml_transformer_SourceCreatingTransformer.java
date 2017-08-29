@@ -1,0 +1,3 @@
+<METHOD_START> public void ( ) { this . org.springframework.integration.xml.transformer.SourceFactory = new DomSourceFactory ( ) ; }  <METHOD_END>
+<METHOD_START> public void ( SourceFactory org.springframework.integration.xml.transformer.SourceFactory ) { this . org.springframework.integration.xml.transformer.SourceFactory = org.springframework.integration.xml.transformer.SourceFactory ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public javax.xml.transform.Source javax.xml.transform.Source ( java.lang.Object java.lang.Object ) { return this . org.springframework.integration.xml.transformer.SourceFactory . createSource ( java.lang.Object ) ; }  <METHOD_END>

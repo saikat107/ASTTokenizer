@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean ( name = STRING ) public org.springframework.data.neo4j.examples.jsr303.LocalValidatorFactoryBean org.springframework.data.neo4j.examples.jsr303.LocalValidatorFactoryBean ( ) { return new LocalValidatorFactoryBean ( ) ; }  <METHOD_END>

@@ -1,0 +1,7 @@
+<METHOD_START> @ java.lang.Override public int int ( ) java.sql.SQLException { return NUMBER ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( int int ) throws java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.io.PrintWriter java.io.PrintWriter ( ) { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.io.PrintWriter java.io.PrintWriter ) throws java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override @ java.lang.SuppressWarnings ( STRING ) public < T > T T ( java.lang.Class<T> < T > java.lang.Class<T> ) throws java.sql.SQLException { if ( java.lang.Class<T> . boolean ( this ) ) { return ( T ) this ; } throw new java.sql.SQLException ( STRING + java.lang.Class<? extends org.springframework.jdbc.datasource.AbstractDataSource> ( ) . java.lang.String ( ) + STRING + java.lang.Class<T> . java.lang.String ( ) + STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> ) throws java.sql.SQLException { return java.lang.Class<> . boolean ( this ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.util.logging.Logger java.util.logging.Logger ( ) { return java.util.logging.Logger . java.util.logging.Logger ( java.util.logging.Logger . java.lang.String ) ; }  <METHOD_END>

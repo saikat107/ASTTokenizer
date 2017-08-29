@@ -1,0 +1,3 @@
+<METHOD_START> public void ( ApplicationEvent org.springframework.context.event.ApplicationEvent , java.lang.Object [] java.lang.Object[] ) { this . org.springframework.context.event.ApplicationEvent = org.springframework.context.event.ApplicationEvent ; this . java.lang.Object[] = java.lang.Object[] ; }  <METHOD_END>
+<METHOD_START> public org.springframework.context.event.ApplicationEvent org.springframework.context.event.ApplicationEvent ( ) { return org.springframework.context.event.ApplicationEvent ; }  <METHOD_END>
+<METHOD_START> public java.lang.Object [] java.lang.Object[] ( ) { return java.lang.Object[] ; }  <METHOD_END>

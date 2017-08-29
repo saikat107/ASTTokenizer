@@ -1,0 +1,7 @@
+<METHOD_START> public void void ( boolean boolean ) throws org.springframework.web.servlet.tags.JspException { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected int int ( ) { return EVAL_BODY_BUFFERED ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( BodyContent org.springframework.web.servlet.tags.BodyContent ) { this . org.springframework.web.servlet.tags.BodyContent = org.springframework.web.servlet.tags.BodyContent ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) org.springframework.web.servlet.tags.JspException { try { java.lang.String java.lang.String = java.lang.String ( ) ; java.lang.String = htmlEscape ( java.lang.String ) ; java.lang.String = this . boolean ? JavaScriptUtils . javaScriptEscape ( java.lang.String ) : java.lang.String ; void ( java.lang.String ) ; } catch ( java.io.IOException java.io.IOException ) { throw new JspException ( STRING , java.io.IOException ) ; } return ( SKIP_BODY ) ; }  <METHOD_END>
+<METHOD_START> protected java.lang.String java.lang.String ( ) java.io.IOException { return this . org.springframework.web.servlet.tags.BodyContent . getString ( ) ; }  <METHOD_END>
+<METHOD_START> protected void void ( java.lang.String java.lang.String ) throws java.io.IOException { this . org.springframework.web.servlet.tags.BodyContent . getEnclosingWriter ( ) . print ( java.lang.String ) ; }  <METHOD_END>

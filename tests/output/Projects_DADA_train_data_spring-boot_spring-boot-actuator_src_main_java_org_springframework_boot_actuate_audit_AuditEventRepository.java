@@ -1,0 +1,4 @@
+<METHOD_START> void void ( AuditEvent org.springframework.boot.actuate.audit.AuditEvent );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.boot.actuate.audit.AuditEvent> < AuditEvent > java.util.List<org.springframework.boot.actuate.audit.AuditEvent> ( java.util.Date java.util.Date );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.boot.actuate.audit.AuditEvent> < AuditEvent > java.util.List<org.springframework.boot.actuate.audit.AuditEvent> ( java.lang.String java.lang.String , java.util.Date java.util.Date );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.boot.actuate.audit.AuditEvent> < AuditEvent > java.util.List<org.springframework.boot.actuate.audit.AuditEvent> ( java.lang.String java.lang.String , java.util.Date java.util.Date , java.lang.String java.lang.String );  <METHOD_END>

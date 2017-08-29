@@ -1,0 +1,1 @@
+<METHOD_START> @ Query ( STRING ) org.springframework.data.cassandra.test.integration.repository.querymethods.bigintparam.BigThing org.springframework.data.cassandra.test.integration.repository.querymethods.bigintparam.BigThing ( java.math.BigInteger java.math.BigInteger );  <METHOD_END>

@@ -1,0 +1,4 @@
+<METHOD_START> public void ( IntegrationResourceHolder org.springframework.integration.transaction.IntegrationResourceHolder , java.lang.Object java.lang.Object ) { super( org.springframework.integration.transaction.IntegrationResourceHolder , java.lang.Object ); this . org.springframework.integration.transaction.IntegrationResourceHolder = org.springframework.integration.transaction.IntegrationResourceHolder ; }  <METHOD_END>
+<METHOD_START> public org.springframework.integration.transaction.IntegrationResourceHolder org.springframework.integration.transaction.IntegrationResourceHolder ( ) { return this . org.springframework.integration.transaction.IntegrationResourceHolder ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected boolean boolean ( ) { return this . boolean ; }  <METHOD_END>

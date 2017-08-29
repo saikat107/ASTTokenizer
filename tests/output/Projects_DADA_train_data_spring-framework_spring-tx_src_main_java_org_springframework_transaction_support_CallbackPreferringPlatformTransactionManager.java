@@ -1,0 +1,1 @@
+<METHOD_START> < T > T T ( TransactionDefinition org.springframework.transaction.support.TransactionDefinition , TransactionCallback < T > org.springframework.transaction.support.TransactionCallback<T> )			throws org.springframework.transaction.support.TransactionException ;  <METHOD_END>

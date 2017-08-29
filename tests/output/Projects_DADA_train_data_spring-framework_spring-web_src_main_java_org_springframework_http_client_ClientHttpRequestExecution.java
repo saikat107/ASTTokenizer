@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.http.client.ClientHttpResponse org.springframework.http.client.ClientHttpResponse ( HttpRequest org.springframework.http.client.HttpRequest , byte [] byte[] ) throws java.io.IOException ;  <METHOD_END>

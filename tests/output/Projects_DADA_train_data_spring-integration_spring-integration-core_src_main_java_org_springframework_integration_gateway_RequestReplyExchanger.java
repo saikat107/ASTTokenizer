@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.integration.gateway.Message<?> < ? > org.springframework.integration.gateway.Message<?> ( Message < ? > org.springframework.integration.gateway.Message<?> ) throws org.springframework.integration.gateway.MessagingException ;  <METHOD_END>

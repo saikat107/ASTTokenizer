@@ -1,0 +1,3 @@
+<METHOD_START> @ Test public void void ( ) { BuildResult org.springframework.boot.gradle.plugin.BuildResult = this . org.springframework.boot.gradle.plugin.GradleBuild . gradleVersion ( STRING ) . buildAndFail ( ) ; assertThat ( org.springframework.boot.gradle.plugin.BuildResult . getOutput ( ) ) . contains ( STRING + STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { this . org.springframework.boot.gradle.plugin.GradleBuild . gradleVersion ( STRING ) . build ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { this . org.springframework.boot.gradle.plugin.GradleBuild . gradleVersion ( STRING ) . build ( ) ; }  <METHOD_END>

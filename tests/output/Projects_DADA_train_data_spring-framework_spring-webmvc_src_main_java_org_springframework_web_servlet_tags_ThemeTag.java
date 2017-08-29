@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected org.springframework.web.servlet.tags.MessageSource org.springframework.web.servlet.tags.MessageSource ( ) { return getRequestContext ( ) . getTheme ( ) . getMessageSource ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( NoSuchMessageException org.springframework.web.servlet.tags.NoSuchMessageException ) { return STRING + getRequestContext ( ) . getTheme ( ) . getName ( ) + STRING + org.springframework.web.servlet.tags.NoSuchMessageException . getMessage ( ) ; }  <METHOD_END>

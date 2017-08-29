@@ -1,0 +1,4 @@
+<METHOD_START> public void ( Log org.springframework.util.xml.Log ) { this . org.springframework.util.xml.Log = org.springframework.util.xml.Log ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( org.xml.sax.SAXParseException org.xml.sax.SAXParseException ) throws org.xml.sax.SAXException { org.springframework.util.xml.Log . warn ( STRING , org.xml.sax.SAXParseException ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( org.xml.sax.SAXParseException org.xml.sax.SAXParseException ) throws org.xml.sax.SAXException { throw org.xml.sax.SAXParseException ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( org.xml.sax.SAXParseException org.xml.sax.SAXParseException ) throws org.xml.sax.SAXException { throw org.xml.sax.SAXParseException ; }  <METHOD_END>

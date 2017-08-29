@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.beans.PropertyChangeEvent java.beans.PropertyChangeEvent , java.lang.Throwable java.lang.Throwable ) { super( java.beans.PropertyChangeEvent , STRING + java.beans.PropertyChangeEvent . java.lang.String ( ) + STRING , java.lang.Throwable ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>

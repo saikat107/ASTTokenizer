@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { DummyLdapRepository org.springframework.data.ldap.repository.config.DummyLdapRepository = org.springframework.data.ldap.repository.config.ApplicationContext . getBean ( DummyLdapRepository .class ) ; assertThat ( org.springframework.data.ldap.repository.config.DummyLdapRepository ) . isNotNull ( ) ; }  <METHOD_END>

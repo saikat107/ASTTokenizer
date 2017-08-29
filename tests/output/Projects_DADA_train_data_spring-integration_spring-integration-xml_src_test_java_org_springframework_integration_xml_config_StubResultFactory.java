@@ -1,0 +1,1 @@
+<METHOD_START> public javax.xml.transform.Result javax.xml.transform.Result ( java.lang.Object java.lang.Object ) { return new org.springframework.integration.xml.config.StubResultFactory.StubStringResult ( ) ; }  <METHOD_END>

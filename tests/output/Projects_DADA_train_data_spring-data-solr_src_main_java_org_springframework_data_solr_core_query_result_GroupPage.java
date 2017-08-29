@@ -1,0 +1,4 @@
+<METHOD_START> org.springframework.data.solr.core.query.result.GroupResult<T> < T > org.springframework.data.solr.core.query.result.GroupResult<T> ( Field org.springframework.data.solr.core.query.result.Field );  <METHOD_END>
+<METHOD_START> org.springframework.data.solr.core.query.result.GroupResult<T> < T > org.springframework.data.solr.core.query.result.GroupResult<T> ( Function org.springframework.data.solr.core.query.result.Function );  <METHOD_END>
+<METHOD_START> org.springframework.data.solr.core.query.result.GroupResult<T> < T > org.springframework.data.solr.core.query.result.GroupResult<T> ( Query org.springframework.data.solr.core.query.result.Query );  <METHOD_END>
+<METHOD_START> org.springframework.data.solr.core.query.result.GroupResult<T> < T > org.springframework.data.solr.core.query.result.GroupResult<T> ( java.lang.String java.lang.String );  <METHOD_END>

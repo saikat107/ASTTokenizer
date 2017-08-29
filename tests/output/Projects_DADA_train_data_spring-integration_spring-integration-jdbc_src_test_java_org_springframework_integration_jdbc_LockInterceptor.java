@@ -1,0 +1,1 @@
+<METHOD_START> public synchronized java.lang.Object java.lang.Object ( MethodInvocation org.springframework.integration.jdbc.MethodInvocation ) throws java.lang.Throwable { return org.springframework.integration.jdbc.MethodInvocation . proceed ( ) ; }  <METHOD_END>

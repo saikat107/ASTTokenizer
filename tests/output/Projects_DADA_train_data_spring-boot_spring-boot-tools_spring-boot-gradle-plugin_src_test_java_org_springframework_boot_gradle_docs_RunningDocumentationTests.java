@@ -1,0 +1,3 @@
+<METHOD_START> @ Test public void void ( ) java.io.IOException { assertThat ( this . org.springframework.boot.gradle.docs.GradleBuild . script ( STRING ) . build ( STRING ) . getOutput ( ) ) . contains ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.io.IOException { assertThat ( this . org.springframework.boot.gradle.docs.GradleBuild . script ( STRING ) . build ( STRING ) . getOutput ( ) ) . contains ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.io.IOException { assertThat ( this . org.springframework.boot.gradle.docs.GradleBuild . script ( STRING ) . build ( STRING ) . getOutput ( ) ) . contains ( STRING ) ; }  <METHOD_END>

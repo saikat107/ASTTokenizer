@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean org.springframework.test.context.junit.jupiter.web.PersonController org.springframework.test.context.junit.jupiter.web.PersonController ( ) { return new PersonController ( ) ; }  <METHOD_END>

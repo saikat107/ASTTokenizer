@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected sample.jndi.SpringApplicationBuilder sample.jndi.SpringApplicationBuilder ( SpringApplicationBuilder sample.jndi.SpringApplicationBuilder ) { return sample.jndi.SpringApplicationBuilder . sources ( SampleJndiApplication .class ) ; }  <METHOD_END>

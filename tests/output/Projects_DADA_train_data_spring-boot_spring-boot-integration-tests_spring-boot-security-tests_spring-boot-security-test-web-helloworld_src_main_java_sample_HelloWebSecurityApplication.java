@@ -1,0 +1,2 @@
+<METHOD_START> @ Autowired public void void ( AuthenticationManagerBuilder sample.AuthenticationManagerBuilder ) throws java.lang.Exception { sample.AuthenticationManagerBuilder . inMemoryAuthentication ( ) . withUser ( STRING ) . password ( STRING ) . roles ( STRING ) ; }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) { SpringApplication . run ( sample.HelloWebSecurityApplication .class , java.lang.String[] ) ; }  <METHOD_END>

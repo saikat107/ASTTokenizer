@@ -1,0 +1,2 @@
+<METHOD_START> @ Query ( STRING ) java.util.List<T> < T > java.util.List<T> ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> @ Query ( STRING ) org.springframework.data.jpa.repository.sample.Page<T> < T > org.springframework.data.jpa.repository.sample.Page<T> ( @ Param ( STRING ) java.lang.String java.lang.String , Pageable org.springframework.data.jpa.repository.sample.Pageable );  <METHOD_END>

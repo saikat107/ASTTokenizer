@@ -1,0 +1,10 @@
+<METHOD_START> @ Before public void void ( ) { this . java.lang.String = java.lang.System . java.lang.String ( TEST_GROUPS_SYSTEM_PROPERTY ) ; }  <METHOD_END>
+<METHOD_START> @ After public void void ( ) { if ( this . java.lang.String != null ) { void ( this . java.lang.String ) ; } else { void ( STRING ) ; } }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { void ( STRING ) ; Assume . group ( JMXMP ) ; fail ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { void ( PERFORMANCE , CI ) ; Assume . group ( JMXMP ) ; fail ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { void ( JMXMP ) ; try { Assume . group ( JMXMP ) ; } catch ( AssumptionViolatedException org.springframework.tests.AssumptionViolatedException ) { fail ( STRING ) ; } }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { void ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { void ( STRING ) ; }  <METHOD_END>
+<METHOD_START> private void void ( java.lang.String java.lang.String ) { void ( java.lang.String ) ; try { Assume . group ( JMXMP ) ; fail ( STRING ) ; } catch ( java.lang.IllegalStateException java.lang.IllegalStateException ) { assertThat ( java.lang.IllegalStateException . java.lang.String ( ) , startsWith ( STRING + TEST_GROUPS_SYSTEM_PROPERTY + STRING ) ) ; assertThat ( java.lang.IllegalStateException . java.lang.Throwable ( ) , instanceOf ( java.lang.IllegalArgumentException .class ) ) ; assertThat ( java.lang.IllegalStateException . java.lang.Throwable ( ) . java.lang.String ( ) , equalTo ( STRING + java.lang.String + STRING ) ) ; } }  <METHOD_END>
+<METHOD_START> private void void ( TestGroup ... org.springframework.tests.TestGroup[] ) { void ( java.util.Arrays . java.util.stream.IntStream ( org.springframework.tests.TestGroup[] ) . map ( TestGroup :: name ) . collect ( java.util.stream.Collector<java.lang.CharSequence,?,java.lang.String> ( STRING ) ) ) ; }  <METHOD_END>
+<METHOD_START> private void void ( java.lang.String java.lang.String ) { java.lang.System . java.lang.String ( TEST_GROUPS_SYSTEM_PROPERTY , java.lang.String ) ; }  <METHOD_END>

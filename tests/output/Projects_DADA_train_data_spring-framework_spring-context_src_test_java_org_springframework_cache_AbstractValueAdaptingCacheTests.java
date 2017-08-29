@@ -1,0 +1,2 @@
+<METHOD_START> protected abstract T T ( boolean boolean );  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { T T = T ( false ) ; java.lang.String java.lang.String = createRandomKey ( ) ; this . org.springframework.cache.ExpectedException . expect ( java.lang.IllegalArgumentException .class ) ; this . org.springframework.cache.ExpectedException . expectMessage ( java.lang.String ) ; this . org.springframework.cache.ExpectedException . expectMessage ( STRING ) ; T . put ( java.lang.String , null ) ; }  <METHOD_END>

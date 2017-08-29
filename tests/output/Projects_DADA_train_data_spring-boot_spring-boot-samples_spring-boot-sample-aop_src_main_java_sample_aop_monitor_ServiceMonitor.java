@@ -1,0 +1,1 @@
+<METHOD_START> @ AfterReturning ( STRING ) public void void ( JoinPoint sample.aop.monitor.JoinPoint ) { java.lang.System . java.io.PrintStream . void ( STRING + sample.aop.monitor.JoinPoint ) ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> @ GET public java.lang.String java.lang.String ( @ QueryParam ( STRING ) @ NotNull java.lang.String java.lang.String ) { return new java.lang.StringBuilder ( java.lang.String ) . java.lang.StringBuilder ( ) . java.lang.String ( ) ; }  <METHOD_END>

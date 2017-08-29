@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { Page < City > sample.data.jpa.service.Page<sample.data.jpa.service.City> = this . sample.data.jpa.service.CityRepository . findAll ( PageRequest . of ( NUMBER , NUMBER ) ) ; assertThat ( sample.data.jpa.service.Page<sample.data.jpa.service.City> . getTotalElements ( ) ) . isGreaterThan ( NUMBER ) ; }  <METHOD_END>

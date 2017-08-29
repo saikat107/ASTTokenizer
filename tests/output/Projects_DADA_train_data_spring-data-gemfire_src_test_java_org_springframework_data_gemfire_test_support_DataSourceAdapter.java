@@ -1,0 +1,9 @@
+<METHOD_START> @ java.lang.Override public java.sql.Connection java.sql.Connection ( ) java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.sql.Connection java.sql.Connection ( final java.lang.String java.lang.String , final java.lang.String java.lang.String ) throws java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.io.PrintWriter java.io.PrintWriter ( ) java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( final java.io.PrintWriter java.io.PrintWriter ) throws java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( final int int ) throws java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public java.util.logging.Logger java.util.logging.Logger ( ) java.sql.SQLFeatureNotSupportedException { throw new java.lang.UnsupportedOperationException ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( final java.lang.Class<?> < ? > java.lang.Class<?> ) throws java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public < T > T T ( final java.lang.Class<T> < T > java.lang.Class<T> ) throws java.sql.SQLException { throw new java.lang.UnsupportedOperationException ( java.lang.String ) ; }  <METHOD_END>

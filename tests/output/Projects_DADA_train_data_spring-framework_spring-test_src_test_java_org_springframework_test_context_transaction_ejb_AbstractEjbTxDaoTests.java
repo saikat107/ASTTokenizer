@@ -1,0 +1,4 @@
+<METHOD_START> @ Test public void void ( ) { int int = org.springframework.test.context.transaction.ejb.TestEntityDao . getCount ( java.lang.String ) ; assertEquals ( STRING , NUMBER , int ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { int int = org.springframework.test.context.transaction.ejb.TestEntityDao . incrementCount ( java.lang.String ) ; assertEquals ( STRING , NUMBER , int ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { int int = org.springframework.test.context.transaction.ejb.TestEntityDao . getCount ( java.lang.String ) ; assertEquals ( STRING , NUMBER , int ) ; int = org.springframework.test.context.transaction.ejb.TestEntityDao . incrementCount ( java.lang.String ) ; assertEquals ( STRING , NUMBER , int ) ; }  <METHOD_END>
+<METHOD_START> @ After public void void ( ) { org.springframework.test.context.transaction.ejb.EntityManager . flush ( ) ; }  <METHOD_END>

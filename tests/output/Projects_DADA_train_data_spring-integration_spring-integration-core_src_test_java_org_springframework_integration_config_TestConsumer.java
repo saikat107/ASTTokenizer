@@ -1,0 +1,2 @@
+<METHOD_START> public org.springframework.integration.config.Message<?> < ? > org.springframework.integration.config.Message<?> ( ) { return this . org.springframework.integration.config.Message<> ; }  <METHOD_END>
+<METHOD_START> public void void ( Message < ? > org.springframework.integration.config.Message<?> ) { this . org.springframework.integration.config.Message<?> = org.springframework.integration.config.Message<> ; }  <METHOD_END>

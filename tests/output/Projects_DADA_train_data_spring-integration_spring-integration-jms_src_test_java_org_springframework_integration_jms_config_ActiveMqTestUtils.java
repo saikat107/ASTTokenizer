@@ -1,0 +1,3 @@
+<METHOD_START> private void ( ) { super(); }  <METHOD_END>
+<METHOD_START> @ Before public static void void ( ) { org.springframework.integration.jms.config.Log . info ( STRING ) ; java.io.File java.io.File = new java.io.File ( STRING ) ; void ( java.io.File ) ; }  <METHOD_END>
+<METHOD_START> private static void void ( java.io.File java.io.File ) { if ( java.io.File . boolean ( ) ) { java.lang.String [] java.lang.String[] = java.io.File . java.lang.String[] ( ) ; if ( java.lang.String[] != null ) { for ( int int = NUMBER ; int < java.lang.String[] . int ; int ++ ) { void ( new java.io.File ( java.io.File , java.lang.String[] [ int ] ) ) ; } } } java.io.File . boolean ( ) ; }  <METHOD_END>

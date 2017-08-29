@@ -1,0 +1,4 @@
+<METHOD_START> protected void ( MethodParameter org.springframework.data.solr.repository.query.MethodParameter ) { super( org.springframework.data.solr.repository.query.MethodParameter ); this . org.springframework.data.solr.repository.query.MethodParameter = org.springframework.data.solr.repository.query.MethodParameter ; }  <METHOD_END>
+<METHOD_START> private org.springframework.data.solr.repository.query.Boost org.springframework.data.solr.repository.query.Boost ( ) { return org.springframework.data.solr.repository.query.MethodParameter . getParameterAnnotation ( Boost .class ) ; }  <METHOD_END>
+<METHOD_START> private boolean boolean ( ) { return org.springframework.data.solr.repository.query.Boost ( ) != null ; }  <METHOD_END>
+<METHOD_START> public float float ( ) { if ( boolean ( ) ) { return org.springframework.data.solr.repository.query.Boost ( ) . value ( ) ; } return java.lang.Float . float ; }  <METHOD_END>

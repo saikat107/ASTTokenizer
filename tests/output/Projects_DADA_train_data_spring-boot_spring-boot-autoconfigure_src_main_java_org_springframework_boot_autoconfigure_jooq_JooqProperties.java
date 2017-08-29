@@ -1,0 +1,2 @@
+<METHOD_START> public org.springframework.boot.autoconfigure.jooq.SQLDialect org.springframework.boot.autoconfigure.jooq.SQLDialect ( ) { return this . org.springframework.boot.autoconfigure.jooq.SQLDialect ; }  <METHOD_END>
+<METHOD_START> public void void ( SQLDialect org.springframework.boot.autoconfigure.jooq.SQLDialect ) { this . org.springframework.boot.autoconfigure.jooq.SQLDialect = org.springframework.boot.autoconfigure.jooq.SQLDialect ; }  <METHOD_END>

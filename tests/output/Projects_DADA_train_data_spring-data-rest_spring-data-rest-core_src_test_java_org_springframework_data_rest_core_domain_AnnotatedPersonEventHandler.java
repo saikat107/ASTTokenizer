@@ -1,0 +1,4 @@
+<METHOD_START> @ HandleAfterCreate @ HandleAfterDelete @ HandleAfterSave public void void ( Person org.springframework.data.rest.core.domain.Person ) { throw new EventHandlerInvokedException ( ) ; }  <METHOD_END>
+<METHOD_START> @ HandleAfterLinkDelete @ HandleAfterLinkSave public void void ( Person org.springframework.data.rest.core.domain.Person , java.lang.Object java.lang.Object ) { throw new EventHandlerInvokedException ( ) ; }  <METHOD_END>
+<METHOD_START> @ HandleBeforeCreate @ HandleBeforeDelete @ HandleBeforeSave public void void ( Person org.springframework.data.rest.core.domain.Person ) { throw new EventHandlerInvokedException ( ) ; }  <METHOD_END>
+<METHOD_START> @ HandleBeforeLinkDelete @ HandleBeforeLinkSave public void void ( Person org.springframework.data.rest.core.domain.Person , java.lang.Object java.lang.Object ) { throw new EventHandlerInvokedException ( ) ; }  <METHOD_END>

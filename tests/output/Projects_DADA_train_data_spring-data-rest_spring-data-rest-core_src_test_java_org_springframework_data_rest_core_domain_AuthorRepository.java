@@ -1,0 +1,1 @@
+<METHOD_START> java.util.List<org.springframework.data.rest.core.domain.Author> < Author > java.util.List<org.springframework.data.rest.core.domain.Author> ( @ Param ( STRING ) java.lang.String java.lang.String );  <METHOD_END>

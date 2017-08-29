@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.Integer java.lang.Integer , java.lang.String java.lang.String , java.lang.String java.lang.String ) { super( java.lang.Integer , java.lang.String , java.lang.String ); }  <METHOD_END>
+<METHOD_START> public org.springframework.data.mongodb.core.mapping.ObjectId org.springframework.data.mongodb.core.mapping.ObjectId ( ) { return org.springframework.data.mongodb.core.mapping.ObjectId ; }  <METHOD_END>
+<METHOD_START> public void void ( ObjectId org.springframework.data.mongodb.core.mapping.ObjectId ) { this . org.springframework.data.mongodb.core.mapping.ObjectId = org.springframework.data.mongodb.core.mapping.ObjectId ; }  <METHOD_END>

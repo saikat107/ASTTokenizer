@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.sql.DatabaseMetaData java.sql.DatabaseMetaData ) throws java.sql.SQLException { super( java.sql.DatabaseMetaData ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.sql.DatabaseMetaData java.sql.DatabaseMetaData ) throws java.sql.SQLException { super. initializeWithMetaData ( java.sql.DatabaseMetaData ) ; setStoresUpperCaseIdentifiers ( false ) ; }  <METHOD_END>

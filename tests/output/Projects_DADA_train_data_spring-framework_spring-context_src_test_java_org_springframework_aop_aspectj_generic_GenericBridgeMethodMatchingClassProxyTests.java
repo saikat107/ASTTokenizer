@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { ( ( DerivedStringParameterizedClass ) testBean ) . genericDerivedInterfaceMethod ( STRING ) ; assertEquals ( NUMBER , counterAspect . count ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { ( ( DerivedStringParameterizedClass ) testBean ) . genericBaseInterfaceMethod ( STRING ) ; assertEquals ( NUMBER , counterAspect . count ) ; }  <METHOD_END>

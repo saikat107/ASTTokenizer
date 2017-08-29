@@ -1,0 +1,5 @@
+<METHOD_START> void ( ) { super( new ImapMailReceiver ( ) ); }  <METHOD_END>
+<METHOD_START> void ( ImapMailReceiver org.springframework.integration.mail.dsl.ImapMailReceiver ) { super( org.springframework.integration.mail.dsl.ImapMailReceiver , true ); }  <METHOD_END>
+<METHOD_START> void ( java.lang.String java.lang.String ) { super( new ImapMailReceiver ( java.lang.String ) , false ); }  <METHOD_END>
+<METHOD_START> public org.springframework.integration.mail.dsl.ImapMailInboundChannelAdapterSpec org.springframework.integration.mail.dsl.ImapMailInboundChannelAdapterSpec ( SearchTermStrategy org.springframework.integration.mail.dsl.SearchTermStrategy ) { assertReceiver ( ) ; this . receiver . setSearchTermStrategy ( org.springframework.integration.mail.dsl.SearchTermStrategy ) ; return this ; }  <METHOD_END>
+<METHOD_START> public org.springframework.integration.mail.dsl.ImapMailInboundChannelAdapterSpec org.springframework.integration.mail.dsl.ImapMailInboundChannelAdapterSpec ( boolean boolean ) { assertReceiver ( ) ; this . receiver . setShouldMarkMessagesAsRead ( boolean ) ; return this ; }  <METHOD_END>

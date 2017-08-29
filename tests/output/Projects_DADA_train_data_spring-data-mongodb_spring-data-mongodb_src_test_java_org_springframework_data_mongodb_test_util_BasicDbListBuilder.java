@@ -1,0 +1,3 @@
+<METHOD_START> public void ( ) { this . org.springframework.data.mongodb.test.util.BasicDBList = new BasicDBList ( ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.mongodb.test.util.BasicDbListBuilder org.springframework.data.mongodb.test.util.BasicDbListBuilder ( java.lang.Object java.lang.Object ) { this . org.springframework.data.mongodb.test.util.BasicDBList . add ( java.lang.Object ) ; return this ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.mongodb.test.util.BasicDBList org.springframework.data.mongodb.test.util.BasicDBList ( ) { return this . org.springframework.data.mongodb.test.util.BasicDBList ; }  <METHOD_END>

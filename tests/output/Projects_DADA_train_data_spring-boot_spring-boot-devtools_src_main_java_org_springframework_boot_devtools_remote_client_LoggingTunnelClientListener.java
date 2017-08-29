@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( java.nio.channels.SocketChannel java.nio.channels.SocketChannel ) { org.springframework.boot.devtools.remote.client.Log . info ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.nio.channels.SocketChannel java.nio.channels.SocketChannel ) { org.springframework.boot.devtools.remote.client.Log . info ( STRING ) ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.data.mongodb.core.FindIterable<org.springframework.data.mongodb.core.Document> < Document > org.springframework.data.mongodb.core.FindIterable<org.springframework.data.mongodb.core.Document> ( FindIterable < Document > org.springframework.data.mongodb.core.FindIterable<org.springframework.data.mongodb.core.Document> );  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ Trace @ Limit ( NUMBER ) @ Hint ( STRING ) @ Import ( STRING ) @ Query ( STRING ) java.util.List<org.springframework.data.gemfire.repository.sample.User> < User > java.util.List<org.springframework.data.gemfire.repository.sample.User> ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> @ Trace @ Limit ( NUMBER ) @ Hint ( STRING ) java.util.List<org.springframework.data.gemfire.repository.sample.User> < User > java.util.List<org.springframework.data.gemfire.repository.sample.User> ( java.lang.String java.lang.String );  <METHOD_END>

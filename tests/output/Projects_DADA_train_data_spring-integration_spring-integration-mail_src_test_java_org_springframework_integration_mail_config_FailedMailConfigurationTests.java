@@ -1,0 +1,2 @@
+<METHOD_START> @ Test ( expected = XmlBeanDefinitionStoreException .class ) public void void ( ) { new ClassPathXmlApplicationContext ( STRING , this . java.lang.Class<? extends org.springframework.integration.mail.config.FailedMailConfigurationTests> ( ) ) . close ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test ( expected = XmlBeanDefinitionStoreException .class ) public void void ( ) { new ClassPathXmlApplicationContext ( STRING , this . java.lang.Class<? extends org.springframework.integration.mail.config.FailedMailConfigurationTests> ( ) ) . close ( ) ; }  <METHOD_END>

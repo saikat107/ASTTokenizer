@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.data.gemfire.serialization.Instantiator org.springframework.data.gemfire.serialization.Instantiator ( java.lang.Class<? extends org.springframework.data.gemfire.serialization.DataSerializable> < ? extends DataSerializable > java.lang.Class<? extends org.springframework.data.gemfire.serialization.DataSerializable> , int int );  <METHOD_END>

@@ -1,0 +1,6 @@
+<METHOD_START> public void ( ) { int ++ ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.beans.factory.xml.FactoryMethods org.springframework.beans.factory.xml.FactoryMethods ( ) { TestBean org.springframework.beans.factory.xml.TestBean = new TestBean ( ) ; org.springframework.beans.factory.xml.TestBean . setName ( this . java.lang.String ) ; return FactoryMethods . newInstance ( org.springframework.beans.factory.xml.TestBean ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.beans.factory.xml.FactoryMethods org.springframework.beans.factory.xml.FactoryMethods ( TestBean org.springframework.beans.factory.xml.TestBean ) { return FactoryMethods . newInstance ( org.springframework.beans.factory.xml.TestBean ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.beans.factory.xml.FactoryMethods org.springframework.beans.factory.xml.FactoryMethods ( TestBean org.springframework.beans.factory.xml.TestBean , int int , java.lang.String java.lang.String ) { return FactoryMethods . newInstance ( org.springframework.beans.factory.xml.TestBean , int , java.lang.String ) ; }  <METHOD_END>

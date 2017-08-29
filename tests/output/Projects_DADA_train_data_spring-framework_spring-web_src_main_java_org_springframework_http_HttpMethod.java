@@ -1,0 +1,2 @@
+<METHOD_START> public static org.springframework.http.HttpMethod org.springframework.http.HttpMethod ( java.lang.String java.lang.String ) { return ( java.lang.String != null ? java.util.Map<java.lang.String,org.springframework.http.HttpMethod> . org.springframework.http.HttpMethod ( java.lang.String ) : null ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( java.lang.String java.lang.String ) { return ( this == org.springframework.http.HttpMethod ( java.lang.String ) ) ; }  <METHOD_END>

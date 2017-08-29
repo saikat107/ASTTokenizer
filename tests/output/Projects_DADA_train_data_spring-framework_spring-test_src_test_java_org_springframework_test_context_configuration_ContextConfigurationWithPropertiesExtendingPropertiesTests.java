@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { assertNotNull ( STRING , this . org.springframework.test.context.configuration.Pet ) ; assertEquals ( STRING , this . org.springframework.test.context.configuration.Pet . getName ( ) ) ; assertNotNull ( STRING , this . java.lang.String ) ; assertEquals ( STRING , this . java.lang.String ) ; }  <METHOD_END>

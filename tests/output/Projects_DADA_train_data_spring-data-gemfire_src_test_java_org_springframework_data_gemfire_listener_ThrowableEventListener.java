@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( CqEvent org.springframework.data.gemfire.listener.CqEvent ) { throw new java.lang.IllegalStateException ( STRING + org.springframework.data.gemfire.listener.CqEvent ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( new DirectFieldAccessor ( this . org.springframework.boot.autoconfigure.jersey.ApplicationContext . getBean ( STRING ) ) . getPropertyValue ( STRING ) ) . isEqualTo ( NUMBER ) ; }  <METHOD_END>
+<METHOD_START> public void ( ) { register ( org.springframework.boot.autoconfigure.jersey.JerseyAutoConfigurationCustomLoadOnStartupTests.Application .class ) ; }  <METHOD_END>

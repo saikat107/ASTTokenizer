@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { void ( STRING , STRING ) ; void ( STRING , STRING ) ; }  <METHOD_END>
+<METHOD_START> private void void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { when ( org.springframework.data.mapping.model.PersistentProperty<> . getName ( ) ) . thenReturn ( java.lang.String ) ; assertThat ( org.springframework.data.mapping.model.FieldNamingStrategy . getFieldName ( org.springframework.data.mapping.model.PersistentProperty<> ) ) . isEqualTo ( java.lang.String ) ; }  <METHOD_END>

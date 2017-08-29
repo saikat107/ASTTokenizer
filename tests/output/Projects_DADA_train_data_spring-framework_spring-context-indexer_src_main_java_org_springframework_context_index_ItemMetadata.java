@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , java.util.Set<java.lang.String> < java.lang.String > java.util.Set<java.lang.String> ) { this . java.lang.String = java.lang.String ; this . java.util.Set<java.lang.String> = new java.util.HashSet<java.lang.String> <> ( java.util.Set<java.lang.String> ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.util.Set<java.lang.String> < java.lang.String > java.util.Set<java.lang.String> ( ) { return this . java.util.Set<java.lang.String> ; }  <METHOD_END>

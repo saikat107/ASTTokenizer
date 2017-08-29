@@ -1,0 +1,2 @@
+<METHOD_START> java.util.List<org.springframework.data.rest.tests.gemfire.Customer> < Customer > java.util.List<org.springframework.data.rest.tests.gemfire.Customer> ( @ Param ( STRING ) java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> org.springframework.data.rest.tests.gemfire.Customer org.springframework.data.rest.tests.gemfire.Customer ( @ Param ( STRING ) EmailAddress org.springframework.data.rest.tests.gemfire.EmailAddress );  <METHOD_END>

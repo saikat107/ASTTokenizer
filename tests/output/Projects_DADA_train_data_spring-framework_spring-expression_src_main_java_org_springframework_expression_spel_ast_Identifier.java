@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , int int ) { super( int ); this . org.springframework.expression.spel.ast.TypedValue = new TypedValue ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return ( java.lang.String ) this . org.springframework.expression.spel.ast.TypedValue . getValue ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.expression.spel.ast.TypedValue org.springframework.expression.spel.ast.TypedValue ( ExpressionState org.springframework.expression.spel.ast.ExpressionState ) { return this . org.springframework.expression.spel.ast.TypedValue ; }  <METHOD_END>

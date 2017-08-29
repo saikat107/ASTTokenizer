@@ -1,0 +1,2 @@
+<METHOD_START> public void ( ) { this . java.lang.Class<?> = GenericTypeResolver . resolveTypeArgument ( java.lang.Class<? extends org.springframework.data.rest.core.support.EntityLookupSupport> ( ) , EntityLookup .class ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> ) { return java.lang.Class<> . boolean ( java.lang.Class<> ) ; }  <METHOD_END>

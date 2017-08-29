@@ -1,0 +1,3 @@
+<METHOD_START> @ Test public void void ( ) { org.springframework.web.servlet.tags.Param . setName ( STRING ) ; assertEquals ( STRING , org.springframework.web.servlet.tags.Param . getName ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { org.springframework.web.servlet.tags.Param . setValue ( STRING ) ; assertEquals ( STRING , org.springframework.web.servlet.tags.Param . getValue ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertNull ( org.springframework.web.servlet.tags.Param . getName ( ) ) ; assertNull ( org.springframework.web.servlet.tags.Param . getValue ( ) ) ; }  <METHOD_END>

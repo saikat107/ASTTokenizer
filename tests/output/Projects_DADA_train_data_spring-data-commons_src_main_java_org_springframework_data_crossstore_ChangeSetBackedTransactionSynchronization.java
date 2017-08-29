@@ -1,0 +1,8 @@
+<METHOD_START> public void ( ChangeSetPersister < java.lang.Object > org.springframework.data.crossstore.ChangeSetPersister<java.lang.Object> , ChangeSetBacked org.springframework.data.crossstore.ChangeSetBacked ) { this . org.springframework.data.crossstore.ChangeSetPersister<java.lang.Object> = org.springframework.data.crossstore.ChangeSetPersister<java.lang.Object> ; this . org.springframework.data.crossstore.ChangeSetBacked = org.springframework.data.crossstore.ChangeSetBacked ; }  <METHOD_END>
+<METHOD_START> public void void ( ) { org.springframework.data.crossstore.Logger . debug ( STRING + org.springframework.data.crossstore.ChangeSetBacked ) ; org.springframework.data.crossstore.ChangeSetPersister<java.lang.Object> . persistState ( org.springframework.data.crossstore.ChangeSetBacked , org.springframework.data.crossstore.ChangeSetBacked . getChangeSet ( ) ) ; int = NUMBER ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { org.springframework.data.crossstore.Logger . debug ( STRING + int ) ; if ( int == NUMBER ) { if ( int == STATUS_COMMITTED ) { org.springframework.data.crossstore.Logger . debug ( STRING + this . org.springframework.data.crossstore.ChangeSetBacked ) ; } else { org.springframework.data.crossstore.Logger . error ( STRING + this . org.springframework.data.crossstore.ChangeSetBacked ) ; } } }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) {	}  <METHOD_END>
+<METHOD_START> public void void ( ) {	}  <METHOD_END>
+<METHOD_START> public void void ( ) {	}  <METHOD_END>
+<METHOD_START> public void void ( ) { throw new java.lang.IllegalStateException ( STRING ) ; }  <METHOD_END>
+<METHOD_START> public void void ( ) { throw new java.lang.IllegalStateException ( STRING ) ; }  <METHOD_END>

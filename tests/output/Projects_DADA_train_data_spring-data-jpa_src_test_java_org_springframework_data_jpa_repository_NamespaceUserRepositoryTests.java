@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { void ( PersistenceAnnotationBeanPostProcessor .class ) ; }  <METHOD_END>
+<METHOD_START> private void void ( java.lang.Class<?> < ? > java.lang.Class<?> ) { java.util.Map<java.lang.String,?> < java.lang.String , ? > java.util.Map<java.lang.String,?> = org.springframework.data.jpa.repository.ListableBeanFactory . getBeansOfType ( java.lang.Class<> ) ; assertFalse ( java.util.Map<java.lang.String,> . java.util.Set<java.util.Map.Entry<java.lang.String,>> ( ) . boolean ( ) ) ; }  <METHOD_END>

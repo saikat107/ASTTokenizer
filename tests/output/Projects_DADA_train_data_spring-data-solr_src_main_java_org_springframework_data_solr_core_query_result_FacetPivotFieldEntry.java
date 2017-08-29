@@ -1,0 +1,1 @@
+<METHOD_START> java.util.List<org.springframework.data.solr.core.query.result.FacetPivotFieldEntry> < org.springframework.data.solr.core.query.result.FacetPivotFieldEntry > java.util.List<org.springframework.data.solr.core.query.result.FacetPivotFieldEntry> ( )  <METHOD_END>

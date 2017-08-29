@@ -1,0 +1,2 @@
+<METHOD_START> java.lang.Object java.lang.Object ( ScriptSource org.springframework.scripting.ScriptSource ) throws org.springframework.scripting.ScriptCompilationException ;  <METHOD_END>
+<METHOD_START> java.lang.Object java.lang.Object ( ScriptSource org.springframework.scripting.ScriptSource , java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> ) throws org.springframework.scripting.ScriptCompilationException ;  <METHOD_END>

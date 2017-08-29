@@ -1,0 +1,3 @@
+<METHOD_START> org.springframework.transaction.TransactionStatus org.springframework.transaction.TransactionStatus ( TransactionDefinition org.springframework.transaction.TransactionDefinition ) throws org.springframework.transaction.TransactionException ;  <METHOD_END>
+<METHOD_START> void void ( TransactionStatus org.springframework.transaction.TransactionStatus ) throws org.springframework.transaction.TransactionException ;  <METHOD_END>
+<METHOD_START> void void ( TransactionStatus org.springframework.transaction.TransactionStatus ) throws org.springframework.transaction.TransactionException ;  <METHOD_END>

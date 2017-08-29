@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . org.springframework.boot.autoconfigure.context.ApplicationContext . getMessage ( STRING , null , STRING , java.util.Locale . java.util.Locale ) ) . isEqualTo ( STRING ) ; }  <METHOD_END>

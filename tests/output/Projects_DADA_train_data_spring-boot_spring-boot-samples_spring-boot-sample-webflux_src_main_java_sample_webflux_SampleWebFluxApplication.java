@@ -1,0 +1,1 @@
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) throws java.lang.Exception { SpringApplication . run ( sample.webflux.SampleWebFluxApplication .class ) ; }  <METHOD_END>

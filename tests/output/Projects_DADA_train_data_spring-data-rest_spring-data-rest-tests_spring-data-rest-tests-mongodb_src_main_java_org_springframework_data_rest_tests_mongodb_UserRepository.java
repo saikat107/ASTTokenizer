@@ -1,0 +1,2 @@
+<METHOD_START> java.util.List<org.springframework.data.rest.tests.mongodb.User> < User > java.util.List<org.springframework.data.rest.tests.mongodb.User> ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.rest.tests.mongodb.User> < User > java.util.List<org.springframework.data.rest.tests.mongodb.User> ( @ Param ( STRING ) User org.springframework.data.rest.tests.mongodb.User );  <METHOD_END>

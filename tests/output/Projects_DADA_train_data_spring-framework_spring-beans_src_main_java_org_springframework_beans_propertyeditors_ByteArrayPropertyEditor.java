@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) { void ( java.lang.String != null ? java.lang.String . byte[] ( ) : null ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { byte [] byte[] = ( byte [] ) java.lang.Object ( ) ; return ( byte[] != null ? new java.lang.String ( byte[] ) : STRING ) ; }  <METHOD_END>

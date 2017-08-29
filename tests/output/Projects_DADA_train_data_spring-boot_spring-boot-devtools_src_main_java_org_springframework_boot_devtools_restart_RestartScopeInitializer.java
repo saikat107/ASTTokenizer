@@ -1,0 +1,6 @@
+<METHOD_START> @ java.lang.Override public void void ( ConfigurableApplicationContext org.springframework.boot.devtools.restart.ConfigurableApplicationContext ) { org.springframework.boot.devtools.restart.ConfigurableApplicationContext . getBeanFactory ( ) . registerScope ( STRING , new org.springframework.boot.devtools.restart.RestartScopeInitializer.RestartScope ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( java.lang.String java.lang.String , ObjectFactory < ? > org.springframework.boot.devtools.restart.ObjectFactory<?> ) { return Restarter . getInstance ( ) . getOrAddAttribute ( java.lang.String , org.springframework.boot.devtools.restart.ObjectFactory<> ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( java.lang.String java.lang.String ) { return Restarter . getInstance ( ) . removeAttribute ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String , java.lang.Runnable java.lang.Runnable ) {		}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( java.lang.String java.lang.String ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return null ; }  <METHOD_END>

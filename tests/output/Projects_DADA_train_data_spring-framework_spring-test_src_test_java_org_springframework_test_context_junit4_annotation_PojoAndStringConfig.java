@@ -1,0 +1,5 @@
+<METHOD_START> @ Bean public org.springframework.test.context.junit4.annotation.Employee org.springframework.test.context.junit4.annotation.Employee ( ) { Employee org.springframework.test.context.junit4.annotation.Employee = new Employee ( ) ; org.springframework.test.context.junit4.annotation.Employee . setName ( STRING ) ; org.springframework.test.context.junit4.annotation.Employee . setAge ( NUMBER ) ; org.springframework.test.context.junit4.annotation.Employee . setCompany ( STRING ) ; return org.springframework.test.context.junit4.annotation.Employee ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.test.context.junit4.annotation.Pet org.springframework.test.context.junit4.annotation.Pet ( ) { return new Pet ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ Bean public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ Bean public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>

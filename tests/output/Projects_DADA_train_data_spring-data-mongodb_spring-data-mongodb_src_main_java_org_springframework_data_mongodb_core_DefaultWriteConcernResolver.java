@@ -1,0 +1,1 @@
+<METHOD_START> public org.springframework.data.mongodb.core.WriteConcern org.springframework.data.mongodb.core.WriteConcern ( MongoAction org.springframework.data.mongodb.core.MongoAction ) { return org.springframework.data.mongodb.core.MongoAction . getDefaultWriteConcern ( ) ; }  <METHOD_END>

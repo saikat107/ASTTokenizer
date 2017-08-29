@@ -1,0 +1,1 @@
+<METHOD_START> java.util.Collection<T> < T > java.util.Collection<T> ( java.lang.Iterable<org.springframework.cassandra.core.Host> < Host > java.lang.Iterable<org.springframework.cassandra.core.Host> ) throws org.springframework.cassandra.core.DriverException ;  <METHOD_END>

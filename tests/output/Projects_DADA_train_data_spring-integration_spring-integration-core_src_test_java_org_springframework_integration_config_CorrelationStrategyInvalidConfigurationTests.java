@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { try { new ClassPathXmlApplicationContext ( STRING , org.springframework.integration.config.CorrelationStrategyInvalidConfigurationTests .class ) . close ( ) ; } catch ( BeanCreationException org.springframework.integration.config.BeanCreationException ) { assertThat ( org.springframework.integration.config.BeanCreationException . getMessage ( ) , containsString ( STRING ) ) ; } }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { }  <METHOD_END>

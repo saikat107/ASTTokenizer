@@ -1,0 +1,2 @@
+<METHOD_START> public org.springframework.integration.support.PropertiesBuilder org.springframework.integration.support.PropertiesBuilder ( java.lang.Object java.lang.Object , java.lang.Object java.lang.Object ) { this . java.util.Properties . java.lang.Object ( java.lang.Object , java.lang.Object ) ; return this ; }  <METHOD_END>
+<METHOD_START> public java.util.Properties java.util.Properties ( ) { return this . java.util.Properties ; }  <METHOD_END>

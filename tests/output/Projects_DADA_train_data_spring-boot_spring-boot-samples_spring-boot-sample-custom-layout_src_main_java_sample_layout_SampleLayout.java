@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( LoaderClassesWriter sample.layout.LoaderClassesWriter ) throws java.io.IOException { sample.layout.LoaderClassesWriter . writeEntry ( this . java.lang.String , new java.io.ByteArrayInputStream ( STRING . byte[] ( ) ) ) ; }  <METHOD_END>

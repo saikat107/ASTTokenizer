@@ -1,0 +1,12 @@
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { Assert . hasLength ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( java.util.Map<java.lang.String,java.lang.String> < java.lang.String , java.lang.String > java.util.Map<java.lang.String,java.lang.String> ) { Assert . notNull ( java.util.Map<java.lang.String,java.lang.String> , STRING ) ; this . java.util.Map<java.lang.String,java.lang.String> = new java.util.LinkedHashMap<java.lang.String,java.lang.String> <> ( java.util.Map<java.lang.String,java.lang.String> ) ; }  <METHOD_END>
+<METHOD_START> public java.util.Map<java.lang.String,java.lang.String> < java.lang.String , java.lang.String > java.util.Map<java.lang.String,java.lang.String> ( ) { return this . java.util.Map<java.lang.String,java.lang.String> ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { Assert . notNull ( java.lang.String , STRING ) ; this . java.util.Map<java.lang.String,java.lang.String> . java.lang.String ( java.lang.String , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> protected final java.lang.String java.lang.String ( java.lang.Object java.lang.Object ) { return ( this . java.lang.String != null ? this . java.lang.String : Conventions . getVariableName ( java.lang.Object ) ) ; }  <METHOD_END>
+<METHOD_START> protected void void ( Registration . Registration Registration.Dynamic ) { Assert . state ( Registration.Dynamic != null , STRING + this . java.lang.String + STRING ) ; Registration.Dynamic . setAsyncSupported ( this . boolean ) ; if ( ! this . java.util.Map<java.lang.String,java.lang.String> . boolean ( ) ) { Registration.Dynamic . setInitParameters ( this . java.util.Map<java.lang.String,java.lang.String> ) ; } }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return this . int ; }  <METHOD_END>

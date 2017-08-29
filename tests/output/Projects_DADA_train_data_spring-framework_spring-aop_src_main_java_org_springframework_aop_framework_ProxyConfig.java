@@ -1,0 +1,12 @@
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( org.springframework.aop.framework.ProxyConfig org.springframework.aop.framework.ProxyConfig ) { Assert . notNull ( org.springframework.aop.framework.ProxyConfig , STRING ) ; this . boolean = org.springframework.aop.framework.ProxyConfig . boolean ; this . boolean = org.springframework.aop.framework.ProxyConfig . boolean ; this . boolean = org.springframework.aop.framework.ProxyConfig . boolean ; this . boolean = org.springframework.aop.framework.ProxyConfig . boolean ; this . boolean = org.springframework.aop.framework.ProxyConfig . boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { java.lang.StringBuilder java.lang.StringBuilder = new java.lang.StringBuilder ( ) ; java.lang.StringBuilder . java.lang.StringBuilder ( STRING ) . java.lang.StringBuilder ( this . boolean ) . java.lang.StringBuilder ( STRING ) ; java.lang.StringBuilder . java.lang.StringBuilder ( STRING ) . java.lang.StringBuilder ( this . boolean ) . java.lang.StringBuilder ( STRING ) ; java.lang.StringBuilder . java.lang.StringBuilder ( STRING ) . java.lang.StringBuilder ( this . boolean ) . java.lang.StringBuilder ( STRING ) ; java.lang.StringBuilder . java.lang.StringBuilder ( STRING ) . java.lang.StringBuilder ( this . boolean ) . java.lang.StringBuilder ( STRING ) ; java.lang.StringBuilder . java.lang.StringBuilder ( STRING ) . java.lang.StringBuilder ( this . boolean ) ; return java.lang.StringBuilder . java.lang.String ( ) ; }  <METHOD_END>

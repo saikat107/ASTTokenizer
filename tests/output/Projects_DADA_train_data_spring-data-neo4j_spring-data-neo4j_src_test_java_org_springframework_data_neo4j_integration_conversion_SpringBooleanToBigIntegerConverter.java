@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.math.BigInteger java.math.BigInteger ( java.lang.Boolean java.lang.Boolean ) { if( java.lang.Boolean ) { return java.math.BigInteger . java.math.BigInteger ( NUMBER ) ; } return java.math.BigInteger . java.math.BigInteger ( NUMBER ) ; }  <METHOD_END>

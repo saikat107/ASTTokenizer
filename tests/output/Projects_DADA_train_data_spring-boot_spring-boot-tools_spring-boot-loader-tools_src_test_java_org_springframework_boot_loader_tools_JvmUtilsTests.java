@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { java.net.URL java.net.URL = JvmUtils . getToolsJarUrl ( ) ; assertThat ( java.net.URL . java.lang.String ( ) ) . endsWith ( STRING ) ; assertThat ( new java.io.File ( java.net.URL . java.net.URI ( ) ) . boolean ( ) ) . isTrue ( ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> public T T ( java.lang.String java.lang.String ) { return T ( cqlId ( java.lang.String ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) public T T ( CqlIdentifier org.springframework.cassandra.core.keyspace.CqlIdentifier ) { Assert . notNull ( org.springframework.cassandra.core.keyspace.CqlIdentifier , STRING ) ; this . org.springframework.cassandra.core.keyspace.CqlIdentifier = org.springframework.cassandra.core.keyspace.CqlIdentifier ; return ( T ) this ; }  <METHOD_END>
+<METHOD_START> public org.springframework.cassandra.core.keyspace.CqlIdentifier org.springframework.cassandra.core.keyspace.CqlIdentifier ( ) { return org.springframework.cassandra.core.keyspace.CqlIdentifier ; }  <METHOD_END>

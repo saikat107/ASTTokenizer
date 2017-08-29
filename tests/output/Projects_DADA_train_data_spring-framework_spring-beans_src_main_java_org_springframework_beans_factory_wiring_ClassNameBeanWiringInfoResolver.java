@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.beans.factory.wiring.BeanWiringInfo org.springframework.beans.factory.wiring.BeanWiringInfo ( java.lang.Object java.lang.Object ) { Assert . notNull ( java.lang.Object , STRING ) ; return new BeanWiringInfo ( ClassUtils . getUserClass ( java.lang.Object ) . getName ( ) , true ) ; }  <METHOD_END>

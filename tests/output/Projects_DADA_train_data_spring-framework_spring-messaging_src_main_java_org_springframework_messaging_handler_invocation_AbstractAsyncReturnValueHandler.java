@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object , MethodParameter org.springframework.messaging.handler.invocation.MethodParameter ) { return true ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.Object java.lang.Object , MethodParameter org.springframework.messaging.handler.invocation.MethodParameter , Message < ? > org.springframework.messaging.handler.invocation.Message<?> ) { throw new java.lang.IllegalStateException ( STRING ) ; }  <METHOD_END>

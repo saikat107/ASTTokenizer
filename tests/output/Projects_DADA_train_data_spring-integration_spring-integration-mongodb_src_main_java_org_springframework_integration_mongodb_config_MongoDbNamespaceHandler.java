@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( ) { registerBeanDefinitionParser ( STRING , new MongoDbInboundChannelAdapterParser ( ) ) ; registerBeanDefinitionParser ( STRING , new MongoDbOutboundChannelAdapterParser ( ) ) ; registerBeanDefinitionParser ( STRING , new MongoDbOutboundGatewayParser ( ) ) ; }  <METHOD_END>

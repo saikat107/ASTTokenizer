@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { java.lang.String java.lang.String = sample.data.ldap.OutputCapture . toString ( ) ; assertThat ( java.lang.String ) . contains ( STRING ) ; }  <METHOD_END>

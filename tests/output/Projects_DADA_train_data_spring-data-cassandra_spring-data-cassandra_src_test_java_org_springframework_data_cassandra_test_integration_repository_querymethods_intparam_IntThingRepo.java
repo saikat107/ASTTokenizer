@@ -1,0 +1,2 @@
+<METHOD_START> @ Query ( STRING ) org.springframework.data.cassandra.test.integration.repository.querymethods.intparam.IntThing org.springframework.data.cassandra.test.integration.repository.querymethods.intparam.IntThing ( int int );  <METHOD_END>
+<METHOD_START> @ Query ( STRING ) org.springframework.data.cassandra.test.integration.repository.querymethods.intparam.IntThing org.springframework.data.cassandra.test.integration.repository.querymethods.intparam.IntThing ( java.lang.Integer java.lang.Integer );  <METHOD_END>

@@ -1,0 +1,6 @@
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) protected void ( ) { this( new java.util.ArrayList ( NUMBER ) ); }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( { STRING , STRING } ) protected void ( java.util.List<?> < ? > java.util.List<?> ) { this . java.util.List = new java.util.ArrayList ( ) ; if ( ! CollectionUtils . isEmpty ( java.util.List<> ) ) { this . java.util.List . boolean ( java.util.List<> ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) protected void void ( java.lang.Object java.lang.Object ) { this . java.util.List . boolean ( java.lang.Object ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) @ java.lang.Override public java.util.List<?> < ? > java.util.List<?> ( ) { return java.util.Collections . java.util.List ( this . java.util.List ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return ! CollectionUtils . isEmpty ( java.util.List ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.Class<? extends org.springframework.data.solr.core.query.AbstractFunction> ( ) . java.lang.String ( ) + STRING + java.util.List + STRING ; }  <METHOD_END>

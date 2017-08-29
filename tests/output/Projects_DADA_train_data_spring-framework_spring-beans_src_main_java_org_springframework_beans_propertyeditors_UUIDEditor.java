@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) throws java.lang.IllegalArgumentException { if ( StringUtils . hasText ( java.lang.String ) ) { void ( java.util.UUID . java.util.UUID ( java.lang.String ) ) ; } else { void ( null ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { java.util.UUID java.util.UUID = ( java.util.UUID ) java.lang.Object ( ) ; return ( java.util.UUID != null ? java.util.UUID . java.lang.String ( ) : STRING ) ; }  <METHOD_END>

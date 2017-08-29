@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.integration.mail.SearchTerm org.springframework.integration.mail.SearchTerm ( Flags org.springframework.integration.mail.Flags , Folder org.springframework.integration.mail.Folder );  <METHOD_END>

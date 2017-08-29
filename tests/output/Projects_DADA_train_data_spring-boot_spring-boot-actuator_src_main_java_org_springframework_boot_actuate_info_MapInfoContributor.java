@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> ) { this . java.util.Map<java.lang.String,java.lang.Object> = new java.util.LinkedHashMap<java.lang.String,java.lang.Object> <> ( java.util.Map<java.lang.String,java.lang.Object> ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Info . Info Info.Builder ) { Info.Builder . withDetails ( this . java.util.Map<java.lang.String,java.lang.Object> ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> @ java.lang.Override public final int int ( ) { return NUMBER ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( TestContext org.springframework.test.context.support.TestContext ) throws java.lang.Exception { beforeOrAfterTestMethod ( org.springframework.test.context.support.TestContext , AFTER_METHOD , AFTER_EACH_TEST_METHOD ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( TestContext org.springframework.test.context.support.TestContext ) throws java.lang.Exception { beforeOrAfterTestClass ( org.springframework.test.context.support.TestContext , AFTER_CLASS ) ; }  <METHOD_END>

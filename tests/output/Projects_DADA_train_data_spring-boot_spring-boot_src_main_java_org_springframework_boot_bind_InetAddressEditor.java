@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return ( ( java.net.InetAddress ) java.lang.Object ( ) ) . java.lang.String ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) throws java.lang.IllegalArgumentException { try { void ( java.net.InetAddress . java.net.InetAddress ( java.lang.String ) ) ; } catch ( java.net.UnknownHostException java.net.UnknownHostException ) { throw new java.lang.IllegalArgumentException ( STRING , java.net.UnknownHostException ) ; } }  <METHOD_END>

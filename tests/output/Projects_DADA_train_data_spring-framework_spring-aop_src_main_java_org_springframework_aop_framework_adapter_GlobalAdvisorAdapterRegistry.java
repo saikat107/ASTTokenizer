@@ -1,0 +1,2 @@
+<METHOD_START> public static org.springframework.aop.framework.adapter.AdvisorAdapterRegistry org.springframework.aop.framework.adapter.AdvisorAdapterRegistry ( ) { return org.springframework.aop.framework.adapter.AdvisorAdapterRegistry ; }  <METHOD_END>
+<METHOD_START> static void void ( ) { org.springframework.aop.framework.adapter.AdvisorAdapterRegistry = new DefaultAdvisorAdapterRegistry ( ) ; }  <METHOD_END>

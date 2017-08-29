@@ -1,0 +1,1 @@
+<METHOD_START> public java.util.List<java.io.File> < java.io.File > java.util.List<java.io.File> ( java.io.File [] java.io.File[] ) { return java.util.Arrays . java.util.List<java.io.File> ( java.io.File[] ) ; }  <METHOD_END>

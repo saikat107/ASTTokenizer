@@ -1,0 +1,9 @@
+<METHOD_START> public void ( java.util.List<T> < T > java.util.List<T> , Document org.springframework.data.mongodb.core.mapreduce.Document ) { Assert . notNull ( java.util.List<T> , STRING ) ; Assert . notNull ( org.springframework.data.mongodb.core.mapreduce.Document , STRING ) ; this . java.util.List<T> = java.util.List<T> ; this . org.springframework.data.mongodb.core.mapreduce.Document = org.springframework.data.mongodb.core.mapreduce.Document ; void ( ) ; void ( ) ; void ( ) ; }  <METHOD_END>
+<METHOD_START> public double double ( ) { return double ; }  <METHOD_END>
+<METHOD_START> public int int ( ) { return int ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.util.Iterator<T> < T > java.util.Iterator<T> ( ) { return java.util.List<T> . java.util.Iterator<T> ( ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.mongodb.core.mapreduce.Document org.springframework.data.mongodb.core.mapreduce.Document ( ) { return org.springframework.data.mongodb.core.mapreduce.Document ; }  <METHOD_END>
+<METHOD_START> private void void ( ) { java.lang.Object java.lang.Object = org.springframework.data.mongodb.core.mapreduce.Document . get ( STRING ) ; if ( java.lang.Object instanceof java.lang.Number ) { double = ( ( java.lang.Number ) java.lang.Object ) . double ( ) ; } }  <METHOD_END>
+<METHOD_START> private void void ( ) { java.lang.Object java.lang.Object = org.springframework.data.mongodb.core.mapreduce.Document . get ( STRING ) ; if ( java.lang.Object instanceof java.lang.Number ) { int = ( ( java.lang.Number ) java.lang.Object ) . int ( ) ; } }  <METHOD_END>
+<METHOD_START> private void void ( ) { java.lang.Object java.lang.Object = org.springframework.data.mongodb.core.mapreduce.Document . get ( STRING ) ; if ( java.lang.Object instanceof java.lang.String ) { java.lang.String = ( java.lang.String ) java.lang.Object ; } }  <METHOD_END>

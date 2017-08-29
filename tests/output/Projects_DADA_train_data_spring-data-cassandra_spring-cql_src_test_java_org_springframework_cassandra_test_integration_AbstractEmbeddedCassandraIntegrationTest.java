@@ -1,0 +1,3 @@
+<METHOD_START> public static java.lang.String java.lang.String ( ) { return java.util.UUID . java.util.UUID ( ) . java.lang.String ( ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.cassandra.test.integration.Cluster org.springframework.cassandra.test.integration.Cluster ( ) { return org.springframework.cassandra.test.integration.Cluster ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { org.springframework.cassandra.test.integration.CassandraRule . execute ( CqlDataSet . fromClassPath ( java.lang.String ) . executeIn ( java.lang.String ) ) ; }  <METHOD_END>

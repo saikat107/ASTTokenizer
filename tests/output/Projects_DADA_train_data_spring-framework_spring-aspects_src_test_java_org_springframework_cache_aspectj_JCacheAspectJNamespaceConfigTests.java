@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected org.springframework.cache.aspectj.ApplicationContext org.springframework.cache.aspectj.ApplicationContext ( ) { return new GenericXmlApplicationContext ( STRING ) ; }  <METHOD_END>

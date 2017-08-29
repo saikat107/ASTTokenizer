@@ -1,0 +1,2 @@
+<METHOD_START> java.util.Collection<org.springframework.cache.annotation.CacheOperation> < CacheOperation > java.util.Collection<org.springframework.cache.annotation.CacheOperation> ( java.lang.Class<?> < ? > java.lang.Class<?> );  <METHOD_END>
+<METHOD_START> java.util.Collection<org.springframework.cache.annotation.CacheOperation> < CacheOperation > java.util.Collection<org.springframework.cache.annotation.CacheOperation> ( java.lang.reflect.Method java.lang.reflect.Method );  <METHOD_END>

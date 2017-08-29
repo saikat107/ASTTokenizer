@@ -1,0 +1,6 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( Advice org.springframework.aop.support.Advice ) { this( Pointcut . TRUE , org.springframework.aop.support.Advice ); }  <METHOD_END>
+<METHOD_START> public void ( Pointcut org.springframework.aop.support.Pointcut , Advice org.springframework.aop.support.Advice ) { this . org.springframework.aop.support.Pointcut = org.springframework.aop.support.Pointcut ; setAdvice ( org.springframework.aop.support.Advice ) ; }  <METHOD_END>
+<METHOD_START> public void void ( Pointcut org.springframework.aop.support.Pointcut ) { this . org.springframework.aop.support.Pointcut = ( org.springframework.aop.support.Pointcut != null ? org.springframework.aop.support.Pointcut : Pointcut . TRUE ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.aop.support.Pointcut org.springframework.aop.support.Pointcut ( ) { return this . org.springframework.aop.support.Pointcut ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.Class<? extends org.springframework.aop.support.DefaultPointcutAdvisor> ( ) . java.lang.String ( ) + STRING + org.springframework.aop.support.Pointcut ( ) + STRING + getAdvice ( ) + STRING ; }  <METHOD_END>

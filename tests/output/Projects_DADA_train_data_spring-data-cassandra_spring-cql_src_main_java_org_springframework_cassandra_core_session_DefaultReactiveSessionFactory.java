@@ -1,0 +1,2 @@
+<METHOD_START> public void ( ReactiveSession org.springframework.cassandra.core.session.ReactiveSession ) { this . org.springframework.cassandra.core.session.ReactiveSession = org.springframework.cassandra.core.session.ReactiveSession ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.cassandra.core.session.ReactiveSession org.springframework.cassandra.core.session.ReactiveSession ( ) { return org.springframework.cassandra.core.session.ReactiveSession ; }  <METHOD_END>

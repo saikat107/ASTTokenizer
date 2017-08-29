@@ -1,0 +1,9 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( long long , long long ) { this . long = long ; this . long = long ; }  <METHOD_END>
+<METHOD_START> public void void ( long long ) { this . long = long ; }  <METHOD_END>
+<METHOD_START> public long long ( ) { return long ; }  <METHOD_END>
+<METHOD_START> public void void ( long long ) { this . long = long ; }  <METHOD_END>
+<METHOD_START> public long long ( ) { return long ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.util.backoff.BackOffExecution org.springframework.util.backoff.BackOffExecution ( ) { return new org.springframework.util.backoff.FixedBackOff.FixedBackOffExecution ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public long long ( ) { this . long ++ ; if ( this . long <= long ( ) ) { return long ( ) ; } else { return STOP ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { final java.lang.StringBuilder java.lang.StringBuilder = new java.lang.StringBuilder ( STRING ) ; java.lang.StringBuilder . java.lang.StringBuilder ( STRING ) . java.lang.StringBuilder ( org.springframework.util.backoff.FixedBackOff .this . long ) ; java.lang.String java.lang.String = ( org.springframework.util.backoff.FixedBackOff .this . long == java.lang.Long . long ? STRING : java.lang.String . java.lang.String ( org.springframework.util.backoff.FixedBackOff .this . long ) ) ; java.lang.StringBuilder . java.lang.StringBuilder ( STRING ) . java.lang.StringBuilder ( this . long ) ; java.lang.StringBuilder . java.lang.StringBuilder ( STRING ) . java.lang.StringBuilder ( java.lang.String ) ; java.lang.StringBuilder . java.lang.StringBuilder ( '}' ) ; return java.lang.StringBuilder . java.lang.String ( ) ; }  <METHOD_END>

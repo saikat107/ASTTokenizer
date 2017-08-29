@@ -1,0 +1,2 @@
+<METHOD_START> sample.data.rest.service.Page<sample.data.rest.service.City> < City > sample.data.rest.service.Page<sample.data.rest.service.City> ( @ Param ( STRING ) java.lang.String java.lang.String , @ Param ( STRING ) java.lang.String java.lang.String , Pageable sample.data.rest.service.Pageable );  <METHOD_END>
+<METHOD_START> sample.data.rest.service.City sample.data.rest.service.City ( @ Param ( STRING ) java.lang.String java.lang.String , @ Param ( STRING ) java.lang.String java.lang.String );  <METHOD_END>

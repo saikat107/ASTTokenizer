@@ -1,0 +1,1 @@
+<METHOD_START> public static org.springframework.tests.ClassPathResource org.springframework.tests.ClassPathResource ( java.lang.Class<?> < ? > java.lang.Class<?> , java.lang.String java.lang.String ) { return new ClassPathResource ( java.lang.String . java.lang.String ( STRING , java.lang.Class<> . java.lang.String ( ) , java.lang.String ) , java.lang.Class<> ) ; }  <METHOD_END>

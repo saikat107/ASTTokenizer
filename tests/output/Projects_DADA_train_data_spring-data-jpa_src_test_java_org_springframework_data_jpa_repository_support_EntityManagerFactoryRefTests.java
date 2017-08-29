@@ -1,0 +1,2 @@
+<METHOD_START> @ Test @ Transactional public void void ( ) java.lang.Exception { org.springframework.data.jpa.repository.support.UserRepository . saveAndFlush ( new User ( STRING , STRING , STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Transactional ( STRING ) public void void ( ) java.lang.Exception { org.springframework.data.jpa.repository.support.AuditableUserRepository . saveAndFlush ( new AuditableUser ( ) ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> public void void ( ProceedingJoinPoint org.springframework.aop.aspectj.ProceedingJoinPoint , org.springframework.aop.aspectj.AspectJAdviceParameterNameDiscoverAnnotationTests.MyAnnotation org.springframework.aop.aspectj.AspectJAdviceParameterNameDiscoverAnnotationTests.MyAnnotation ) {}  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertParameterNames ( getMethod ( STRING ) , STRING , new java.lang.String [] { STRING , STRING } ) ; }  <METHOD_END>

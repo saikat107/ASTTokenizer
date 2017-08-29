@@ -1,0 +1,2 @@
+<METHOD_START> @ Bean public org.springframework.boot.web.servlet.context.config.MockServletWebServerFactory org.springframework.boot.web.servlet.context.config.MockServletWebServerFactory ( ) { return new MockServletWebServerFactory ( ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.boot.web.servlet.context.config.Servlet org.springframework.boot.web.servlet.context.config.Servlet ( ) { return new MockServlet ( ) ; }  <METHOD_END>

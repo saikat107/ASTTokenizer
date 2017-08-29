@@ -1,0 +1,1 @@
+<METHOD_START> public static void void ( PersistentEntity < ? , ? > org.springframework.data.mapping.PersistentEntity<?,?> ) { assertThat ( org.springframework.data.mapping.PersistentEntity<,> . getName ( ) ) . isNotNull ( ) ; }  <METHOD_END>

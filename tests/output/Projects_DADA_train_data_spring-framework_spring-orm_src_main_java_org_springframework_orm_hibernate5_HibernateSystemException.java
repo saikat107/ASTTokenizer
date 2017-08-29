@@ -1,0 +1,1 @@
+<METHOD_START> public void ( HibernateException org.springframework.orm.hibernate5.HibernateException ) { super( org.springframework.orm.hibernate5.HibernateException != null ? org.springframework.orm.hibernate5.HibernateException . getMessage ( ) : null , org.springframework.orm.hibernate5.HibernateException ); }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> boolean boolean ( java.lang.Object java.lang.Object , MethodParameter org.springframework.messaging.handler.invocation.MethodParameter );  <METHOD_END>
+<METHOD_START> org.springframework.messaging.handler.invocation.ListenableFuture<?> < ? > org.springframework.messaging.handler.invocation.ListenableFuture<?> ( java.lang.Object java.lang.Object , MethodParameter org.springframework.messaging.handler.invocation.MethodParameter );  <METHOD_END>

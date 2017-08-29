@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.jms.listener.adapter.TextMessage org.springframework.jms.listener.adapter.TextMessage ( TextMessage org.springframework.jms.listener.adapter.TextMessage );  <METHOD_END>

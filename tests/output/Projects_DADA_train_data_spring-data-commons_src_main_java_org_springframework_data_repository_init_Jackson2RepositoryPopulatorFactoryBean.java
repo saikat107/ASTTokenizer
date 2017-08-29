@@ -1,0 +1,2 @@
+<METHOD_START> public void void ( ObjectMapper org.springframework.data.repository.init.ObjectMapper ) { this . org.springframework.data.repository.init.ObjectMapper = org.springframework.data.repository.init.ObjectMapper ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.repository.init.ResourceReader org.springframework.data.repository.init.ResourceReader ( ) { return new Jackson2ResourceReader ( org.springframework.data.repository.init.ObjectMapper ) ; }  <METHOD_END>

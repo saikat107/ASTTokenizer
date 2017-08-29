@@ -1,0 +1,2 @@
+<METHOD_START> private void ( boolean boolean ) { super( boolean ); }  <METHOD_END>
+<METHOD_START> public static org.springframework.expression.spel.support.BooleanTypedValue org.springframework.expression.spel.support.BooleanTypedValue ( boolean boolean ) { return ( boolean ? org.springframework.expression.spel.support.BooleanTypedValue : org.springframework.expression.spel.support.BooleanTypedValue ) ; }  <METHOD_END>

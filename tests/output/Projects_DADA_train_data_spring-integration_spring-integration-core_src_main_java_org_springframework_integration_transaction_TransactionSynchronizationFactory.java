@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.integration.transaction.TransactionSynchronization org.springframework.integration.transaction.TransactionSynchronization ( java.lang.Object java.lang.Object );  <METHOD_END>

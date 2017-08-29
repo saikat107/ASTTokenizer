@@ -1,0 +1,2 @@
+<METHOD_START> @ Transactional ( rollbackFor = java.lang.Exception .class ) public void void ( ) java.lang.Exception { org.springframework.data.neo4j.transactions.service.User ( ) ; org.springframework.data.neo4j.transactions.service.ServiceB . update ( ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.neo4j.transactions.service.User org.springframework.data.neo4j.transactions.service.User ( ) { return org.springframework.data.neo4j.transactions.service.UserRepository . save ( new User ( STRING ) ) ; }  <METHOD_END>

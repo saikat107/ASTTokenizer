@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected org.springframework.integration.ftp.session.FTPClient org.springframework.integration.ftp.session.FTPClient ( ) { return new FTPClient ( ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.Class<?> < ? > java.lang.Class<?> , RelProvider org.springframework.data.rest.core.mapping.RelProvider ) { super( java.lang.Class<> , org.springframework.data.rest.core.mapping.RelProvider ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( java.lang.Class<?> < ? > java.lang.Class<?> ) { return English . plural ( super. getDefaultPathFor ( java.lang.Class<> ) ) ; }  <METHOD_END>

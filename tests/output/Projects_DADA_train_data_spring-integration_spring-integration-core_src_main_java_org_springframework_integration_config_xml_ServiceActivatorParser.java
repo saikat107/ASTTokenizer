@@ -1,0 +1,3 @@
+<METHOD_START> @ java.lang.Override java.lang.String java.lang.String ( ) { return ServiceActivatorFactoryBean .class . java.lang.String ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override boolean boolean ( ) { return false ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override void void ( BeanDefinitionBuilder org.springframework.integration.config.xml.BeanDefinitionBuilder , org.w3c.dom.Element org.w3c.dom.Element , ParserContext org.springframework.integration.config.xml.ParserContext ) { IntegrationNamespaceUtils . setValueIfAttributeDefined ( org.springframework.integration.config.xml.BeanDefinitionBuilder , org.w3c.dom.Element , STRING ) ; }  <METHOD_END>

@@ -1,0 +1,5 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String , java.lang.String java.lang.String ) { Assert . hasText ( java.lang.String , STRING ) ; Assert . hasText ( java.lang.String , STRING ) ; Assert . hasText ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; this . java.lang.String = java.lang.String ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.rest.tests.gemfire.Address org.springframework.data.rest.tests.gemfire.Address ( ) { return new org.springframework.data.rest.tests.gemfire.Address ( this . java.lang.String , this . java.lang.String , this . java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>

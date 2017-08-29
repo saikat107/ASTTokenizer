@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.autoconfigure.web.reactive.webclient.ApplicationContext ) . has ( importedAutoConfiguration ( MessageSourceAutoConfiguration .class ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.autoconfigure.web.reactive.webclient.ApplicationContext ) . has ( importedAutoConfiguration ( ValidationAutoConfiguration .class ) ) ; }  <METHOD_END>

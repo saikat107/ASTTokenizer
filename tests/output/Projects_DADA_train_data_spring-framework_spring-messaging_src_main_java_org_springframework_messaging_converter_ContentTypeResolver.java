@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.messaging.converter.MimeType org.springframework.messaging.converter.MimeType ( MessageHeaders org.springframework.messaging.converter.MessageHeaders );  <METHOD_END>

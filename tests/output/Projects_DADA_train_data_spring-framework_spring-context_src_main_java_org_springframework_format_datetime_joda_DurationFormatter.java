@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public org.springframework.format.datetime.joda.Duration org.springframework.format.datetime.joda.Duration ( java.lang.String java.lang.String , java.util.Locale java.util.Locale ) throws java.text.ParseException { return Duration . parse ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( Duration org.springframework.format.datetime.joda.Duration , java.util.Locale java.util.Locale ) { return org.springframework.format.datetime.joda.Duration . toString ( ) ; }  <METHOD_END>

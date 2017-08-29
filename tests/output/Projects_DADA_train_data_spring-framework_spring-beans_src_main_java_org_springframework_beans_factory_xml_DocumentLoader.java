@@ -1,0 +1,1 @@
+<METHOD_START> org.w3c.dom.Document org.w3c.dom.Document ( org.xml.sax.InputSource org.xml.sax.InputSource , org.xml.sax.EntityResolver org.xml.sax.EntityResolver , org.xml.sax.ErrorHandler org.xml.sax.ErrorHandler , int int , boolean boolean )			throws java.lang.Exception ;  <METHOD_END>

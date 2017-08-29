@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.http.client.HttpStatus org.springframework.http.client.HttpStatus ( ) java.io.IOException { return HttpStatus . valueOf ( getRawStatusCode ( ) ) ; }  <METHOD_END>

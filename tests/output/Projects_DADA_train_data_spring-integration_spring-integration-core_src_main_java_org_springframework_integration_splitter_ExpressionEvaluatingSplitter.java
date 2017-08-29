@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.SuppressWarnings ( { STRING , STRING } ) public void ( Expression org.springframework.integration.splitter.Expression ) { super( new ExpressionEvaluatingMessageProcessor ( org.springframework.integration.splitter.Expression ) ); setPrimaryExpression ( org.springframework.integration.splitter.Expression ) ; }  <METHOD_END>

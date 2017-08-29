@@ -1,0 +1,9 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this( java.lang.String , false ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , boolean boolean ) { Assert . hasText ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Object java.lang.Object ) { this . java.lang.Object = java.lang.Object ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( ) { return this . java.lang.Object ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( this == java.lang.Object ) { return true ; } if ( ! ( java.lang.Object instanceof org.springframework.beans.factory.config.RuntimeBeanReference ) ) { return false ; } org.springframework.beans.factory.config.RuntimeBeanReference org.springframework.beans.factory.config.RuntimeBeanReference = ( org.springframework.beans.factory.config.RuntimeBeanReference ) java.lang.Object ; return ( this . java.lang.String . boolean ( org.springframework.beans.factory.config.RuntimeBeanReference . java.lang.String ) && this . boolean == org.springframework.beans.factory.config.RuntimeBeanReference . boolean ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { int int = this . java.lang.String . int ( ) ; int = NUMBER * int + ( this . boolean ? NUMBER : NUMBER ) ; return int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return '<' + java.lang.String ( ) + '>' ; }  <METHOD_END>

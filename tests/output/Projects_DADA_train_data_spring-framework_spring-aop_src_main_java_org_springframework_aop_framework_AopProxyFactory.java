@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.aop.framework.AopProxy org.springframework.aop.framework.AopProxy ( AdvisedSupport org.springframework.aop.framework.AdvisedSupport ) throws org.springframework.aop.framework.AopConfigException ;  <METHOD_END>

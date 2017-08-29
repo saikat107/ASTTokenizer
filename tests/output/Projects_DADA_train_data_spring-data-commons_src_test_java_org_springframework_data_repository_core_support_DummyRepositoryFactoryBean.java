@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.Class<? extends T> < ? extends T > java.lang.Class<? extends T> ) { super( java.lang.Class<> ); this . T = mock ( java.lang.Class<> ) ; setMappingContext ( new SampleMappingContext ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.repository.core.support.RepositoryFactorySupport org.springframework.data.repository.core.support.RepositoryFactorySupport ( ) { return new DummyRepositoryFactory ( T ) ; }  <METHOD_END>

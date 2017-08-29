@@ -1,0 +1,2 @@
+<METHOD_START> protected static java.lang.String java.lang.String ( final java.lang.String java.lang.String ) { return ( java.lang.String != null ? java.lang.String . java.lang.String ( ) . java.lang.String ( ) : java.lang.String . java.lang.String ( java.lang.String ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.RegionShortcut org.springframework.data.gemfire.RegionShortcut ( final java.lang.String java.lang.String ) { return RegionShortcut . valueOf ( java.lang.String ( java.lang.String ) ) ; }  <METHOD_END>

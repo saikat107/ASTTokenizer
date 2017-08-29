@@ -1,0 +1,5 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return ObjectUtils . nullSafeHashCode ( this . java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( this == java.lang.Object ) { return true ; } if ( ! ( java.lang.Object instanceof org.springframework.data.solr.core.query.SimpleField ) ) { return false ; } org.springframework.data.solr.core.query.SimpleField org.springframework.data.solr.core.query.SimpleField = ( org.springframework.data.solr.core.query.SimpleField ) java.lang.Object ; return ObjectUtils . nullSafeEquals ( this . java.lang.String , org.springframework.data.solr.core.query.SimpleField . java.lang.String ) ; }  <METHOD_END>

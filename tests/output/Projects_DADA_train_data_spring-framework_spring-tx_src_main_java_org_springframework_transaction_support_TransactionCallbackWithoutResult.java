@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public final java.lang.Object java.lang.Object ( TransactionStatus org.springframework.transaction.support.TransactionStatus ) { void ( org.springframework.transaction.support.TransactionStatus ) ; return null ; }  <METHOD_END>
+<METHOD_START> protected abstract void void ( TransactionStatus org.springframework.transaction.support.TransactionStatus );  <METHOD_END>

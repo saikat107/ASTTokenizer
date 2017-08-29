@@ -1,0 +1,5 @@
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ServletContext org.springframework.web.context.support.ServletContext ) { if ( this . java.lang.String == null ) { throw new java.lang.IllegalArgumentException ( STRING ) ; } this . java.lang.String = org.springframework.web.context.support.ServletContext . getInitParameter ( this . java.lang.String ) ; if ( this . java.lang.String == null ) { throw new java.lang.IllegalStateException ( STRING + this . java.lang.String + STRING ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<java.lang.String> < java.lang.String > java.lang.Class<java.lang.String> ( ) { return java.lang.String .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

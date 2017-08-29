@@ -1,0 +1,20 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { void ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.Class<?> < ? > java.lang.Class<?> ) { void ( java.lang.String ) ; void ( java.lang.Class<> ) ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { void ( java.lang.String ) ; void ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Class<?> < ? > java.lang.Class<?> ) { Assert . notNull ( java.lang.Class<> , STRING ) ; this . java.lang.Object = java.lang.Class<> ; }  <METHOD_END>
+<METHOD_START> public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { java.lang.Object java.lang.Object = this . java.lang.Object ; if ( ! ( java.lang.Object instanceof java.lang.Class ) ) { throw new java.lang.IllegalStateException ( STRING ) ; } return ( java.lang.Class<?> < ? > ) java.lang.Object ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { Assert . notNull ( java.lang.String , STRING ) ; this . java.lang.Object = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { java.lang.Object java.lang.Object = this . java.lang.Object ; if ( java.lang.Object instanceof java.lang.Class ) { return ( ( java.lang.Class<?> < ? > ) java.lang.Object ) . java.lang.String ( ) ; } else { return ( java.lang.String ) java.lang.Object ; } }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return ( this . java.lang.Object instanceof java.lang.Class ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.Class<?> < ? > java.lang.Class<?> ( java.lang.ClassLoader java.lang.ClassLoader ) throws java.lang.ClassNotFoundException { if ( this . java.lang.Object == null ) { return null ; } java.lang.Class<?> < ? > java.lang.Class<?> = ClassUtils . forName ( java.lang.String ( ) , java.lang.ClassLoader ) ; this . java.lang.Object = java.lang.Class<> ; return java.lang.Class<> ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Object java.lang.Object ) { this . java.lang.Object = java.lang.Object ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Object java.lang.Object ( ) { return this . java.lang.Object ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( ) { this . boolean = true ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( this == java.lang.Object ) { return true ; } if ( ! ( java.lang.Object instanceof org.springframework.beans.factory.config.TypedStringValue ) ) { return false ; } org.springframework.beans.factory.config.TypedStringValue org.springframework.beans.factory.config.TypedStringValue = ( org.springframework.beans.factory.config.TypedStringValue ) java.lang.Object ; return ( ObjectUtils . nullSafeEquals ( this . java.lang.String , org.springframework.beans.factory.config.TypedStringValue . java.lang.String ) && ObjectUtils . nullSafeEquals ( this . java.lang.Object , org.springframework.beans.factory.config.TypedStringValue . java.lang.Object ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return ObjectUtils . nullSafeHashCode ( this . java.lang.String ) * NUMBER + ObjectUtils . nullSafeHashCode ( this . java.lang.Object ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING + this . java.lang.String + STRING + this . java.lang.Object + STRING ; }  <METHOD_END>

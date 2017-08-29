@@ -1,0 +1,2 @@
+<METHOD_START> @ javax.annotation.PostConstruct public void void ( ) { java.io.StringWriter java.io.StringWriter = new java.io.StringWriter ( ) ; new java.lang.RuntimeException ( ) . void ( new java.io.PrintWriter ( java.io.StringWriter ) ) ; this . java.util.List<java.lang.String> . boolean ( java.io.StringWriter . java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . java.util.List<java.lang.String> ) . hasSize ( NUMBER ) ; }  <METHOD_END>

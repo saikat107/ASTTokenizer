@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.data.mongodb.core.aggregation.Document org.springframework.data.mongodb.core.aggregation.Document ( AggregationOperationContext org.springframework.data.mongodb.core.aggregation.AggregationOperationContext );  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String ... java.lang.String[] ) { java.lang.System . java.io.PrintStream . void ( this . sample.simple.HelloWorldService . getHelloMessage ( ) ) ; if ( java.lang.String[] . int > NUMBER && java.lang.String[] [ NUMBER ] . boolean ( STRING ) ) { throw new ExitException ( ) ; } }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) throws java.lang.Exception { SpringApplication . run ( sample.simple.SampleSimpleApplication .class , java.lang.String[] ) ; }  <METHOD_END>

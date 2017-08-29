@@ -1,0 +1,3 @@
+<METHOD_START> private void ( ) {}  <METHOD_END>
+<METHOD_START> public static boolean boolean ( EntityManager org.springframework.data.jpa.support.EntityManager ) { return ReflectionUtils . findMethod ( ( ( org . springframework . org.springframework.orm . org.springframework.orm . org.springframework.orm ) org.springframework.data.jpa.support.EntityManager ) . getTargetEntityManager ( ) . getClass ( ) , STRING , java.lang.String .class ) != null ; }  <METHOD_END>
+<METHOD_START> public static boolean boolean ( EntityManager org.springframework.data.jpa.support.EntityManager ) { return org.springframework.data.jpa.support.EntityManager . getDelegate ( ) . getClass ( ) . getName ( ) . toLowerCase ( ) . contains ( STRING ) ; }  <METHOD_END>

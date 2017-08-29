@@ -1,0 +1,2 @@
+<METHOD_START> public void ( Document org.springframework.data.mongodb.core.mapping.event.Document , java.lang.Class<T> < T > java.lang.Class<T> , java.lang.String java.lang.String ) { super( org.springframework.data.mongodb.core.mapping.event.Document , org.springframework.data.mongodb.core.mapping.event.Document , java.lang.String ); Assert . notNull ( java.lang.Class<T> , STRING ) ; this . java.lang.Class<T> = java.lang.Class<T> ; }  <METHOD_END>
+<METHOD_START> public java.lang.Class<T> < T > java.lang.Class<T> ( ) { return java.lang.Class<T> ; }  <METHOD_END>

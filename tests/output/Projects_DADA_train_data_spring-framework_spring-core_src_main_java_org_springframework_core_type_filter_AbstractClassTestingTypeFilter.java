@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public final boolean boolean ( MetadataReader org.springframework.core.type.filter.MetadataReader , MetadataReaderFactory org.springframework.core.type.filter.MetadataReaderFactory )			throws java.io.IOException { return boolean ( org.springframework.core.type.filter.MetadataReader . getClassMetadata ( ) ) ; }  <METHOD_END>
+<METHOD_START> protected abstract boolean boolean ( ClassMetadata org.springframework.core.type.filter.ClassMetadata );  <METHOD_END>

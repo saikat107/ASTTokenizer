@@ -1,0 +1,4 @@
+<METHOD_START> public java.lang.Long java.lang.Long ( ) { return this . java.lang.Long ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Long java.lang.Long ) { this . java.lang.Long = java.lang.Long ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return ObjectUtils . nullSafeHashCode ( this . java.lang.Long ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( java.lang.Object == this ) { return true ; } if ( java.lang.Object == null ) { return false ; } if ( java.lang.Object instanceof org.springframework.cache.config.TestEntity ) { return ObjectUtils . nullSafeEquals ( this . java.lang.Long , ( ( org.springframework.cache.config.TestEntity ) java.lang.Object ) . java.lang.Long ) ; } return false ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> public void ( ) { super( STRING ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.util.List<java.lang.management.ThreadInfo> < java.lang.management.ThreadInfo > java.util.List<java.lang.management.ThreadInfo> ( ) { return java.util.Arrays . java.util.List<java.lang.management.ThreadInfo> ( java.lang.management.ManagementFactory . java.lang.management.ThreadMXBean ( ) . java.lang.management.ThreadInfo[] ( true , true ) ) ; }  <METHOD_END>

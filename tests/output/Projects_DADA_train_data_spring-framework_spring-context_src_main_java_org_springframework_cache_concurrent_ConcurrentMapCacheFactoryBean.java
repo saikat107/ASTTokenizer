@@ -1,0 +1,8 @@
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.util.concurrent.ConcurrentMap<java.lang.Object,java.lang.Object> < java.lang.Object , java.lang.Object > java.util.concurrent.ConcurrentMap<java.lang.Object,java.lang.Object> ) { this . java.util.concurrent.ConcurrentMap<java.lang.Object,java.lang.Object> = java.util.concurrent.ConcurrentMap<java.lang.Object,java.lang.Object> ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) { if ( ! StringUtils . hasLength ( this . java.lang.String ) ) { void ( java.lang.String ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { this . org.springframework.cache.concurrent.ConcurrentMapCache = ( this . java.util.concurrent.ConcurrentMap<java.lang.Object,java.lang.Object> != null ? new ConcurrentMapCache ( this . java.lang.String , this . java.util.concurrent.ConcurrentMap<java.lang.Object,java.lang.Object> , this . boolean ) : new ConcurrentMapCache ( this . java.lang.String , this . boolean ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.cache.concurrent.ConcurrentMapCache org.springframework.cache.concurrent.ConcurrentMapCache ( ) { return this . org.springframework.cache.concurrent.ConcurrentMapCache ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return ConcurrentMapCache .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

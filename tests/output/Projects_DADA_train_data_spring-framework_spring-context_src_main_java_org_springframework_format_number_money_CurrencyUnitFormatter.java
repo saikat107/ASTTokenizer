@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( CurrencyUnit org.springframework.format.number.money.CurrencyUnit , java.util.Locale java.util.Locale ) { return org.springframework.format.number.money.CurrencyUnit . getCurrencyCode ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.format.number.money.CurrencyUnit org.springframework.format.number.money.CurrencyUnit ( java.lang.String java.lang.String , java.util.Locale java.util.Locale ) { return Monetary . getCurrency ( java.lang.String ) ; }  <METHOD_END>

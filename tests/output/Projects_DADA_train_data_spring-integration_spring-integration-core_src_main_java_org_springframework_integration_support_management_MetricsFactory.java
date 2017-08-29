@@ -1,0 +1,2 @@
+<METHOD_START> org.springframework.integration.support.management.AbstractMessageChannelMetrics org.springframework.integration.support.management.AbstractMessageChannelMetrics ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> org.springframework.integration.support.management.AbstractMessageHandlerMetrics org.springframework.integration.support.management.AbstractMessageHandlerMetrics ( java.lang.String java.lang.String );  <METHOD_END>

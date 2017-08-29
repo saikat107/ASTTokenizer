@@ -1,0 +1,2 @@
+<METHOD_START> @ Transactional ( readOnly = false , timeout = NUMBER ) java.util.List<org.springframework.data.jpa.repository.custom.User> < User > java.util.List<org.springframework.data.jpa.repository.custom.User> ( )  <METHOD_END>
+<METHOD_START> @ Transactional ( readOnly = false , timeout = NUMBER ) java.util.Optional<org.springframework.data.jpa.repository.custom.User> < User > java.util.Optional<org.springframework.data.jpa.repository.custom.User> ( java.lang.Integer java.lang.Integer );  <METHOD_END>

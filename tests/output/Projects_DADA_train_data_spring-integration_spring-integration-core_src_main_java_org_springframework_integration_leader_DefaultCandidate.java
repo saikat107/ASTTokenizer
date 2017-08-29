@@ -1,0 +1,6 @@
+<METHOD_START> public void ( ) { super(); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { super( java.lang.String , java.lang.String ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Context org.springframework.integration.leader.Context ) { if ( this . org.springframework.integration.leader.Log . isInfoEnabled ( ) ) { this . org.springframework.integration.leader.Log . info ( this + STRING + org.springframework.integration.leader.Context ) ; } this . org.springframework.integration.leader.Context = org.springframework.integration.leader.Context ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Context org.springframework.integration.leader.Context ) { if ( this . org.springframework.integration.leader.Log . isInfoEnabled ( ) ) { this . org.springframework.integration.leader.Log . info ( this + STRING + org.springframework.integration.leader.Context ) ; } }  <METHOD_END>
+<METHOD_START> public void void ( ) { if ( this . org.springframework.integration.leader.Context != null ) { this . org.springframework.integration.leader.Context . yield ( ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.String . java.lang.String ( STRING , getRole ( ) , getId ( ) ) ; }  <METHOD_END>

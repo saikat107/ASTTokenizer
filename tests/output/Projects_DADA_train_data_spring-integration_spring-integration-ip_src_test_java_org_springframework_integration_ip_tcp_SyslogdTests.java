@@ -1,0 +1,2 @@
+<METHOD_START> private void ( ) { super(); }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) throws java.lang.Exception { AbstractApplicationContext org.springframework.integration.ip.tcp.AbstractApplicationContext = new ClassPathXmlApplicationContext ( STRING , org.springframework.integration.ip.tcp.SyslogdTests .class ) ; java.lang.System . java.io.InputStream . int ( ) ; org.springframework.integration.ip.tcp.AbstractApplicationContext . close ( ) ; }  <METHOD_END>

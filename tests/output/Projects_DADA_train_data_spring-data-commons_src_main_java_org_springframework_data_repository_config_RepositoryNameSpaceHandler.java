@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( ) { registerBeanDefinitionParser ( STRING , org.springframework.data.repository.config.BeanDefinitionParser ) ; registerBeanDefinitionParser ( STRING , org.springframework.data.repository.config.BeanDefinitionParser ) ; registerBeanDefinitionParser ( STRING , org.springframework.data.repository.config.BeanDefinitionParser ) ; }  <METHOD_END>

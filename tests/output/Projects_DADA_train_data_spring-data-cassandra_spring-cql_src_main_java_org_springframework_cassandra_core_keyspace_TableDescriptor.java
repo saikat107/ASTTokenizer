@@ -1,0 +1,7 @@
+<METHOD_START> org.springframework.cassandra.core.keyspace.CqlIdentifier org.springframework.cassandra.core.keyspace.CqlIdentifier ( )  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> < ColumnSpecification > java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> ( )  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> < ColumnSpecification > java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> ( )  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> < ColumnSpecification > java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> ( )  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> < ColumnSpecification > java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> ( )  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> < ColumnSpecification > java.util.List<org.springframework.cassandra.core.keyspace.ColumnSpecification> ( )  <METHOD_END>
+<METHOD_START> java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> ( )  <METHOD_END>

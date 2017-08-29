@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this . java.util.regex.Pattern = java.util.regex.Pattern . java.util.regex.Pattern ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public void ( java.util.regex.Pattern java.util.regex.Pattern ) { this . java.util.regex.Pattern = java.util.regex.Pattern ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( WebRequest org.springframework.test.web.servlet.htmlunit.WebRequest ) { java.lang.String java.lang.String = org.springframework.test.web.servlet.htmlunit.WebRequest . getUrl ( ) . toExternalForm ( ) ; return this . java.util.regex.Pattern . java.util.regex.Matcher ( java.lang.String ) . boolean ( ) ; }  <METHOD_END>

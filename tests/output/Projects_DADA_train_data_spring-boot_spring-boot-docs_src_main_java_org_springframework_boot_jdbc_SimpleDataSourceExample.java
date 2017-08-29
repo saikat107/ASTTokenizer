@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean @ ConfigurationProperties ( STRING ) public org.springframework.boot.jdbc.HikariDataSource org.springframework.boot.jdbc.HikariDataSource ( ) { return ( HikariDataSource ) DataSourceBuilder . create ( ) . type ( HikariDataSource .class ) . build ( ) ; }  <METHOD_END>

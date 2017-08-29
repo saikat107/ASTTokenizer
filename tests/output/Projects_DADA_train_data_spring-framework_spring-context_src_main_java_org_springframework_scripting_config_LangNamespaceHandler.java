@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( ) { void ( STRING , STRING ) ; void ( STRING , STRING ) ; void ( STRING , STRING ) ; registerBeanDefinitionParser ( STRING , new ScriptingDefaultsParser ( ) ) ; }  <METHOD_END>
+<METHOD_START> private void void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { registerBeanDefinitionParser ( java.lang.String , new ScriptBeanDefinitionParser ( java.lang.String ) ) ; }  <METHOD_END>

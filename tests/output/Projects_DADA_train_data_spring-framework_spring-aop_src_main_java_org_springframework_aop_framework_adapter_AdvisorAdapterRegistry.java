@@ -1,0 +1,3 @@
+<METHOD_START> org.springframework.aop.framework.adapter.Advisor org.springframework.aop.framework.adapter.Advisor ( java.lang.Object java.lang.Object ) throws org.springframework.aop.framework.adapter.UnknownAdviceTypeException ;  <METHOD_END>
+<METHOD_START> org.springframework.aop.framework.adapter.MethodInterceptor [] org.springframework.aop.framework.adapter.MethodInterceptor[] ( Advisor org.springframework.aop.framework.adapter.Advisor ) throws org.springframework.aop.framework.adapter.UnknownAdviceTypeException ;  <METHOD_END>
+<METHOD_START> void void ( AdvisorAdapter org.springframework.aop.framework.adapter.AdvisorAdapter );  <METHOD_END>

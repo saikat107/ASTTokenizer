@@ -1,0 +1,3 @@
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> ) { return true ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( java.lang.Class<?> < ? > java.lang.Class<?> ) { java.lang.String java.lang.String = java.lang.String ( java.lang.Class<> ) ; return java.lang.String . java.lang.String ( STRING , java.lang.String , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( java.lang.Class<?> < ? > java.lang.Class<?> ) { return StringUtils . uncapitalize ( java.lang.Class<> . java.lang.String ( ) ) ; }  <METHOD_END>

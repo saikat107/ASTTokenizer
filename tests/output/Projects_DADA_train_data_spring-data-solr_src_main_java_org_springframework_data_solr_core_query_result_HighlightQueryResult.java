@@ -1,0 +1,2 @@
+<METHOD_START> java.util.List<org.springframework.data.solr.core.query.result.HighlightEntry<T>> < HighlightEntry < T > > java.util.List<org.springframework.data.solr.core.query.result.HighlightEntry<T>> ( )  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.data.solr.core.query.result.Highlight> < Highlight > java.util.List<org.springframework.data.solr.core.query.result.Highlight> ( T T );  <METHOD_END>

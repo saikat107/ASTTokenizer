@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( java.lang.Class<?> < ? > java.lang.Class<?> ) { Assert . notNull ( java.lang.Class<> , STRING ) ; return ClassUtils . getUserClass ( java.lang.Class<> ) . getName ( ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> org.springframework.core.type.classreading.MetadataReader org.springframework.core.type.classreading.MetadataReader ( java.lang.String java.lang.String ) throws java.io.IOException ;  <METHOD_END>
+<METHOD_START> org.springframework.core.type.classreading.MetadataReader org.springframework.core.type.classreading.MetadataReader ( Resource org.springframework.core.type.classreading.Resource ) throws java.io.IOException ;  <METHOD_END>

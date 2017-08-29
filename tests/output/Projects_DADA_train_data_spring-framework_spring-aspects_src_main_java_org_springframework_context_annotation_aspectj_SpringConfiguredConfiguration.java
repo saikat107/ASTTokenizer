@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean ( name = java.lang.String ) @ Role ( BeanDefinition . ROLE_INFRASTRUCTURE ) public org.springframework.context.annotation.aspectj.AnnotationBeanConfigurerAspect org.springframework.context.annotation.aspectj.AnnotationBeanConfigurerAspect ( ) { return AnnotationBeanConfigurerAspect . aspectOf ( ) ; }  <METHOD_END>

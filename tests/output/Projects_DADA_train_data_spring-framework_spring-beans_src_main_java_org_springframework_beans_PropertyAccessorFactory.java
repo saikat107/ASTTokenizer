@@ -1,0 +1,2 @@
+<METHOD_START> public static org.springframework.beans.BeanWrapper org.springframework.beans.BeanWrapper ( java.lang.Object java.lang.Object ) { return new BeanWrapperImpl ( java.lang.Object ) ; }  <METHOD_END>
+<METHOD_START> public static org.springframework.beans.ConfigurablePropertyAccessor org.springframework.beans.ConfigurablePropertyAccessor ( java.lang.Object java.lang.Object ) { return new DirectFieldAccessor ( java.lang.Object ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { assertThat ( TermToStringConverter . INSTANCE . convert ( null ) , nullValue ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Term org.springframework.data.mongodb.core.convert.Term = spy ( new Term ( STRING , Type . WORD ) ) ; TermToStringConverter . INSTANCE . convert ( org.springframework.data.mongodb.core.convert.Term ) ; verify ( org.springframework.data.mongodb.core.convert.Term , times ( NUMBER ) ) . getFormatted ( ) ; }  <METHOD_END>

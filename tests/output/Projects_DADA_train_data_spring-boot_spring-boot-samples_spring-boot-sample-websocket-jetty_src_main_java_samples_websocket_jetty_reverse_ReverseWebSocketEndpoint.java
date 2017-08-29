@@ -1,0 +1,1 @@
+<METHOD_START> @ OnMessage public void void ( Session samples.websocket.jetty.reverse.Session , java.lang.String java.lang.String ) throws java.io.IOException { samples.websocket.jetty.reverse.Session . getBasicRemote ( ) . sendText ( STRING + new java.lang.StringBuilder ( java.lang.String ) . java.lang.StringBuilder ( ) ) ; }  <METHOD_END>

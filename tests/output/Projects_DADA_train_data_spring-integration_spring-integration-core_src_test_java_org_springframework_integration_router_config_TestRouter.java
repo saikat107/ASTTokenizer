@@ -1,0 +1,1 @@
+<METHOD_START> public java.lang.String java.lang.String ( int int ) { if ( int == NUMBER ) { return STRING ; } if ( int == NUMBER ) { return STRING ; } if ( int == NUMBER ) { return STRING ; } return null ; }  <METHOD_END>

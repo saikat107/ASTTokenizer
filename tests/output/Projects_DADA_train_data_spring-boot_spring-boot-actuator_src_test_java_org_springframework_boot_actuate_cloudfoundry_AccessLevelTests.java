@@ -1,0 +1,4 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( AccessLevel . RESTRICTED . isAccessAllowed ( STRING ) ) . isTrue ( ) ; assertThat ( AccessLevel . FULL . isAccessAllowed ( STRING ) ) . isTrue ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( AccessLevel . RESTRICTED . isAccessAllowed ( STRING ) ) . isTrue ( ) ; assertThat ( AccessLevel . FULL . isAccessAllowed ( STRING ) ) . isTrue ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( AccessLevel . RESTRICTED . isAccessAllowed ( STRING ) ) . isTrue ( ) ; assertThat ( AccessLevel . FULL . isAccessAllowed ( STRING ) ) . isTrue ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( AccessLevel . RESTRICTED . isAccessAllowed ( STRING ) ) . isFalse ( ) ; assertThat ( AccessLevel . FULL . isAccessAllowed ( STRING ) ) . isTrue ( ) ; }  <METHOD_END>

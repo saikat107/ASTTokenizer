@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.test.web.client.ClientHttpResponse org.springframework.test.web.client.ClientHttpResponse ( ClientHttpRequest org.springframework.test.web.client.ClientHttpRequest ) throws java.io.IOException ;  <METHOD_END>

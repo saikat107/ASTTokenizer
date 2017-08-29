@@ -1,0 +1,2 @@
+<METHOD_START> void ( HealthEndpoint org.springframework.boot.actuate.cloudfoundry.HealthEndpoint ) { super( org.springframework.boot.actuate.cloudfoundry.HealthEndpoint ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected boolean boolean ( HttpServletRequest org.springframework.boot.actuate.cloudfoundry.HttpServletRequest , java.security.Principal java.security.Principal ) { return true ; }  <METHOD_END>

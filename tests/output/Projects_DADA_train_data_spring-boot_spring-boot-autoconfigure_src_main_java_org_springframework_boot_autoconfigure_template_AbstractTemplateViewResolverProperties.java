@@ -1,0 +1,18 @@
+<METHOD_START> protected void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Object java.lang.Object ) { Assert . isInstanceOf ( AbstractTemplateViewResolver .class , java.lang.Object , STRING + java.lang.Object ) ; AbstractTemplateViewResolver org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver = ( AbstractTemplateViewResolver ) java.lang.Object ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setPrefix ( java.lang.String ( ) ) ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setSuffix ( java.lang.String ( ) ) ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setCache ( isCache ( ) ) ; if ( getContentType ( ) != null ) { org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setContentType ( getContentType ( ) . toString ( ) ) ; } org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setViewNames ( getViewNames ( ) ) ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setExposeRequestAttributes ( boolean ( ) ) ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setAllowRequestOverride ( boolean ( ) ) ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setAllowSessionOverride ( boolean ( ) ) ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setExposeSessionAttributes ( boolean ( ) ) ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setExposeSpringMacroHelpers ( boolean ( ) ) ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setRequestContextAttribute ( java.lang.String ( ) ) ; org.springframework.boot.autoconfigure.template.AbstractTemplateViewResolver . setOrder ( Ordered . LOWEST_PRECEDENCE - NUMBER ) ; }  <METHOD_END>

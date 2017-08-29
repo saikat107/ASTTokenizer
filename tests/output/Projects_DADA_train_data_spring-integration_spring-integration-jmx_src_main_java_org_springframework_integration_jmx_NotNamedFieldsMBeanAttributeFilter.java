@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String ... java.lang.String[] ) { this . java.lang.String[] = ( java.lang.String [] ) java.util.Arrays . java.util.List<java.lang.String> ( java.lang.String[] ) . java.lang.Object[] ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( javax.management.ObjectName javax.management.ObjectName , java.lang.String java.lang.String ) { for ( java.lang.String java.lang.String : this . java.lang.String[] ) { if ( java.lang.String . boolean ( java.lang.String ) ) { return false ; } } return true ; }  <METHOD_END>

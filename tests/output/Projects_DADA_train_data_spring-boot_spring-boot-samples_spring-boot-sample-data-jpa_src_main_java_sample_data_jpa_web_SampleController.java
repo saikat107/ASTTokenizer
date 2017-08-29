@@ -1,0 +1,1 @@
+<METHOD_START> @ GetMapping ( STRING ) @ ResponseBody @ Transactional ( readOnly = true ) public java.lang.String java.lang.String ( ) { return this . sample.data.jpa.web.CityService . getCity ( STRING , STRING ) . getName ( ) ; }  <METHOD_END>

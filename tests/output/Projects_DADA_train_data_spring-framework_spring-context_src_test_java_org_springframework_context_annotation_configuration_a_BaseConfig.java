@@ -1,0 +1,4 @@
+<METHOD_START> @ Bean org.springframework.context.annotation.configuration.a.Bar org.springframework.context.annotation.configuration.a.Bar ( ) { return new Bar ( ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.context.annotation.configuration.a.Bar org.springframework.context.annotation.configuration.a.Bar ( ) { return org.springframework.context.annotation.configuration.a.Bar ( ) ; }  <METHOD_END>
+<METHOD_START> @ Bean protected org.springframework.context.annotation.configuration.a.Bar org.springframework.context.annotation.configuration.a.Bar ( ) { return new Bar ( ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.context.annotation.configuration.a.Bar org.springframework.context.annotation.configuration.a.Bar ( ) { return org.springframework.context.annotation.configuration.a.Bar ( ) ; }  <METHOD_END>

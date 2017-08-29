@@ -1,0 +1,6 @@
+<METHOD_START> @ java.lang.Override public org.springframework.jms.Connection org.springframework.jms.Connection ( ) org.springframework.jms.JMSException { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.jms.Connection org.springframework.jms.Connection ( java.lang.String java.lang.String , java.lang.String java.lang.String ) throws org.springframework.jms.JMSException { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.jms.JMSContext org.springframework.jms.JMSContext ( ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.jms.JMSContext org.springframework.jms.JMSContext ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.jms.JMSContext org.springframework.jms.JMSContext ( java.lang.String java.lang.String , java.lang.String java.lang.String , int int ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.jms.JMSContext org.springframework.jms.JMSContext ( int int ) { return null ; }  <METHOD_END>

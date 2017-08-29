@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( java.lang.String [] java.lang.String[] ) { new SpringApplicationBuilder ( ) . sources ( org.springframework.boot.builder.SpringApplicationBuilderExample.Parent .class ) . child ( org.springframework.boot.builder.SpringApplicationBuilderExample.Application .class ) . bannerMode ( Banner . Mode . OFF ) . run ( java.lang.String[] ) ; }  <METHOD_END>

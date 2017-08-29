@@ -1,0 +1,7 @@
+<METHOD_START> void ( ) { }  <METHOD_END>
+<METHOD_START> public void ( MonetaryAmount org.springframework.data.neo4j.integration.conversion.domain.MonetaryAmount , java.lang.String java.lang.String ) { this . org.springframework.data.neo4j.integration.conversion.domain.MonetaryAmount = org.springframework.data.neo4j.integration.conversion.domain.MonetaryAmount ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.Long java.lang.Long ( ) { return java.lang.Long ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.neo4j.integration.conversion.domain.MonetaryAmount org.springframework.data.neo4j.integration.conversion.domain.MonetaryAmount ( ) { return org.springframework.data.neo4j.integration.conversion.domain.MonetaryAmount ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.neo4j.integration.conversion.domain.JavaElement org.springframework.data.neo4j.integration.conversion.domain.JavaElement ( ) { return org.springframework.data.neo4j.integration.conversion.domain.JavaElement ; }  <METHOD_END>
+<METHOD_START> public void void ( JavaElement org.springframework.data.neo4j.integration.conversion.domain.JavaElement ) { this . org.springframework.data.neo4j.integration.conversion.domain.JavaElement = org.springframework.data.neo4j.integration.conversion.domain.JavaElement ; }  <METHOD_END>

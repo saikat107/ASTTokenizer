@@ -1,0 +1,1 @@
+<METHOD_START> public void ( MetadataReaderFactory org.springframework.boot.autoconfigure.MetadataReaderFactory ) { super( org.springframework.boot.autoconfigure.MetadataReaderFactory , AutoConfigurationMetadataLoader . loadMetadata ( new java.util.Properties ( ) ) ); }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.data.repository.support.RepositoryInvoker org.springframework.data.repository.support.RepositoryInvoker ( java.lang.Class<?> < ? > java.lang.Class<?> );  <METHOD_END>

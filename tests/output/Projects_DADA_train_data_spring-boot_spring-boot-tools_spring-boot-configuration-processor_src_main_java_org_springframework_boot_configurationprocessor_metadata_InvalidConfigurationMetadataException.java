@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , javax.tools.Diagnostic . javax.tools.Diagnostic.Kind javax.tools.Diagnostic.Kind ) { super( java.lang.String ); this . javax.tools.Diagnostic.Kind = javax.tools.Diagnostic.Kind ; }  <METHOD_END>
+<METHOD_START> public javax.tools.Diagnostic . javax.tools.Diagnostic.Kind javax.tools.Diagnostic.Kind ( ) { return this . javax.tools.Diagnostic.Kind ; }  <METHOD_END>

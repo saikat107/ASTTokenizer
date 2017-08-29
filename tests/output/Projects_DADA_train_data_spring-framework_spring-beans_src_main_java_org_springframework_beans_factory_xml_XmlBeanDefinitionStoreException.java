@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String , org.xml.sax.SAXException org.xml.sax.SAXException ) { super( java.lang.String , java.lang.String , org.xml.sax.SAXException ); }  <METHOD_END>
+<METHOD_START> public int int ( ) { java.lang.Throwable java.lang.Throwable = getCause ( ) ; if ( java.lang.Throwable instanceof org.xml.sax.SAXParseException ) { return ( ( org.xml.sax.SAXParseException ) java.lang.Throwable ) . int ( ) ; } return - NUMBER ; }  <METHOD_END>

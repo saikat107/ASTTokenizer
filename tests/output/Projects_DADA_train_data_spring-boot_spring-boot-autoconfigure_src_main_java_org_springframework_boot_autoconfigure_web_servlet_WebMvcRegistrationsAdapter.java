@@ -1,0 +1,3 @@
+<METHOD_START> @ java.lang.Override public org.springframework.boot.autoconfigure.web.servlet.RequestMappingHandlerMapping org.springframework.boot.autoconfigure.web.servlet.RequestMappingHandlerMapping ( ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.boot.autoconfigure.web.servlet.RequestMappingHandlerAdapter org.springframework.boot.autoconfigure.web.servlet.RequestMappingHandlerAdapter ( ) { return null ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.boot.autoconfigure.web.servlet.ExceptionHandlerExceptionResolver org.springframework.boot.autoconfigure.web.servlet.ExceptionHandlerExceptionResolver ( ) { return null ; }  <METHOD_END>

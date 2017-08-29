@@ -1,0 +1,3 @@
+<METHOD_START> public void ( T T , CouchbaseDocument org.springframework.data.couchbase.core.mapping.event.CouchbaseDocument ) { super( T ); this . org.springframework.data.couchbase.core.mapping.event.CouchbaseDocument = org.springframework.data.couchbase.core.mapping.event.CouchbaseDocument ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.couchbase.core.mapping.event.CouchbaseDocument org.springframework.data.couchbase.core.mapping.event.CouchbaseDocument ( ) { return org.springframework.data.couchbase.core.mapping.event.CouchbaseDocument ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) @ java.lang.Override public T T ( ) { return ( T ) super. getSource ( ) ; }  <METHOD_END>

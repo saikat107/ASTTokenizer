@@ -1,0 +1,3 @@
+<METHOD_START> @ Bean public java.lang.String java.lang.String ( ) { return ClassHierarchyWithMergedConfigLevelOneTests.AppConfig . parent ( ) + STRING ; }  <METHOD_END>
+<METHOD_START> @ Bean public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ Test @ java.lang.Override public void void ( ) { assertNotNull ( STRING , context ) ; assertNotNull ( STRING , context . getParent ( ) ) ; assertNull ( STRING , context . getParent ( ) . getParent ( ) ) ; assertEquals ( STRING , parent ) ; assertEquals ( STRING , user ) ; assertEquals ( STRING , java.lang.String ) ; assertNull ( STRING , beanFromUserConfig ) ; }  <METHOD_END>

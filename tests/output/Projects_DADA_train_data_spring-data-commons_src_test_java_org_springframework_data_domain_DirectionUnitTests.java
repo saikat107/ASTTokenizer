@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( Direction . fromString ( STRING ) ) . isEqualTo ( Direction . ASC ) ; assertThat ( Direction . fromString ( STRING ) ) . isEqualTo ( Direction . DESC ) ; }  <METHOD_END>
+<METHOD_START> @ Test ( expected = java.lang.IllegalArgumentException .class ) public void void ( ) java.lang.Exception { Direction . fromString ( STRING ) ; }  <METHOD_END>

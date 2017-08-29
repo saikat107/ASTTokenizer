@@ -1,0 +1,8 @@
+<METHOD_START> public void ( ConvertiblePair org.springframework.data.cassandra.convert.ConvertiblePair , boolean boolean , boolean boolean ) { Assert . notNull ( org.springframework.data.cassandra.convert.ConvertiblePair , STRING ) ; this . org.springframework.data.cassandra.convert.ConvertiblePair = org.springframework.data.cassandra.convert.ConvertiblePair ; this . boolean = boolean ; this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.Class<?> < ? > java.lang.Class<?> , java.lang.Class<?> < ? > java.lang.Class<?> , boolean boolean , boolean boolean ) { this( new ConvertiblePair ( java.lang.Class<> , java.lang.Class<> ) , boolean , boolean ); }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return boolean || ( ! boolean && boolean ( ) ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return boolean || ( ! boolean && boolean ( ) ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.cassandra.convert.ConvertiblePair org.springframework.data.cassandra.convert.ConvertiblePair ( ) { return org.springframework.data.cassandra.convert.ConvertiblePair ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return boolean ( org.springframework.data.cassandra.convert.ConvertiblePair . getSourceType ( ) ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return boolean ( org.springframework.data.cassandra.convert.ConvertiblePair . getTargetType ( ) ) ; }  <METHOD_END>
+<METHOD_START> private static boolean boolean ( java.lang.Class<?> < ? > java.lang.Class<?> ) { return CassandraSimpleTypeHolder . HOLDER . isSimpleType ( java.lang.Class<> ) ; }  <METHOD_END>

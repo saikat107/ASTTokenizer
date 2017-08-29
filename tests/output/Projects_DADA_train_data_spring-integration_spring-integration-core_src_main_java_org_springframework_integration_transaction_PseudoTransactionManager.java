@@ -1,0 +1,4 @@
+<METHOD_START> @ java.lang.Override protected java.lang.Object java.lang.Object ( ) org.springframework.integration.transaction.TransactionException { return new java.lang.Object ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected void void ( java.lang.Object java.lang.Object , TransactionDefinition org.springframework.integration.transaction.TransactionDefinition ) throws org.springframework.integration.transaction.TransactionException { }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected void void ( DefaultTransactionStatus org.springframework.integration.transaction.DefaultTransactionStatus ) throws org.springframework.integration.transaction.TransactionException { }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected void void ( DefaultTransactionStatus org.springframework.integration.transaction.DefaultTransactionStatus ) throws org.springframework.integration.transaction.TransactionException { }  <METHOD_END>

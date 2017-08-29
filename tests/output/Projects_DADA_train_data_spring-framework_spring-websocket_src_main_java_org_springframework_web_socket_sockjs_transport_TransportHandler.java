@@ -1,0 +1,4 @@
+<METHOD_START> void void ( SockJsServiceConfig org.springframework.web.socket.sockjs.transport.SockJsServiceConfig );  <METHOD_END>
+<METHOD_START> org.springframework.web.socket.sockjs.transport.TransportType org.springframework.web.socket.sockjs.transport.TransportType ( )  <METHOD_END>
+<METHOD_START> boolean boolean ( SockJsSession org.springframework.web.socket.sockjs.transport.SockJsSession );  <METHOD_END>
+<METHOD_START> void void ( ServerHttpRequest org.springframework.web.socket.sockjs.transport.ServerHttpRequest , ServerHttpResponse org.springframework.web.socket.sockjs.transport.ServerHttpResponse , WebSocketHandler org.springframework.web.socket.sockjs.transport.WebSocketHandler , SockJsSession org.springframework.web.socket.sockjs.transport.SockJsSession ) throws org.springframework.web.socket.sockjs.transport.SockJsException ;  <METHOD_END>

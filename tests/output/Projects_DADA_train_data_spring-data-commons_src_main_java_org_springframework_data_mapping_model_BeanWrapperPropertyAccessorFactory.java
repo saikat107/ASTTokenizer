@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public org.springframework.data.mapping.model.PersistentPropertyAccessor org.springframework.data.mapping.model.PersistentPropertyAccessor ( PersistentEntity < ? , ? > org.springframework.data.mapping.model.PersistentEntity<?,?> , java.lang.Object java.lang.Object ) { return new BeanWrapper <> ( java.lang.Object ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( PersistentEntity < ? , ? > org.springframework.data.mapping.model.PersistentEntity<?,?> ) { return true ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> public boolean boolean ( Message < ? > org.springframework.integration.selector.Message<?> ) { java.lang.Long java.lang.Long = new IntegrationMessageHeaderAccessor ( org.springframework.integration.selector.Message<> ) . getExpirationDate ( ) ; if ( java.lang.Long == null ) { return true ; } return java.lang.Long > java.lang.System . long ( ) ; }  <METHOD_END>

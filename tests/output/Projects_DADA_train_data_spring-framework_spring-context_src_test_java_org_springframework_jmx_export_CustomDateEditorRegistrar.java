@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public void void ( PropertyEditorRegistry org.springframework.jmx.export.PropertyEditorRegistry ) { org.springframework.jmx.export.PropertyEditorRegistry . registerCustomEditor ( java.util.Date .class , new CustomDateEditor ( new java.text.SimpleDateFormat ( STRING ) , true ) ) ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected org.springframework.cache.jcache.config.ApplicationContext org.springframework.cache.jcache.config.ApplicationContext ( ) { return new GenericXmlApplicationContext ( STRING ) ; }  <METHOD_END>

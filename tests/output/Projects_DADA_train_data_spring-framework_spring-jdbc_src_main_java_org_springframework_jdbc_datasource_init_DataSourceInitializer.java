@@ -1,0 +1,7 @@
+<METHOD_START> public void void ( javax.sql.DataSource javax.sql.DataSource ) { this . javax.sql.DataSource = javax.sql.DataSource ; }  <METHOD_END>
+<METHOD_START> public void void ( DatabasePopulator org.springframework.jdbc.datasource.init.DatabasePopulator ) { this . org.springframework.jdbc.datasource.init.DatabasePopulator = org.springframework.jdbc.datasource.init.DatabasePopulator ; }  <METHOD_END>
+<METHOD_START> public void void ( DatabasePopulator org.springframework.jdbc.datasource.init.DatabasePopulator ) { this . org.springframework.jdbc.datasource.init.DatabasePopulator = org.springframework.jdbc.datasource.init.DatabasePopulator ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { void ( this . org.springframework.jdbc.datasource.init.DatabasePopulator ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { void ( this . org.springframework.jdbc.datasource.init.DatabasePopulator ) ; }  <METHOD_END>
+<METHOD_START> private void void ( DatabasePopulator org.springframework.jdbc.datasource.init.DatabasePopulator ) { Assert . state ( javax.sql.DataSource != null , STRING ) ; if ( this . boolean && org.springframework.jdbc.datasource.init.DatabasePopulator != null ) { DatabasePopulatorUtils . execute ( org.springframework.jdbc.datasource.init.DatabasePopulator , this . javax.sql.DataSource ) ; } }  <METHOD_END>

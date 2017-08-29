@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean org.springframework.test.context.configuration.interfaces.Employee org.springframework.test.context.configuration.interfaces.Employee ( ) { return new Employee ( STRING ) ; }  <METHOD_END>

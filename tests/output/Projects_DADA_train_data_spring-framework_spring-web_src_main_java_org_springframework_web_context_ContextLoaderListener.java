@@ -1,0 +1,4 @@
+<METHOD_START> public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( WebApplicationContext org.springframework.web.context.WebApplicationContext ) { super( org.springframework.web.context.WebApplicationContext ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ServletContextEvent org.springframework.web.context.ServletContextEvent ) { initWebApplicationContext ( org.springframework.web.context.ServletContextEvent . getServletContext ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ServletContextEvent org.springframework.web.context.ServletContextEvent ) { closeWebApplicationContext ( org.springframework.web.context.ServletContextEvent . getServletContext ( ) ) ; ContextCleanupListener . cleanupAttributes ( org.springframework.web.context.ServletContextEvent . getServletContext ( ) ) ; }  <METHOD_END>

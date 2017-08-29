@@ -1,0 +1,7 @@
+<METHOD_START> public void ( java.lang.Class<?> < ? > java.lang.Class<?> , java.lang.String java.lang.String ) { this . java.lang.Class<?> = java.lang.Class<> ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) java.lang.Exception { this . java.lang.reflect.Method = BeanUtils . resolveSignature ( this . java.lang.String , this . java.lang.Class<> ) ; if ( this . java.lang.reflect.Method == null ) { throw new BeanDefinitionStoreException ( java.lang.String . java.lang.String ( STRING , this . java.lang.String , this . java.lang.Class<> ) ) ; } if ( ! java.lang.reflect.Modifier . boolean ( this . java.lang.reflect.Method . int ( ) ) ) { throw new BeanDefinitionStoreException ( STRING ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.reflect.Method java.lang.reflect.Method ( ) java.lang.Exception { return this . java.lang.reflect.Method ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return java.lang.reflect.Method .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>

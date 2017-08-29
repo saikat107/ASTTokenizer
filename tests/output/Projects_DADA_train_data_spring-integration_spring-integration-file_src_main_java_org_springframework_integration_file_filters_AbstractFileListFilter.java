@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public final java.util.List<F> < F > java.util.List<F> ( F [] F[] ) { java.util.List<F> < F > java.util.List<F> = new java.util.ArrayList<F> < F > ( ) ; if ( F[] != null ) { for ( F F : F[] ) { if ( this . boolean ( F ) ) { java.util.List<F> . boolean ( F ) ; } } } return java.util.List<F> ; }  <METHOD_END>
+<METHOD_START> public abstract boolean boolean ( F F );  <METHOD_END>

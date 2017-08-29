@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { MessageSelector org.springframework.integration.config.MessageSelector = ( MessageSelector ) org.springframework.integration.config.ApplicationContext . getBean ( STRING ) ; assertTrue ( org.springframework.integration.config.MessageSelector . accept ( new GenericMessage < java.lang.String > ( STRING ) ) ) ; }  <METHOD_END>

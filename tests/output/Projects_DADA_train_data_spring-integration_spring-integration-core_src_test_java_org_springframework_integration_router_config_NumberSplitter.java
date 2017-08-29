@@ -1,0 +1,1 @@
+<METHOD_START> public java.util.List<java.lang.Integer> < java.lang.Integer > java.util.List<java.lang.Integer> ( Numbers org.springframework.integration.router.config.Numbers ) { return org.springframework.integration.router.config.Numbers . getValues ( ) ; }  <METHOD_END>

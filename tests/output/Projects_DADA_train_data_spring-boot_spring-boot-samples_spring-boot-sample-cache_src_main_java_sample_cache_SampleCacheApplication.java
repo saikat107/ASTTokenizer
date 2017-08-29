@@ -1,0 +1,1 @@
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) { new SpringApplicationBuilder ( ) . sources ( sample.cache.SampleCacheApplication .class ) . profiles ( STRING ) . run ( java.lang.String[] ) ; }  <METHOD_END>

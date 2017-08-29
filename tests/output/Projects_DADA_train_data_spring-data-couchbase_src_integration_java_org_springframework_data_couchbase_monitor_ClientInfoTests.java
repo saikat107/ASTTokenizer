@@ -1,0 +1,2 @@
+<METHOD_START> @ Before public void void ( ) java.lang.Exception { org.springframework.data.couchbase.monitor.ClientInfo = new ClientInfo ( org.springframework.data.couchbase.monitor.Bucket ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { java.lang.String java.lang.String = org.springframework.data.couchbase.monitor.ClientInfo . getHostNames ( ) ; assertThat ( java.lang.String , not ( isEmptyString ( ) ) ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.Object java.lang.Object ) { Assert . notNull ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; this . java.lang.Object = java.lang.Object ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( Info . Info Info.Builder ) { if ( this . java.lang.Object != null ) { Info.Builder . withDetail ( this . java.lang.String , this . java.lang.Object ) ; } }  <METHOD_END>

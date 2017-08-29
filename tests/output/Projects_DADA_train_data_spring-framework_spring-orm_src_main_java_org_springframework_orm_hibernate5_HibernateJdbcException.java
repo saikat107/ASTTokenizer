@@ -1,0 +1,3 @@
+<METHOD_START> public void ( JDBCException org.springframework.orm.hibernate5.JDBCException ) { super( STRING + org.springframework.orm.hibernate5.JDBCException . getSQL ( ) + STRING + org.springframework.orm.hibernate5.JDBCException . getSQLState ( ) + STRING + org.springframework.orm.hibernate5.JDBCException . getErrorCode ( ) + STRING + org.springframework.orm.hibernate5.JDBCException . getMessage ( ) , org.springframework.orm.hibernate5.JDBCException ); }  <METHOD_END>
+<METHOD_START> public java.sql.SQLException java.sql.SQLException ( ) { return ( ( JDBCException ) getCause ( ) ) . getSQLException ( ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return ( ( JDBCException ) getCause ( ) ) . getSQL ( ) ; }  <METHOD_END>

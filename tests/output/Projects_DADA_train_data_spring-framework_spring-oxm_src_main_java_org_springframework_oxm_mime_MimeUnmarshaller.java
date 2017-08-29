@@ -1,0 +1,1 @@
+<METHOD_START> java.lang.Object java.lang.Object ( javax.xml.transform.Source javax.xml.transform.Source , MimeContainer org.springframework.oxm.mime.MimeContainer ) throws org.springframework.oxm.mime.XmlMappingException , java.io.IOException ;  <METHOD_END>

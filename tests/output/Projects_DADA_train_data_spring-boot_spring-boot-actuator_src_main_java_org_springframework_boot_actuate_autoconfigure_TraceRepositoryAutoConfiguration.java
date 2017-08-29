@@ -1,0 +1,1 @@
+<METHOD_START> @ ConditionalOnMissingBean ( TraceRepository .class ) @ Bean public org.springframework.boot.actuate.autoconfigure.InMemoryTraceRepository org.springframework.boot.actuate.autoconfigure.InMemoryTraceRepository ( ) { return new InMemoryTraceRepository ( ) ; }  <METHOD_END>

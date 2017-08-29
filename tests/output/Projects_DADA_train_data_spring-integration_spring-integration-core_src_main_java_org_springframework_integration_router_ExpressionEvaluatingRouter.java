@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this( EXPRESSION_PARSER . parseExpression ( java.lang.String ) ); }  <METHOD_END>
+<METHOD_START> public void ( Expression org.springframework.integration.router.Expression ) { super( new ExpressionEvaluatingMessageProcessor < java.lang.Object > ( org.springframework.integration.router.Expression ) ); setPrimaryExpression ( org.springframework.integration.router.Expression ) ; }  <METHOD_END>

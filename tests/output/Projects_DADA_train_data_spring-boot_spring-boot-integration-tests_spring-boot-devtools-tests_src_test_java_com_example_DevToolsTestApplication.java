@@ -1,0 +1,1 @@
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) { new SpringApplicationBuilder ( com.example.DevToolsTestApplication .class ) . listeners ( new EmbeddedServerPortFileWriter ( STRING ) ) . run ( java.lang.String[] ) ; }  <METHOD_END>

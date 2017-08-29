@@ -1,0 +1,16 @@
+<METHOD_START> private int int ( java.lang.String java.lang.String ) { return jdbcTemplate . update ( STRING , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> private int int ( java.lang.String java.lang.String ) { return jdbcTemplate . update ( STRING , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> private void void ( int int , java.lang.String java.lang.String ) { assertEquals ( countRowsInTable ( STRING ) , int , STRING + java.lang.String + STRING ) ; }  <METHOD_END>
+<METHOD_START> private void void ( final java.lang.String java.lang.String ) { assertEquals ( int ( java.lang.String ) , NUMBER , STRING + java.lang.String + STRING ) ; }  <METHOD_END>
+<METHOD_START> @ BeforeClass void void ( ) { int = NUMBER ; int = NUMBER ; int = NUMBER ; int = NUMBER ; }  <METHOD_END>
+<METHOD_START> @ AfterClass void void ( ) { assertEquals ( int , int , STRING ) ; assertEquals ( int , int , STRING ) ; assertEquals ( int , int , STRING ) ; assertEquals ( int , int , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Transactional ( propagation = Propagation . NOT_SUPPORTED ) void void ( ) { assertNotNull ( org.springframework.test.context.testng.Employee , STRING ) ; assertEquals ( org.springframework.test.context.testng.Employee . getName ( ) , STRING ) ; assertNotNull ( org.springframework.test.context.testng.Pet , STRING ) ; assertEquals ( org.springframework.test.context.testng.Pet . getName ( ) , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ BeforeTransaction void void ( ) { void ( NUMBER , STRING ) ; void ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ BeforeMethod void void ( ) java.lang.Exception { int ++ ; if ( inTransaction ( ) ) { int ++ ; } void ( ( inTransaction ( ) ? NUMBER : NUMBER ) , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test void void ( ) { assertInTransaction ( true ) ; void ( java.lang.String ) ; void ( java.lang.String ) ; void ( NUMBER , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ AfterMethod void void ( ) java.lang.Exception { int ++ ; if ( inTransaction ( ) ) { int ++ ; } void ( ( inTransaction ( ) ? NUMBER : NUMBER ) , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ AfterTransaction void void ( ) { assertEquals ( int ( java.lang.String ) , NUMBER , STRING ) ; void ( NUMBER , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Bean org.springframework.test.context.testng.Employee org.springframework.test.context.testng.Employee ( ) { Employee org.springframework.test.context.testng.Employee = new Employee ( ) ; org.springframework.test.context.testng.Employee . setName ( STRING ) ; org.springframework.test.context.testng.Employee . setAge ( NUMBER ) ; org.springframework.test.context.testng.Employee . setCompany ( STRING ) ; return org.springframework.test.context.testng.Employee ; }  <METHOD_END>
+<METHOD_START> @ Bean org.springframework.test.context.testng.Pet org.springframework.test.context.testng.Pet ( ) { return new Pet ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Bean org.springframework.test.context.testng.PlatformTransactionManager org.springframework.test.context.testng.PlatformTransactionManager ( ) { return new DataSourceTransactionManager ( javax.sql.DataSource ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Bean javax.sql.DataSource javax.sql.DataSource ( ) { return new EmbeddedDatabaseBuilder ( ) . addScript ( STRING ) . addScript ( STRING ) . build ( ) ; }  <METHOD_END>

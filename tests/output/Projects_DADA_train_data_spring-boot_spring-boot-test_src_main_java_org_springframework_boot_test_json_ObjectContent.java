@@ -1,0 +1,4 @@
+<METHOD_START> public void ( ResolvableType org.springframework.boot.test.json.ResolvableType , T T ) { Assert . notNull ( T , STRING ) ; this . org.springframework.boot.test.json.ResolvableType = org.springframework.boot.test.json.ResolvableType ; this . T = T ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.boot.test.json.ObjectContentAssert<T> < T > org.springframework.boot.test.json.ObjectContentAssert<T> ( ) { return new ObjectContentAssert <> ( this . T ) ; }  <METHOD_END>
+<METHOD_START> public T T ( ) { return this . T ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING + this . T + ( this . org.springframework.boot.test.json.ResolvableType == null ? STRING : STRING + this . org.springframework.boot.test.json.ResolvableType ) ; }  <METHOD_END>

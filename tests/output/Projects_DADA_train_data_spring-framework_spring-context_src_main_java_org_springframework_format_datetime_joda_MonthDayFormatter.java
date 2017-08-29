@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public org.springframework.format.datetime.joda.MonthDay org.springframework.format.datetime.joda.MonthDay ( java.lang.String java.lang.String , java.util.Locale java.util.Locale ) throws java.text.ParseException { return MonthDay . parse ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( MonthDay org.springframework.format.datetime.joda.MonthDay , java.util.Locale java.util.Locale ) { return org.springframework.format.datetime.joda.MonthDay . toString ( ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , Point org.springframework.data.solr.core.query.Point ) { this( null , java.lang.String , org.springframework.data.solr.core.query.Point ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String , Point org.springframework.data.solr.core.query.Point ) { super( java.lang.String , GeoDistanceFunction . distanceFrom ( java.lang.String ) . to ( org.springframework.data.solr.core.query.Point ) ); }  <METHOD_END>

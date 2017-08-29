@@ -1,0 +1,2 @@
+<METHOD_START> @ GetMapping ( STRING ) public java.security.Principal java.security.Principal ( java.security.Principal java.security.Principal ) { return java.security.Principal ; }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) { SpringApplication . run ( sample.secure.oauth2.SampleSecureOAuth2Application .class , java.lang.String[] ) ; }  <METHOD_END>

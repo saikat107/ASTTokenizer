@@ -1,0 +1,2 @@
+<METHOD_START> public void ( Codec org.springframework.integration.transformer.Codec ) { Assert . notNull ( org.springframework.integration.transformer.Codec , STRING ) ; this . org.springframework.integration.transformer.Codec = org.springframework.integration.transformer.Codec ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected byte [] byte[] ( T T ) throws java.lang.Exception { return this . org.springframework.integration.transformer.Codec . encode ( T ) ; }  <METHOD_END>

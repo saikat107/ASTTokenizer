@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { assertNotNull ( STRING , this . org.springframework.test.context.junit4.annotation.Employee ) ; assertEquals ( STRING , this . org.springframework.test.context.junit4.annotation.Employee . getName ( ) ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> void ( ) { org.springframework.data.gemfire.repository.query.GemfireQueryMethod = null ; }  <METHOD_END>
+<METHOD_START> public void ( GemfireQueryMethod org.springframework.data.gemfire.repository.query.GemfireQueryMethod ) { Assert . notNull ( org.springframework.data.gemfire.repository.query.GemfireQueryMethod ) ; this . org.springframework.data.gemfire.repository.query.GemfireQueryMethod = org.springframework.data.gemfire.repository.query.GemfireQueryMethod ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.repository.query.QueryMethod org.springframework.data.gemfire.repository.query.QueryMethod ( ) { return this . org.springframework.data.gemfire.repository.query.GemfireQueryMethod ; }  <METHOD_END>

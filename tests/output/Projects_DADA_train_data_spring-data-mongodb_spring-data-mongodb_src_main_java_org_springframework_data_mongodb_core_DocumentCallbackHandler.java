@@ -1,0 +1,1 @@
+<METHOD_START> void void ( Document org.springframework.data.mongodb.core.Document ) throws org.springframework.data.mongodb.core.MongoException , org.springframework.data.mongodb.core.DataAccessException ;  <METHOD_END>

@@ -1,0 +1,11 @@
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> public void void ( java.util.concurrent.ForkJoinPool . java.util.concurrent.ForkJoinPool.ForkJoinWorkerThreadFactory java.util.concurrent.ForkJoinPool.ForkJoinWorkerThreadFactory ) { this . java.util.concurrent.ForkJoinPool.ForkJoinWorkerThreadFactory = java.util.concurrent.ForkJoinPool.ForkJoinWorkerThreadFactory ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Thread . java.lang.Thread.UncaughtExceptionHandler java.lang.Thread.UncaughtExceptionHandler ) { this . java.lang.Thread.UncaughtExceptionHandler = java.lang.Thread.UncaughtExceptionHandler ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( int int ) { this . int = int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { this . java.util.concurrent.ForkJoinPool = ( this . boolean ? java.util.concurrent.ForkJoinPool . java.util.concurrent.ForkJoinPool ( ) : new java.util.concurrent.ForkJoinPool ( this . int , this . java.util.concurrent.ForkJoinPool.ForkJoinWorkerThreadFactory , this . java.lang.Thread.UncaughtExceptionHandler , this . boolean ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.util.concurrent.ForkJoinPool java.util.concurrent.ForkJoinPool ( ) { return this . java.util.concurrent.ForkJoinPool ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return java.util.concurrent.ForkJoinPool .class ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return true ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { this . java.util.concurrent.ForkJoinPool . void ( ) ; if ( this . int > NUMBER ) { try { this . java.util.concurrent.ForkJoinPool . boolean ( this . int , java.util.concurrent.TimeUnit . java.util.concurrent.TimeUnit ) ; } catch ( java.lang.InterruptedException java.lang.InterruptedException ) { java.lang.Thread . java.lang.Thread ( ) . void ( ) ; } } }  <METHOD_END>

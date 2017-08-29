@@ -1,0 +1,4 @@
+<METHOD_START> @ Before public void void ( ) { this . org.springframework.boot.test.context.MockMvc = MockMvcBuilders . webAppContextSetup ( this . org.springframework.boot.test.context.WebApplicationContext ) . build ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.boot.test.context.MockMvc . perform ( get ( STRING ) ) . andExpect ( status ( ) . isOk ( ) ) . andExpect ( content ( ) . string ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertThat ( this . org.springframework.boot.test.context.WebApplicationContext ) . isSameAs ( WebApplicationContextUtils . getWebApplicationContext ( this . org.springframework.boot.test.context.ServletContext ) ) ; }  <METHOD_END>
+<METHOD_START> @ RequestMapping ( STRING ) public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>

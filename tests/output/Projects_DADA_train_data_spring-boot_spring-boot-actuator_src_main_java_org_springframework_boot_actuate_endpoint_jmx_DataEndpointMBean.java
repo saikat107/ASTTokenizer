@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , Endpoint < ? > org.springframework.boot.actuate.endpoint.jmx.Endpoint<?> , ObjectMapper org.springframework.boot.actuate.endpoint.jmx.ObjectMapper ) { super( java.lang.String , org.springframework.boot.actuate.endpoint.jmx.Endpoint<> , org.springframework.boot.actuate.endpoint.jmx.ObjectMapper ); }  <METHOD_END>
+<METHOD_START> @ ManagedAttribute ( description = STRING ) public java.lang.Object java.lang.Object ( ) { return convert ( getEndpoint ( ) . invoke ( ) ) ; }  <METHOD_END>

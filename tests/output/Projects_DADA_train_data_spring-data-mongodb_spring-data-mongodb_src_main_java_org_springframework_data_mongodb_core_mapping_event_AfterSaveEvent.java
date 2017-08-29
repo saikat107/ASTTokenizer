@@ -1,0 +1,1 @@
+<METHOD_START> public void ( E E , Document org.springframework.data.mongodb.core.mapping.event.Document , java.lang.String java.lang.String ) { super( E , org.springframework.data.mongodb.core.mapping.event.Document , java.lang.String ); }  <METHOD_END>

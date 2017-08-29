@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.util.Collection<org.springframework.boot.cli.Command> < Command > java.util.Collection<org.springframework.boot.cli.Command> ( ) { return java.util.List<org.springframework.boot.cli.Command> ; }  <METHOD_END>

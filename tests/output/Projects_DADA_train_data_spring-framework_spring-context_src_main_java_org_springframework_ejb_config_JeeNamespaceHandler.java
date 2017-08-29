@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public void void ( ) { registerBeanDefinitionParser ( STRING , new JndiLookupBeanDefinitionParser ( ) ) ; registerBeanDefinitionParser ( STRING , new LocalStatelessSessionBeanDefinitionParser ( ) ) ; registerBeanDefinitionParser ( STRING , new RemoteStatelessSessionBeanDefinitionParser ( ) ) ; }  <METHOD_END>

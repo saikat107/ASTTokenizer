@@ -1,0 +1,12 @@
+<METHOD_START> protected void ( ) { this . org.springframework.boot.actuate.metrics.opentsdb.OpenTsdbName = new OpenTsdbName ( ) ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.Number java.lang.Number ) { this( java.lang.String , java.lang.Number , java.lang.System . long ( ) ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.Number java.lang.Number , java.lang.Long java.lang.Long ) { this( new OpenTsdbName ( java.lang.String ) , java.lang.Number , java.lang.Long ); }  <METHOD_END>
+<METHOD_START> public void ( OpenTsdbName org.springframework.boot.actuate.metrics.opentsdb.OpenTsdbName , java.lang.Number java.lang.Number , java.lang.Long java.lang.Long ) { this . org.springframework.boot.actuate.metrics.opentsdb.OpenTsdbName = org.springframework.boot.actuate.metrics.opentsdb.OpenTsdbName ; this . java.lang.Number = java.lang.Number ; this . java.lang.Long = java.lang.Long ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . org.springframework.boot.actuate.metrics.opentsdb.OpenTsdbName . getMetric ( ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . org.springframework.boot.actuate.metrics.opentsdb.OpenTsdbName . setMetric ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.Long java.lang.Long ( ) { return this . java.lang.Long ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Long java.lang.Long ) { this . java.lang.Long = java.lang.Long ; }  <METHOD_END>
+<METHOD_START> public java.lang.Number java.lang.Number ( ) { return this . java.lang.Number ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Number java.lang.Number ) { this . java.lang.Number = java.lang.Number ; }  <METHOD_END>
+<METHOD_START> public java.util.Map<java.lang.String,java.lang.String> < java.lang.String , java.lang.String > java.util.Map<java.lang.String,java.lang.String> ( ) { return this . org.springframework.boot.actuate.metrics.opentsdb.OpenTsdbName . getTags ( ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.util.Map<java.lang.String,java.lang.String> < java.lang.String , java.lang.String > java.util.Map<java.lang.String,java.lang.String> ) { this . org.springframework.boot.actuate.metrics.opentsdb.OpenTsdbName . setTags ( java.util.Map<java.lang.String,java.lang.String> ) ; }  <METHOD_END>

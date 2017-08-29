@@ -1,0 +1,9 @@
+<METHOD_START> @ java.lang.Override protected java.util.List<java.lang.String> < java.lang.String > java.util.List<java.lang.String> ( ) { return java.util.Arrays . java.util.List<java.lang.String> ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.couchbase.repository.extending.method.IndexManager org.springframework.data.couchbase.repository.extending.method.IndexManager ( ) { return new IndexManager ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.couchbase.repository.extending.method.Consistency org.springframework.data.couchbase.repository.extending.method.Consistency ( ) { return Consistency . STRONGLY_CONSISTENT ; }  <METHOD_END>
+<METHOD_START> @ Before public void void ( ) { try { org.springframework.data.couchbase.repository.extending.method.MyRepository . delete ( java.lang.String ) ; } catch ( java.lang.Exception java.lang.Exception ) { } org.springframework.data.couchbase.repository.extending.method.MyRepository . save ( new MyItem ( java.lang.String , STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ After public void void ( ) { org.springframework.data.couchbase.repository.extending.method.MyRepository . delete ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { long long = org.springframework.data.couchbase.repository.extending.method.MyRepository . customCountItems ( ) ; assertEquals ( - NUMBER , long ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { long long = org.springframework.data.couchbase.repository.extending.method.MyRepository . count ( ) ; assertEquals ( NUMBER , long ) ; }  <METHOD_END>

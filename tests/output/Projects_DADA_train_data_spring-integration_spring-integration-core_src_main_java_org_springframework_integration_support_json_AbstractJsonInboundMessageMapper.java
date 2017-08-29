@@ -1,0 +1,5 @@
+<METHOD_START> public void ( java.lang.reflect.Type java.lang.reflect.Type ) { Assert . notNull ( java.lang.reflect.Type , STRING ) ; this . java.lang.reflect.Type = java.lang.reflect.Type ; }  <METHOD_END>
+<METHOD_START> public void void ( java.util.Map<java.lang.String,java.lang.Class<?>> < java.lang.String , java.lang.Class<?> < ? > > java.util.Map<java.lang.String,java.lang.Class<?>> ) { this . java.util.Map<java.lang.String,java.lang.Class<?>> . void ( java.util.Map<java.lang.String,java.lang.Class<?>> ) ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> protected abstract java.lang.Object java.lang.Object ( P P , java.lang.String java.lang.String ) throws java.lang.Exception ;  <METHOD_END>
+<METHOD_START> protected abstract java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> ( P P , java.lang.String java.lang.String ) throws java.lang.Exception ;  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean public javax.sql.DataSource javax.sql.DataSource ( ) { return new SpringContextBootstrappingInitializerIntegrationTest . SpringContextBootstrappingInitializerIntegrationTest ( ) ; }  <METHOD_END>

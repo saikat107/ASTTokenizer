@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . org.springframework.boot.test.context.bootstrap.SpringBootTestContextBootstrapperExampleConfig ) . isNotNull ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . org.springframework.boot.test.context.bootstrap.ApplicationContext . getId ( ) ) . startsWith ( STRING ) ; }  <METHOD_END>

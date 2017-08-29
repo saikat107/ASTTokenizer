@@ -1,0 +1,10 @@
+<METHOD_START> @ java.lang.Override public java.util.Date java.util.Date ( java.time.LocalDate java.time.LocalDate ) { return LocalDateToDateConverter . INSTANCE . convert ( java.time.LocalDate ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.time.LocalDate java.time.LocalDate ( java.util.Date java.util.Date ) { return DateToLocalDateConverter . INSTANCE . convert ( java.util.Date ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.util.Date java.util.Date ( java.time.LocalTime java.time.LocalTime ) { return LocalTimeToDateConverter . INSTANCE . convert ( java.time.LocalTime ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.time.LocalTime java.time.LocalTime ( java.util.Date java.util.Date ) { return DateToLocalTimeConverter . INSTANCE . convert ( java.util.Date ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.util.Date java.util.Date ( java.time.LocalDateTime java.time.LocalDateTime ) { return LocalDateTimeToDateConverter . INSTANCE . convert ( java.time.LocalDateTime ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.time.LocalDateTime java.time.LocalDateTime ( java.util.Date java.util.Date ) { return DateToLocalDateTimeConverter . INSTANCE . convert ( java.util.Date ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.util.Date java.util.Date ( java.time.Instant java.time.Instant ) { return InstantToDateConverter . INSTANCE . convert ( java.time.Instant ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.time.Instant java.time.Instant ( java.util.Date java.util.Date ) { return DateToInstantConverter . INSTANCE . convert ( java.util.Date ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( java.time.ZoneId java.time.ZoneId ) { return ZoneIdToStringConverter . INSTANCE . convert ( java.time.ZoneId ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.time.ZoneId java.time.ZoneId ( java.lang.String java.lang.String ) { return StringToZoneIdConverter . INSTANCE . convert ( java.lang.String ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> public static void void ( java.lang.String java.lang.String , java.lang.instrument.Instrumentation java.lang.instrument.Instrumentation ) { java.lang.instrument.Instrumentation = java.lang.instrument.Instrumentation ; }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String java.lang.String , java.lang.instrument.Instrumentation java.lang.instrument.Instrumentation ) { java.lang.instrument.Instrumentation = java.lang.instrument.Instrumentation ; }  <METHOD_END>
+<METHOD_START> public static java.lang.instrument.Instrumentation java.lang.instrument.Instrumentation ( ) { return java.lang.instrument.Instrumentation ; }  <METHOD_END>

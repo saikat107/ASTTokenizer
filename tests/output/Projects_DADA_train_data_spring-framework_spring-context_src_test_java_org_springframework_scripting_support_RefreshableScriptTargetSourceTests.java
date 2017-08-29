@@ -1,0 +1,1 @@
+<METHOD_START> @ Test ( expected = java.lang.IllegalArgumentException .class ) public void void ( ) java.lang.Exception { new RefreshableScriptTargetSource ( mock ( BeanFactory .class ) , STRING , null , null , false ) ; }  <METHOD_END>

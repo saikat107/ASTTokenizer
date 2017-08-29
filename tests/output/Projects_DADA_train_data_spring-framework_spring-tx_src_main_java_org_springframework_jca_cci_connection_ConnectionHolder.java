@@ -1,0 +1,2 @@
+<METHOD_START> public void ( Connection org.springframework.jca.cci.connection.Connection ) { this . org.springframework.jca.cci.connection.Connection = org.springframework.jca.cci.connection.Connection ; }  <METHOD_END>
+<METHOD_START> public org.springframework.jca.cci.connection.Connection org.springframework.jca.cci.connection.Connection ( ) { return this . org.springframework.jca.cci.connection.Connection ; }  <METHOD_END>

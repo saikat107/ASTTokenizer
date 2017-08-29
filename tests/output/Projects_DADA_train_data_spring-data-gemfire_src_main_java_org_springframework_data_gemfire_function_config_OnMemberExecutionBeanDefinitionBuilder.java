@@ -1,0 +1,2 @@
+<METHOD_START> void ( FunctionExecutionConfiguration org.springframework.data.gemfire.function.config.FunctionExecutionConfiguration ) { super( org.springframework.data.gemfire.function.config.FunctionExecutionConfiguration ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return GemfireOnMemberFunctionTemplate .class ; }  <METHOD_END>

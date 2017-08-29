@@ -1,0 +1,2 @@
+<METHOD_START> protected void ( int int , java.lang.String java.lang.String , java.lang.Object java.lang.Object , java.lang.String java.lang.String , Stats org.springframework.integration.support.management.graph.Stats ) { super( int , java.lang.String , java.lang.Object , org.springframework.integration.support.management.graph.Stats ); this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>

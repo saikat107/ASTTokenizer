@@ -1,0 +1,2 @@
+<METHOD_START> protected void ( OperatorNot org.springframework.data.mongodb.core.spel.OperatorNot , ExpressionState org.springframework.data.mongodb.core.spel.ExpressionState ) { super( org.springframework.data.mongodb.core.spel.OperatorNot , org.springframework.data.mongodb.core.spel.ExpressionState ); this . org.springframework.data.mongodb.core.spel.OperatorNot = org.springframework.data.mongodb.core.spel.OperatorNot ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>

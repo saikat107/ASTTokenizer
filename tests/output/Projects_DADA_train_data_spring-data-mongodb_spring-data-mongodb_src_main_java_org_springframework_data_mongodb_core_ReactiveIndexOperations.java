@@ -1,0 +1,4 @@
+<METHOD_START> org.springframework.data.mongodb.core.Mono<java.lang.String> < java.lang.String > org.springframework.data.mongodb.core.Mono<java.lang.String> ( IndexDefinition org.springframework.data.mongodb.core.IndexDefinition );  <METHOD_END>
+<METHOD_START> org.springframework.data.mongodb.core.Mono<java.lang.Void> < java.lang.Void > org.springframework.data.mongodb.core.Mono<java.lang.Void> ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> org.springframework.data.mongodb.core.Mono<java.lang.Void> < java.lang.Void > org.springframework.data.mongodb.core.Mono<java.lang.Void> ( )  <METHOD_END>
+<METHOD_START> org.springframework.data.mongodb.core.Flux<org.springframework.data.mongodb.core.IndexInfo> < IndexInfo > org.springframework.data.mongodb.core.Flux<org.springframework.data.mongodb.core.IndexInfo> ( )  <METHOD_END>

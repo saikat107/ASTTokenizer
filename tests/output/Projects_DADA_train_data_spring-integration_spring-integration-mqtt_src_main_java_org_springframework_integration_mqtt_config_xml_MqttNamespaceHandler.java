@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public void void ( ) { this . registerBeanDefinitionParser ( STRING , new MqttMessageDrivenChannelAdapterParser ( ) ) ; this . registerBeanDefinitionParser ( STRING , new MqttOutboundChannelAdapterParser ( ) ) ; }  <METHOD_END>

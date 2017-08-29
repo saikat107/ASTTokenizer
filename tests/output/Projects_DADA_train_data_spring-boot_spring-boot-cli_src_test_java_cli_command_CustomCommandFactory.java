@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.util.Collection<cli.command.Command> < Command > java.util.Collection<cli.command.Command> ( ) { return java.util.Collections .< Command > java.util.Set<cli.command.Command> ( new CustomCommand ( ) ) ; }  <METHOD_END>

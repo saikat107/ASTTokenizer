@@ -1,0 +1,3 @@
+<METHOD_START> @ Bean @ Conditional ( org.springframework.boot.autoconfigure.hazelcast.HazelcastJpaDependencyAutoConfiguration.OnHazelcastAndJpaCondition .class ) public static org.springframework.boot.autoconfigure.hazelcast.HazelcastJpaDependencyAutoConfiguration.HazelcastInstanceJpaDependencyPostProcessor org.springframework.boot.autoconfigure.hazelcast.HazelcastJpaDependencyAutoConfiguration.HazelcastInstanceJpaDependencyPostProcessor ( ) { return new org.springframework.boot.autoconfigure.hazelcast.HazelcastJpaDependencyAutoConfiguration.HazelcastInstanceJpaDependencyPostProcessor ( ) ; }  <METHOD_END>
+<METHOD_START> void ( ) { super( STRING ); }  <METHOD_END>
+<METHOD_START> void ( ) { super( ConfigurationPhase . REGISTER_BEAN ); }  <METHOD_END>

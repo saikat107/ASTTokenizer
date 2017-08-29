@@ -1,0 +1,8 @@
+<METHOD_START> public void ( LsEntry org.springframework.integration.sftp.session.LsEntry ) { Assert . notNull ( org.springframework.integration.sftp.session.LsEntry , STRING ) ; this . org.springframework.integration.sftp.session.LsEntry = org.springframework.integration.sftp.session.LsEntry ; this . org.springframework.integration.sftp.session.SftpATTRS = org.springframework.integration.sftp.session.LsEntry . getAttrs ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return this . org.springframework.integration.sftp.session.SftpATTRS . isDir ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return this . org.springframework.integration.sftp.session.SftpATTRS . isLink ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public long long ( ) { return this . org.springframework.integration.sftp.session.SftpATTRS . getSize ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public long long ( ) { return ( ( long ) this . org.springframework.integration.sftp.session.SftpATTRS . getMTime ( ) ) * NUMBER ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . org.springframework.integration.sftp.session.LsEntry . getFilename ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . org.springframework.integration.sftp.session.SftpATTRS . getPermissionsString ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.integration.sftp.session.LsEntry org.springframework.integration.sftp.session.LsEntry ( ) { return this . org.springframework.integration.sftp.session.LsEntry ; }  <METHOD_END>

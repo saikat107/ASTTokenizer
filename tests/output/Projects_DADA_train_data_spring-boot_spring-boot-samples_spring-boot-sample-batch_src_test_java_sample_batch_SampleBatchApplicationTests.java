@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( SpringApplication . exit ( SpringApplication . run ( SampleBatchApplication .class ) ) ) . isEqualTo ( NUMBER ) ; java.lang.String java.lang.String = this . sample.batch.OutputCapture . toString ( ) ; assertThat ( java.lang.String ) . contains ( STRING ) ; }  <METHOD_END>

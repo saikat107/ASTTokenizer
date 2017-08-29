@@ -1,0 +1,12 @@
+<METHOD_START> @ Test public void void ( ) { assertParameterNames ( getMethod ( STRING ) , STRING , new java.lang.String [] { STRING } ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertParameterNames ( getMethod ( STRING ) , STRING , new java.lang.String [] { STRING } ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertParameterNames ( getMethod ( STRING ) , STRING , new java.lang.String [] { STRING } ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertParameterNames ( getMethod ( STRING ) , STRING , new java.lang.String [] { STRING } ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertParameterNames ( getMethod ( STRING ) , STRING , new java.lang.String [] { STRING } ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertParameterNames ( getMethod ( STRING ) , STRING , new java.lang.String [] { STRING } ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertException ( getMethod ( STRING ) , STRING , AmbiguousBindingException .class , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertException ( getMethod ( STRING ) , STRING , java.lang.IllegalArgumentException .class , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertParameterNames ( getMethod ( STRING ) , STRING , null , STRING , new java.lang.String [] { STRING , STRING , STRING , STRING } ) ; }  <METHOD_END>
+<METHOD_START> public void void ( org.springframework.aop.aspectj.TigerAspectJAdviceParameterNameDiscovererTests.MyAnnotation org.springframework.aop.aspectj.TigerAspectJAdviceParameterNameDiscovererTests.MyAnnotation ) {}  <METHOD_END>
+<METHOD_START> public void void ( org.springframework.aop.aspectj.TigerAspectJAdviceParameterNameDiscovererTests.MyAnnotation org.springframework.aop.aspectj.TigerAspectJAdviceParameterNameDiscovererTests.MyAnnotation , org.springframework.aop.aspectj.TigerAspectJAdviceParameterNameDiscovererTests.MyAnnotation org.springframework.aop.aspectj.TigerAspectJAdviceParameterNameDiscovererTests.MyAnnotation ) {}  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Throwable java.lang.Throwable , java.lang.Object java.lang.Object , int int , org.springframework.aop.aspectj.TigerAspectJAdviceParameterNameDiscovererTests.MyAnnotation org.springframework.aop.aspectj.TigerAspectJAdviceParameterNameDiscovererTests.MyAnnotation ) {}  <METHOD_END>

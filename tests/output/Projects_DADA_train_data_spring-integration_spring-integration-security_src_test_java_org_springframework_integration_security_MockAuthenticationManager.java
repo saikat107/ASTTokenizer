@@ -1,0 +1,2 @@
+<METHOD_START> public void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> public org.springframework.integration.security.Authentication org.springframework.integration.security.Authentication ( Authentication org.springframework.integration.security.Authentication ) throws org.springframework.integration.security.AuthenticationException { if ( this . boolean ) { org.springframework.integration.security.Authentication . setAuthenticated ( true ) ; } return org.springframework.integration.security.Authentication ; }  <METHOD_END>

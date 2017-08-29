@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public void void ( ) { registerBeanDefinitionParser ( STRING , new Jaxb2MarshallerBeanDefinitionParser ( ) ) ; registerBeanDefinitionParser ( STRING , new JibxMarshallerBeanDefinitionParser ( ) ) ; registerBeanDefinitionParser ( STRING , new CastorMarshallerBeanDefinitionParser ( ) ) ; }  <METHOD_END>

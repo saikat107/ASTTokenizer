@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.util.Currency java.util.Currency ( java.lang.String java.lang.String ) { return java.util.Currency . java.util.Currency ( java.lang.String ) ; }  <METHOD_END>

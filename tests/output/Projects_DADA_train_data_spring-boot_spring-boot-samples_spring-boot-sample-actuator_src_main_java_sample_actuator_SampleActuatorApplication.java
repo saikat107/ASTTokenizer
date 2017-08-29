@@ -1,0 +1,3 @@
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) throws java.lang.Exception { SpringApplication . run ( sample.actuator.SampleActuatorApplication .class , java.lang.String[] ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public sample.actuator.HealthIndicator sample.actuator.HealthIndicator ( ) { return new HealthIndicator ( ) { @ java.lang.Override public sample.actuator.Health sample.actuator.Health ( ) { return Health . up ( ) . withDetail ( STRING , STRING ) . build ( ) ; } } ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public sample.actuator.Health sample.actuator.Health ( ) { return Health . up ( ) . withDetail ( STRING , STRING ) . build ( ) ; }  <METHOD_END>

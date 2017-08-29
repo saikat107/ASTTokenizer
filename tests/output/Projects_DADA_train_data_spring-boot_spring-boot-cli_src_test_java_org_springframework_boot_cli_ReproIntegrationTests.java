@@ -1,0 +1,4 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.boot.cli.CliTester . run ( STRING ) ; assertThat ( this . org.springframework.boot.cli.CliTester . getHttpOutput ( ) ) . contains ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . org.springframework.boot.cli.CliTester . run ( STRING ) ) . contains ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . org.springframework.boot.cli.CliTester . run ( STRING ) ) . contains ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.boot.cli.ExpectedException . expect ( java.lang.IllegalStateException .class ) ; this . org.springframework.boot.cli.ExpectedException . expectMessage ( STRING ) ; this . org.springframework.boot.cli.CliTester . jar ( STRING , STRING ) ; }  <METHOD_END>

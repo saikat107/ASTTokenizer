@@ -1,0 +1,2 @@
+<METHOD_START> void ( HttpRequestHandlingMessagingGateway org.springframework.integration.http.dsl.HttpRequestHandlingMessagingGateway , java.lang.String ... java.lang.String[] ) { super( org.springframework.integration.http.dsl.HttpRequestHandlingMessagingGateway , java.lang.String[] ); }  <METHOD_END>
+<METHOD_START> public org.springframework.integration.http.dsl.HttpRequestHandlerEndpointSpec org.springframework.integration.http.dsl.HttpRequestHandlerEndpointSpec ( boolean boolean ) { this . target . setConvertExceptions ( boolean ) ; return this ; }  <METHOD_END>

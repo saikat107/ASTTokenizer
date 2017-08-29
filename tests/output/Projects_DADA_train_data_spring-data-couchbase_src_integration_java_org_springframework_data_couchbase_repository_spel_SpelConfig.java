@@ -1,0 +1,3 @@
+<METHOD_START> @ Bean public org.springframework.data.couchbase.repository.spel.EvaluationContextExtension org.springframework.data.couchbase.repository.spel.EvaluationContextExtension ( ) { return new org.springframework.data.couchbase.repository.spel.SpelConfig.CustomSpelExtension ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.util.Map<java.lang.String,java.lang.Object> < java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> ( ) { return java.util.Collections .< java.lang.String , java.lang.Object > java.util.Map<java.lang.String,java.lang.Object> ( STRING , STRING ) ; }  <METHOD_END>

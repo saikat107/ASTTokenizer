@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( java.util.logging.LogRecord java.util.logging.LogRecord ) { return java.lang.String . java.lang.String ( STRING , java.util.logging.LogRecord . java.lang.String ( ) , java.util.logging.LogRecord . java.lang.String ( ) ) ; }  <METHOD_END>

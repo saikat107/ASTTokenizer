@@ -1,0 +1,4 @@
+<METHOD_START> public void ( T T , Document org.springframework.data.mongodb.core.mapping.event.Document , java.lang.String java.lang.String ) { super( T ); this . org.springframework.data.mongodb.core.mapping.event.Document = org.springframework.data.mongodb.core.mapping.event.Document ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.mongodb.core.mapping.event.Document org.springframework.data.mongodb.core.mapping.event.Document ( ) { return org.springframework.data.mongodb.core.mapping.event.Document ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( { STRING } ) @ java.lang.Override public T T ( ) { return ( T ) super. getSource ( ) ; }  <METHOD_END>

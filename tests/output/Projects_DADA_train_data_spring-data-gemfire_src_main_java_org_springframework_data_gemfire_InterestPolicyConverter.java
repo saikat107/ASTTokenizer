@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.InterestPolicy org.springframework.data.gemfire.InterestPolicy ( final java.lang.String java.lang.String ) { return assertConverted ( java.lang.String , InterestPolicyType . getInterestPolicy ( InterestPolicyType . valueOfIgnoreCase ( java.lang.String ) ) , InterestPolicy .class ) ; }  <METHOD_END>

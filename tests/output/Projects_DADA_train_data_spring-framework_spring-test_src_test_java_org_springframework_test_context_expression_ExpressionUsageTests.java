@@ -1,0 +1,4 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertEquals ( STRING , java.util.Properties . java.lang.String ( STRING ) ) ; assertEquals ( STRING , java.util.Properties . java.lang.String ( STRING ) ) ; assertEquals ( STRING , java.util.Properties . java.lang.String ( STRING ) ) ; assertEquals ( STRING , java.util.Properties . java.lang.String ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertEquals ( STRING , org.springframework.test.context.expression.ExpressionUsageTests.Foo . java.lang.String ( ) ) ; assertEquals ( STRING , org.springframework.test.context.expression.ExpressionUsageTests.Foo . java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>

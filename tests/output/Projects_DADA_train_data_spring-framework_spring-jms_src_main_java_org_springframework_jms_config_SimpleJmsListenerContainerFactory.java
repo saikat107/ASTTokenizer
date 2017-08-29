@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected org.springframework.jms.config.SimpleMessageListenerContainer org.springframework.jms.config.SimpleMessageListenerContainer ( ) { return new SimpleMessageListenerContainer ( ) ; }  <METHOD_END>

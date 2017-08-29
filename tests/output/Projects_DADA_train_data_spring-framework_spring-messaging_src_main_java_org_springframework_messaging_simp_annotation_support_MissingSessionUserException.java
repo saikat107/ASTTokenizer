@@ -1,0 +1,1 @@
+<METHOD_START> public void ( Message < ? > org.springframework.messaging.simp.annotation.support.Message<?> ) { super( org.springframework.messaging.simp.annotation.support.Message<> , STRING ); }  <METHOD_END>

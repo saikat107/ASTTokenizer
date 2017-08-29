@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( AuditApplicationEvent org.springframework.boot.actuate.audit.listener.AuditApplicationEvent ) { void ( org.springframework.boot.actuate.audit.listener.AuditApplicationEvent . getAuditEvent ( ) ) ; }  <METHOD_END>
+<METHOD_START> protected abstract void void ( AuditEvent org.springframework.boot.actuate.audit.listener.AuditEvent );  <METHOD_END>

@@ -1,0 +1,6 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { this( java.lang.String , null , null ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.Object java.lang.Object ) { this( java.lang.String , null , java.lang.Object ); }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , Resource [] org.springframework.beans.factory.parsing.Resource[] , java.lang.Object java.lang.Object ) { Assert . notNull ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; this . org.springframework.beans.factory.parsing.Resource[] = org.springframework.beans.factory.parsing.Resource[] ; this . java.lang.Object = java.lang.Object ; }  <METHOD_END>
+<METHOD_START> public final java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public final org.springframework.beans.factory.parsing.Resource [] org.springframework.beans.factory.parsing.Resource[] ( ) { return this . org.springframework.beans.factory.parsing.Resource[] ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public final java.lang.Object java.lang.Object ( ) { return this . java.lang.Object ; }  <METHOD_END>

@@ -1,0 +1,6 @@
+<METHOD_START> public void ( State < S , E > org.springframework.statemachine.state.State<S,E> ) { this . org.springframework.statemachine.state.State<S,E> = org.springframework.statemachine.state.State<S,E> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override final public org.springframework.statemachine.state.PseudoStateKind org.springframework.statemachine.state.PseudoStateKind ( ) { return PseudoStateKind . ENTRY ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.statemachine.state.State<S,E> < S , E > org.springframework.statemachine.state.State<S,E> ( StateContext < S , E > org.springframework.statemachine.state.StateContext<S,E> ) { return org.springframework.statemachine.state.State<S,E> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( StateContext < S , E > org.springframework.statemachine.state.StateContext<S,E> ) {	}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( PseudoStateListener < S , E > org.springframework.statemachine.state.PseudoStateListener<S,E> ) {	}  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.util.List<org.springframework.statemachine.state.PseudoStateListener<S,E>> < PseudoStateListener < S , E > > java.util.List<org.springframework.statemachine.state.PseudoStateListener<S,E>> ) {	}  <METHOD_END>

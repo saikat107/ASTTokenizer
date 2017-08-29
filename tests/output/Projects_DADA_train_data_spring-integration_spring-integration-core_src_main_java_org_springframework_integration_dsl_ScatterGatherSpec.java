@@ -1,0 +1,3 @@
+<METHOD_START> void ( ScatterGatherHandler org.springframework.integration.dsl.ScatterGatherHandler ) { super( org.springframework.integration.dsl.ScatterGatherHandler ); }  <METHOD_END>
+<METHOD_START> public org.springframework.integration.dsl.ScatterGatherSpec org.springframework.integration.dsl.ScatterGatherSpec ( MessageChannel org.springframework.integration.dsl.MessageChannel ) { this . handler . setGatherChannel ( org.springframework.integration.dsl.MessageChannel ) ; return this ; }  <METHOD_END>
+<METHOD_START> public org.springframework.integration.dsl.ScatterGatherSpec org.springframework.integration.dsl.ScatterGatherSpec ( long long ) { this . handler . setGatherTimeout ( long ) ; return this ; }  <METHOD_END>

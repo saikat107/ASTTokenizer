@@ -1,0 +1,4 @@
+<METHOD_START> void void ( StateMachineFunction < StateMachineAccess < S , E > > org.springframework.statemachine.access.StateMachineFunction<org.springframework.statemachine.access.StateMachineAccess<S,E>> );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.statemachine.access.StateMachineAccess<S,E>> < StateMachineAccess < S , E > > java.util.List<org.springframework.statemachine.access.StateMachineAccess<S,E>> ( )  <METHOD_END>
+<METHOD_START> void void ( StateMachineFunction < StateMachineAccess < S , E > > org.springframework.statemachine.access.StateMachineFunction<org.springframework.statemachine.access.StateMachineAccess<S,E>> );  <METHOD_END>
+<METHOD_START> org.springframework.statemachine.access.StateMachineAccess<S,E> < S , E > org.springframework.statemachine.access.StateMachineAccess<S,E> ( )  <METHOD_END>

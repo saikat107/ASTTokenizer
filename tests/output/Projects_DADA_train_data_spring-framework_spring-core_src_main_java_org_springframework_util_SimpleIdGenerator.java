@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.util.UUID java.util.UUID ( ) { long long = this . java.util.concurrent.atomic.AtomicLong . long ( ) ; if ( long == NUMBER ) { this . java.util.concurrent.atomic.AtomicLong . long ( ) ; } return new java.util.UUID ( this . java.util.concurrent.atomic.AtomicLong . long ( ) , long ) ; }  <METHOD_END>

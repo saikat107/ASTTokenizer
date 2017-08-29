@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( VehicleIdentificationNumber sample.test.domain.VehicleIdentificationNumber ) { return sample.test.domain.VehicleIdentificationNumber . toString ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public sample.test.domain.VehicleIdentificationNumber sample.test.domain.VehicleIdentificationNumber ( java.lang.String java.lang.String ) { return new VehicleIdentificationNumber ( java.lang.String ) ; }  <METHOD_END>

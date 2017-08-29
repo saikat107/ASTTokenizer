@@ -1,0 +1,2 @@
+<METHOD_START> @ javax.annotation.PostConstruct public void void ( ) { sample.logback.Logger . debug ( STRING ) ; sample.logback.Logger . trace ( STRING ) ; }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) throws java.lang.Exception { SpringApplication . run ( sample.logback.SampleLogbackApplication .class , java.lang.String[] ) . close ( ) ; }  <METHOD_END>

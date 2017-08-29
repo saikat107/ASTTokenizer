@@ -1,0 +1,10 @@
+<METHOD_START> public void ( ) {}  <METHOD_END>
+<METHOD_START> public org.springframework.data.neo4j.examples.friends.domain.Friendship org.springframework.data.neo4j.examples.friends.domain.Friendship ( org.springframework.data.neo4j.examples.friends.domain.Person org.springframework.data.neo4j.examples.friends.domain.Person ) { Friendship org.springframework.data.neo4j.examples.friends.domain.Friendship = new Friendship ( this , org.springframework.data.neo4j.examples.friends.domain.Person ) ; this . java.util.Set<org.springframework.data.neo4j.examples.friends.domain.Friendship> . add ( org.springframework.data.neo4j.examples.friends.domain.Friendship ) ; return org.springframework.data.neo4j.examples.friends.domain.Friendship ; }  <METHOD_END>
+<METHOD_START> public java.lang.Long java.lang.Long ( ) { return java.lang.Long ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Long java.lang.Long ) { this . java.lang.Long = java.lang.Long ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.util.Set<org.springframework.data.neo4j.examples.friends.domain.Friendship> < Friendship > java.util.Set<org.springframework.data.neo4j.examples.friends.domain.Friendship> ( ) { return java.util.Set<org.springframework.data.neo4j.examples.friends.domain.Friendship> ; }  <METHOD_END>
+<METHOD_START> public void void ( java.util.Set<org.springframework.data.neo4j.examples.friends.domain.Friendship> < Friendship > java.util.Set<org.springframework.data.neo4j.examples.friends.domain.Friendship> ) { this . java.util.Set<org.springframework.data.neo4j.examples.friends.domain.Friendship> = java.util.Set<org.springframework.data.neo4j.examples.friends.domain.Friendship> ; }  <METHOD_END>

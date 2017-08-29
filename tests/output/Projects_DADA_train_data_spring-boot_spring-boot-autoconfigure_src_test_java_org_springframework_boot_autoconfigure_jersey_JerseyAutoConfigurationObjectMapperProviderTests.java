@@ -1,0 +1,11 @@
+<METHOD_START> @ Test public void void ( ) { ResponseEntity < java.lang.String > org.springframework.boot.autoconfigure.jersey.ResponseEntity<java.lang.String> = this . org.springframework.boot.autoconfigure.jersey.TestRestTemplate . getForEntity ( STRING , java.lang.String .class ) ; assertThat ( HttpStatus . OK ) . isEqualTo ( org.springframework.boot.autoconfigure.jersey.ResponseEntity<java.lang.String> . getStatusCode ( ) ) ; assertThat ( org.springframework.boot.autoconfigure.jersey.ResponseEntity<java.lang.String> . getBody ( ) ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ GET public org.springframework.boot.autoconfigure.jersey.JerseyAutoConfigurationObjectMapperProviderTests.Message org.springframework.boot.autoconfigure.jersey.JerseyAutoConfigurationObjectMapperProviderTests.Message ( ) { return new org.springframework.boot.autoconfigure.jersey.JerseyAutoConfigurationObjectMapperProviderTests.Message ( STRING , null ) ; }  <METHOD_END>
+<METHOD_START> public void ( ) { register ( org.springframework.boot.autoconfigure.jersey.JerseyAutoConfigurationObjectMapperProviderTests.Application .class ) ; }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.String [] java.lang.String[] ) { SpringApplication . run ( org.springframework.boot.autoconfigure.jersey.JerseyAutoConfigurationObjectMapperProviderTests.Application .class , java.lang.String[] ) ; }  <METHOD_END>
+<METHOD_START> public void ( ) {		}  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ javax.xml.bind.annotation.XmlTransient public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>

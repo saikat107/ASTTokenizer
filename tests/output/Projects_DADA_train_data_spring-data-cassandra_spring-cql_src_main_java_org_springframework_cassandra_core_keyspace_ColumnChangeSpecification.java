@@ -1,0 +1,4 @@
+<METHOD_START> protected void ( java.lang.String java.lang.String ) { this( cqlId ( java.lang.String ) ); }  <METHOD_END>
+<METHOD_START> protected void ( CqlIdentifier org.springframework.cassandra.core.keyspace.CqlIdentifier ) { void ( org.springframework.cassandra.core.keyspace.CqlIdentifier ) ; }  <METHOD_END>
+<METHOD_START> protected void void ( CqlIdentifier org.springframework.cassandra.core.keyspace.CqlIdentifier ) { Assert . notNull ( org.springframework.cassandra.core.keyspace.CqlIdentifier , STRING ) ; this . org.springframework.cassandra.core.keyspace.CqlIdentifier = org.springframework.cassandra.core.keyspace.CqlIdentifier ; }  <METHOD_END>
+<METHOD_START> public org.springframework.cassandra.core.keyspace.CqlIdentifier org.springframework.cassandra.core.keyspace.CqlIdentifier ( ) { return org.springframework.cassandra.core.keyspace.CqlIdentifier ; }  <METHOD_END>

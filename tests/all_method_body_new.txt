@@ -1,0 +1,14 @@
+<METHOD_START> "private" , "METHOD_NAME" , "(" , "org.springframework.messaging.MessageHeaders" , "org.springframework.messaging.MessageHeaders_VAR" , "," , 
+"java.util.Set<java.lang.String>_VAR" , "<" , "java.lang.String" , ">" , "java.util.Set<java.lang.String>_VAR" , ")" , "{" , "this" , "." , "java.util.Map<java.lang.String,java.lang.Object>_VAR" , 
+"=" , "new" , "java.util.HashMap<java.lang.String,java.lang.Object>_VAR" , "METHOD_NAME" , "(" , "org.springframework.messaging.MessageHeaders_VAR" , "." ,
+"java.util.Map<java.lang.String,java.lang.Object>_VAR" , "." , "METHOD_NAME" , "(" , ")" , "-" , "java.util.Set<java.lang.String>_VAR" , "." , "METHOD_NAME" , "(" , ")" , ")" , ";" ,
+ "for (" , "java.util.Map" , "." , "java.util.Map.Entry<java.lang.String,java.lang.Object>_VAR" , "<" , "java.lang.String" , "," , "java.lang.Object" , ">" , "java.util.Map.Entry<java.lang.String,java.lang.Object>_VAR" , ":" , "org.springframework.messaging.MessageHeaders_VAR" , "." , "java.util.Map<java.lang.String,java.lang.Object>_VAR" , "." , "METHOD_NAME" , "(" , ")" , ")" , "{" , "if (" , "!" , "java.util.Set<java.lang.String>_VAR" , "." , "METHOD_NAME" , "(" , "java.util.Map.Entry<java.lang.String,java.lang.Object>_VAR" , "." , "METHOD_NAME" , "(" , ")" , ")" , ")" , "{" , "this" , "." , "java.util.Map<java.lang.String,java.lang.Object>_VAR" , "." , "METHOD_NAME" , "(" , "java.util.Map.Entry<java.lang.String,java.lang.Object>_VAR" , "." , "METHOD_NAME" , "(" , ")" , "," , "java.util.Map.Entry<java.lang.String,java.lang.Object>_VAR" , "." , "METHOD_NAME" , "(" , ")" , ")" , ";" , "}" , "}" , "}" ,  <METHOD_END>
+
+	private MessageHeaders(MessageHeaders original, Set<String> keysToIgnore) {
+		this.headers = new HashMap<>(original.headers.size() - keysToIgnore.size());
+		for (Map.Entry<String, Object> entry : original.headers.entrySet()) {
+			if (!keysToIgnore.contains(entry.getKey())) {
+				this.headers.put(entry.getKey(), entry.getValue());
+			}
+		}
+	}

@@ -1,0 +1,2 @@
+<METHOD_START> public void ( final java.lang.String ... java.lang.String[] ) { Assert . notEmpty ( java.lang.String[] , STRING ) ; this . java.lang.String[] = java.lang.String[] ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.gemfire.function.execution.Execution org.springframework.data.gemfire.function.execution.Execution ( ) { return FunctionService . onMembers ( this . java.lang.String[] ) ; }  <METHOD_END>

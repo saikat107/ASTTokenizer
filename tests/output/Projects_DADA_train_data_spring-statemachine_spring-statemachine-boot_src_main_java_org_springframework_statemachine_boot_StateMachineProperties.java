@@ -1,0 +1,4 @@
+<METHOD_START> public org.springframework.statemachine.boot.StateMachineProperties.StateMachineMonitoringProperties org.springframework.statemachine.boot.StateMachineProperties.StateMachineMonitoringProperties ( ) { return org.springframework.statemachine.boot.StateMachineProperties.StateMachineMonitoringProperties ; }  <METHOD_END>
+<METHOD_START> public void void ( org.springframework.statemachine.boot.StateMachineProperties.StateMachineMonitoringProperties org.springframework.statemachine.boot.StateMachineProperties.StateMachineMonitoringProperties ) { this . org.springframework.statemachine.boot.StateMachineProperties.StateMachineMonitoringProperties = org.springframework.statemachine.boot.StateMachineProperties.StateMachineMonitoringProperties ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>

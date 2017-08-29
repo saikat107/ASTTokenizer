@@ -1,0 +1,1 @@
+<METHOD_START> @ GetMapping ( STRING ) org.springframework.test.context.junit.jupiter.web.Person org.springframework.test.context.junit.jupiter.web.Person ( @ PathVariable long long ) { if ( long == NUMBER ) { return new Person ( STRING ) ; } return new Person ( STRING ) ; }  <METHOD_END>

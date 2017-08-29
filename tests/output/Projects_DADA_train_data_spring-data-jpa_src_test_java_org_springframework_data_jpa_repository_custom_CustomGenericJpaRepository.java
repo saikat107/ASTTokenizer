@@ -1,0 +1,2 @@
+<METHOD_START> public void ( JpaEntityInformation < T , ID > org.springframework.data.jpa.repository.custom.JpaEntityInformation<T,ID> , EntityManager org.springframework.data.jpa.repository.custom.EntityManager ) { super( org.springframework.data.jpa.repository.custom.JpaEntityInformation<T,ID> , org.springframework.data.jpa.repository.custom.EntityManager ); }  <METHOD_END>
+<METHOD_START> public T T ( ID ID ) { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>

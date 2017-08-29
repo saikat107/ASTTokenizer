@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.Class<?> < ? > java.lang.Class<?> ) { super( java.lang.Class<> ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.gemfire.function.execution.MethodMetadata org.springframework.data.gemfire.function.execution.MethodMetadata ( java.lang.reflect.Method java.lang.reflect.Method ) { return new MethodMetadata ( java.lang.reflect.Method ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { assertEquals ( STRING , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.util.List<org.springframework.test.context.junit4.ContextCustomizerFactory> < ContextCustomizerFactory > java.util.List<org.springframework.test.context.junit4.ContextCustomizerFactory> ( ) { return java.util.List<T> ( ( ContextCustomizerFactory ) ( testClass , configAttributes ) -> ( ContextCustomizer ) ( context , mergedConfig ) -> context . getBeanFactory ( ) . registerSingleton ( STRING , STRING ) ) ; }  <METHOD_END>

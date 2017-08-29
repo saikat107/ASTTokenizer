@@ -1,0 +1,3 @@
+<METHOD_START> @ Test public void void ( ) { for ( int int = NUMBER ; int < NUMBER ; int ++ ) { java.lang.Object java.lang.Object = org.springframework.integration.config.xml.ApplicationContext . getBean ( STRING + int ) ; java.lang.Object java.lang.Object = new DirectFieldAccessor ( java.lang.Object ) . getPropertyValue ( STRING ) ; assertTrue ( java.lang.Object instanceof Ordered ) ; assertEquals ( int , ( ( Ordered ) java.lang.Object ) . getOrder ( ) ) ; } }  <METHOD_END>
+<METHOD_START> public java.lang.Object java.lang.Object ( java.lang.Object java.lang.Object ) { return java.lang.Object ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return true ; }  <METHOD_END>

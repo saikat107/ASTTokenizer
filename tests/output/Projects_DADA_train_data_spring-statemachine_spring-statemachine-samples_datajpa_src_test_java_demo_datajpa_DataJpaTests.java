@@ -1,0 +1,4 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { demo.datajpa.MockMvc . perform ( get ( STRING ) ) . andExpect ( status ( ) . isOk ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { demo.datajpa.MockMvc . perform ( get ( STRING ) . param ( STRING , STRING ) ) . andExpect ( status ( ) . isOk ( ) ) . andExpect ( content ( ) . string ( containsString ( STRING ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { demo.datajpa.MockMvc . perform ( get ( STRING ) . param ( STRING , STRING ) . param ( STRING , STRING ) ) . andExpect ( status ( ) . isOk ( ) ) . andExpect ( content ( ) . string ( allOf ( containsString ( STRING ) , containsString ( STRING ) ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Before public void void ( ) java.lang.Exception { demo.datajpa.MockMvc = MockMvcBuilders . webAppContextSetup ( demo.datajpa.WebApplicationContext ) . build ( ) ; }  <METHOD_END>

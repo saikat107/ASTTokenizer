@@ -1,0 +1,3 @@
+<METHOD_START> private void ( ) { super(); }  <METHOD_END>
+<METHOD_START> public static org.springframework.integration.support.json.JsonObjectMapper<?,?> < ? , ? > org.springframework.integration.support.json.JsonObjectMapper<?,?> ( ) { if ( JacksonJsonUtils . isJackson2Present ( ) ) { return new Jackson2JsonObjectMapper ( ) ; } else if ( boolean ) { return new BoonJsonObjectMapper ( ) ; } else { throw new java.lang.IllegalStateException ( STRING ) ; } }  <METHOD_END>
+<METHOD_START> public static boolean boolean ( ) { return JacksonJsonUtils . isJackson2Present ( ) || boolean ; }  <METHOD_END>

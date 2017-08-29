@@ -1,0 +1,4 @@
+<METHOD_START> public void ( ) { super( org.springframework.boot.actuate.endpoint.LiquibaseEndpointTests.Config .class , LiquibaseEndpoint .class , STRING , true , STRING ); }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( getEndpointBean ( ) . invoke ( ) ) . hasSize ( NUMBER ) ; }  <METHOD_END>
+<METHOD_START> public void ( SpringLiquibase org.springframework.boot.actuate.endpoint.SpringLiquibase ) { this . org.springframework.boot.actuate.endpoint.SpringLiquibase = org.springframework.boot.actuate.endpoint.SpringLiquibase ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.boot.actuate.endpoint.LiquibaseEndpoint org.springframework.boot.actuate.endpoint.LiquibaseEndpoint ( ) { return new LiquibaseEndpoint ( this . org.springframework.boot.actuate.endpoint.SpringLiquibase ) ; }  <METHOD_END>

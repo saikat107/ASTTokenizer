@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean public example.scannable_implicitbasepackage.ConfigurableComponent example.scannable_implicitbasepackage.ConfigurableComponent ( ) { return new ConfigurableComponent ( true ) ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.boot.autoconfigure.data.mongo.city.Flux<org.springframework.boot.autoconfigure.data.mongo.city.City> < City > org.springframework.boot.autoconfigure.data.mongo.city.Flux<org.springframework.boot.autoconfigure.data.mongo.city.City> ( )  <METHOD_END>

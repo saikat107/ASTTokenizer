@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected void void ( org.w3c.dom.Element org.w3c.dom.Element , ParserContext org.springframework.integration.mail.config.ParserContext , BeanDefinitionBuilder org.springframework.integration.mail.config.BeanDefinitionBuilder ) { IntegrationNamespaceUtils . setValueIfAttributeDefined ( org.springframework.integration.mail.config.BeanDefinitionBuilder , org.w3c.dom.Element , STRING ) ; }  <METHOD_END>

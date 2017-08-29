@@ -1,0 +1,3 @@
+<METHOD_START> public void void ( Advice org.springframework.aop.support.Advice ) { this . org.springframework.aop.support.Advice = org.springframework.aop.support.Advice ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.aop.support.Advice org.springframework.aop.support.Advice ( ) { return this . org.springframework.aop.support.Advice ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.Class<? extends org.springframework.aop.support.AbstractGenericPointcutAdvisor> ( ) . java.lang.String ( ) + STRING + org.springframework.aop.support.Advice ( ) + STRING ; }  <METHOD_END>

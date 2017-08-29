@@ -1,0 +1,2 @@
+<METHOD_START> public void ( ) { super( STRING , STRING ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.boot.cli.command.core.ExitStatus org.springframework.boot.cli.command.core.ExitStatus ( java.lang.String ... java.lang.String[] ) { Log . info ( STRING + java.lang.Class<? extends org.springframework.boot.cli.command.core.VersionCommand> ( ) . java.lang.Package ( ) . java.lang.String ( ) ) ; return ExitStatus . OK ; }  <METHOD_END>

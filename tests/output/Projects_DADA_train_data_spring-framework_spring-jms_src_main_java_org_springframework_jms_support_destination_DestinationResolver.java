@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.jms.support.destination.Destination org.springframework.jms.support.destination.Destination ( Session org.springframework.jms.support.destination.Session , java.lang.String java.lang.String , boolean boolean )			throws org.springframework.jms.support.destination.JMSException ;  <METHOD_END>

@@ -1,0 +1,5 @@
+<METHOD_START> public java.lang.Integer java.lang.Integer ( ) { return this . java.lang.Integer ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Integer java.lang.Integer ) { this . java.lang.Integer = java.lang.Integer ; }  <METHOD_END>
+<METHOD_START> public java.lang.Boolean java.lang.Boolean ( ) { return this . java.lang.Boolean ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.Boolean java.lang.Boolean ) { this . java.lang.Boolean = java.lang.Boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( AbstractPlatformTransactionManager org.springframework.boot.autoconfigure.transaction.AbstractPlatformTransactionManager ) { if ( this . java.lang.Integer != null ) { org.springframework.boot.autoconfigure.transaction.AbstractPlatformTransactionManager . setDefaultTimeout ( this . java.lang.Integer ) ; } if ( this . java.lang.Boolean != null ) { org.springframework.boot.autoconfigure.transaction.AbstractPlatformTransactionManager . setRollbackOnCommitFailure ( this . java.lang.Boolean ) ; } }  <METHOD_END>

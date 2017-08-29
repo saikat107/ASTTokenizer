@@ -1,0 +1,1 @@
+<METHOD_START> public java.lang.Object java.lang.Object ( javax.xml.transform.Source javax.xml.transform.Source ) throws java.io.IOException , javax.xml.transform.TransformerException { return STRING ; }  <METHOD_END>

@@ -1,0 +1,7 @@
+<METHOD_START> public static void void ( java.lang.String java.lang.String , boolean boolean , java.lang.String java.lang.String ) { assertThat ( java.lang.String . boolean ( STRING + ( boolean ? STRING : STRING ) + java.lang.String + STRING ) ) . isTrue ( ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.cassandra.core.cql.generator.DropIndexSpecification org.springframework.cassandra.core.cql.generator.DropIndexSpecification ( ) { return DropIndexSpecification . dropIndex ( ) . name ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.cassandra.core.cql.generator.DropIndexCqlGenerator org.springframework.cassandra.core.cql.generator.DropIndexCqlGenerator ( ) { return new DropIndexCqlGenerator ( specification ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { prepare ( ) ; void ( java.lang.String , false , cql ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.cassandra.core.cql.generator.DropIndexSpecification org.springframework.cassandra.core.cql.generator.DropIndexSpecification ( ) { return DropIndexSpecification . dropIndex ( ) . name ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public org.springframework.cassandra.core.cql.generator.DropIndexCqlGenerator org.springframework.cassandra.core.cql.generator.DropIndexCqlGenerator ( ) { return new DropIndexCqlGenerator ( specification ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { prepare ( ) ; void ( java.lang.String , false , cql ) ; }  <METHOD_END>

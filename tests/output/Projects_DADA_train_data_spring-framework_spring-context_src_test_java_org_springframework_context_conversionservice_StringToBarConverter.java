@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.context.conversionservice.Bar org.springframework.context.conversionservice.Bar ( java.lang.String java.lang.String ) { return new Bar ( java.lang.String ) ; }  <METHOD_END>

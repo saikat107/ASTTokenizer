@@ -1,0 +1,4 @@
+<METHOD_START> public void ( java.lang.Class<? extends T> < ? extends T > java.lang.Class<? extends T> ) { super( java.lang.Class<> ); }  <METHOD_END>
+<METHOD_START> public void void ( LdapOperations org.springframework.data.ldap.repository.support.LdapOperations ) { this . org.springframework.data.ldap.repository.support.LdapOperations = org.springframework.data.ldap.repository.support.LdapOperations ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.data.ldap.repository.support.RepositoryFactorySupport org.springframework.data.ldap.repository.support.RepositoryFactorySupport ( ) { return new LdapRepositoryFactory ( org.springframework.data.ldap.repository.support.LdapOperations ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { Assert . notNull ( org.springframework.data.ldap.repository.support.LdapOperations , STRING ) ; super. afterPropertiesSet ( ) ; }  <METHOD_END>

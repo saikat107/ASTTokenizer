@@ -1,0 +1,12 @@
+<METHOD_START> @ Test public void void ( ) java.beans.IntrospectionException { @ java.lang.SuppressWarnings ( STRING ) class C { public void void ( java.lang.String java.lang.String ) { } } assertThat ( org.springframework.beans.ExtendedBeanInfoFactory . getBeanInfo ( C .class ) , nullValue ( ) ) ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.beans.IntrospectionException { @ java.lang.SuppressWarnings ( STRING ) class C { public C setFoo ( java.lang.String java.lang.String ) { return this ; } } assertThat ( org.springframework.beans.ExtendedBeanInfoFactory . getBeanInfo ( C .class ) , notNullValue ( ) ) ; }  <METHOD_END>
+<METHOD_START> public C setFoo ( java.lang.String java.lang.String ) { return this ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.beans.IntrospectionException { @ java.lang.SuppressWarnings ( STRING ) class C { public C setFoo ( int int , java.lang.String java.lang.String ) { return this ; } } assertThat ( org.springframework.beans.ExtendedBeanInfoFactory . getBeanInfo ( C .class ) , notNullValue ( ) ) ; }  <METHOD_END>
+<METHOD_START> public C setFoo ( int int , java.lang.String java.lang.String ) { return this ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.beans.IntrospectionException { @ java.lang.SuppressWarnings ( STRING ) class C { void void ( java.lang.String java.lang.String ) { } } assertThat ( org.springframework.beans.ExtendedBeanInfoFactory . getBeanInfo ( C .class ) , nullValue ( ) ) ; }  <METHOD_END>
+<METHOD_START> void void ( java.lang.String java.lang.String ) { }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.beans.IntrospectionException { @ java.lang.SuppressWarnings ( STRING ) class C { C setBar ( ) { return this ; } } assertThat ( org.springframework.beans.ExtendedBeanInfoFactory . getBeanInfo ( C .class ) , nullValue ( ) ) ; }  <METHOD_END>
+<METHOD_START> C setBar ( ) { return this ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.beans.IntrospectionException { @ java.lang.SuppressWarnings ( STRING ) class C { C set ( java.lang.String java.lang.String ) { return this ; } } assertThat ( org.springframework.beans.ExtendedBeanInfoFactory . getBeanInfo ( C .class ) , nullValue ( ) ) ; }  <METHOD_END>
+<METHOD_START> C set ( java.lang.String java.lang.String ) { return this ; }  <METHOD_END>

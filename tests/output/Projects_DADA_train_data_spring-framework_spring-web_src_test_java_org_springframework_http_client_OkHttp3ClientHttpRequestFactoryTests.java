@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected org.springframework.http.client.ClientHttpRequestFactory org.springframework.http.client.ClientHttpRequestFactory ( ) { return new OkHttp3ClientHttpRequestFactory ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override @ Test public void void ( ) java.lang.Exception { super. httpMethods ( ) ; assertHttpMethod ( STRING , HttpMethod . PATCH ) ; }  <METHOD_END>

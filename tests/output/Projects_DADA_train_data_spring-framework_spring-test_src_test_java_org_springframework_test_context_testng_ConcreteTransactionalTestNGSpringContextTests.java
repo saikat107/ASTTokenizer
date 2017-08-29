@@ -1,0 +1,22 @@
+<METHOD_START> private int int ( java.lang.String java.lang.String ) { return jdbcTemplate . update ( STRING , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> private int int ( java.lang.String java.lang.String ) { return jdbcTemplate . update ( STRING , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) java.lang.Exception { this . boolean = true ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ Autowired protected void void ( Employee org.springframework.test.context.testng.Employee ) { this . org.springframework.test.context.testng.Employee = org.springframework.test.context.testng.Employee ; }  <METHOD_END>
+<METHOD_START> @ javax.annotation.Resource protected void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> private void void ( int int , java.lang.String java.lang.String ) { assertEquals ( countRowsInTable ( STRING ) , int , STRING + java.lang.String + STRING ) ; }  <METHOD_END>
+<METHOD_START> private void void ( final java.lang.String java.lang.String ) { assertEquals ( int ( java.lang.String ) , NUMBER , STRING + java.lang.String + STRING ) ; }  <METHOD_END>
+<METHOD_START> @ BeforeClass void void ( ) { int = NUMBER ; int = NUMBER ; int = NUMBER ; int = NUMBER ; }  <METHOD_END>
+<METHOD_START> @ AfterClass void void ( ) { assertEquals ( int , int , STRING ) ; assertEquals ( int , int , STRING ) ; assertEquals ( int , int , STRING ) ; assertEquals ( int , int , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Transactional ( propagation = Propagation . NOT_SUPPORTED ) void void ( ) { assertInTransaction ( false ) ; assertNotNull ( super. applicationContext , STRING ) ; Employee org.springframework.test.context.testng.Employee = ( Employee ) super. applicationContext . getBean ( STRING ) ; assertEquals ( org.springframework.test.context.testng.Employee . getName ( ) , STRING , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Transactional ( propagation = Propagation . NOT_SUPPORTED ) void void ( ) { assertInTransaction ( false ) ; assertTrue ( boolean , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Transactional ( propagation = Propagation . NOT_SUPPORTED ) void void ( ) { assertInTransaction ( false ) ; assertEquals ( java.lang.String , java.lang.Class<? extends org.springframework.test.context.testng.ConcreteTransactionalTestNGSpringContextTests> ( ) . java.lang.String ( ) , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Transactional ( propagation = Propagation . NOT_SUPPORTED ) void void ( ) { assertInTransaction ( false ) ; assertNull ( java.lang.Long , STRING ) ; assertNotNull ( org.springframework.test.context.testng.Pet , STRING ) ; assertEquals ( org.springframework.test.context.testng.Pet . getName ( ) , STRING , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Transactional ( propagation = Propagation . NOT_SUPPORTED ) void void ( ) { assertInTransaction ( false ) ; assertNotNull ( org.springframework.test.context.testng.Employee , STRING ) ; assertEquals ( org.springframework.test.context.testng.Employee . getName ( ) , STRING , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Transactional ( propagation = Propagation . NOT_SUPPORTED ) void void ( ) { assertInTransaction ( false ) ; assertEquals ( java.lang.String , STRING , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test @ Transactional ( propagation = Propagation . NOT_SUPPORTED ) void void ( ) { assertInTransaction ( false ) ; assertEquals ( java.lang.String , STRING , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ BeforeTransaction void void ( ) { void ( NUMBER , STRING ) ; void ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ BeforeMethod void void ( ) java.lang.Exception { int ++ ; if ( inTransaction ( ) ) { int ++ ; } void ( ( inTransaction ( ) ? NUMBER : NUMBER ) , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test void void ( ) { assertInTransaction ( true ) ; void ( java.lang.String ) ; void ( java.lang.String ) ; void ( NUMBER , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ AfterMethod void void ( ) java.lang.Exception { int ++ ; if ( inTransaction ( ) ) { int ++ ; } void ( ( inTransaction ( ) ? NUMBER : NUMBER ) , STRING ) ; }  <METHOD_END>
+<METHOD_START> @ AfterTransaction void void ( ) { assertEquals ( int ( java.lang.String ) , NUMBER , STRING ) ; void ( NUMBER , STRING ) ; }  <METHOD_END>

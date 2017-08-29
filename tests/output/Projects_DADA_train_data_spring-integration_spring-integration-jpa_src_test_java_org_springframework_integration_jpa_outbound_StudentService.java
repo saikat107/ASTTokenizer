@@ -1,0 +1,13 @@
+<METHOD_START> org.springframework.integration.jpa.outbound.StudentDomain org.springframework.integration.jpa.outbound.StudentDomain ( StudentDomain org.springframework.integration.jpa.outbound.StudentDomain );  <METHOD_END>
+<METHOD_START> org.springframework.integration.jpa.outbound.StudentDomain org.springframework.integration.jpa.outbound.StudentDomain ( java.lang.Long java.lang.Long );  <METHOD_END>
+<METHOD_START> org.springframework.integration.jpa.outbound.StudentDomain org.springframework.integration.jpa.outbound.StudentDomain ( java.lang.Long java.lang.Long );  <METHOD_END>
+<METHOD_START> org.springframework.integration.jpa.outbound.StudentDomain org.springframework.integration.jpa.outbound.StudentDomain ( StudentDomain org.springframework.integration.jpa.outbound.StudentDomain );  <METHOD_END>
+<METHOD_START> @ Payload ( STRING ) java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> < StudentDomain > java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> ( )  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> < StudentDomain > java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> ( int int );  <METHOD_END>
+<METHOD_START> org.springframework.integration.jpa.outbound.StudentDomain org.springframework.integration.jpa.outbound.StudentDomain ( StudentDomain org.springframework.integration.jpa.outbound.StudentDomain );  <METHOD_END>
+<METHOD_START> org.springframework.integration.jpa.outbound.StudentDomain org.springframework.integration.jpa.outbound.StudentDomain ( StudentDomain org.springframework.integration.jpa.outbound.StudentDomain );  <METHOD_END>
+<METHOD_START> org.springframework.integration.jpa.outbound.StudentDomain org.springframework.integration.jpa.outbound.StudentDomain ( java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> org.springframework.integration.jpa.outbound.StudentDomain org.springframework.integration.jpa.outbound.StudentDomain ( java.lang.Long java.lang.Long );  <METHOD_END>
+<METHOD_START> org.springframework.integration.jpa.outbound.StudentDomain org.springframework.integration.jpa.outbound.StudentDomain ( StudentDomain org.springframework.integration.jpa.outbound.StudentDomain );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> < StudentDomain > java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> ( int int );  <METHOD_END>
+<METHOD_START> java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> < StudentDomain > java.util.List<org.springframework.integration.jpa.outbound.StudentDomain> ( java.lang.String java.lang.String );  <METHOD_END>

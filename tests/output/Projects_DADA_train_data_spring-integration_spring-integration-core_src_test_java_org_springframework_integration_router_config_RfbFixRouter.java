@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected java.util.Collection<org.springframework.integration.router.config.MessageChannel> < MessageChannel > java.util.Collection<org.springframework.integration.router.config.MessageChannel> ( Message < ? > org.springframework.integration.router.config.Message<?> ) { return null ; }  <METHOD_END>

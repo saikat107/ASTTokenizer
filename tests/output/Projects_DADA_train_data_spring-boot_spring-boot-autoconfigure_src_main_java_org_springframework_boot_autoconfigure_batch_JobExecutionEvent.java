@@ -1,0 +1,2 @@
+<METHOD_START> public void ( JobExecution org.springframework.boot.autoconfigure.batch.JobExecution ) { super( org.springframework.boot.autoconfigure.batch.JobExecution ); this . org.springframework.boot.autoconfigure.batch.JobExecution = org.springframework.boot.autoconfigure.batch.JobExecution ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.autoconfigure.batch.JobExecution org.springframework.boot.autoconfigure.batch.JobExecution ( ) { return this . org.springframework.boot.autoconfigure.batch.JobExecution ; }  <METHOD_END>

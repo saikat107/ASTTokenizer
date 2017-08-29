@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean public org.springframework.boot.autoconfigure.cache.NoOpCacheManager org.springframework.boot.autoconfigure.cache.NoOpCacheManager ( ) { return new NoOpCacheManager ( ) ; }  <METHOD_END>

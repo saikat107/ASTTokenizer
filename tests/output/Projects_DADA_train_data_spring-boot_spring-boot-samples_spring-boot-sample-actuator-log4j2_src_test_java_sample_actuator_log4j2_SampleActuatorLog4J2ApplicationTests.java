@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { sample.actuator.log4j2.Logger . info ( STRING ) ; this . sample.actuator.log4j2.OutputCapture . expect ( containsString ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . sample.actuator.log4j2.MockMvc . perform ( get ( STRING ) ) . andExpect ( status ( ) . isOk ( ) ) . andExpect ( content ( ) . string ( equalTo ( STRING + STRING ) ) ) ; }  <METHOD_END>

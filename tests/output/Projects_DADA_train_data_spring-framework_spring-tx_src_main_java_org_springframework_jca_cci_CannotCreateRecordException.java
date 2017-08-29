@@ -1,0 +1,1 @@
+<METHOD_START> public void ( java.lang.String java.lang.String , ResourceException org.springframework.jca.cci.ResourceException ) { super( java.lang.String , org.springframework.jca.cci.ResourceException ); }  <METHOD_END>

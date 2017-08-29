@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public final org.springframework.boot.actuate.health.Health org.springframework.boot.actuate.health.Health ( ) { Health . Health Health.Builder = new Health . Health ( ) ; try { void ( Health.Builder ) ; } catch ( java.lang.Exception java.lang.Exception ) { Health.Builder . down ( java.lang.Exception ) ; } return Health.Builder . build ( ) ; }  <METHOD_END>
+<METHOD_START> protected abstract void void ( Health . Health Health.Builder ) throws java.lang.Exception ;  <METHOD_END>

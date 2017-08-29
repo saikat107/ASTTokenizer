@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override protected java.lang.Object java.lang.Object ( java.util.ServiceLoader<?> < ? > java.util.ServiceLoader<?> ) { java.util.Iterator<?> < ? > java.util.Iterator<?> = java.util.ServiceLoader<> . java.util.Iterator<> ( ) ; if ( ! java.util.Iterator<> . boolean ( ) ) { throw new java.lang.IllegalStateException ( STRING + getServiceType ( ) + STRING ) ; } return java.util.Iterator<> . next ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.Class<?> < ? > java.lang.Class<?> ( ) { return getServiceType ( ) ; }  <METHOD_END>

@@ -1,0 +1,4 @@
+<METHOD_START> public void ( ) { this . java.util.List<org.springframework.context.index.ItemMetadata> = new java.util.ArrayList <> ( ) ; }  <METHOD_END>
+<METHOD_START> public void void ( ItemMetadata org.springframework.context.index.ItemMetadata ) { this . java.util.List<org.springframework.context.index.ItemMetadata> . add ( org.springframework.context.index.ItemMetadata ) ; }  <METHOD_END>
+<METHOD_START> public java.util.List<org.springframework.context.index.ItemMetadata> < ItemMetadata > java.util.List<org.springframework.context.index.ItemMetadata> ( ) { return java.util.Collections . java.util.List<org.springframework.context.index.ItemMetadata> ( this . java.util.List<org.springframework.context.index.ItemMetadata> ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING + STRING + this . java.util.List<org.springframework.context.index.ItemMetadata> + '}' ; }  <METHOD_END>

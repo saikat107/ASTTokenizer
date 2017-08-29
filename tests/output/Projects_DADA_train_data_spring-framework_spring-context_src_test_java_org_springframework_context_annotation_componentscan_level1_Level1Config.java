@@ -1,0 +1,1 @@
+<METHOD_START> @ Bean public org.springframework.context.annotation.componentscan.level1.TestBean org.springframework.context.annotation.componentscan.level1.TestBean ( ) { return new TestBean ( STRING ) ; }  <METHOD_END>

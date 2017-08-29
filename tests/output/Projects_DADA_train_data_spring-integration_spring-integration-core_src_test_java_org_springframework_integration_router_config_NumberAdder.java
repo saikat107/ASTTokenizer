@@ -1,0 +1,1 @@
+<METHOD_START> public java.lang.Integer java.lang.Integer ( java.util.List<java.lang.Integer> < java.lang.Integer > java.util.List<java.lang.Integer> ) { int int = NUMBER ; for ( java.lang.Integer java.lang.Integer : java.util.List<java.lang.Integer> ) { int += java.lang.Integer ; } return int ; }  <METHOD_END>

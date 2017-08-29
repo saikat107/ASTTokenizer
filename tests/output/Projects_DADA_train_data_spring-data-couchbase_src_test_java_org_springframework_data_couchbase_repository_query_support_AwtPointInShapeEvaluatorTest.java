@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public org.springframework.data.couchbase.repository.query.support.PointInShapeEvaluator org.springframework.data.couchbase.repository.query.support.PointInShapeEvaluator ( ) { return new AwtPointInShapeEvaluator ( ) ; }  <METHOD_END>

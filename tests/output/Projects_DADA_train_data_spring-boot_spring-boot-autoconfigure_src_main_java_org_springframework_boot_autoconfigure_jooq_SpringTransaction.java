@@ -1,0 +1,2 @@
+<METHOD_START> void ( TransactionStatus org.springframework.boot.autoconfigure.jooq.TransactionStatus ) { this . org.springframework.boot.autoconfigure.jooq.TransactionStatus = org.springframework.boot.autoconfigure.jooq.TransactionStatus ; }  <METHOD_END>
+<METHOD_START> public org.springframework.boot.autoconfigure.jooq.TransactionStatus org.springframework.boot.autoconfigure.jooq.TransactionStatus ( ) { return this . org.springframework.boot.autoconfigure.jooq.TransactionStatus ; }  <METHOD_END>

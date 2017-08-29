@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.data.cassandra.repository.MapId org.springframework.data.cassandra.repository.MapId ( java.lang.String java.lang.String , java.io.Serializable java.io.Serializable );  <METHOD_END>

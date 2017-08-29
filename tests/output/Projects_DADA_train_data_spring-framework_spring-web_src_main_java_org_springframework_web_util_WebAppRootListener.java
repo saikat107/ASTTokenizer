@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( ServletContextEvent org.springframework.web.util.ServletContextEvent ) { WebUtils . setWebAppRootSystemProperty ( org.springframework.web.util.ServletContextEvent . getServletContext ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ServletContextEvent org.springframework.web.util.ServletContextEvent ) { WebUtils . removeWebAppRootSystemProperty ( org.springframework.web.util.ServletContextEvent . getServletContext ( ) ) ; }  <METHOD_END>

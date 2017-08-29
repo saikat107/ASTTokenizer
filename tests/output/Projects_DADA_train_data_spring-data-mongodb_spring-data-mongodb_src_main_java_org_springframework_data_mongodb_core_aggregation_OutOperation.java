@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.String java.lang.String ) { Assert . notNull ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.data.mongodb.core.aggregation.Document org.springframework.data.mongodb.core.aggregation.Document ( AggregationOperationContext org.springframework.data.mongodb.core.aggregation.AggregationOperationContext ) { return new Document ( STRING , java.lang.String ) ; }  <METHOD_END>

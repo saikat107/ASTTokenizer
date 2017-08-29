@@ -1,0 +1,3 @@
+<METHOD_START> @ Bean public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ Ignore ( STRING ) @ Test @ java.lang.Override public void void ( ) { }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { ApplicationContext org.springframework.test.context.hierarchies.web.ApplicationContext = org.springframework.test.context.hierarchies.web.WebApplicationContext . getParent ( ) ; assertNotNull ( org.springframework.test.context.hierarchies.web.ApplicationContext ) ; assertFalse ( org.springframework.test.context.hierarchies.web.ApplicationContext instanceof WebApplicationContext ) ; assertEquals ( STRING , java.lang.String ) ; assertEquals ( STRING , java.lang.String ) ; }  <METHOD_END>

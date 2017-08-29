@@ -1,0 +1,5 @@
+<METHOD_START> public static org.springframework.cassandra.core.keyspace.AlterKeyspaceSpecification org.springframework.cassandra.core.keyspace.AlterKeyspaceSpecification ( ) { return new org.springframework.cassandra.core.keyspace.AlterKeyspaceSpecification ( ) ; }  <METHOD_END>
+<METHOD_START> public static org.springframework.cassandra.core.keyspace.AlterKeyspaceSpecification org.springframework.cassandra.core.keyspace.AlterKeyspaceSpecification ( KeyspaceIdentifier org.springframework.cassandra.core.keyspace.KeyspaceIdentifier ) { return new org.springframework.cassandra.core.keyspace.AlterKeyspaceSpecification ( org.springframework.cassandra.core.keyspace.KeyspaceIdentifier ) ; }  <METHOD_END>
+<METHOD_START> public void ( ) {}  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String ) { name ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> public void ( KeyspaceIdentifier org.springframework.cassandra.core.keyspace.KeyspaceIdentifier ) { name ( org.springframework.cassandra.core.keyspace.KeyspaceIdentifier ) ; }  <METHOD_END>

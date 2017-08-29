@@ -1,0 +1,2 @@
+<METHOD_START> public org.springframework.data.mongodb.repository.cdi.CdiPersonRepository org.springframework.data.mongodb.repository.cdi.CdiPersonRepository ( ) { return org.springframework.data.mongodb.repository.cdi.CdiPersonRepository ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.mongodb.repository.cdi.SamplePersonRepository org.springframework.data.mongodb.repository.cdi.SamplePersonRepository ( ) { return org.springframework.data.mongodb.repository.cdi.SamplePersonRepository ; }  <METHOD_END>

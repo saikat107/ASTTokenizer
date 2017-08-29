@@ -1,0 +1,2 @@
+<METHOD_START> public void ( Message < ? > org.springframework.integration.handler.Message<?> , java.lang.String java.lang.String ) { super( org.springframework.integration.handler.Message<> , java.lang.String ); }  <METHOD_END>
+<METHOD_START> public void ( Message < ? > org.springframework.integration.handler.Message<?> , java.lang.String java.lang.String , java.lang.Throwable java.lang.Throwable ) { super( org.springframework.integration.handler.Message<> , java.lang.String , java.lang.Throwable ); }  <METHOD_END>

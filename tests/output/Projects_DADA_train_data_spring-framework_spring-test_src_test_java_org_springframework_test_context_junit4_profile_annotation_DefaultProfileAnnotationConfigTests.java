@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { assertNotNull ( org.springframework.test.context.junit4.profile.annotation.Pet ) ; assertEquals ( STRING , org.springframework.test.context.junit4.profile.annotation.Pet . getName ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { assertNull ( STRING , org.springframework.test.context.junit4.profile.annotation.Employee ) ; }  <METHOD_END>

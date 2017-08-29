@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { java.lang.String java.lang.String = this . org.springframework.boot.cli.CliTester . run ( STRING , SpringCli .class . java.lang.String ( ) ) ; assertThat ( java.lang.String ) . contains ( STRING ) ; }  <METHOD_END>

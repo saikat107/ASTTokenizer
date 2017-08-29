@@ -1,0 +1,4 @@
+<METHOD_START> @ Before public void void ( ) { org.springframework.statemachine.test.AnnotationConfigApplicationContext = org.springframework.statemachine.test.AnnotationConfigApplicationContext ( ) ; }  <METHOD_END>
+<METHOD_START> @ After public void void ( ) { if ( org.springframework.statemachine.test.AnnotationConfigApplicationContext != null ) { org.springframework.statemachine.test.AnnotationConfigApplicationContext . close ( ) ; } }  <METHOD_END>
+<METHOD_START> protected org.springframework.statemachine.test.AnnotationConfigApplicationContext org.springframework.statemachine.test.AnnotationConfigApplicationContext ( ) { return null ; }  <METHOD_END>
+<METHOD_START> protected void void ( java.lang.Class<?> < ? > ... java.lang.Class<?>[] ) { org.springframework.statemachine.test.AnnotationConfigApplicationContext . register ( java.lang.Class<?>[] ) ; org.springframework.statemachine.test.AnnotationConfigApplicationContext . refresh ( ) ; }  <METHOD_END>

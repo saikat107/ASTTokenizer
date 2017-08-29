@@ -1,0 +1,1 @@
+<METHOD_START> public void ( java.lang.Object java.lang.Object , java.lang.Throwable java.lang.Throwable ) { super( java.lang.Object , java.lang.Throwable ); Assert . notNull ( java.lang.Throwable , STRING ) ; Assert . notNull ( java.lang.Object , STRING ) ; }  <METHOD_END>

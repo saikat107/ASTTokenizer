@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) { MockMvcBuilders . webAppContextSetup ( org.springframework.test.web.servlet.samples.spr.WebApplicationContext ) . addFilter ( new CharacterEncodingFilter ( ) ) . defaultRequest ( get ( STRING ) . contextPath ( STRING ) ) . build ( ) ; }  <METHOD_END>

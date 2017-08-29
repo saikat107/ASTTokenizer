@@ -1,0 +1,2 @@
+<METHOD_START> @ Query ( STRING ) java.util.List<org.springframework.data.couchbase.repository.spel.User> < User > java.util.List<org.springframework.data.couchbase.repository.spel.User> ( )  <METHOD_END>
+<METHOD_START> @ Query ( STRING ) java.util.List<org.springframework.data.couchbase.repository.spel.User> < User > java.util.List<org.springframework.data.couchbase.repository.spel.User> ( java.lang.String java.lang.String , java.lang.Object java.lang.Object );  <METHOD_END>

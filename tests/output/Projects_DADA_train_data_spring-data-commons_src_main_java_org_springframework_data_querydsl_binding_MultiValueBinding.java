@@ -1,0 +1,1 @@
+<METHOD_START> java.util.Optional<org.springframework.data.querydsl.binding.Predicate> < Predicate > java.util.Optional<org.springframework.data.querydsl.binding.Predicate> ( T T , java.util.Collection<? extends S> < ? extends S > java.util.Collection<? extends S> );  <METHOD_END>

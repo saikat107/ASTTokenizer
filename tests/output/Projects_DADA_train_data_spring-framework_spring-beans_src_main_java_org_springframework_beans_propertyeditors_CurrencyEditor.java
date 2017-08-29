@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public void void ( java.lang.String java.lang.String ) throws java.lang.IllegalArgumentException { void ( java.util.Currency . java.util.Currency ( java.lang.String ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { java.util.Currency java.util.Currency = ( java.util.Currency ) java.lang.Object ( ) ; return ( java.util.Currency != null ? java.util.Currency . java.lang.String ( ) : STRING ) ; }  <METHOD_END>

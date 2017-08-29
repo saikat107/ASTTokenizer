@@ -1,0 +1,9 @@
+<METHOD_START> public static org.springframework.web.socket.sockjs.transport.TransportType org.springframework.web.socket.sockjs.transport.TransportType ( java.lang.String java.lang.String ) { return java.util.Map<java.lang.String,org.springframework.web.socket.sockjs.transport.TransportType> . org.springframework.web.socket.sockjs.transport.TransportType ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> void ( java.lang.String java.lang.String , HttpMethod org.springframework.web.socket.sockjs.transport.HttpMethod , java.lang.String ... java.lang.String[] ) { this . java.lang.String = java.lang.String ; this . org.springframework.web.socket.sockjs.transport.HttpMethod = org.springframework.web.socket.sockjs.transport.HttpMethod ; this . java.util.List<java.lang.String> = java.util.Arrays . java.util.List<java.lang.String> ( java.lang.String[] ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.web.socket.sockjs.transport.HttpMethod org.springframework.web.socket.sockjs.transport.HttpMethod ( ) { return this . org.springframework.web.socket.sockjs.transport.HttpMethod ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . java.util.List<java.lang.String> . boolean ( STRING ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . java.util.List<java.lang.String> . boolean ( STRING ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . java.util.List<java.lang.String> . boolean ( STRING ) ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return this . java.util.List<java.lang.String> . boolean ( STRING ) || this . java.util.List<java.lang.String> . boolean ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return this . java.lang.String ; }  <METHOD_END>

@@ -1,0 +1,12 @@
+<METHOD_START> @ PersistenceConstructor public void ( ) {	}  <METHOD_END>
+<METHOD_START> public void ( java.lang.Long java.lang.Long ) { this . java.lang.Long = java.lang.Long ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String , java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.Long java.lang.Long , java.lang.String java.lang.String , java.lang.String java.lang.String ) { this . java.lang.Long = java.lang.Long ; this . java.lang.String = java.lang.String ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.gemfire.repository.sample.Address org.springframework.data.gemfire.repository.sample.Address ( ) { return org.springframework.data.gemfire.repository.sample.Address ; }  <METHOD_END>
+<METHOD_START> public java.lang.Long java.lang.Long ( ) { return java.lang.Long ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ Transient public java.lang.String java.lang.String ( ) { return java.lang.String . java.lang.String ( STRING , java.lang.String ( ) , java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( this == java.lang.Object ) { return true ; } if ( ! ( java.lang.Object instanceof org.springframework.data.gemfire.repository.sample.Person ) ) { return false ; } org.springframework.data.gemfire.repository.sample.Person org.springframework.data.gemfire.repository.sample.Person = ( org.springframework.data.gemfire.repository.sample.Person ) java.lang.Object ; return ( this . java.lang.Long != null && this . java.lang.Long . boolean ( org.springframework.data.gemfire.repository.sample.Person . java.lang.Long ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { return ObjectUtils . nullSafeHashCode ( this . java.lang.Long ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.String . java.lang.String ( STRING , java.lang.Class<? extends org.springframework.data.gemfire.repository.sample.Person> ( ) . java.lang.String ( ) , java.lang.Long , java.lang.String ( ) ) ; }  <METHOD_END>

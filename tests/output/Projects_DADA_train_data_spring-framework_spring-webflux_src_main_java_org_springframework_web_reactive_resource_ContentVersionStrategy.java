@@ -1,0 +1,2 @@
+<METHOD_START> public void ( ) { super( new FileNameVersionPathStrategy ( ) ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( Resource org.springframework.web.reactive.resource.Resource ) { try { return DigestUtils . md5DigestAsHex ( org.springframework.web.reactive.resource.Resource . getInputStream ( ) ) ; } catch ( java.io.IOException java.io.IOException ) { throw new java.lang.IllegalStateException ( STRING + org.springframework.web.reactive.resource.Resource , java.io.IOException ) ; } }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( Message < ? > org.springframework.integration.config.Message<?> ) { throw new MessageHandlingException ( org.springframework.integration.config.Message<> , STRING ) ; }  <METHOD_END>

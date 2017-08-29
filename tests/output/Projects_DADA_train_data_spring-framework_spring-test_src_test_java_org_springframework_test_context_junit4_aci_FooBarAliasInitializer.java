@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public void void ( GenericApplicationContext org.springframework.test.context.junit4.aci.GenericApplicationContext ) { org.springframework.test.context.junit4.aci.GenericApplicationContext . registerAlias ( STRING , STRING ) ; }  <METHOD_END>

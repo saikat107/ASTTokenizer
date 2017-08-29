@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.jms.core.Message org.springframework.jms.core.Message ( Message org.springframework.jms.core.Message ) throws org.springframework.jms.core.JMSException ;  <METHOD_END>

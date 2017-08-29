@@ -1,0 +1,9 @@
+<METHOD_START> public void void ( TimerManager org.springframework.scheduling.commonj.TimerManager ) { this . org.springframework.scheduling.commonj.TimerManager = org.springframework.scheduling.commonj.TimerManager ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( boolean boolean ) { this . boolean = boolean ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) javax.naming.NamingException { if ( this . org.springframework.scheduling.commonj.TimerManager == null ) { if ( this . java.lang.String == null ) { throw new java.lang.IllegalArgumentException ( STRING ) ; } this . org.springframework.scheduling.commonj.TimerManager = lookup ( this . java.lang.String , TimerManager .class ) ; } }  <METHOD_END>
+<METHOD_START> protected final org.springframework.scheduling.commonj.TimerManager org.springframework.scheduling.commonj.TimerManager ( ) { return this . org.springframework.scheduling.commonj.TimerManager ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { if ( ! this . boolean ) { this . org.springframework.scheduling.commonj.TimerManager . resume ( ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { if ( ! this . boolean ) { this . org.springframework.scheduling.commonj.TimerManager . suspend ( ) ; } }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return ( ! this . org.springframework.scheduling.commonj.TimerManager . isSuspending ( ) && ! this . org.springframework.scheduling.commonj.TimerManager . isStopping ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { if ( ! this . boolean ) { this . org.springframework.scheduling.commonj.TimerManager . stop ( ) ; } }  <METHOD_END>

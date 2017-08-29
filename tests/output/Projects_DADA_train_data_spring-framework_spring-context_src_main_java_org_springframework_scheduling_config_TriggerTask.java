@@ -1,0 +1,2 @@
+<METHOD_START> public void ( java.lang.Runnable java.lang.Runnable , Trigger org.springframework.scheduling.config.Trigger ) { super( java.lang.Runnable ); this . org.springframework.scheduling.config.Trigger = org.springframework.scheduling.config.Trigger ; }  <METHOD_END>
+<METHOD_START> public org.springframework.scheduling.config.Trigger org.springframework.scheduling.config.Trigger ( ) { return this . org.springframework.scheduling.config.Trigger ; }  <METHOD_END>

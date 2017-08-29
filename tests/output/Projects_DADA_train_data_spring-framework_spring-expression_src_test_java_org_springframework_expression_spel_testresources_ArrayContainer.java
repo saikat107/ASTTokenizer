@@ -1,0 +1,1 @@
+<METHOD_START> public void ( ) { int[] [ NUMBER ] = NUMBER ; long[] [ NUMBER ] = NUMBER ; double[] [ NUMBER ] = NUMBER ; byte[] [ NUMBER ] = NUMBER ; char[] [ NUMBER ] = NUMBER ; short[] [ NUMBER ] = NUMBER ; boolean[] [ NUMBER ] = true ; float[] [ NUMBER ] = NUMBER ; }  <METHOD_END>

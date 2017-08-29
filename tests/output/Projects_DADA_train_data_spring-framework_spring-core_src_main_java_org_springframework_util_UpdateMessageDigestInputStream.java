@@ -1,0 +1,2 @@
+<METHOD_START> public void void ( java.security.MessageDigest java.security.MessageDigest ) throws java.io.IOException { int int ; while ( ( int = int ( ) ) != - NUMBER ) { java.security.MessageDigest . void ( ( byte ) int ) ; } }  <METHOD_END>
+<METHOD_START> public void void ( java.security.MessageDigest java.security.MessageDigest , int int ) throws java.io.IOException { int int ; int int = NUMBER ; while ( int < int && ( int = int ( ) ) != - NUMBER ) { java.security.MessageDigest . void ( ( byte ) int ) ; int ++ ; } }  <METHOD_END>

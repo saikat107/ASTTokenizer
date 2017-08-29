@@ -1,0 +1,1 @@
+<METHOD_START> public void ( OptimisticLockException org.springframework.orm.jpa.OptimisticLockException ) { super( org.springframework.orm.jpa.OptimisticLockException . getMessage ( ) , org.springframework.orm.jpa.OptimisticLockException ); }  <METHOD_END>

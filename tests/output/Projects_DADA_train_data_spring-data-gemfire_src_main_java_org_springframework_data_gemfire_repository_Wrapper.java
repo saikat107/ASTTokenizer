@@ -1,0 +1,6 @@
+<METHOD_START> public void ( T T , KEY KEY ) { Assert . notNull ( KEY ) ; this . T = T ; this . KEY = KEY ; }  <METHOD_END>
+<METHOD_START> public KEY KEY ( ) { return KEY ; }  <METHOD_END>
+<METHOD_START> public T T ( ) { return T ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object ) { if ( java.lang.Object == this ) { return true ; } if ( ! ( java.lang.Object instanceof org.springframework.data.gemfire.repository.Wrapper ) ) { return false ; } org.springframework.data.gemfire.repository.Wrapper<?,?> < ? , ? > org.springframework.data.gemfire.repository.Wrapper<?,?> = ( org.springframework.data.gemfire.repository.Wrapper<?,?> < ? , ? > ) java.lang.Object ; return ( this . KEY . boolean ( org.springframework.data.gemfire.repository.Wrapper<,> . key ) && ObjectUtils . nullSafeEquals ( this . T , org.springframework.data.gemfire.repository.Wrapper<,> . entity ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { int int = NUMBER ; int += NUMBER * KEY . int ( ) ; int += NUMBER * ObjectUtils . nullSafeHashCode ( T ) ; return int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return ObjectUtils . nullSafeToString ( T ( ) ) ; }  <METHOD_END>

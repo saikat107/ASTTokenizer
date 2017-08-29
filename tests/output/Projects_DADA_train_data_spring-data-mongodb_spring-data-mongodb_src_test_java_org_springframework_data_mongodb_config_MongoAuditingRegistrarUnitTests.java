@@ -1,0 +1,2 @@
+<METHOD_START> @ Test ( expected = java.lang.IllegalArgumentException .class ) public void void ( ) { org.springframework.data.mongodb.config.MongoAuditingRegistrar . registerBeanDefinitions ( null , org.springframework.data.mongodb.config.BeanDefinitionRegistry ) ; }  <METHOD_END>
+<METHOD_START> @ Test ( expected = java.lang.IllegalArgumentException .class ) public void void ( ) { org.springframework.data.mongodb.config.MongoAuditingRegistrar . registerBeanDefinitions ( org.springframework.data.mongodb.config.AnnotationMetadata , null ) ; }  <METHOD_END>

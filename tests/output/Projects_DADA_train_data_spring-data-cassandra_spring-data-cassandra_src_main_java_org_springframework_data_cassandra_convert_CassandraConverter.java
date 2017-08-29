@@ -1,0 +1,5 @@
+<METHOD_START> @ java.lang.Override org.springframework.data.cassandra.convert.CassandraMappingContext org.springframework.data.cassandra.convert.CassandraMappingContext ( )  <METHOD_END>
+<METHOD_START> java.lang.Object java.lang.Object ( java.lang.Object java.lang.Object , CassandraPersistentEntity < ? > org.springframework.data.cassandra.convert.CassandraPersistentEntity<?> );  <METHOD_END>
+<METHOD_START> void void ( java.lang.Object java.lang.Object , java.lang.Object java.lang.Object , CassandraPersistentEntity < ? > org.springframework.data.cassandra.convert.CassandraPersistentEntity<?> );  <METHOD_END>
+<METHOD_START> < T > java.util.Optional<java.lang.Object> < java.lang.Object > java.util.Optional<java.lang.Object> ( java.util.Optional<T> < T > java.util.Optional<T> , TypeInformation < ? > org.springframework.data.cassandra.convert.TypeInformation<?> );  <METHOD_END>
+<METHOD_START> org.springframework.data.cassandra.convert.CustomConversions org.springframework.data.cassandra.convert.CustomConversions ( )  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> public void ( ) { super( org.springframework.boot.actuate.endpoint.DumpEndpointTests.Config .class , DumpEndpoint .class , STRING , true , STRING ); }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { java.util.List<java.lang.management.ThreadInfo> < java.lang.management.ThreadInfo > java.util.List<java.lang.management.ThreadInfo> = getEndpointBean ( ) . invoke ( ) ; assertThat ( java.util.List<java.lang.management.ThreadInfo> . int ( ) ) . isGreaterThan ( NUMBER ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.boot.actuate.endpoint.DumpEndpoint org.springframework.boot.actuate.endpoint.DumpEndpoint ( ) { return new DumpEndpoint ( ) ; }  <METHOD_END>

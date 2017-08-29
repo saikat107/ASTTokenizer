@@ -1,0 +1,13 @@
+<METHOD_START> @ Test public void void ( ) { Assert . assertNull ( GeoConverters . DistanceToStringConverter . INSTANCE . convert ( null ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . DistanceToStringConverter . INSTANCE . convert ( new Distance ( NUMBER ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . DistanceToStringConverter . INSTANCE . convert ( new Distance ( NUMBER , Metrics . MILES ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . DistanceToStringConverter . INSTANCE . convert ( new Distance ( NUMBER , null ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertNull ( GeoConverters . Point3DToStringConverter . INSTANCE . convert ( null ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . Point3DToStringConverter . INSTANCE . convert ( new Point ( NUMBER , NUMBER ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . Point3DToStringConverter . INSTANCE . convert ( new Point ( NUMBER , - NUMBER ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . Point3DToStringConverter . INSTANCE . convert ( new Point ( NUMBER , NUMBER , NUMBER ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . Point3DToStringConverter . INSTANCE . convert ( new Point ( NUMBER , - NUMBER , - NUMBER ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . Point2DToStringConverter . INSTANCE . convert ( new Point ( NUMBER , NUMBER ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . Point2DToStringConverter . INSTANCE . convert ( new Point ( NUMBER , NUMBER ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . Point3DToStringConverter . INSTANCE . convert ( new org . springframework . data . solr . core . org.springframework.data.solr.core.geo . org.springframework.data.solr.core.geo ( NUMBER , NUMBER , NUMBER ) ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) { Assert . assertEquals ( STRING , GeoConverters . Point3DToStringConverter . INSTANCE . convert ( new org . springframework . data . solr . core . org.springframework.data.solr.core.geo . org.springframework.data.solr.core.geo ( NUMBER , NUMBER , NUMBER ) ) ) ; }  <METHOD_END>

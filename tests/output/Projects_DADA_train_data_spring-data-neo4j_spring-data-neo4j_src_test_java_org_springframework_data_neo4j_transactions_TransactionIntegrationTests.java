@@ -1,0 +1,9 @@
+<METHOD_START> @ Before public void void ( ) { handler = new TransactionEventHandler . TransactionEventHandler < java.lang.Object > ( ) { @ Override public Object beforeCommit ( TransactionData data ) throws Exception { throw new TransactionInterceptException ( STRING ) ; } } ; getGraphDatabaseService ( ) . registerTransactionEventHandler ( handler ) ; }  <METHOD_END>
+<METHOD_START> @ Override public Object beforeCommit ( TransactionData data ) throws Exception { throw new TransactionInterceptException ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ After public void void ( ) { getGraphDatabaseService ( ) . unregisterTransactionEventHandler ( handler ) ; }  <METHOD_END>
+<METHOD_START> @ Test ( expected = java.lang.Exception .class ) public void void ( ) { org.springframework.data.neo4j.transactions.UserRepository . save ( new User ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test ( expected = java.lang.Exception .class ) public void void ( ) { org.springframework.data.neo4j.transactions.UserService . saveWithTxAnnotationOnInterface ( new User ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> @ Test ( expected = java.lang.Exception .class ) public void void ( ) { org.springframework.data.neo4j.transactions.UserService . saveWithTxAnnotationOnImpl ( new User ( STRING ) ) ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String ) { super( java.lang.String ); }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.data.neo4j.transactions.PlatformTransactionManager org.springframework.data.neo4j.transactions.PlatformTransactionManager ( ) { return new Neo4jTransactionManager ( org.springframework.data.neo4j.transactions.SessionFactory ( ) ) ; }  <METHOD_END>
+<METHOD_START> @ Bean public org.springframework.data.neo4j.transactions.SessionFactory org.springframework.data.neo4j.transactions.SessionFactory ( ) { return new SessionFactory ( getBaseConfiguration ( ) . build ( ) , STRING ) ; }  <METHOD_END>

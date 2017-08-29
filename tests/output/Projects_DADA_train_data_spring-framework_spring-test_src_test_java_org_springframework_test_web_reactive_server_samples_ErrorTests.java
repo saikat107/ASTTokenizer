@@ -1,0 +1,3 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.test.web.reactive.server.samples.WebTestClient . get ( ) . uri ( STRING ) . exchange ( ) . expectStatus ( ) . isNotFound ( ) . expectBody ( ) . isEmpty ( ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.test.web.reactive.server.samples.WebTestClient . get ( ) . uri ( STRING ) . exchange ( ) . expectStatus ( ) . isEqualTo ( HttpStatus . INTERNAL_SERVER_ERROR ) . expectBody ( ) . isEmpty ( ) ; }  <METHOD_END>
+<METHOD_START> @ GetMapping ( STRING ) void void ( ) { throw new java.lang.IllegalStateException ( STRING ) ; }  <METHOD_END>

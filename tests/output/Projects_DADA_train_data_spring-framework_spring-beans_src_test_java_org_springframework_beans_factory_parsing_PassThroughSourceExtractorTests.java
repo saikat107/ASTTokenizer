@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { java.lang.Object java.lang.Object = new java.lang.Object ( ) ; java.lang.Object java.lang.Object = new PassThroughSourceExtractor ( ) . extractSource ( java.lang.Object , null ) ; assertSame ( STRING + STRING , java.lang.Object , java.lang.Object ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { java.lang.Object java.lang.Object = new PassThroughSourceExtractor ( ) . extractSource ( null , null ) ; assertNull ( STRING + STRING , java.lang.Object ) ; }  <METHOD_END>

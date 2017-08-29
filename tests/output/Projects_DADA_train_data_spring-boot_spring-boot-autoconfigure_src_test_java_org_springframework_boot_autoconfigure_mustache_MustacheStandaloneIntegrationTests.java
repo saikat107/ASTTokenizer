@@ -1,0 +1,4 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . Mustache.Compiler . compile ( STRING ) . execute ( java.util.Collections . java.util.Map<java.lang.String,java.lang.String> ( STRING , STRING ) ) ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . Mustache.Compiler . compile ( STRING ) . execute ( new java.lang.Object ( ) ) ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . Mustache.Compiler . standardsMode ( true ) . compile ( STRING ) . execute ( new java.lang.Object ( ) ) ) . isEqualTo ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { assertThat ( this . Mustache.Compiler . compile ( STRING ) . execute ( new java.lang.Object ( ) ) ) . isEqualTo ( STRING ) ; }  <METHOD_END>

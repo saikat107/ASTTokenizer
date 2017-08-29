@@ -1,0 +1,5 @@
+<METHOD_START> public void ( java.lang.Iterable<T> < T > java.lang.Iterable<T> , java.util.function.Function<? super T,? extends V> < ? super T , ? extends V > java.util.function.Function<? super T,? extends V> ) { this( java.lang.Iterable<T> . java.util.Iterator<T> ( ) , java.util.function.Function<,> ); }  <METHOD_END>
+<METHOD_START> public void ( java.util.Iterator<T> < T > java.util.Iterator<T> , java.util.function.Function<? super T,? extends V> < ? super T , ? extends V > java.util.function.Function<? super T,? extends V> ) { this . java.util.Iterator<T> = java.util.Iterator<T> ; this . java.util.function.Function<? super T,? extends V> = java.util.function.Function<,> ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( ) { throw new java.lang.UnsupportedOperationException ( STRING ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( ) { return this . java.util.Iterator<T> . boolean ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public V V ( ) { return this . java.util.function.Function<,> . apply ( this . java.util.Iterator<T> . T ( ) ) ; }  <METHOD_END>

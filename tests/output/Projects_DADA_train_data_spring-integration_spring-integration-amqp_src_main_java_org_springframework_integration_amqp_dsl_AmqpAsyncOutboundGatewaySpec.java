@@ -1,0 +1,1 @@
+<METHOD_START> void ( AsyncRabbitTemplate org.springframework.integration.amqp.dsl.AsyncRabbitTemplate ) { this . target = new AsyncAmqpOutboundGateway ( org.springframework.integration.amqp.dsl.AsyncRabbitTemplate ) ; this . target . setRequiresReply ( true ) ; }  <METHOD_END>

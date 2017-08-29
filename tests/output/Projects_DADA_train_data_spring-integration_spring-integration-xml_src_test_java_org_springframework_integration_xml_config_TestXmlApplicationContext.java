@@ -1,0 +1,5 @@
+<METHOD_START> public void ( java.lang.String ... java.lang.String[] ) { org.springframework.integration.xml.config.Resource[] = new Resource [ java.lang.String[] . int ] ; for ( int int = NUMBER ; int < java.lang.String[] . int ; int ++ ) { org.springframework.integration.xml.config.Resource[] [ int ] = new org.springframework.integration.xml.config.TestXmlApplicationContext.TestResource ( java.lang.String[] [ int ] ) ; } refresh ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected org.springframework.integration.xml.config.Resource [] org.springframework.integration.xml.config.Resource[] ( ) { return org.springframework.integration.xml.config.Resource[] ; }  <METHOD_END>
+<METHOD_START> void ( java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.io.InputStream java.io.InputStream ( ) java.io.IOException { return new java.io.ByteArrayInputStream ( java.lang.String . byte[] ( STRING ) ) ; }  <METHOD_END>

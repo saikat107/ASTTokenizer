@@ -1,0 +1,1 @@
+<METHOD_START> @ GetMapping ( STRING ) @ ResponseBody public java.lang.String java.lang.String ( ExampleArgument org.springframework.boot.test.autoconfigure.web.servlet.mockmvc.ExampleArgument ) { return org.springframework.boot.test.autoconfigure.web.servlet.mockmvc.ExampleArgument + STRING ; }  <METHOD_END>

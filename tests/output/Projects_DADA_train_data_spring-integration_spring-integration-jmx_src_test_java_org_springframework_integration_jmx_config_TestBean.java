@@ -1,0 +1,4 @@
+<METHOD_START> @ ManagedAttribute public java.lang.String java.lang.String ( ) { return ( java.util.List<java.lang.String> . int ( ) > NUMBER ) ? java.util.List<java.lang.String> . java.lang.String ( NUMBER ) : null ; }  <METHOD_END>
+<METHOD_START> @ ManagedOperation public void void ( java.lang.String java.lang.String ) { this . java.util.List<java.lang.String> . boolean ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ ManagedOperation public java.util.List<java.lang.String> < java.lang.String > java.util.List<java.lang.String> ( java.lang.String java.lang.String ) { this . java.util.List<java.lang.String> . boolean ( java.lang.String ) ; return java.util.List<java.lang.String> ; }  <METHOD_END>
+<METHOD_START> @ ManagedOperation public void void ( boolean boolean , long long , int int ) { this . java.util.List<java.lang.String> . boolean ( boolean + STRING + long + STRING + int ) ; }  <METHOD_END>

@@ -1,0 +1,3 @@
+<METHOD_START> @ java.lang.Override protected boolean boolean ( HttpServletRequest org.springframework.web.filter.HttpServletRequest ) { return logger . isDebugEnabled ( ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected void void ( HttpServletRequest org.springframework.web.filter.HttpServletRequest , java.lang.String java.lang.String ) { logger . debug ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected void void ( HttpServletRequest org.springframework.web.filter.HttpServletRequest , java.lang.String java.lang.String ) { logger . debug ( java.lang.String ) ; }  <METHOD_END>

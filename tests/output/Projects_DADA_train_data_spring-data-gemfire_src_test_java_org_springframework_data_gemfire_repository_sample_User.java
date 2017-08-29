@@ -1,0 +1,15 @@
+<METHOD_START> public void ( final java.lang.String java.lang.String ) { Assert . hasText ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.lang.Boolean java.lang.Boolean ( ) { return java.lang.Boolean ; }  <METHOD_END>
+<METHOD_START> public boolean boolean ( ) { return java.lang.Boolean . java.lang.Boolean . boolean ( java.lang.Boolean ( ) ) ; }  <METHOD_END>
+<METHOD_START> public void void ( final java.lang.Boolean java.lang.Boolean ) { this . java.lang.Boolean = java.lang.Boolean . java.lang.Boolean . boolean ( java.lang.Boolean ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> public void void ( final java.lang.String java.lang.String ) { this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> public java.util.Calendar java.util.Calendar ( ) { return java.util.Calendar ; }  <METHOD_END>
+<METHOD_START> public void void ( final java.util.Calendar java.util.Calendar ) { this . java.util.Calendar = java.util.Calendar ; }  <METHOD_END>
+<METHOD_START> public java.lang.String java.lang.String ( ) { return java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( final org.springframework.data.gemfire.repository.sample.User org.springframework.data.gemfire.repository.sample.User ) { return java.lang.String ( ) . int ( org.springframework.data.gemfire.repository.sample.User . java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> protected static boolean boolean ( final java.lang.Object java.lang.Object , final java.lang.Object java.lang.Object ) { return ( java.lang.Object == null ? java.lang.Object == null : java.lang.Object . boolean ( java.lang.Object ) ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( final java.lang.Object java.lang.Object ) { if ( java.lang.Object == this ) { return true ; } if ( ! ( java.lang.Object instanceof org.springframework.data.gemfire.repository.sample.User ) ) { return false ; } org.springframework.data.gemfire.repository.sample.User org.springframework.data.gemfire.repository.sample.User = ( org.springframework.data.gemfire.repository.sample.User ) java.lang.Object ; return this . java.lang.String ( ) . boolean ( org.springframework.data.gemfire.repository.sample.User . java.lang.String ( ) ) && ObjectUtils . nullSafeEquals ( this . java.lang.String ( ) , org.springframework.data.gemfire.repository.sample.User . java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> protected static int int ( final java.lang.Object java.lang.Object ) { return ( java.lang.Object != null ? java.lang.Object . int ( ) : NUMBER ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public int int ( ) { int int = NUMBER ; int = NUMBER * int + ObjectUtils . nullSafeHashCode ( java.lang.String ( ) ) ; int = NUMBER * int + ObjectUtils . nullSafeHashCode ( java.lang.String ( ) ) ; return int ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return java.lang.String ( ) ; }  <METHOD_END>

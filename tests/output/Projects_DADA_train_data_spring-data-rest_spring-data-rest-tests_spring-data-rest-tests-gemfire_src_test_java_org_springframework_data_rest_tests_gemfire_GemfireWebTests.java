@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override protected java.lang.Iterable<java.lang.String> < java.lang.String > java.lang.Iterable<java.lang.String> ( ) { return java.util.Arrays . java.util.List<java.lang.String> ( STRING ) ; }  <METHOD_END>

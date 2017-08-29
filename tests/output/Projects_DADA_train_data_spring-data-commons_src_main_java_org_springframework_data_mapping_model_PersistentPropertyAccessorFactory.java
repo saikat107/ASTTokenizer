@@ -1,0 +1,2 @@
+<METHOD_START> org.springframework.data.mapping.model.PersistentPropertyAccessor org.springframework.data.mapping.model.PersistentPropertyAccessor ( PersistentEntity < ? , ? > org.springframework.data.mapping.model.PersistentEntity<?,?> , java.lang.Object java.lang.Object );  <METHOD_END>
+<METHOD_START> boolean boolean ( PersistentEntity < ? , ? > org.springframework.data.mapping.model.PersistentEntity<?,?> );  <METHOD_END>

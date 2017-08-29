@@ -1,0 +1,1 @@
+<METHOD_START> public void ( Expression org.springframework.integration.transformer.Expression ) { super( new ExpressionEvaluatingMessageProcessor < java.lang.Object > ( org.springframework.integration.transformer.Expression ) ); }  <METHOD_END>

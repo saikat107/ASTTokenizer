@@ -1,0 +1,3 @@
+<METHOD_START> private void ( ) {	}  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.Object java.lang.Object , java.lang.Object java.lang.Object ) { assertThat ( java.lang.Object ) . isEqualTo ( java.lang.Object ) ; assertThat ( java.lang.Object ) . isEqualTo ( java.lang.Object ) ; assertThat ( java.lang.Object . int ( ) ) . isEqualTo ( java.lang.Object . int ( ) ) ; }  <METHOD_END>
+<METHOD_START> public static void void ( java.lang.Object java.lang.Object , java.lang.Object java.lang.Object ) { assertThat ( java.lang.Object ) . isNotEqualTo ( java.lang.Object ) ; assertThat ( java.lang.Object ) . isNotEqualTo ( java.lang.Object ) ; assertThat ( java.lang.Object . int ( ) ) . isNotEqualTo ( java.lang.Object . int ( ) ) ; }  <METHOD_END>

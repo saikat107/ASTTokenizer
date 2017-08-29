@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.util.List<sample.jpa.repository.Tag> < Tag > java.util.List<sample.jpa.repository.Tag> ( ) { return this . sample.jpa.repository.EntityManager . createQuery ( STRING , Tag .class ) . getResultList ( ) ; }  <METHOD_END>

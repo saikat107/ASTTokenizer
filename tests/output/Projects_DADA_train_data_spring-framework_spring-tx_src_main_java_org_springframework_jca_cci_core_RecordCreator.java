@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.jca.cci.core.Record org.springframework.jca.cci.core.Record ( RecordFactory org.springframework.jca.cci.core.RecordFactory ) throws org.springframework.jca.cci.core.ResourceException , org.springframework.jca.cci.core.DataAccessException ;  <METHOD_END>

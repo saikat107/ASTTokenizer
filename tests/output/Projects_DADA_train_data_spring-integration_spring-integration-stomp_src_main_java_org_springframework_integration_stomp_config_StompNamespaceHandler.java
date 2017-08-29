@@ -1,0 +1,1 @@
+<METHOD_START> public void void ( ) { registerBeanDefinitionParser ( STRING , new StompInboundChannelAdapterParser ( ) ) ; registerBeanDefinitionParser ( STRING , new StompOutboundChannelAdapterParser ( ) ) ; }  <METHOD_END>

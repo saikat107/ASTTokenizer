@@ -1,0 +1,1 @@
+<METHOD_START> @ Cacheable public sample.cache.Country sample.cache.Country ( java.lang.String java.lang.String ) { java.lang.System . java.io.PrintStream . void ( STRING + java.lang.String + STRING ) ; return new Country ( java.lang.String ) ; }  <METHOD_END>

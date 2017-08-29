@@ -1,0 +1,2 @@
+<METHOD_START> org.springframework.statemachine.config.configurers.EntryTransitionConfigurer<S,E> < S , E > org.springframework.statemachine.config.configurers.EntryTransitionConfigurer<S,E> ( S S );  <METHOD_END>
+<METHOD_START> org.springframework.statemachine.config.configurers.EntryTransitionConfigurer<S,E> < S , E > org.springframework.statemachine.config.configurers.EntryTransitionConfigurer<S,E> ( S S );  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.web.socket.config.annotation.WebSocketHandlerRegistration org.springframework.web.socket.config.annotation.WebSocketHandlerRegistration ( WebSocketHandler org.springframework.web.socket.config.annotation.WebSocketHandler , java.lang.String ... java.lang.String[] );  <METHOD_END>

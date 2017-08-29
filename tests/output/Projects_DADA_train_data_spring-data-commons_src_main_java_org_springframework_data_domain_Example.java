@@ -1,0 +1,5 @@
+<METHOD_START> public static < T > org.springframework.data.domain.Example<T> < T > org.springframework.data.domain.Example<T> ( T T ) { return new org.springframework.data.domain.Example <> ( T , ExampleMatcher . matching ( ) ) ; }  <METHOD_END>
+<METHOD_START> public static < T > org.springframework.data.domain.Example<T> < T > org.springframework.data.domain.Example<T> ( T T , ExampleMatcher org.springframework.data.domain.ExampleMatcher ) { return new org.springframework.data.domain.Example <> ( T , org.springframework.data.domain.ExampleMatcher ) ; }  <METHOD_END>
+<METHOD_START> public T T ( ) { return T ; }  <METHOD_END>
+<METHOD_START> public org.springframework.data.domain.ExampleMatcher org.springframework.data.domain.ExampleMatcher ( ) { return org.springframework.data.domain.ExampleMatcher ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) public java.lang.Class<T> < T > java.lang.Class<T> ( ) { return ( java.lang.Class<T> < T > ) ClassUtils . getUserClass ( T . java.lang.Class<? extends java.lang.Object> ( ) ) ; }  <METHOD_END>

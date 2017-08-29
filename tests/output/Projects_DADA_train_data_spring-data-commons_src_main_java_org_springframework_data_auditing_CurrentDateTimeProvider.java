@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public java.util.Optional<java.time.temporal.TemporalAccessor> < java.time.temporal.TemporalAccessor > java.util.Optional<java.time.temporal.TemporalAccessor> ( ) { return java.util.Optional . java.util.Optional<java.time.temporal.TemporalAccessor> ( java.time.LocalDateTime . java.time.LocalDateTime ( ) ) ; }  <METHOD_END>

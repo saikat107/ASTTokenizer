@@ -1,0 +1,5 @@
+<METHOD_START> public abstract java.lang.StringBuilder java.lang.StringBuilder ( java.lang.StringBuilder java.lang.StringBuilder );  <METHOD_END>
+<METHOD_START> public void ( ColumnChangeSpecification org.springframework.cassandra.core.cql.generator.ColumnChangeSpecification ) { void ( org.springframework.cassandra.core.cql.generator.ColumnChangeSpecification ) ; }  <METHOD_END>
+<METHOD_START> protected void void ( ColumnChangeSpecification org.springframework.cassandra.core.cql.generator.ColumnChangeSpecification ) { Assert . notNull ( org.springframework.cassandra.core.cql.generator.ColumnChangeSpecification , STRING ) ; this . org.springframework.cassandra.core.cql.generator.ColumnChangeSpecification = org.springframework.cassandra.core.cql.generator.ColumnChangeSpecification ; }  <METHOD_END>
+<METHOD_START> @ java.lang.SuppressWarnings ( STRING ) public T T ( ) { return ( T ) org.springframework.cassandra.core.cql.generator.ColumnChangeSpecification ; }  <METHOD_END>
+<METHOD_START> protected T T ( ) { return T ( ) ; }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public org.springframework.data.gemfire.search.lucene.support.MethodInterceptor org.springframework.data.gemfire.search.lucene.support.MethodInterceptor ( java.lang.Object java.lang.Object , java.lang.Class<?> < ? > java.lang.Class<?> ) { return newPdxInstanceMethodInterceptor ( java.lang.Object ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public boolean boolean ( java.lang.Object java.lang.Object , java.lang.Class<?> < ? > java.lang.Class<?> ) { return PdxInstance .class . boolean ( java.lang.Object ) ; }  <METHOD_END>

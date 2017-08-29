@@ -1,0 +1,2 @@
+<METHOD_START> public void ( ) { setResourceRef ( true ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public javax.sql.DataSource javax.sql.DataSource ( java.lang.String java.lang.String ) throws org.springframework.jdbc.datasource.lookup.DataSourceLookupFailureException { try { return lookup ( java.lang.String , javax.sql.DataSource .class ) ; } catch ( javax.naming.NamingException javax.naming.NamingException ) { throw new DataSourceLookupFailureException ( STRING + java.lang.String + STRING , javax.naming.NamingException ) ; } }  <METHOD_END>

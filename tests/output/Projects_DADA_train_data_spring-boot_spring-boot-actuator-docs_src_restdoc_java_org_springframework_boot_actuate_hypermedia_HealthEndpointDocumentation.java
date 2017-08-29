@@ -1,0 +1,1 @@
+<METHOD_START> @ Test public void void ( ) java.lang.Exception { this . org.springframework.boot.actuate.hypermedia.MockMvc . perform ( get ( STRING ) . accept ( ActuatorMediaTypes . APPLICATION_ACTUATOR_V2_JSON ) ) . andExpect ( status ( ) . isOk ( ) ) . andDo ( document ( STRING ) ) ; }  <METHOD_END>

@@ -1,0 +1,1 @@
+<METHOD_START> org.springframework.http.client.ListenableFuture<org.springframework.http.client.ClientHttpResponse> < ClientHttpResponse > org.springframework.http.client.ListenableFuture<org.springframework.http.client.ClientHttpResponse> ( ) java.io.IOException ;  <METHOD_END>

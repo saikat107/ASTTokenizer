@@ -1,0 +1,3 @@
+<METHOD_START> sample.data.jpa.service.Page<sample.data.jpa.service.City> < City > sample.data.jpa.service.Page<sample.data.jpa.service.City> ( CitySearchCriteria sample.data.jpa.service.CitySearchCriteria , Pageable sample.data.jpa.service.Pageable );  <METHOD_END>
+<METHOD_START> sample.data.jpa.service.City sample.data.jpa.service.City ( java.lang.String java.lang.String , java.lang.String java.lang.String );  <METHOD_END>
+<METHOD_START> sample.data.jpa.service.Page<sample.data.jpa.service.HotelSummary> < HotelSummary > sample.data.jpa.service.Page<sample.data.jpa.service.HotelSummary> ( City sample.data.jpa.service.City , Pageable sample.data.jpa.service.Pageable );  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> org.springframework.orm.jpa.persistenceunit.PersistenceUnitInfo org.springframework.orm.jpa.persistenceunit.PersistenceUnitInfo ( ) java.lang.IllegalStateException ;  <METHOD_END>
+<METHOD_START> org.springframework.orm.jpa.persistenceunit.PersistenceUnitInfo org.springframework.orm.jpa.persistenceunit.PersistenceUnitInfo ( java.lang.String java.lang.String )			throws java.lang.IllegalArgumentException , java.lang.IllegalStateException ;  <METHOD_END>

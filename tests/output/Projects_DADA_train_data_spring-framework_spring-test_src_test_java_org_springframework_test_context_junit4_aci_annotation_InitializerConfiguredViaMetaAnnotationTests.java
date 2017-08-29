@@ -1,0 +1,2 @@
+<METHOD_START> @ Test public void void ( ) { assertEquals ( NUMBER , java.util.List<java.lang.String> . int ( ) ) ; assertEquals ( STRING , java.lang.String ) ; assertEquals ( STRING , java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public void void ( GenericApplicationContext org.springframework.test.context.junit4.aci.annotation.GenericApplicationContext ) { new AnnotatedBeanDefinitionReader ( org.springframework.test.context.junit4.aci.annotation.GenericApplicationContext ) . register ( FooConfig .class ) ; }  <METHOD_END>

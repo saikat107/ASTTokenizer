@@ -1,0 +1,3 @@
+<METHOD_START> public void ( java.lang.Class<T> < T > java.lang.Class<T> ) { super( java.lang.Class<T> ); }  <METHOD_END>
+<METHOD_START> public java.util.Optional<java.io.Serializable> < java.io.Serializable > java.util.Optional<java.io.Serializable> ( java.lang.Object java.lang.Object ) { return java.util.Optional . java.util.Optional<java.io.Serializable> ( java.lang.Object == null ? null : java.lang.Object . java.lang.String ( ) ) ; }  <METHOD_END>
+<METHOD_START> public java.lang.Class<java.io.Serializable> < java.io.Serializable > java.lang.Class<java.io.Serializable> ( ) { return java.io.Serializable .class ; }  <METHOD_END>

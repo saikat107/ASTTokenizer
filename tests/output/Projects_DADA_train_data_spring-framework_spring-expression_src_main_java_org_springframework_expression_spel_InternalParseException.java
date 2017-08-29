@@ -1,0 +1,2 @@
+<METHOD_START> public void ( SpelParseException org.springframework.expression.spel.SpelParseException ) { super( org.springframework.expression.spel.SpelParseException ); }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public org.springframework.expression.spel.SpelParseException org.springframework.expression.spel.SpelParseException ( ) { return ( SpelParseException ) super. java.lang.Throwable ( ) ; }  <METHOD_END>

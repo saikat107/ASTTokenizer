@@ -1,0 +1,4 @@
+<METHOD_START> public void ( ) { this . java.lang.String = STRING ; }  <METHOD_END>
+<METHOD_START> public void ( java.lang.String java.lang.String ) { Assert . notNull ( java.lang.String , STRING ) ; this . java.lang.String = java.lang.String ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( ) { return STRING ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override protected java.lang.String java.lang.String ( java.lang.Object java.lang.Object ) throws java.lang.Exception { if ( java.lang.Object instanceof byte [] ) { return new java.lang.String ( ( byte [] ) java.lang.Object , this . java.lang.String ) ; } else if ( java.lang.Object instanceof char [] ) { return new java.lang.String ( ( char [] ) java.lang.Object ) ; } else { return java.lang.Object . java.lang.String ( ) ; } }  <METHOD_END>

@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public java.util.Optional<java.lang.String> < java.lang.String > java.util.Optional<java.lang.String> ( ) { return java.util.Optional<java.lang.String> ; }  <METHOD_END>
+<METHOD_START> public void void ( java.lang.String java.lang.String ) { this . java.util.Optional<java.lang.String> = java.util.Optional . java.util.Optional<java.lang.String> ( java.lang.String ) ; }  <METHOD_END>

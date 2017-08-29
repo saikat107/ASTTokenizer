@@ -1,0 +1,2 @@
+<METHOD_START> @ java.lang.Override public java.time.Period java.time.Period ( java.lang.String java.lang.String , java.util.Locale java.util.Locale ) throws java.text.ParseException { return java.time.Period . java.time.Period ( java.lang.String ) ; }  <METHOD_END>
+<METHOD_START> @ java.lang.Override public java.lang.String java.lang.String ( java.time.Period java.time.Period , java.util.Locale java.util.Locale ) { return java.time.Period . java.lang.String ( ) ; }  <METHOD_END>

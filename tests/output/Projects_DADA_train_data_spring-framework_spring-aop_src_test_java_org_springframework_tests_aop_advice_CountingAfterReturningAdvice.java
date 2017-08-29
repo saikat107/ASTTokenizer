@@ -1,0 +1,1 @@
+<METHOD_START> @ java.lang.Override public void void ( java.lang.Object java.lang.Object , java.lang.reflect.Method java.lang.reflect.Method , java.lang.Object [] java.lang.Object[] , java.lang.Object java.lang.Object ) throws java.lang.Throwable { count ( java.lang.reflect.Method ) ; }  <METHOD_END>
